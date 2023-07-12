@@ -1,0 +1,96 @@
+SWAPNA SUSAN JOSE
+JUNIOR SOFTWARE TEST ENGINEER
+Phone:+91-7034215669	Email: swapnasusan06@gmail.com
+
+PROFILE SUMMARY
+
+	•	10 months of experience in Testing field as a junior test engineer.
+	•	Expertise in Manual Testing, Preparing Test cases, Test data’s, Test execution and Tracking Defects.
+	•	Have Good Knowledge in Functional, Negative, Regression, System Integration (SIT), and User Acceptance (UAT) testing methods.
+	•	Testing all the possible situations of the application.
+	•	Worked in Test Planning, Designing Test Cases, Reporting and Tracking Defects.
+	•	Have experience in working with different software development Models like Waterfall and Spiral.
+	•	Strong in Presentation, Communication and Team Skills.
+	•	Coping with change in the workplace, providing effective customer service
+	•	Co-ordinate with Developers, Testers, individuals involved in the project to resolve the identified issues.
+	•	Quick learner and excellent team player, ability to meet tight deadlines and work under pressure.
+
+Career Path
+
+	•	Worked on Hiworth Solutions as Junior Test Engineer from June 2015 to March 2016
+
+Technical Competencies
+
+Software Process/Models	: SDLC, STLC, Waterfall, Agile, Manual Testing Operating Systems	:	Windows10/8/9, XP
+Programming Languages	: C,C++,CoreJava Fundamentals, PHP Bug Reporting Tool:Jira
+Testing Type	:  Manual,Automation
+Database		: My SQL IDE	:Dreamweaver, Eclipse
+Automation Tools	: Selenium, QTP
+
+Training and Certifications
+	•	Pursuing a certified course on Automation Testing Tools – Selenium and QTP.
+
+Projects Summary
+
+	•	Silhouettes Boutique
+Project Type : E-Commerce Application Developed by:Hiworth Solutions
+Role: Software Tester
+Description
+Silhouettes Boutique is an online shopping boutique which provides a unique platform to bring its customers contemporary on-trend pieces as well as timeless classics in a Quick and Easy way. Developed in such a way that the customers or anyone using the site can easily access and understand the features and functionalities.
+Responsibilities
+	•	Done the manual testing of the website after development.
+	•	Test Case Preparation based on the Requirement Criteria.
+	•	Functionality Testing, Regression testing, Re-testing. (Manual)
+	•	Backend Testing and products validation and verification.
+	•	Raising and tracking Bugs.
+	•	Preparation of test plans and quality reports.
+
+	•	Northeast Arkansas Federal Credit Union
+Project Type : Banking Software Developed by : Hiworth Solutions
+Role: Software Tester
+Description
+NEAFCU is a web-based reliable and flexible credit union in Arkansas which is operated by a volunteer board of directors and offers a full-line of services to members including flexible loans, great deposits, personal member services and debit membership applications and it featured as a great financial option to consider for both loans and savings products.
+Responsibilities
+	•	Done the manual testing of the website after development.
+	•	Test Planning, Test case development and Test script execution skills estimation..
+	•	Functionality Testing, Regression testing, Re-testing. (Manual)
+	•	Bug Tracking and Reporting.
+	•	Re-testing of resolved defects
+
+	•	Arkansas School Board Association
+Project Type : Educational Related Software Developed by : Hiworth Solutions
+Role: Software Tester
+
+
+Description
+
+The ARSBA is a private, non-profit, membership organization that provides leadership, training, advocacy & specialized services to school boards throughout Arkansas. Its specialized services include board development, legal consultations, Workers compensation insurance, model policy services and promote student focused leadership in Public.
+Responsibilities
+	•	Done the manual testing of the website after development.
+	•	Test Case Preparation based on the Requirement Criteria.
+	•	Functionality Testing, Regression testing, Re-testing. (Manual)
+	•	Raising and tracking Bugs.
+	•	Preparation of test plans and quality reports.
+
+	•	Automatic Medical Disease Analysis system
+Project Type :Healthcare Software Developed by : Hiworth Solutions
+Role: Software Tester
+Description
+It is a website where users can search for remedies for certain diseases by entering symptoms. The system performs diagnosis, by asking questions about symptoms and accepting corresponding responses. Thus by getting a good initial diagnosis, users can take better decision on whether to go consult a doctor or not.
+Responsibilities
+	•	Done the manual testing of the website after development.
+	•	Test Case Preparation based on the Requirement Criteria.
+	•	Functionality Testing, Regression testing, Re-testing. (Manual)
+	•	Raising and tracking Bugs.
+	•	Preparation of test plans and quality reports.
+
+Academic Qualification
+
+	•	B.E Computer Science and Engineering from Anna University with 75% marks on 2015.
+	•	Higher Secondary Education from Girideepam Bethany Central School with 60% marks on 2011.
+	•	Completed Higher Secondary Education from OEM Public School with 85% marks on 2009.
+
+
+Personal Profile
+Gender	:  FemaleDate of Birth	:  12 June 1993Nationality	: IndianLanguages Known :English, Malayalam,Tamil
+Permanent Address :Kallelil Puthenmadom, Koipuram P.O, Chengannur.

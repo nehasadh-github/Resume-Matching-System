@@ -1,0 +1,21 @@
+Chita R. Das
+Department of Computer Science and Engineering Pennsylvania State University
+354F IST Building, University park, PA 16802 (814) 865-0194
+email: das@cse.psu.edu URL: http://www.cse.psu.edu/∼das/
+Chita joined Penn State as an assistant professor in the Department of Electrical and Computer Engineering in 1986, and is currently a Distinguished Professor of Computer Science and Engineering Department. His research interests are on parallel and distributed computer architectures, cluster/grid computing, communi- cation networks and communication mechanisms, resource management, multi-core/System-on-Chip (SoC) architectures, Internet QoS, performance evaluation, fault-tolerant computing, mobile computing, multi- media systems, and security. For the last twenty two years, he has taught a variety of undergraduate and graduate courses in these areas and has supervised 22 Ph.D. students, more than 50 M.S. students, and 15+
+B.S. (Honors) students. Twelve of his students are now working as faculty members, and two of them are department heads.
+
+The main theme of Chita’s research is on the design and evaluation of high performance computer and communication architectures. In this context, he has worked on several designs which were used in prior commercial parallel architectures like IBM RP3 and Intel Paragon. He is currently working on multi-core architectures which will be the main computing paradigm in next few years. In particular, he has worked extensively on the wormhole switching technique, which is currently used as the communication fabric in designing high performance computers and clusters. The most recent communication architecture, called InfiniBand Architecture (IBA), that is used for designing clusters with hundreds and thousands of processors utilizes wormhole switching.
+
+Chita has published consistently in the above areas in highly reputed international journals (such as the IEEE Transactions on Computers (TC) and IEEE Transactions on Parallel and Distributed Systems (TPDS)), and highly selective conference proceedings (such as ISCA, HPCA,ICDCS, MICRO, SIGMETRICS, ICPP, FTCS/DSN, ICS, ISPLED, and SPAA), all of which have a typical acceptance rate of 10%-20%. Three of his papers have received the Best Paper Award in three different conferences (ICPP, ICDCS, and PRDC), and two additional papers were nominated for the Best Paper Award. His research has been funded by several agencies, in particular the National Science Foundation (NSF) continuously for over 20 years. In the last five years, he has been a PI/Co-PI of research grants totaling more than $6.0 million.
+
+Chita, an IEEE Fellow, has served the professional society in several capacities. He was on the editorial boards of the IEEE TC and IEEE TPDS, the two best international journals in computer architectures. He has sevred as the Chair of TCDP, and is currently the Chair of the IEEE Computer Society Fellow Selection Committee and the Chair of the IEEE CS Conference Publication Operations Committee (CPOC). He has sevred as a program committee member, program chair, and general chair of several conferences/workshops.
+
+
+
+
+
+
+
+
+1

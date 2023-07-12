@@ -1,0 +1,425 @@
+Curriculum Vitae´
+
+Chita R. Das
+
+Office Address:	Home Address:
+Department of Computer Science and Engineering	105 Atlee Circle
+The Pennsylvania State University	State College, PA 16803
+354F IST Building, University Park, PA 16802	Tel: (814) 237-6362 Tel: (814) 865-0194 Fax: (814) 865-3176
+E-Mail: das@cse.psu.edu
+URL: http://www.cse.psu.edu/∼das
+
+Education:
+
+1986
+Ph.D. in Computer Science,
+Center for Advanced Computer Studies, University of Louisiana, Louisiana
+1981
+M.S. in Electrical Engineering,
+R.E.C. Rourkela, Sambalpur University, India
+1976
+B.S. in Electronics and Communication,
+B.I.T. Sindri, Ranchi University, India
+
+Experience:
+July 1st, 2016 -	Interim Head, Department of Computer Science and Engineering, The Pennsylvania State University, Pennsylvania
+2009 -	Distinguished Professor, Department of Computer Science and Engineering, The Pennsylvania State University, Pennsylvania
+2008 - 2010	Program Director, Computer Architecture Program, CISE/CCF Division, National Science Foundation, Virginia
+1997 -	Professor, Department of Computer Science and Engineering, The Pennsylvania State University, Pennsylvania
+1992 - 1997	Associate Professor, Department of ECE and Computer Science and Engineering, The Pennsylvania State University, Pennsylvania
+1986 - 1992	Assistant Professor, Department of Electrical and Computer Engineering The Pennsylvania State University, Pennsylvania
+
+Research Interests:
+Parallel & Distributed Computer Architectures; Multi-core/SoC Architectures; GPGPU systems; Hetero- geneous Architectures; Communication Networks & Communication Mechanisms; Cloud Systems; Per- formance Evaluation; Fault-tolerant Computing; Mobile Platforms.
+
+Journal Papers
+
+	•	Das, C. R. and L. N. Bhuyan, “Bandwidth Availability of Multiple-Bus Multiprocessors,” IEEE Transactions on Computers, Special Issue on Parallel Processing, pp. 918-926, October 1985.
+	•	Das, C. R., L. N. Bhuyan, and V. V. S. Sarma, “Effect of Maintenance on the Dependability and Performance of Multiprocessor Systems,” IEEE Transactions on Reliability, Special Issue on Fault Tolerant Computing, pp. 208-215, June 1987.
+	•	Das, C. R. and L. N. Bhuyan, “Reliability and Fault-Tolerance Issues of Multiprocessor and Multi- computer Systems,” (Invited Paper) in Sadhana, Journal of Indian Academy of Sciences, pp. 129-154, October 1987.
+	•	Das, C. R. and L. N. Bhuyan, “Dependability Evaluation of Interconnection Networks,” Information Sciences: An International Journal, 43(1/2):107-138, October 1987.
+	•	Kim, J., C. R. Das, W. Lin, and T.-Y. Feng, “Reliability Evaluation of Hypercube Multicomputers,” IEEE Transactions on Reliability, Special Issue on Reliability of Parallel and Distributed Computing Networks, pp. 121-129, April 1989.
+	•	Lin, W., T. L. Sheu, C. R. Das, T.-Y. Feng, and C. L. Wu, “A Conflict-Free Routing Scheme on Multistage Interconnection Networks,” IEEE Transactions on Computers, 38(8):1086-1097, August 1989.
+	•	Das, C. R., J. T. Kreulen, M. J. Thazhuthaveetil, and L. N. Bhuyan, “Dependability Modeling for Multiprocessors,” IEEE Computer, 23(10):7-19, October 1990.
+	•	Kim, J., C. R. Das, and W. Lin, “A Top-Down Processor Allocation Scheme for Hypercube Comput- ers,” IEEE Transactions on Parallel and Distributed Systems, 2(1):20-30, January 1991.
+	•	Algudady, M .S., C. R. Das, and M. J. Thazhuthaveetil, “A Write Invalidate Cache Coherence Proto- col for MIN-Based Multiprocessors,” International Journal of Mini and Microcomputers, 14(1):39- 44, March 1992.
+	•	Das, C. R. and J. Kim, “A Unified Task-Based Dependability Model for Hypercube Computers,”
+IEEE Transactions on Parallel and Distributed Systems, 3(3):312-324, May 1992.
+	•	Das, C. R., P. Mohapatra, L. Tien, and L. N. Bhuyan, “An Availability Model for MIN-Based Multi- processors,” IEEE Transactions on Parallel and Distributed Systems, pp. 1118-1129, October 1993.
+	•	Mohapatra, P., C. R. Das, and T.-Y. Feng, “Performance Analysis of Cluster-Based Multiprocessors,”
+IEEE Transactions on Computers, 43(1):109-114, January 1994.
+	•	Yang, M. K. and C. R. Das, “A Parallel Branch-and-Bound Algorithm On a Class of Multiprocessors,”
+IEEE Transactions on Parallel and Distributed Systems, 5(1):74-86, January 1994.
+	•	Kim, J. and C. R. Das, “Hypercube Communication Delay with Wormhole Routing,” IEEE Transac- tions on Computers, 43(7):806-814, July 1994.
+	•	Yousif, M. S., C. R. Das, and M. J. Thazhuthaveetil, “A Cache Coherence Protocol for MIN-based Multiprocessors,” Journal of Supercomputing, 8:163-185, August 1994.
+	•	Yu, C. S. and C. R. Das, “Disjoint Task Allocation Algorithms for MIN Machines with Minimal Conflicts,” IEEE Transactions on Parallel and Distributed Systems, 6(4):373-387, April 1995.
+	•	Mohapatra, P., C. Yu, and C. R. Das, “A Lazy Scheduling Scheme for Hypercube Computers,” Journal of Parallel and Distributed Computing, 27(1):26-37, May 1995.
+	•	Mohapatra, P. and C. R. Das, “On Dependability Evaluation of Mesh Connected Systems,” IEEE Transactions on Computers, 44(9):1073-1084, September 1995.
+
+	•	Sheu, T.-L., W. Lin, and C. R. Das, “Distributed Fault Diagnosis in Multistage Network-Based Mul- tiprocessors,” IEEE Transactions on Computers, 44(9):1085-1095, September 1995.
+	•	Agarwala, A. and C. R. Das, “Experimenting with A Shared Virtual Memory Environment for Hy- percubes,” Journal of Parallel and Distributed Computing, 29:228-235, September 1995.
+	•	Merchawi, N. S., S. R. T Kumara, and C. R. Das, “A Probabilistic Model for the Fault Tolerance of Multilayer Perceptions,” IEEE Transactions on Neural Networks, 7(1):201-205, January 1996.
+	•	Mohapatra, P. and C. R. Das, “Performance Analysis of Finite-Buffered Asynchronous Multistage Interconnection Networks,” IEEE Transactions on Parallel and Distributed Systems, 7(1):18-25, Jan- uary 1996.
+	•	Mohapatra, P., C. Yu, and C. R. Das, “Allocation and Mapping Based Reliability Analysis of Multi- stage Interconnection Networks,” IEEE Transactions on Computers, 45(5):600-606, May 1996.
+	•	Boura, Y. and C. R. Das, “Performance Analysis of Buffering Schemes in Wormhole Routers,” IEEE Transactions on Computers, 46(6):687-694, June 1997.
+	•	Yoo, B. S. and C. R. Das, “A Fast and Efficient Processor Management Techniques for K-ary n- cubes,” Journal of Parallel and Distributed Computing, 55(2):192-214, December 1998.
+	•	Vaidya, A., C. R. Das, and A. Sivasubramaniam, “A Testbed for Evaluation of Fault-Tolerant Rout- ing in Multiprocessor Interconnection Networks,” IEEE Transactions on Parallel and Distributed Systems, Special Issue on Fault-tolerant Routing, 10(10):1052-1066, October 1999.
+	•	Nagar, S., A. Banerjee, A. Sivasubramaniam, and C. R. Das, “Scheduling Alternatives to Coschedul- ing on a Network of Workstations,” Journal of Parallel and Distributed Computing, Special Issue on Software support for Distributed Computers, 59(2):302-327, November 1999.
+	•	Kasbekar, M., C. Narayan, and C. R. Das, “Selective Checkpointing and Rollback in Multi-threaded Object-oriented Environment,” IEEE Transactions on Reliability, selected as one of the four best papers from the 1999 Pacific-Rim Dependable Computing Symposium, 48(4):325-337, December 1999.
+	•	Vaidya, A., C. R. Das, and A. Sivasubramaniam, “Impact of Virtual Channel and Adaptive Routing on Application Performance,” IEEE Transactions on Parallel and Distributed Systems, 12(2):223-237, February 2001.
+	•	Yoo. B. S. and C. R. Das, “A Fast and Efficient Allocation Scheme for Mesh-Connected Multicom- puters,” IEEE Transactions on Computers, 51(1):46-60, January 2002.
+	•	Yum, K. H., E. J. Kim, A. S. Vaidya, and C. R. Das, “MediaWorm: A QoS Capable Router Archi- tecture for Clusters,” IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 12, pp. 1261-1274, December 2002.
+	•	Lim, S., G. Cao, and C. R. Das, “A Unified Bandwidth Reservation and Admission Control Mecha- nism for QoS Provisioning in Cellular Networks”, Wireless Communications and Mobile Computing (WCMC) Journal (special issue on Performance Evaluation of Wireless Networks), Vol. 4, No. 1, pp. 3-18, Feb 2004.
+	•	Cao, G., L. Yin, and C. R. Das, “A Cooperative Cache Based Data Access Framework for Ad Hoc Networks”, IEEE Computer, pp. 32-39, Feb. 2004.
+	•	Zhu, H., G. Cao, G. Kesidis, and C. R. Das, “An Adaptive Power-Conserving Service Discipline for Bluetooth”, Computer Communication, Vol. 27 (9), pp. 828-839, Sept. 2004.
+	•	Sarahan, N and C. R. Das, “Caching and Scheduling in NAD-Based Multimedia Servers”, IEEE Transactions on Parallel and Distributed Systems, Vol. 15, No. 10, PP. 921-933, Oct. 2004.
+
+	•	Lim, S., W. Lee, G. Cao, and C. R. Das, “A Novel Caching Scheme for Improving Internet-based Mobile Ad Hoc Networks Performance, ” Ad Hoc Networks Journal, Elsevier Science, Vol. 4(2), pp. 225-239, March 2006.
+	•	Kim, E. J., K. H. Yum, G. M. Link, N. Vijayakrishnan, M. Kandemir, M. J. Irwin, and C. R. Das, “En- ergy Optimization Techniques in Cluster Interconnects,” IEEE Transactions on Computers, Special issue on Low-Power Design, 2005.
+	•	Kim, E. J., K. H. Yum, C. R. Das, M. Yousif, and J. Duato, “Exploring IBA Design Space for Improved Performance,” IEEE Transactions on Parallel and Distributed Systems, Vol. 18 (4), pp. 498-510, April 2007.
+	•	Lim, Sun-Ho, W-C. Lee, G. Cao, and C. R. Das, “Cache Invalidation Strategies for Internet-based Mobile Ad Hoc Networks, ” Computer Communications Journal, Volume 30, Issue 8, pp. 1854-1869, June 2007.
+	•	Kim, J.H, G. S. Choi, and C. R. Das, “A SSL Backend Forwarding Scheme in Cluster-based Web servers,” IEEE Transactions on Parallel and Distributed Systems, Vol. 18 (7), pp. 946-957, July 2007.
+	•	Kim, Suneuy and C. R. Das, “An analytical model for interval caching in interactive video servers,” to appear in Journal of Network and Computer Applications (JNCA), (Elsevier publisher).
+	•	Deng, X., S. Yi, G. Kesidis, and C. R. Das, “A Control Theoretic Analysis of Active Queue Manage- ment Schemes,” to appear in IEEE Transactions on Networking.
+	•	Yi, S., M. Kappes, S. Garg, X. Deng, G. Kesidis and C. R. Das, “Proxy-RED: An AQM Scheme  for Wireless Local Area Networks”, IEEE Wireless Communications & Mobile Computing Journal 8(4):421-434, May 2008.
+	•	Yi, S., X. Deng, G. Kesidis and C. R. Das, “A Dynamic Quarantine Scheme for Controlling Unre- sponsive TCP Sessions,” Telecommunication Systems Journal 37(4):169-189, May 2008.
+	•	Kim, J.H, G. S. Choi, and C. R. Das, “Coscheduled Distributed-Web Servers on System Area Net- works,” Journal on Parallel Distributed Computing 68(8):1033-1043, August 2008.
+	•	Lim, S., C. Yu, and C. R. Das, “ RandomCast: An Energy Efficient Communication Scheme for Mobile Ad Hoc Networks”, IEEE Transactions on Mobile Computing, 2009.
+	•	Sunho Lim, Chansu Yu, Chita R. Das, ”Cooperative Cache Invalidation Strategies for Internet-Based Vehicular Ad Hoc Networks”, ICCCN 2009.
+	•	Gunwoo Nam, Pushkar Patankar, George Kesidis, Chita R. Das, Cetin Seren, ”Mass Purging of Stale TCP Flows in Per-Flow Monitoring Systems”, ICCCN 2009.
+	•	Zhao, J., G. Cao, and C. R. Das, “Cooperative Caching in Wireless P2P Networks: Design, Im- plementation, and Evaluation”, IEEE Transactions on Parallel and Distributed Systems (TPDS), pp. 229-241, Feb. 2010.
+	•	Nicopoulos, C. A., S. Srinivasan, A. Yanamandra, D. Park, N. Vijaykrishnan, C.R. Das, and M.J. Irwin, “On the Effects of Process Variation in Network-on-Chip Architectures”, IEEE Transactions on Dependable and Secure Computing (TDSC), pp. 240-254, July 2010.
+	•	Lim, S., C. Yu, and C. R. Das, “A Realistic Mobility Model for Wireless Networks of Scale-Free Node Connectivity”, International Journal of Mobile Communication, 8(3):351-369, May 2010.
+	•	Choi, G. S.and C. R. Das, “A Superscalar Software Architecture Model for Multi-Core Processors (MCPs)”, Journal of Systems and Software, 83(10):1823-1837, Oct. 2010.
+
+	•	Yum, K. H., Y. Jin, E. J. Kim, and C. R. Das,“ Integration of Admission, Congestion, and Peak Power Control in QoS-aware Clusters”, Journal of Parallel and Distributed Computing, 70(11):1087-1099, Nov. 2010.
+	•	Mishra, A. K., J. L. Hellerstein, W. Cirne, and C. R. Das, “ Towards Characterizing Cloud Backend Workloads: Insights from Google Compute Clusters”, Proceedings of the International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2010). pp. 34-41, June 2010.
+	•	Mishra, A. K., A. Yanamandra, R. Das, S. Eachempati, R. Iyer, N. Vijaykrishnan, and C. R. Das, “RAFT: A router architecture with frequency tuning for on-chip networks”, Journal of Parallel and Distributed Computing, 2011 (JPDC).
+	•	Das, R., O. Mutlu, T. Moscibroda, and C. R. Das, “Aergia: A Network-on-Chip Exploiting Packet Latency Slack”, Top Picks, IEEE Micro, 2011.
+	•	Lim, S., C. Yu, C. R. Das, “Cache Invalidation Strategies for Internet-based Vehicular Ad Hoc Net- works”, Computer Communications, February 2012.
+	•	Surender, S. C., R. Narayan, C. R. Das, “Cross-layer Resource Allocation in UWB Noise OFDM based Ad Hoc Surveillance Networks”, EURASIP Journal on Wireless Communication and Network- ing, January 2013.
+
+Refereed Conference Papers
+
+	•	Das, C. R. and L. N. Bhuyan, “Computation Availability of Multiple-Bus Multiprocessors ,” Interna- tional Conference on Parallel Processing, pp. 807-813, August 1985.
+	•	Das, C. R. and L. N. Bhuyan, “Reliability Simulation of Multiprocessor Systems,” International Conference on Parallel Processing, pp. 591-598, August 1985.
+	•	Bhuyan, L. N. and C. R. Das, “Dependability Evaluation of Multicomputer Networks,” International Conference on Parallel Processing, pp. 576-583, August 1986.
+	•	Sheu, T. L., W. Lin, and C. R. Das, “An Efficient Parallel Algorithm of Conjugate Gradient Method,”
+International Conference on Supercomputing, pp. 488-496, May 1987.
+	•	Lin, W., M. J. Thazhuthaveetil, and C. R. Das, “A Parallel Matrix Inversion Algorithm with Dynamic Communication Structures,” International Conference on Supercomputing, pp. 460-466, May 1988.
+	•	Macaluso, J., C. R. Das, and W. Lin, “A Reliability Predictor for MIN-Connected Multiprocessor Systems,” International Conference on Parallel Processing, pp. 392-399, August 1988.
+	•	Lin, W., T.-L. Sheu, C. R. Das, C.-L. Wu, and T.-Y. Feng, “Fast Data Selection and Broadcast On the Butterfly Network,” International Workshop on Future Trends of Distributed Computing Systems in the 90’s, pp. 65-72, September 1988.
+	•	Lin, W., T.-L. Sheu, and C. R. Das, “A Quadtree Communication Structure for Fast Data Searching and Distribution,” COMPSAC, pp. 316-323, October 1988.
+	•	Sheu, T. L., W. Lin, and C. R. Das, “A Parallel Eigen Value Algorithm with Dynamic Communication Structure,” International Computer Symposium, pp. 117-122, December 1988.
+	•	Das, C. R. and J. Kim, “An Analytical Model for Computing Hypercube Availability,” International Symposium on Fault-Tolerant Computing Systems, pp. 530-537, June 1989.
+	•	Sheu, T. L., W. Lin, C. R. Das, and M. J. Irwin, “Distributed Fault Diagnosis in the Butterfly Parallel Processor,” International Conference on Parallel Processing, I, pp. 172-175, August 1989.
+
+	•	Kim, J., C. R. Das, and W. Lin, “A Processor Allocation Scheme for Hypercube Computers,” Inter- national Conference on Parallel Processing, (II), pp. 231-238. (Daniel L. Slotnick Award for the Most Original Paper), August 1989.
+	•	Das, C. R., L. Tien, and L. N. Bhuyan, “Availability Evaluation of MIN-Connected Multiprocessors Using Decomposition Technique,” International Symposium on Fault-Tolerant Computing Systems, pp. 176-183, June 1990.
+	•	Algudady, M. S., C. R. Das, and W. Lin, “A Fault-Tolerant Task Mapping Algorithms for MIN-Based Multiprocessors,” International Conference on Parallel Processing, I, pp. 445-448, August 1990.
+	•	Algudady, M. S., C. R. Das, and M. J. Thazhuthaveetil, “A Write Invalidate Cache Coherence Pro- tocol for MIN-Based Multiprocessors,” ISMM International Conference on Parallel and Distributed Computing and Systems, pp. 77-81, October 1990.
+	•	Das. C. R., M. S. Algudady, and M. J. Thazhuthaveetil, “A Write-Update Cache Coherence Proto- col for MIN-Based Multiprocessor Systems with Accessibility-Based Split Caches,” Supercomputing ’90, pp. 544-553, November 1990.
+	•	Kim, J. and C. R. Das, “Modeling Wormhole Routing in a Hypercube,” International Conference on Distributed Computing Systems, pp. 386-393, May 1991. (Outstanding Paper Award).
+	•	Yang, M. K. and C. R. Das, “A Parallel Branch-and-Bound Algorithm for MIN-Based Multiproces- sors,” (poster paper) ACM SIGMETRICS Conference on Measurements and Modeling of Computer Systems, pp. 222-233, May 1991.
+	•	Kim, J. and C. R. Das, “On Subcube Dependability in a Hypercube,” ACM SIGMETRICS Conference on Measurements and Modeling of Computer Systems, pp. 111-119, May 1991.
+	•	Algudady, M. S., C. R. Das, and M. J. Thazhuthaveetil, “Cache-Based Checkpointing Scheme for MIN-Based Multiprocessors,” International Conference on Parallel Processing, pp. 497-500, August 1991.
+	•	Yang, M. K. and C. R. Das, “Analytical Modeling of a Parallel Branch-and-Bound Algorithm on MIN-Based Multiprocessors,” International Parallel Processing Symposium, March 1992.
+	•	Yu, C. S. and C. R. Das, “Multitasking in Multistage Interconnection Network Machines,” Interna- tional Conference on Distributed Computing Systems, pp. 30-37, June 1992.
+	•	Das, C. R., P. Mohapatra, and C. S. Yu, “Allocation-Based Subcube Dependability for MIN-Based Multiprocessors,” Workshop on Fault-Tolerant Parallel and Distributed Systems, pp. 124-131, July 1992.
+	•	Kim, J., K. G. Shin, and C. R. Das, “Performability Evaluation of Gracefully Degradable Hypercube Multicomputers,” Workshop on Fault-Tolerant Parallel and Distributed Systems, pp. 140-147, July 1992.
+	•	Orzechowski, N. S., S. R. T. Kumara, and C. R. Das, “Performance of Multilayer Neural Networks in Binary-to-Binary Mappings Under Weight Errors,” The IEEE International Conference on Neural Networks, III, pp. 1684-1689, April 1993.
+	•	Orzechowski, N. S., S. R. T. Kumara, and C. R. Das, “Performance Analysis of Neural Networks,”
+ORSA/TIMS Annual Meeting, May 1993.
+	•	Mohapatra, P., C. S. Yu, and C. R. Das, “A Lazy Scheduling Scheme for Improving Hypercube Performance,” International Conference on Parallel Processing, I, pp. 110-117, August 1993.
+	•	Mohapatra, P. and C. R. Das, “A Queueing Model for Finite-Buffer MINs,” International Conference on Parallel Processing, I, pp. 210-213, August 1993.
+
+	•	Algudady, M. S., C. R. Das, and M. J. Thazhuthaveetil, “A Hierarchical Cache-Coherence Protocol with Limited Inclusion,” International Conference on Parallel Processing, I, pp.254-257, August 1993.
+	•	Boura, Y. and C. R. Das, “A Class of Partially Adaptive Routing Algorithms for n-dimensional Meshes,” International Conference on Parallel Processing, III, pp. 175-182, August 1993.
+	•	Mohapatra, P., S. Wong, and C. R. Das, “Analytical Modeling of Combining in Multistage Intercon- nection Networks,” Modeling Techniques and Tools for Computer Performance Evaluation, (poster paper), May 1994.
+	•	Boura, Y. M. and C. R. Das. “Efficient Fully Adaptive Wormhole Routing in n-Dimensional Meshes,”
+International Conference on Distributed Computing Systems, pp. 589-596, June 1994.
+	•	Mohapatra, P., S. Wong, and C. R. Das, “Performance Analysis of Combining Multistage Intercon- nection Networks,” International Conference on Parallel Processing, I, pp. 13-16, August 1994.
+	•	Agarwala, A. and C. R. Das, “A Shared Memory Environment for Hypercubes,” International Con- ference on Parallel Processing, I, pp. 200-207, August 1994.
+	•	Yu, C. and C. R. Das, “Limit Allocation: An Efficient Processor Management Scheme for Hyper- cubes,” International Conference on Parallel Processing, II, pp. 143-150, August 1994.
+	•	Yousif, M. S. and C. R. Das, “A Switch Cache Design for MIN-Based Shared-Memory Multiproces- sors,” Conpar 94 International Conference on Parallel Processing, Springer-Verlag LNCS 854, pp. 426-437, September 1994.
+	•	Boura, Y. M., C. R. Das, and T. M. Jacob, “A Performance Model for Adaptive Routing in Hyper- cubes,” First International Workshop on Parallel Processing, pp. 11-16, December 1994.
+	•	Boura, Y. M. and C. R. Das, “Modeling Virtual Channel Flow Control in Hypercubes,” IEEE Sympo- sium on High Performance Computer Architecture (HPCA-1), pp. 166-175, January 1995.
+	•	Boura, Y. M. and C. R. Das, “Fault-Tolerant Routing in Mesh Networks,” International Conference on Parallel Processing, I, pp. 106-109, August 1995.
+	•	Yoo, B. S., C. R. Das, and C. Yu, “Processor Management Techniques for Mesh Connected Multi- processors,” International Conference on Parallel Processing, II, pp. 105-112, August 1995.
+	•	Vaidya, A. S, B. S. Yoo, and C. R. Das, “On the Dependability Modeling of Parallel Computers,” In Fault-Tolerant Systems and Software (Proceedings of the First Conference on Fault-Tolerant Systems, Madras, India), edited by R. Mittal, C. R. Muthukrishnan, V. P. Bhatkar, pp. 82-91, December 1995.
+	•	Rahman, S. and C. R. Das, “Parallel Simulation of Mesh Routing Algorithms,” International Confer- ence on Distributed Computing Systems, pp. 158-165, May 1996.
+	•	Vaidya, A. S., B. S. Yoo, C. R. Das, and J. Kim, “A Task-Based Dependability Model for k-ary n-cubes,” International Conference on Parallel Processing, Vol. I, pp. 9-16, August 1996.
+	•	Chodnekar, S., V. Srinivasan, A. Vaidya, A. Sivasubramaniam, and C. R. Das, “Towards a Commu- nication Characterization Methodology for Parallel Applications,” IEEE Symposium on High Perfor- mance Computer Architecture (HPCA-3), pp. 310-319, February 1997.
+	•	Vaidya, A., A. Sivasubramaniam, and C. R. Das, “Performance Benefits of Virtual Channels and Adaptive Routing: An Application-Driven Study,” International Conference on Supercomputing, pp. 140-147, July 1997.
+	•	Yoo, B. S. and C. R. Das, “A Good Processor Management Scheme = Fast Allocation + Efficient Scheduling,” International Conference on Parallel Processing, pp. 280-287, August 1997.
+
+	•	Seed, D., A. Sivasubramaniam, and C. R. Das, “Communication in Parallel Applications: Charac- terization and Sensitivity Analysis,” International Conference on Parallel Processing, pp. 446-453, August 1997.
+	•	Yoo, B. S., C. R. Das, and J. Kim, “A Performance Modeling Technique for Mesh-Connected Sys- tems,” International Conference on Parallel and Distributed Systems, pp. 408-413, Seoul, Korea, December 1997.
+	•	Kim, S., A. Sivasubramaniam, and C. R. Das, “Analyzing Cache Performance Multimedia Servers,” Workshop on Architectural and Operating System Support for Multimedia Applications, pp. 38-47, Minneapolis, August 1998.
+	•	Agnihotri, P, V. Agrawala, K. Morooney, and C. R. Das, “The Penn State Computing Condominium Scheduling System,” ACM/IEEE conference on Supercomputing (SC), October 1998.
+	•	Kasbekar, M., C. Narayan, and C. R. Das, “Using Reflection for Checkpointing Objected Oriented Programs,” OOPSLA, pp. 71-75, Vancouver, Canada, October 1998.
+	•	Vaidya, A., A. Sivasubramaniam, and C. R. Das, “LAPSES: A Recipe for High Performance Adaptive Router Design,” IEEE Symposium on High Performance Computer Architecture (HPCA-5), pp. 236- 243, Orlando, January 1999.
+	•	Nagar, S., A. Banerjee, A. Sivasubramaniam, and C. R. Das, “A Closer Look at Co-Scheduling Approaches for a Network of Workstations,” Eleventh ACM Symposium on Parallel Algorithms and Architectures (SPAA), pp. 96-105, St. Malo, France, June 1999.
+	•	Yang, M. K. and C. R. Das, “A Parallel Optimal Branch-and-Bound Algorithm for MIN-Based Mul- tiprocessors,” International Conference on Parallel Processing. pp. 112-119. Aizu-Wakamatsu City, Japan, September 1999.
+	•	Kasbekar, M., S. Yajnik, R. Klemm, Y. Huang, and C. R. Das, “Issues in the Design of a Reflective Library for Checkpointing for C++ Objects,” Symposium on Reliable Distributed Systems (SRDS), pp. 224-233, Lausanne, Switzerland, October 1999.
+	•	Kasbekar, M., C. Narayanan, and C. R. Das, “Selective Checkpointing and Rollbacks in Multi- threaded Object-Oriented Environments,” 1999 Pacific Rim International Symposium on Dependable Computing (PRDC), pp. 121-128, Hong Kong, December 1999.
+	•	Yum, K. H., A. Vaidya, C. R. Das, and A. Sivasubramaniam, “Investigating QoS Support for Traffic Mixes with the MediaWorm Router,” IEEE Symposium on High Performance Computer Architecture (HPCA-6), pp. 97-106, France, January 2000.
+	•	Kim, S. and C. R. Das, “A Reliable Statistical Admission Control Policy for Interactive Video-On- Demand Servers with Interval caching,” International Conference on Parallel Processing, pp. 135- 142, August 2000.
+	•	Kim, S., C. R. Das, and A. Sivasubramaniam, “Performance Analysis of A Buffer Management Technique for Interactive Video-on-Demand,” Proc. of the International Conference on Multimedia Modeling, (MMM’2000), Japan, November 2000.
+	•	Kasbekar, M. and C. R. Das, “Selective Checkpointing and Rollbacks in Multithreaded Distributed Systems,” Proc. of the International Conference on Distributed Computing Systems (ICDCS), pp. 39-46, Arizona, April 2001.
+	•	Yum, K. H., E. J. Kim, and C. R. Das, “QoS Provisioning in Clusters: An Investigation of Router and NIC Design,” Proc. International Symposium on Computer Architecture (ISCA), pp. 120-129, Sweden, June 2001.
+
+	•	Sarahan, N. and C. R. Das, “Adaptive Block Rearrangement Policies for Video-On-Demand Servers,” Proc. International Conference on Parallel Processing, pp. 452-459, Spain, September 2001.
+	•	Lim, S., G. Cao, and C. R. Das, “A Differential Bandwidth Reservation Algorithm for Multimedia Wireless Networks,” Proc. of the Mobile Computing Workshop, International Conference on Parallel Processing, pp. 447-452, Spain, September 2001.
+	•	Kim, E. J., K. H. Yum, and C. R. Das, “An Analytical Model for a QoS Capable Cluster Interconnect,” Proc. Inter. Conf. on Measurement, Modeling and Evaluation of Computer and Communication Systems (MMB), pp. 9-24, Germany, September 2001.
+	•	Cao, G. and C. R. Das, “On the Effectiveness of a Counter-Based Cache Invalidation Scheme and its Resiliency to Failures in Mobile Environments,” Proc. of the 20th IEEE Symposium on Reliable Distributed Systems (SRDS), October 2001.
+	•	Kim, E. J., K. H. Yum, and C. R. Das, “Calculation and Deadline Missing Probability in a QoS Capable Cluster Interconnect,” Proc. IEEE International Symposium on Network Computing and Applications (NCA 01), pp. 36-45, Cambridge, MA, February 2002.
+	•	Zhu, H., G. Cao, G. Kesidis, and C. R. Das, “An Adaptive Power-Conserving Service Discipline for Bluetooth,” Proc. IEEE ICC, pp. 303-307, April 2002.
+	•	Lim, S., G. Cao, and C. R. Das, “An Admission Control Scheme for QoS-Sensitive Cellular Net- works,” Proc. of the IEEE Wireless Communications and Networking Conference (WCNC), pp. 296- 300, Florida, March 2002.
+	•	Alfaro, F. J., J. L. Sanchez, J. Duato, and C. R. Das, “A strategy to Compute InfiniBand Arbitration Tables,” Proc. Int. Conf. on Parallel and Distributed Processing Systems, (IPDPS), April 2002.
+	•	Yin, L., G. Cao, C. R. Das, and A. Ashraf, “Power-Aware Prefetch in Mobile Environments,” Proc. of the IEEE International Conference on Distributed Computing Systems, (ICDCS), pp. 571-578, Vienna, July, 2002.
+	•	Yum, K.H., E. J. Kim, G. Viswanathan, C. R. Das, M. Yousif and J. Duato, “Integrated Admission and Congestion Control for QoS Support in Clusters,” Proc. of theIEEE Int. Conf. on Cluster Computing, pp. 325-332, Chicago, September 2002.
+	•	Yi, S., X. Deng, G. Kesidis, and C. R. Das, “Providing fairness in the DiffServ Architecture” Proc. of the IEEE Globecom 2002, pp. 1435-1439, Taipei, November 2002.
+	•	Deng, X. S. Yi, G. Kesidis, and C. R. Das, “Stabilized Virtual Buffer - An active Queue Management Scheme for Internet Quality of Service,” Proc. of IEEE Globecom 2002, pp. 1628-1632, Taipei, November 2002.
+	•	Kim, S. and C. R. Das, “An End-to-End Resources Scheduling Scheme for the Presentation of Com- posite Multimedia Information in a Networked Environment,” Proc. of the Ninth International Con- ference on Multi-Media Modeling pp. 443-469, Taiwan, January 2003.
+	•	Kim, E. J., K. H. Yum, N. Kim, C. R. Das, M. Yousif and J. Duato, “Performance Enhancement Techniques for InfiniBandTM Architecture,” Proc. of the 9th International Symposium on High- Performance Computer Architecture(HPCA-9), pp. 256-264, February 2003.
+	•	Sarhan, N. and C. R. Das, “A Simulation-Based Analysis of Scheduling Policies for Multimedia Servers,” Proc. of the 36th Simulation Symposium, pp.183-190, Orlando, March 2003.
+	•	Sarhan, N. and C. R. Das, “An Integrated Resource Sharing Policy for Multimedia Storage Servers Based on Network-Attached Disks,” Proc. of the 23-rd International Conference on Distributed Computing Systems (ICDCS 2003), pp.136-143, Providence, RI, May 2003.
+
+	•	Lim, S., S-T. Park, W.-C. Lee, G. Gao, C. R. Das and C. L. Giles, “A Caching Mechanism for Improving Internet Based Mobile Ad Hoc Networks Performance,” Proc. of the 12th International World Wide Web Conference (WWW 2003), Budapest, Hungary (poster paper), May 2003.
+	•	Sarhan, N. and C. R. Das, “Providing Time of Service Guarantees in Video-on-Demand Servers,” Proc. of the 12th International World Wide Web Conference (WWW 2003), Budapest, Hungary (poster paper), May 2003.
+	•	Kim, E. J., K.H. Yum, G. Link, N. Vijaykrishnan, M. Kandemir, M. Yousif, and M. J. Irwin and
+C. R. Das, “Energy Optimization Techniques in Cluster Interconnects,” Proc. of the International Symposium on Low Power Electronics and Design (ISLPED ’03), August 2003.
+	•	Choi, G. S., S. Agarwal, J. H. Kim, Andy Yoo and C. R. Das, “Impact of Job Allocation Strategies for Communication-Driven Coscheduling in Clusters,” Proc. of Europar2003, pp. 160-168. August 2003.
+	•	Agarwal, S., G. S. Choi, A. Yoo, S. Nagar and C. R. Das, “Co-ordinated Coscheduling in Time- Sharing Clusters through a Generic Framework,” Proc. of Cluster 2003, Hong Kong, December 2003.
+	•	Lim, S., W.-C. Lee, G. Cao and C. R. Das, “A Novel Caching Scheme for Internet based Mobile  Ad Hoc Networks,” Proc. of IEEE International Conference on Computer Communications and Networks (ICCCN’03).
+	•	Deng, X., S. Yi, G. Kesidis, and C. R. Das, “Class-Based Stabilized Virtual Buffer-An AQM Scheme with Stability, Fairness and QoS Assurance,” Proc. of the 18th International Teletraffic Congress (ITC), Berlin, Germany, Sept. 2003.
+	•	Deng, X., S. Yi, G. Kesidis, and C. R. Das, “A Control Theoretic Approach for Designing Adaptive Active Queue Management Schemes,” Proc. of IEEE GlOBECOM’03, San Francisco, CA, Dec. 2003.
+	•	Yi, S., X. Deng, G. Kesidis, C. R. Das, “HaTCh – A Method for Accurate Estimation of the Number of Active Flows,” Proc. of IEEE Conference on Decision & Control (CDC) 2003, Hawaii, Dec. 2003.
+	•	Lim, S., W. Lee, G. Cao, C. R. Das, “Performance Comparison of Cache Invalidation Strategies for Internet-based Mobile Ad Hoc Networks,” Proc. of the IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS), Fort Lauderdale, Florida, Oct 2004.
+	•	Kim, J-H., G. S. Choi, D. Ersoz and C. R. Das, “Improving Response Time in Cluster-Based Web Servers through Coscheduling, ” Proc. of the 18th International Parallel & Distributed Processing Symposium (IPDPS), April 2004.
+	•	Choi, G. S., J-H. Kim, D. Ersoz, A. Yoo and C. R. Das, “Coscheduling in Clusters: Is It a Viable Alternative?”, Proc. of Super Computing (SC), November 2004.
+	•	Yi, S., M. Kappes, S. Garg, X. Deng, G. Kesidis, and C. R. Das, “Proxy-RED: An AQM scheme for Wireless Local Area Networks”, Proc. of IEEE IC3N, Chicago, Oct 2004.
+	•	Kim, J., D. Park, T. Theochar, N. Vijaykrishnan, and C. R. Das, “A Low Latency Router Supporting Adaptivity for On-Chip Interconnects,” Proc. of the 42th Design Automation Conference (DAC), Anaheim, California, June 2005.
+	•	Choi, G. S., J-H. Kim, D. Ersoz and C. R. Das, “A Multi-Threaded PIPELINED Web Server Ar- chitecture for SMP/SoC Machines,” Proc. of the 14th International World Wide Web Conference, (WWW), May 2005.
+	•	Kim, J-H., G. S. Choi and C. R. Das, “Improving Performance of Cluster-based Secure Application Servers with User-level Communication,” Proc. of the International Conference on Data Engineering (ICDE), Tokyo, April 2005.
+
+	•	Lim, S., C. Yu, C. R. Das, “Rcast: A Randomized Communication Scheme for Improving Energy Ef- ficiency in MANETs,” Proc. of the 25th International Conference on Distributed Computing systems (ICDCS), Columbus, Ohio, June 2005.
+	•	Choi, G. S., J-H. Kim, D. Ersoz and C. R. Das, “Exploiting NIC Memory for Improving Cluster- Based Webserver Performance,” Proc. of the IEEE International Conference on Cluster Computing, Boston, 2005.
+	•	Kim J-H., G. S. Choi and C. R. Das, “A Load Balancing Scheme for Cluster-based Secure Network Servers,” Proc. of the IEEE International Conference on Cluster Computing, Boston, 2005.
+	•	Kim, J., D. Park, C. Nicopoulosr, N. Vijayakrishnan, and C. R. Das, “Design and Analysis of an NoC Architecture from Performance, Reliability and Energy Perspective,” Proc. of the 1st Symposium on Architectures for Networking and Communications Systems (ANCS), Princeton, NJ, Oct. 2005.
+	•	Richardson, T. D., C. Nicopoulosr, D. Park, N. Vijayakrishnan, Y. Xie, and C. R. Das, “A Hybrid SoC Interconnect with Dynamic TDMA-Based Transaction-Less Buses and On-Chip Networks,” Proc. of the VLSI Design, 2006.
+	•	Kim, J., D. Park, C. A. Nicopoulos, N. Vijaykrishnan, and C. R. Das, “Performance Enhancement through Early Release and Buffer Optimization in Network-on-Chip Router Architectures,” in the special workshop on Future Interconnects and Networks on Chip, at Design Automation and Test in Europe (DATE 06).
+	•	Park, D., C. A. Nicopoulos, J. Kim, N. Vijaykrishnan, C. R. Das, “Exploring Fault-Tolerant Network- on-Chip Architectures, ” Proc. of the International Conference on Dependable Systems and Networks (DSN06), pp. 93-102, Philadelphia, 2006.
+	•	Park, D., C. A. Nicopoulos, J. Kim, N. Vijaykrishnan, and C. R. Das, “A Distributed Multi-Point Net- work Interface for Low-Latency, Deadlock-Free On-Chip Interconnects, ” Proc. of the International Conference on Nano-Networks (Nano-Net 2006), Lausanne, Switzerland.
+	•	Kim, J., C. A. Nicopoulos, D. Park , N. Vijaykrishnan, Chita R. Das, “A Gracefully Degrading and Energy-Efficient Modular Router Architecture for On-Chip Networks, ”Proc. of the International Symposium on Computer Architecture (ISCA06), pp. 4-15, Boston, 2006.
+	•	Lim, S., C. Yu, and C. R. Das, “Clustered Mobility Model for Scale-Free Wireless Networks,” Proc. of the 31st IEEE Conference on Local Computer Networks (LCN), Nov 2006.
+	•	Nicopoulos, C. A., D. Park, J. Kim, N. Vijaykrishnan, M. Yousif, and C. R. Das, “ViChar: A Dy- namic Virtual Channel Regulator for Network-on-Chip Routers, ” Proc. of the 39th International Symposium on Microarchitecture (MICRO-39), pp. 333-344, Orlando, FL, December 2006.
+	•	Kim, J., C. A. Nicopoulos, D. Park , R. Das, Y. Xie, N. Vijaykrishnan, M. Yousif, C. R. Das, “A Novel Dimensionally-Decomposed Router for On-Chip Communication in 3D Architectures, ” Proc. of the International Symposium on Computer Architecture (ISCA07), pp. 138-149, San Diego, CA, 2007
+	•	Park, D., R. Das, C. A. Nicopoulos, J. Kim, N. Vijaykrishnan, and C. R. Das, “Design of a Dy- namic Priority-Based Fast Path Architecture for On-Chip Interconnects, ” Proc. of the IEEE Hot Interconnects, (HOTI 2007), pp. 15-20, Stanford, CA, August 2007.
+	•	S. Yi, B.-K. Kim, J. Oh, J. Jang, G. Kesidis, C. R. Das, “Memory-efficient content filtering hardware for high-speed intrusion detection systems”, Proceedings of SAC, 2007.
+	•	Ersoz, D., M. Yousif, and C. R. Das, “Characterizing Network Traffic in a Cluster-Based Multi-tier Data Center, ” Proc. of the International Conference on Distributed Computing Systems, (ICDCS), Toronto, Canada, June 2007.
+
+	•	Reetuparna Das, Asit K. Mishra, Chrysostomos Nicopoulos, Dongkook Park, N. Vijaykrishnan, Rav- ishankar Iyer, and Chita R. Das, “Performance and Power Optimization through Data Compression in Network-on-Chip Architectures, ” Proc. of the International Symposium on High Performance Computer Architecture, Salt Lake City, Utah (HPCA, 2008).
+	•	Dongkook Park, Soumya Eachempati,Reetuparna Das, Asit K. Mishra, N. Vijaykrishnan, Yuan Xie
+, and Chita R. Das, “MIRA : A Multilayered Interconnect Router Architecture”, Proc. of the 35th International Symposium on Computer Architecture (ISCA, 2008).
+	•	Patankar. P, Nam. G, Kesidis. G, and Chita R. Das, “Exploring Anti-Spam Models in Large Scale VoIP Sytems”, International Conference on Distributed Computing Systems, ICDCS 2008.
+	•	Lim, S., S. H. Chae, C. Yu, and C. R. Das. “On Cache Invalidation  for Internet-based  Vehicular  Ad Hoc Networks”, Proc. Of the IEEE 2nd International Workshop on Mobile Vehicular Networks (MoVeNet). Atlanta, GA, September 2008.
+	•	Das, R., A. K. Mishra, S. Eachempati, N. Vijaykrishnan,  and  C. R. Das.  “Design  and evaluation of a hierarchical on-chip interconnect for next-generation CMPs”, Proceedings of the Fifteenth In- ternational Symposium on High- Performance Computer Architecture (HPCA 2009). pp.175 - 186. Raleigh, NC.
+	•	Seung-Hwan Lim, Bikash Sharma, Gunwoo Nam, Eun-Kyoung Kim, Chita R. Das, ”MDCSim: A multi-tier data center simulation, platform”, CLUSTER 2009.
+	•	Saehoon Kang, Chansu Yu, Chita R. Das, Guohong Cao, ”Path-Centric On-Demand Rate Adaptation for Mobile Ad Hoc Networks”, ICCCN 2009.
+	•	Nam, G., P. Patankar, S-H. Lim, B. Sharma, G. Kesidis, and C. R. Das. “Clock-like Flow Replace- ment Schemes for Resilient Flow Monitoring”, Twenty-ninth International Conference on Distributed Computing Systems (ICDCS), June 2009.
+	•	Yang Zhang, Jing Zhao, Guohong Cao, Chita R. Das, ”On Interest Locality in Content-Based Routing for Large-scale MANETs”, MASS 2009.
+	•	Reetuparna Das, Onur Mutlu, Thomas Moscibroda, Chita R. Das, “Application-aware prioritization mechanisms for on-chip networks”, Proc. of the 42nd International Symposium on Microarchitecture, (MICRO 2009), pp.180-191, New York.
+	•	Asit K. Mishra, Reetuparna Das, Soumya Eachempati, Ravishankar R. Iyer, Narayanan Vijaykrish- nan, Chita R. Das, “A case for dynamic frequency tuning in on-chip networks”, Proc. of the 42nd International Symposium on Microarchitecture, (MICRO 2009), pp. 292-303, New York.
+	•	Shekhar Srikantaiah, Reetuparna Das, Asit K. Mishra, Chita R. Das, Mahmut T. Kandemir, “A case for integrated processor-cache partitioning in chip multiprocessors”, SC 2009.
+	•	Das, R., O. Mutlu, T. Moscibroda, C. R. Das, “ Aergia: Exploiting Packet Latency Slack in On- Chip Networks”, Proceedings of the ACM/IEEE International Symposium on Computer Architecture (ISCA 2010). pp. 106-116. Saint-Malo, France, June 2010.
+	•	Wu, X., G. Sun, R. Das*, Y. Xie, J. Li, C. R. Das, “ Cost-driven 3D Integration with Interconnect Layers”, Proceedings of the Design Automation Conference, (DAC 2010). pp. 150-155. Anaheim, CA, June 2010.
+	•	Mishra, A., S. Srikantaiah, M. Kandemir, C. R. Das, “ CPM in CMPs: Coordinated Power Manage- ment in Chip-Multiprocessors”, Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, (SC-2010), New Orleans, LA, June 2010.
+	•	Surender, S., R. Narayanan, C. R. Das, “ Performance Analysis of Communications and Radar Co- existence in a Covert UWB OSA System”, Proceedings of the IEEE Global Telecommunications Conference, (GLOBECOM 2010), Miami, FL, 2010.
+
+	•	Mishra, A., S. Srikantiah, M. Kandemir, C. R. Das, “ Coordinated Power Management of Voltage Islands in CMPs”, Proceedings of the International Conference on Measurement and Modeling of Computer Systems, (SIGMETRICS 2010), New York, June 2010.
+	•	Asit K. Mishra, Narayanan Vijaykrishnan, Chita R. Das, “A case for heterogeneous on-chip intercon- nects for CMPs”,International Symposium on Computer Architecture , (ISCA-2011), San Jose, CA, USA.
+	•	Asit K. Mishra, Xiangyu Dong, Guangyu Sun, Yuan Xie, Narayanan Vijaykrishnan, Chita R. Das, “Architecting on-chip interconnects for stacked 3D STT-RAM caches in CMPs”, International Sym- posium on Computer Architecture , (ISCA-2011), San Jose, CA, USA .
+	•	Xiaowei Jiang, Asit K. Mishra, Li Zhao, Ravishankar Iyer, Zhen Fang, Sadagopan Srinivasan, Srihari Makineni, Paul Brett, Chita R. Das, “ACCESS: Smart Scheduling for Asymmetric Cache CMPs” IEEE Symposium on High Performance Computer Architecture , (HPCA-2011).
+	•	Akbar Sharifi, Shekhar Srikantaiah, Asit K. Mishra, Mahmut T. Kandemir, Chita R. Das, “METE: meeting end-to-end QoS in multicores through system-wide resource management”, SIGMETRICS 2011, California, USA.
+	•	Bikash Sharma, Victor Chudnovsky, Joseph L. Hellerstein, Rasekh Rifaat, “Modeling and Synthesiz- ing Task Placement Constraints in Google Compute Clusters”, SOCC 2011, Cascais, Portugal.
+	•	Seung-Hwan Lim, Bikash Sharma, Byung Chul Tak, and Chita R. Das, “A dynamic energy manage- ment in multi-tier data centers”, ISPASS 2011, Austin, TX, USA.
+	•	Seung-Hwan Lim, Jae-Seok Huh, Youngjae Kim, and Chita R. Das, “Migration, Assignment, and Scheduling of Jobs in Virtualized Environment”, Proceedings of the HotCloud 2011, Portland, OR, USA.
+	•	Seung-Hwan Lim, Jae-Seok Huh, Youngjae Kim, Galen Shipman, Chita R. Das, “D-factor: A Quanti- tative Model of Application Slow-down in Multi-resource Shared Systems”, Proceedings of the ACM Sigmetrics/Performance Joint International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2012.
+	•	Bikash Sharma, Ramya Prabhakar, Seung-Hwan Lim, Mahmut T. Kandemir, and Chita R. Das, “MROrchestrator: A Fine-Grained Resource Orchestration Framework for MapReduce Clusters”, Proceedings of the 5th IEEE International Conference on CLOUD, 2012
+	•	Adwait Jog, Asit K. Mishra, Cong Xu, Yuan Xie, Vijaykrishnan Narayanan, Ravishankar Iyer, and Chita R. Das, “Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs.”, Proceedings of the 49th Annual Design Automation Conference DAC ’12, 2012.
+	•	Akbar Sharifi, Asit K. Mishra, Shekhar Srikantaiah, Mahmut Kandemir and Chita R. Das, “PEPON: Performance-Aware Hierarchical Power Budgeting for NoC Based Multicores”, Proceedings of the 21st Parallel Architectures and Compilation Techniques PACT, 2012.
+	•	Nachiappan Chidambaram N., Asit K. Mishra, Mahmut Kandemir, Anand Sivasubramaniam, Onur Mutlu and Chita R. Das, “Application-aware Prefetch Prioritization in On-chip Networks”, Proceed- ings of the 21st Parallel Architectures and Compilation Techniques PACT, 2012.
+	•	Akbar Sharifi, Emre Kultursay, Mahmut Kandemir and Chita R. Das, “Addressing End-to-End Mem- ory Access Latency in NoC Based Multicores”, Proceedings of the 45th International Symposium on Microarchitecture, MICRO, 2012.
+	•	Adwait Jog, Onur kayiran, Nachiappan Chidambaram N., Asit K. Mishra, Mahmut Kandemir, Onur Mutlu, Ravishankar Iyer, and Chita R. Das, “OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance”, Proceedings of 18th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS, 2013.
+
+	•	Asit K. Mishra, Onur Mutlu, and Chita R. Das, “Design of Heterogeneous On-Chip Networks: An Application Driven Approach”, Proceedings of the 50th IEEE/ACM Design automation conference, DAC, 2013.
+	•	Bikash Sharma, Timothy Wood, and Chita R. Das, “HybridMR: A Hierarchical MapReduce Sched- uler for Hybrid Data Centers”, Proceedings of the 33rd IEEE International Conference on Distributed Computing Systems, ICDCS, 2013.
+	•	Bikash Sharma, Praveen Jayachandran, Akshat Verma, and Chita R. Das, “CloudPD: Problem Deter- mination and Diagnosis in Shared Dynamic Clouds”, Proceedings of the 43rd IEEE/IFIP International Conference on Dependable Systems and Networks, DSN, 2013.
+	•	Onur Kayiran, Adwait Jog, Mahmut T. Kandemir, and Chita R. Das, “Neither More Nor Less: Op- timizing Thread-level Parallelism for GPGPUs”, Proceedings of the 22nd Parallel Architectures and Compilation Techniques PACT, 2013.
+	•	Praveen Yedlapalli, Jagadish Kotra, Emre Kultursay, Chita Das, Mahmut Kandemir, and Anand Sivasubramaniam, “Meeting Midway: Improving DRAM Performance and Off-Chip Latencies with Memory-Side Prefetching”, Proceedings of the 22nd Parallel Architectures and Compilation Tech- niques PACT, 2013.
+	•	Adwait Jog, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, Ravi Iyer, and Chita
+R. Das, “Orchestrated Scheduling and Prefetching for GPGPUs”, Proceedings of the 40th Interna- tional Symposium on Computer Architecture, ISCA, 2013.
+	•	Nachiappan Chidambaram Nachiappan, Praveen Yedlapalli, Niranjan Soundararajan, Mahmut T. Kandemir, Anand Sivasubramaniam, and Chita R. Das, “GemDroid: a framework to evaluate mobile platforms”, Proceedings of the 40th ACM International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS, 2014
+	•	Praveen Yedlapalli, Nachiappan Chidambaram Nachiappan, Niranjan Soundararajan, Anand Sivasub- ramaniam, Mahmut T. Kandemir, and Chita R. Das, “Short-Circuiting Memory Traffic in Handheld Platforms”, Proceedings of the 47th International Symposium on Microarchitecture, MICRO, 2014.
+	•	Onur Kayiran, Nachiappan Chidambaram Nachiappan, Adwait Jog, Rachata Ausavarungnirun, Mah- mut T. Kandemir, Gabriel H. Loh, Onur Mutlu, and Chita R. Das, “Managing GPU Concurrency in Heterogeneous Architectures”, Proceedings of the 47th International Symposium on Microarchitec- ture, MICRO, 2014.
+	•	Wei Ding, Mahmut T. Kandemir, Diana Guttman, Adwait Jog, Chita R. Das, and Praveen Yedlapalli, “Trading cache hit rate for memory performance”, Proceedings of the 23rd Parallel Architectures and Compilation Techniques PACT, 2014.
+	•	Adwait Jog, Onur Kayiran, Tuba Kesten, Ashutosh Pattnaik, Evgeny Bolotin, Niladrish Chatterjee, Stephen W. Keckler, Mahmut T. Kandemir, and Chita R. Das, “Anatomy of GPU Memory System for Multi-Application Execution”, Proceedings of the 1st International Symposium on Memory Systems MEMSYS, 2015.
+	•	Nachiappan Chidambaram Nachiappan, Haibo Zhang, Jihyun Ryoo, Niranjan Soundararajan, Anand Sivasubramaniam, Mahmut T. Kandemir, Ravishankar Iyer,  and Chita R. Das, “VIP: virtualizing IP chains on handheld platforms”, Proceedings of the 42nd International Symposium on Computer Architecture, ISCA, 2015.
+	•	Nandita Vijaykumar, Gennady Pekhimenko, Adwait Jog, Abhishek Bhowmick, Rachata Ausavarung- nirun, Chita R. Das, Mahmut T. Kandemir, Todd C. Mowry, and Onur Mutlu, “A case for core-assisted bottleneck acceleration in GPUs: enabling flexible data compression with assist warps”, Proceedings of the 42nd International Symposium on Computer Architecture, ISCA, 2015.
+
+	•	Diman Zad Tootaghaj, Farshid Farhat, Mohammad Arjomand, Paolo Faraboschi, Mahmut Taylan Kandemir, Anand Sivasubramaniam, and Chita R. Das, “Evaluating the Combined Impact of Node Architecture and Cloud Workload Characteristics on Network Traffic and Performance/Cost”, Pro- ceedings of the International Symposium on Workload Characterization, IISWC, 2015.
+	•	Nachiappan Chidambaram Nachiappan, Praveen Yedlapalli, Niranjan Soundararajan, Anand Siva- subramaniam, Mahmut T. Kandemir, Ravishankar Iyer, and Chita R. Das, “Domain knowledge based energy management in handhelds”, IEEE 21st International Symposium on High Performance Com- puter Architecture, HPCA, 2015.
+	•	Prasanna Venkatesh Rengasamy, Anand Sivasubramaniam, Mahmut T. Kandemir, and Chita R. Das, “Exploiting Staleness for Approximating Loads on CMPs”, Proceedings of the 24th Parallel Archi- tectures and Compilation Techniques, PACT, 2015.
+	•	Rachata Ausavarungnirun, Saugata Ghose, Onur Kayiran, Gabriel H. Loh, Chita R. Das, Mahmut
+T. Kandemir, and Onur Mutlu, “Exploiting Inter-Warp Heterogeneity to Improve GPGPU Perfor- mance”,Proceedings of the 24th Parallel Architectures and Compilation Techniques, PACT, 2015.
+	•	Adwait Jog, Onur Kayiran, Ashutosh Pattnaik, Mahmut T. Kandemir, Onur Mutlu, Ravishankar Iyer, and Chita R. Das, “Exploiting Core Criticality for Enhanced GPU Performance”, Proceedings of the 42nd ACM International Conference on Measurement and Modeling of Computer Systems, SIGMET- RICS, 2016.
+	•	Mohammad Arjomand, Mahmut T. Kandemir, Anand Sivasubramaniam, and Chita R. Das, “Boosting Access Parallelism to PCM-Based Main Memory”, Proceedings of the 43nd International Symposium on Computer Architecture, ISCA, 2016.
+	•	Jagadish Kotra, Mohammad Arjomand, Diana Guttman, Mahmut T. Kandemir, and Chita R. Das, “Re-NUCA: A Practical NUCA Architecture for ReRAM Based Last-Level Caches ”, Proceedings of the 30th International Parallel & Distributed Processing Symposium, IPDPS, 2016.
+	•	Ashutosh Pattnaik, Xulong Tang, Adwait Jog, Onur Kayiran, Asit K. Mishra, Mahmut T. Kandemir, Onur Mutlu, and Chita R. Das, “Scheduling Techniques for GPU Architectures with Processing-In- Memory Capabilities”, Proceedings of the 25th Parallel Architectures and Compilation Techniques, PACT, 2016.
+	•	Onur Kayiran, Adwait Jog, Ashutosh Pattnaik, Rachata Ausavarungnirun, Xulong Tang, Mahmut T. Kandemir, Gabriel H. Loh, Onur Mutlu, and Chita R. Das, “µC-States: Fine-grained GPU Datapath Power Management”, Proceedings of the 25th Parallel Architectures and Compilation Techniques, PACT, 2016.
+	•	Jia Zhan, Onur Kayiran, Gabriel H. Loh, Chita R. Das, and Yuan Xie, “OSCAR: Orchestrating STT- RAM Cache Traffic for Heterogeneous CPU-GPU Architectures”, Proceedings of the 49th Interna- tional Symposium on Microarchitecture, MICRO, 2016.
+	•	Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, Adwait Jog, Sreepathi Pai, Mohamed Ibrahim, Mahmut T. Kandemir, and Chita R. Das, “Controlled Kernel Launch for Dynamic Paral- lelism in GPUs”, IEEE 23st International Symposium on High Performance Computer Architecture, HPCA, 2017
+
+Books or Parts of Books
+Das, C. R., L. N. Bhuyan, and V. V. S. Sarma, “Effect of Maintenance on the Dependability and Per- formance of Multiprocessor Systems,” IEEE Tutorial on Advances in Distributed System Reliability, pp. 59-66, 1990.
+
+Macaluso, J., C. R. Das, and W. Lin, “A Reliability Predictor for MIN-Connected Multiprocessor Systems,”
+IEEE Tutorial on Advances in Distributed System Reliability, pp. 260-273, 1990.
+Kim, J., C. R. Das, and W. Lin, “A Top-Down Processor Allocation Scheme for Hypercube Computers,” In- terconnection Networks for High Performance parallel Computers, pp. 620-630, Edited by I. D. Scherson and A. S. Youssef, IEEE Computer Society Press.
+Yousif, M. S., M. J. Thazhuthaveetil, and C. R. Das, “Cache Coherence in Multiprocessors: A Survey,”
+Advances in Computers, 40:127-179, Academic Press, August 1995.
+Kim, J. and C. R. Das, “Modeling Wormhole Routing In a Hypercube,” IEEE Tutorial on Multiprocessor Performance measurement and Evaluation, pp. 383-390, 1995.
+Das, C. R. and P. Mohapatra, “Dependability Modeling of Parallel and Distributed Computers,” In Chapter 7, Parallel Computing: Paradigms and Applications, edited by A. Y. Zomaya, International Thomson Computer Press, 1996.
+Kim, E. J., K. H. Yum, and C. R. Das, ”Introduction to Analytical Models”, Performance Evaluation and Benchmarking, CRC Press, Taylor and Francis, 2005.
+Lim, Sun-Ho, C. Yu, and C. R. Das, “Randomized Overhearing to Improve Routing and Energy Perfor- mance in Mobile Ad Hoc Networks,” In Performance Analysis of Mobile and Ad Hoc Networks, Chapter 6, pp. 115-134, Nova Science Publishers Inc., Nov 2006.
+Yu, C. S. and C. R. Das, ”Performance modeling of mobile Ad-hoc networks,” book series in Wireless and Ad-hoc networks, 2006.
+Eachempati, S., D. Park, R. Das, A. K. Mishra, N. Vijaykrishnan, Y. Xie, C. R. Das, “Three-Dimensional On-Chip Interconnect Architectures”, Designing Network On-Chip Architectures in the Nanoscale Era, J. Flich, D. Bertozzi, Editors. Chapman & Hall/CRC Computational Science, December 2010.
+C. Nicopoulos, N. Vijayakrishnan and C. R. Das, “Network-On-Chip Architectures: A Holistic Design Exploration”, Lecture Notes in Electrical Engineering, Vol. 45, Springer, 2009.
+Eachempati, S., R. Das, N. Vijaykrishnan, Y. Xie, S. Datta, C. R. Das. “HeTERO: Hybrid Topology Exploration for RF Based On Chip Networks”, Communication Architectures for Systems-on-Chip, CRC Press, February 2011.
+
+Student Supervision:
+Ph.D. Students : 38 (31 completed)
+J. Kim (POSTECH, Korea), M. S. Yousif (IBM), M. K. Yang (University of Ulsan, Korea), P. Moha- patra (UC, Davis), N. Marchaoui (IBM), C. Yu (Cleveland State Univ.), Y.  Boura (Pyramid Co.), B.
+S. Yoo (LL Nat’l Lab), A. Vaidya (NVIDIA), S. Kim (San Jose State Univ.), M. Kasbekar (Akamai),
+K. H. Yum (UTexas, San Antonio), N. Sarhan (Wayne State Univ.), E. J. Kim (Texas A&M Univ.), X. Deng (CDC), S. Lim (Texas Tech, Lubbock), S. Yi (ETRI, Korea), G. S. Choi (Yeungnam University, Korea), J. H. Kim (Samsung, Korea), J. M. Kim (Georgia Tech), D. Ersoz (Cisco), D. Park (Intel), P. Pat- naker (Cisco), R. Das (Univ. of Michigan), A. K. Mishra (Intel), S. Surender (Cisco), S. Lim (Oak Ridge Natl. Lab), B. Sharma (Microsoft), A. Jog (College of William & Mary), O. Kayiran (AMD Research), N. Chidambaram (Apple)
+M.S. Students : 55+
+B.S. (Honors Students): 15+
+
+Courses Taught:
+Logical Design of Digital Systems, Fault-Tolerant Systems, Performance Evaluation, Computer Architec- ture, Data Communication Networks, Multiprocessor Architecture, Network-on-Chip (NoC) architectures, Parallel I/O, Internet QoS.
+
+Research Grants:
+Dependability and Performance Models for Parallel Computers. National Science Foundation, Research Initiation, PI, 1988-89, $59,400.
+An Educational Supplement Proposal for Developing a System Modeling Package for Undergraduate Ed- ucation. Supplemental support to Research Initiation, National Science Foundation, PI, 1989-90, $20,000.
+Evaluation of Parallel Architecture for BM/C3 Applications (with T.-Y. Feng, W. Lin, M. J. Thazhutha- veetil). Rome Air Development Center, Co-PI, 1988-89, $500,000.
+Evaluation Technique for Hypercube and MIN-Based Architectures. National Science Foundation, (with T.-Y.Feng), Co-PI, 1991-94, $253,777.
+Low Cost Adaptive Routing Algorithms for n-Dimensional Meshes. National Science Foundation, PI, 1994-1996, $116,969.
+Parallelization of Fire Growth Codes. NASA/STIR, (with A. Kulkarni), Co-PI, 1995-1996, $6,000.
+A Proposal for the Revision of the Logic Design of Digital Systems Course. College of Engineering, PI, 1995-1996, $8,500.
+Application-Driven Network Performance Evaluation. National Science Foundation, PI, 1996-1999, $224,496.
+Developing and Evaluating Low-cost Communication for a Network of Workstations. IBM/SUR Equip- ment, (with A. Sivasubramaniam), PI, 1996-1997, $193,240.
+CISE Research Instrumentation for Developing a NOW Platform for Parallel Processing. National Science Foundation, (with A. Sivasubramaniam), PI, 1997-1998, $110,550.
+Application-Driven Network Performance Evaluation. REU Supplement, National Science Foundation, PI, 1997-1998, $10,000.
+A Low-Cost High Performance Computing Platform. CISE Research Instrumentation. National Science Foundation, (with A. Sivasubramaniam), PI, 1999-2001, $79,973.
+An Integrated Approach for Quality of Service in Cluster Networks. National Science Foundation, (with A. Sivasubramaniam), PI, 1999-2002, $380,365.
+Performance Modeling of Unisys Computer Systems. PI, Unisys Corporation, 1999-2003, $140,000.
+MediaWorm: A Single-Chip Router Architecture. Pennsylvania/Pittsburgh Digital Greenhouse Consor- tium, (with M. J. Irwin, V. Narayanan), PI, 2000-2001, $298,481.
+Scalable and Efficient Scheduling Techniques for Clusters. National Science Foundation, PI, 2001-2004,
+$254,883.
+QoS Provisioning in InfiniBand Architecture (IBA) for System Area Networks. National Science Founda- tion, PI, 2002-2005, $331,964.
+
+I3C: An Infrastructure for Innovation in Information Computing. Research Infrastructure Grant, Na- tional Science Foundation, (with R. Acharya, C. L. Giles, M. J. Irwin, and P. Raghavan), PI, 2002-2008,
+$2,561,036 (includes $765,307 University matching).
+
+Exploring Network-on-Chip (NoC) Architecture Design Space. National Science Foundation, PI, 2004- 2008, $190,000.
+Exploring Cluster-Based Data Center Design Space for High Performance and Dependability. National Science Foundation, PI, 2005-2008, $346,529.
+Purposeful Node Mobility for Mission-Oriented Sensor Networks. National Science Foundation, (with G. Cao, T. Laporta, and G. Kesidis), 2005-2008, $450,000.
+Protecting TCP Congestion Control: Tools for Design, Analysis, and Emulation. National Science Foun- dation, Co-PI, (with G. Kesidis), 2005-2008, $350,000, total grant with Purdue University $675,000.
+Impact of User-Level Communication on Data Center Performance. Intel Research, PI, 2005-2008, $195,000. Performance and Energy-Efficient Network-on-Chip (NoC) Architectures. Intel Research, PI, 2006-2009,
+$150,000.
+
+Randomized Session-Memory Purging in Internet Routers. Cisco, (with G. Kesidis), Co-PI, 2007-2009,
+$98,540.
+
+HoDoo: Holistic Design of On-chip Interconnects. National Science Foundation, (with V. Narayanan and Yuan Xie), PI, 2007-2010, $630,894.
+Collaborative Data Access in Wireless P2P Networks. National Science Foundation, (with G. Cao), Co-PI, 2007-2010, $600,000.
+Investigating Resource Contracts with Statistical Guarantees for Google Data Centers. Google Research, PI, 2010-2011, $65,000.
+Exploring Design of On-Chip Interconnects for SoC/CMP Architectures. Intel Research, PI, 2010-2011,
+$75,000.
+
+Data Center on a Chip: Design Space Exploration. Intel Research, PI, 2010-2011, $50,000.
+
+Harnessing Cross-Layer Heterogeneity for future CMPs. National Science Foundation - EAGER, (with A. Sivasubramaniam, V. Narayanan, Y. Xie and M. Kandemir), PI, 2011-2012, $300,000.
+Exploring Managed Soft Computing for Data Intensive Applications. National Science Foundation - EA- GER, (with A. Sivasubramaniam and M. Kandemir), PI, 2011-2012, $300,000.
+Architecting the Next Generation Memory Hierarchy - A Holistic Approach. National Science Foundation
+- (with M. Kandemir, A. Sivasubramaniam, O. Mutlu, and Y. Xie), PI, 2012-2016, $1,700,000.
+
+INSpiRE: Infrastructure for heterogeNeous System ResEarch. National Science Foundation - (with M. Kandemir, A. Sivasubramaniam, V. Narayanan and D. Kiefer), PI, 2012-2015, $550,000.
+Breaking the Physical Divide Between Computation and NAND-Flash Storage. National Science Founda- tion - (with M. Kandemir and A. Sivasubramaniam), Co-PI, 2013-2016, $800,000.
+
+Visual Cortex on Silicon. National Science Foundation Expeditions - (with Vijaykrishnan Narayanan, John Carroll, Mary Beth Rosson, C. Giles), Co-PI, 2013-2018, $4,913,456.
+PROM in Clouds: Exploiting Scheduling for Performance Optimization in Clouds. National Science Foun- dation, PI, 2013-2018, $495,197.
+Extracting Scalable Parallelism by Relaxing the Contracts across the System Stack. National Science Foundation - (with M. Kandemir and A. Sivasubramaniam), Co-PI, 2013-2016, $850,000.
+Enabling GPUs as First Class Computing Engines. National Science Foundation - (with M. Kandemir), Co-PI, 2014-2017, $484,068.
+Virtualizing Coordinated Resource Management of Flows on Handhelds with VIADUCT. National Science Foundation - (with A. Sivasubramaniam and M. Kandemir), Co-PI, 2015-2018, $499,998.
+A Fresh Look at Near Data Computing: Coordinated Data and Computation Government. National Science Foundation - (with M. Kandemir and A. Sivasubramaniam), Co-PI, 2016-2019, $875,000.
+GEMDROID: A Comprehensive Platform for Studying Architectural Issues for Next Generation Mobile Systems. National Science Foundation - (with A. Sivasubramaniam and M. Kandemir), PI, 2016-2019,
+$1,000,000.
+
+Honors and Awards:
+Fellow of IEEE ISCA Hall of Fame HPCA Hall of Fame
+Daniel L. Slotnick Award for the Best Original Paper: A Processor Allocation Scheme for Hypercube Computers, International Conference on Parallel Processing, Aug. 1989.
+IEEE Computer Society Outstanding Paper Award: Modeling Wormhole Routing in a Hypercube, Inter- national Conference on Distributed Computing Systems, May 1991.
+Best Paper Award: Selective Checkpointing and Rollbacks in Multi-threaded Object-oriented Environ- ment, Pacific-Rim Dependable Computing (PRDC) Symposium December 1999.
+Teaching Award: Department of Computer Science and Engineering, 2001.
+
+Nominated for Best paper Award: Performance Comparison of Cache Invalidation strategies for Internet- based Mobile Ad Hoc networks. International Conference on Mobile Ad-hoc and Sensor Systems (MASS), Oct. 2004.
+Nominated for Best paper Award: Coscheduling in Clusters: Is it a Viable Alternative?, Super Computing, (SC), Nov. 2004.
+IEEE Computer Society Voluntary Service Award: for HPCA 2006, Program Chair, Austin, Texas, 2006.
+
+Outstanding Achievement Award: IEEE Technical Committee on Distributed Systems (TCDP).
+
+Distinguished Service Award: IEEE Computer Society for Chairing the Fellow Selection Committee.
+
+IEEE Computer Society Outstanding Service Award: for HPCA-2010, General Co-Chair, Bangalore, India, 2010.
+IEEE MICRO Top Picks: Aergia: Exploiting Packet Latency Slack in On-Chip Networks, Special Issue: IEEE Micro’s Top Picks from 2010 Computer Architecture Conferences, Jan/Feb 2011.
+
+Department/College Committee Activities:
+Chair, College of Engineering Chair Professor Evaluation Committee, 2004-2006 Chair, Search Committee for Department Head, Computer Science and Engineering Chair, Department Promotion and Tenure Committee
+Chair, Department Faculty Search Committee Chair, Department Graduate Committee Chair, Department Award Committee
+Member, College of Engineering Graduate Council Member, University Graduate Council
+Member, Department Promotion and Tenure Committee, Faculty Search Committee, Graduate Committee, Member, Personnel Committee, Undergraduate Committee, Teaching Load Committee, IT Committee, EECS Strategic Committee
+Member, College AD-14 Administrative Review Committee Member, Non-tenure Track (NTT) Committee
+Member, EECS Director Search Committee and Award Committee.
+
+Selected Professional Society Activities:
+Editorial and Technical Committee Activities:
+Associate Editor, IEEE Transactions on Parallel and Distributed Systems, 1994-1997
+Member, Advisory Board, IEEE Technical Committee on Computer Architecture (TCCA), 1995-1998 Associate Editor, IEEE Transactions on Computers, 2001-2004
+Chair, IEEE Technical Committee on Distributed Processing (TCDP), 2002-2004. Fellow Selection Committee, IEEE (CS) Fellow Selection Committee, 2002-2005. Chair, IEEE TPDS Editor-In-Chief evaluation Committee, 2002-2003.
+Editor-in-Chief Search Committee member, IEEE Transactions on Dependable and Secure Computing, 2003.
+Editor-in-Chief Search Committee member, IEEE Transactions on Computers, 2004.
+Chair, Editor-in-Chief Search Committee, IEEE Transactions on Parallel and Distributed Systems, 2006. Chair, IEEE Computer Society Conference Publications Operations Committee (CPOC), 2007-2009.
+Vice-Chair, IEEE Computer Society Fellow Selection Committee, 2007-2008. Chair, IEEE Computer Society Fellow Selection Committee, 2008-2009.
+Member, Advisory Board, Indian Institute of Technology, Bhubaneswar, 2009-present
+Member, Advisory Board, IEEE Technical Committee on Computer Architecture (TCCA), 2010-present Member, Advisory Board, SoA University, Bhubaneswar, 2014-present
+Steering Committee, International Conference on Information Technology (ICIT), India
+
+Selected Program Committee Activities:
+Program Committee Member of various international Conferences such as ISCA, HPCA, MICRO, SIG- METRICS, ICDCS, IPDPS, PACT, ICAC, ICPP, ICS, FTCS, DSN, ANCS, PRDC, MASCOT, ADCOM,
+EEHiPC and HiPC.
+General Co-Chair, International Conference on Parallel Processing, 1996
+General Chair, Euro-Par Workshop on Routing and Communication in Networks, 1997
+
+Program Chair, 6th International Conference on Advanced Computing , 1998 Workshop Chair, International Conference on Parallel Processing (ICPP), 1998 Program Chair, 7th International Conference on Advanced Computing , 1999
+General Chair, International Conference on Information Technology, India, December 2001 Program Chair, IEEE Symposium on High Performance Computer Architecture (HPCA-2006).
+Program Vice-Chair, 28th International Conference on Distributed Computing Systems, (ICDCS-2008) Steering Committee Member, Workshop on Advancing Computer Architecture Research (ACAR-1), 2010 Steering Committee Member, Workshop on Advancing Computer Architecture Research (ACAR-2), 2010 General Co-Chair, IEEE Symposium on High Performance Computer Architecture (HPCA), 2010 Steering Committee Member, IEEE Symposium on High Performance Computer Architecture (HPCA), 2010
+Steering Committee Member, IEEE Symposium on High Performance Computer Architecture (HPCA), 2011
+Steering Committee Member, International Symposium on Computer Architecture (ISCA), 2011 Program Co-Chair, Sixth International Symposium on Network on Chip (NOCS-2012), Denmark General Co-Chair, Seventh International Symposium on Network on Chip (NOCS-2013), Arizona Steering Committee Member, International Symposium on Network on Chip (NOCS 2013- Present)
+Program Co-Chair, Eleventh Symposium on Architectures for Networking and Communications Systems
+(ANCS-2015), California
+
+Government Administrative Activities:
+Program Director, Computer Architecture Program, National Science Foundation, CISE/CCF Division, 2008-2010

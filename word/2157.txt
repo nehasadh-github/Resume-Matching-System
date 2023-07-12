@@ -1,0 +1,1356 @@
+
+Testing the transpression hypothesis in the western part of the Cheyenne belt, Medicine Bow Mountains, southeastern Wyoming
+W. A. Sullivan1*, R. J. Beane2, E. N. Beck1, W. H. Fereday1, A. M. Roberts-Pierel2
+1 Department of Geology, Colby College, 5803 Mayflower Hill, Waterville, Maine 04901, U.S.A.
+2 Department of Earth and Oceanographic Science, Bowdoin College, 6800 College Station, Brunswick, Maine 04011, U.S.A.
+*Correspondence should be addressed to: wasulliv@colby.edu
+ABSTRACT
+
+A system of subvertical, northeast-striking shear zones collectively called the Cheyenne belt comprises the fundamental boundary between the Archean Wyoming province and the Paleoproterozoic Colorado province in the Medicine Bow Mountains of southeastern Wyoming. These shear zones are generally interpreted as a mid-crustal thrust system rotated to its present-day subvertical orientation during late-stage, orogen-scale folding. However, the map geometry, presence of large domains of S tectonites, and vertical mineral lineations closely match numerical simulations of transpressional shear zones. This transpression hypothesis is tested using two detailed case studies that integrate detailed geologic mapping, kinematic analyses of S and L-S tectonites, quartz crystallographic fabric analyses, and deformation mechanism analyses of shear zones in the western part of the Medicine Bow Mountains. These data point toward general shear deformation that accommodated two coeval deformation components: (1) southeast-side-up, dip-slip or southeast-side-up/ dextral, oblique-slip motion and (2) foliation-normal shortening. According to the broadest definition, these are transpressional shear zones. However, the strike-slip component is small, and these data do not require any significant oblique plate motion during the formation of the Cheyenne belt shear zones.
+The lack of evidence for overprinting of initial southeast-side-up fabrics by horizontal shortening, the near parallelism of the subvertical shear zones throughout the upper and middle crust, and the presence of subvertical mafic dike swarms in Archean basement rocks immediately adjacent to the Cheyenne belt all indicate that the Cheyenne belt shear zones were not rotated into their present-day subvertical orientations during late-stage deformation. Instead, we interpret the shear zones as a ~1,750-Ma steeply dipping stretching fault system between the penetratively deformed young, hot, rheologically weak rocks of the Colorado province and the old, cold, rheologically strong Archean rocks north of the belt.
+KEY WORDS: Cheyenne belt, kinematic analysis, quartz crystallographic fabric, shear zone, transpression.
+
+
+INTRODUCTION
+
+Between ~1,800 and 1,600 Ma, a belt of juvenile crust more than 1000-km wide was added to the southern boundary (present-day coordinates) of the Archean Wyoming province (e.g. Condie, 1982; Bickford et al., 1986; Reed et al., 1987; Karlstrom and Bowring, 1988; Sims and Stein, 2003). The northeast–southwest-striking deformation zones that make up the fundamental boundary between the Archean Wyoming province and the 1,600–1,800- Ma Colorado province to the south, known as the Cheyenne belt, are well exposed in the Medicine
+ Bow Mountains of southeastern Wyoming (Fig. 1) (Houston et al., 1968; Hills and Houston, 1979; Karlstrom and Houston, 1984; Duebendorfer and Houston, 1987; Duebendorfer, 1990; Houston and Karlstrom, 1992). In the Medicine Bow Mountains, the Cheyenne belt appears as an eastward-branching set of ~1,750-Ma, subvertical to steeply dipping, high-temperature shear zones variably overprinted by low-temperature shear zones and frictional/brittle faults of a variety of ages (Houston et al., 1968; Duebendorfer and Houston, 1987; Duebendorfer, 1990; Houston and Karlstrom, 1992). The generally accepted interpretation is that terrane juxtaposition
+
+
+
+
+SUPERIOR
+
+
+
+
+
+Area of main map
+
+TR
+
+
+
+North Mullen	N
+Creek locality, Figure 8
+
+
+
+
+North Platte River locality, Figure 3
+ 
+Chyenne belt
+
+
+
+
+
+
+
+
+Sierra Madre
+ Medicine Bow Mountains
+
+
+
+
+Wyoming Colorado 
+Post-tectonic rocks
+1,400-Ma
+granite
+Precambrian structures
+Plastic shear zone
+Brittle fault
+ 
+
+Colorado Province
+1,600–1,800-Ma
+metamorphic
+and intrusive rocks
+Uncertain affinity
+Barber Lake terrane paragneiss and granite
+Bear Lake
+terrane orthogneiss
+ 
+
+Snowy Pass Supergroup
+Undifferentiated
+Upper Libby Creek Group
+Archean Wyoming Province Archean metasedimentary rocks
+Archean granite and orthogneiss
+ 
+
+
+
+Lower Libby Creek Group
+Deep Lake Group
+
+
+Figure 1. Map of Precambrian rocks in the Medicine Bow Mountains and Sierra Madre in southeastern Wyoming showing the locations of major fault zones of the Cheyenne belt. The areas of Figures 3 and 8 are also shown. Inset map shows the major Precambrian basement provinces of the western United States and western Canada. Compiled from Houston et al. (1968), Duebendorfer (1990), Karlstrom and Houston (1992), Houston and Graff (1995), and Resor and Snoke (2005).
+
+
+across the Cheyenne belt in the Medicine Bow Mountains was largely accomplished by the ~1,750- Ma, high-temperature plastic shear zones, and that subsequent faulting had only a minor effect on the terrane boundaries (Duebendorfer, 1986; Duebendorfer and Houston, 1986, 1987).
+Historically, the Cheyenne belt shear zones have been interpreted as part of a strike-slip fault
+ system (Warner, 1978), as a high-angle reverse-fault system representing a paleo-subduction zone (Hills and Houston, 1979), and as a low-angle thrust-fault system rotated into its present subvertical orientation during late-stage, orogen-scale folding (Karlstrom and Houston, 1984; Duebendorfer and Houston, 1986, 1987; Duebendorfer, 1988). The latter of these interpretations is the most widely accepted. Evidence
+
+for reverse- and/or thrust-sense motion along the Cheyenne belt shear zones includes: (1) the shear zones generally place rocks deformed at relatively high temperatures on the southeast side against rocks deformed at lower temperatures on the northwest side (Hills and Houston, 1979; Karlstrom and Houston, 1984; Duebendorfer and Houston, 1987), (2) in the central and eastern Medicine Bow Mountains there is a well-developed metamorphic gradient in pelitic rocks north of the frontal shear zone (Duebendorfer, 1988), and (3) kinematic analyses of mylonitic rocks with steeply plunging mineral lineations in the frontal shear zone indicate southeast-side-up motion (Duebendorfer, 1986; Duebendorfer and Houston, 1986, 1987). This evidence largely comes from a range-scale synthesis of the Cheyenne belt that was state of the art when it was published in the mid to late 1980s (Duebendorfer, 1986; Duebendorfer and Houston, 1986, 1987; Duebendorfer, 1988).
+However, this range-scale interpretation is now ready to be updated for three main reasons. First, in many localities rocks cut by the shear zones are almost all S tectonites, and systematic kinematic analyses of these S tectonites have not been published. Second, the existing kinematic interpretation is based on a regional synthesis of samples collected across the entire 40-km length of exposure in the Medicine Bow Mountains (Duebendorfer, 1986; Duebendorfer and Houston, 1986, 1987), and more detailed across- strike kinematic analyses of individual shear zones may reveal significant strain path partitioning. Third, our understanding of plastic high-strain zones and the techniques available to analyze them has increased significantly in the past 25 years.
+In the past two decades, a number of numerical simulations of transpressional shear zones have been developed (e.g., Fossen and Tikoff, 1993; Dutton, 1997; Jiang and Williams, 1998; Jones et al., 2004; Fernández and Díaz-Azpiroz, 2009). These simulations generally combine two components of deformation: (1) a coaxial component that accommodates horizontal shortening at a high angle to the shear zone boundaries coupled with vertical elongation accommodating extrusion out of the zone, and (2) a simple-shear component of deformation that accommodates transcurrent motion (Fig. 2A). various simulations combine these two deformation components in different ways. The simplest models utilize a monoclinic kinematic geometry with the
+ axis of rotation, or vorticity vector, of the simple- shear component parallel with one of the principal elongation directions of the coaxial component (Fig. 2A)(e.g., Fossen and Tikoff, 1993). More complex models use triclinic kinematic geometries with the vorticity vector oblique to all three principal elongation directions of the coaxial component (e.g., Lin et al., 1998; Jones et al., 2004; Fernández and Díaz-Azpiroz, 2009).
+All of these transpression models make two important predictions. First, even in simple-shear- dominated, nearly strike-slip shear zones, the maximum finite elongation direction will become parallel with the maximum elongation direction of the coaxial component of deformation in the interiors of the shear zones at high finite strains. This should lead to subvertical elongation lineations if material is extruded vertically (Fig. 2B). Second, transpressional shear zones in which material is extruded vertically will exhibit strain in the flattening field (Fig. 2B). Therefore, the internal geometry of the Cheyenne belt shear zones closely matches the predictions of these transpression models with subvertical foliations, steeply plunging mineral lineations, and large domains of S and S>L tectonites indicating strain in the flattening field. Additionally, the regional map pattern of the Cheyenne belt shear zones and related large-scale folding north of the Cheyenne belt in the Medicine Bow Mountains closely resembles a horse-tail splay in a strike-slip fault system (Fig 1). Finally, the component of southeast-side-up motion recorded by L-S tectonites in the frontal shear zone may have predominately acted as a stretching fault that accommodated vertical extrusion of material related to shear-zone-normal shortening rather than significant southeast-side-up tectonic transport. In this model, the metamorphic gradient in pelitic rocks north of the frontal shear zone (Duebendorfer, 1988) would result from vertical extrusion of hot lower- crustal rocks and is analogous to a contact aureole surrounding an igneous intrusion.
+If the Cheyenne belt shear zones record significant strike-slip motion, then existing plate tectonic and structural models of terrane amalgamation along the southern margin of the Wyoming province (Duebendorfer and Houston, 1986, 1987; Chamberlain, 1998) need to be revised. To test this transpression hypothesis for the Cheyenne belt, we present two detailed case
+
+
+A.
+
+
+
+
+
+
+
+Undeformed
+B.
+
+X/Y
+
+
+
+
+
+
+
+
+
+10	100
+Y/Z
+ northeast-striking, subvertical deformation zones that separate distinct lithotectonic terranes (Fig. 1) (Houston et al., 1968; Hills and Houston, 1979; Karlstrom and Houston, 1984; Duebendorfer and Houston, 1986, 1987; Duebendorfer, 1990; Karlstrom and Houston, 1992). In the western foothills of the range, a single 500 -m-wide deformation zone separates Archean rocks from rocks assigned to the Paleoproterozoic Colorado province to the southeast (Houston et al., 1968; Duebendorfer, 1990; Karlstrom and Houston, 1992). Just east of the north Platte River, the Cheyenne belt splits into two or more strands, and in the eastern Medicine Bow Mountains the belt appears as four deformation zones (Fig. 1)(Houston et al., 1968; Duebendorfer, 1990; Karlstrom and Houston, 1992). Duebendorfer and Houston (1986) named the northern three deformation zones the northern mylonite zone, the
+
+Deformed
+
+studies of the high-temperature shear zones in the western part of the Medicine Bow Mountains (Fig. 1) that integrate detailed geologic mapping, kinematic analyses of S and L-S tectonites, quartz crystallographic fabric analyses, and deformation mechanism analyses. The case study areas are herein referred to as the north Platte River locality and the north Mullen Creek locality. We selected these areas because the shear zones are well exposed, because they cut rock types that produce useful kinematic indicators, and because the Cheyenne belt appears as a single deformation zone at the north Platte River locality.
+REGIONAL GEOLOGIC SETTING
+
+In the Medicine Bow Mountains the Cheyenne belt appears as an eastward-branching set of
+ central mylonite zone, and the southern mylonite zone. Most authors have agreed that terrane juxtaposition was largely accomplished by ~1,750- Ma plastic deformation under amphibolite-facies conditions (Duebendorfer and Houston, 1986, 1987; Strickland et al., 2004; Jones et al., 2010).
+north of the Cheyenne belt, Archean banded gneiss, gneissic granite, and metasedimentary rocks are unconformably overlain by the Deep Lake, Lower Libby Creek, and Upper Libby Creek Groups of the Paleoproterozoic Snowy Pass Supergroup (Fig. 1)(Houston et al., 1968; Karlstrom et al., 1983; Houston and Karlstrom, 1992). The Snowy Pass Supergroup is intruded by 2,100–2,000-Ma tholeiitic diabase and gabbro dikes and plugs, and records rifting followed by the development of a passive margin (Hills and Houston, 1979; Karlstrom et al., 1983; Karlstrom and Houston, 1984). Two distinct lithotectonic terranes bounded by the northern and central mylonite zones crop out in the central and eastern Medicine Bow Mountains (Fig. 1). The northern and southern terranes were named the Bear Lake block and the Barber Lake block respectively by Duebendorfer and Houston (1986). These are herein referred to as the Bear Lake terrane and the Barber Lake terrane. The eastern subterrane of the Bear Lake terrane consists of polydeformed quartzofeldspathic orthogneiss while the western subterrane consists of a bimodal sequence of tholeiitic orthoamphibolite and foliated granite (Duebendorfer, 1986; Duebendorfer and Houston, 1986, 1987). Rocks of the eastern
+
+Bear Lake subterrane yield Archean nd model ages indicating that at least the eastern part of the Bear Lake terrane is a slice of Archean Wyoming province basement (Ball and Farmer, 1991). The Barber Lake terrane consists of migmatitic metapelite and metapsamite containing varying amounts of granitic leucosome that formed during in-situ partial melting, pods of garnet-bearing biotite granite, and leucogranite (Duebendorfer, 1986; Duebendorfer and Houston, 1986, 1987).
+A wide variety of igneous intrusive, metavolcanic, and metasedimentary rocks generally correlated with the Green Mountain arc terrane of the Colorado province are exposed south of the Cheyenne belt in the Medicine Bow Mountains (Houston et al., 1968; Houston et al., 1989). Igneous intrusive rocks include the Mullen Creek and Lake owen layered mafic complexes that are correlated with the 1,781- Ma Elkhorn Mountain gabbro of the Sierra Madre, the 1,781-Ma Keystone quartz diorite, and two-mica granite and leucogranite that was at least in part derived by partial melting of pelitic rocks (Houston et al., 1968; Duebendorfer and Houston, 1987; Premo and van Schmus, 1989). In the Medicine Bow Mountains, the metavolcanic and metasedimentary succession south of the Cheyenne belt is dominated by dark gray quartz-biotite-andesine gneiss that interfingers with mafic, pelitic, and calcareous gneisses (Houston et al., 1968; Houston et al., 1989). Metavolcanic rocks south of the southern mylonite zone yield 1,750-Ma nd model ages (Ball and Farmer, 1991). The orthogneisses and paragneisses of the southern Medicine Bow Mountains are loosely correlated with the Big Creek Gneiss and Green Mountain Formation of the Sierra Madre, and these rocks have well-established arc affinities (Condie and Shadel, 1984; Houston et al., 1989; Jones et al., 2010).
+NORTH PLATTE RIVER LOCALITY
+
+Field Relationships
+Rock Units
+Rocks exposed on the north side of the Cheyenne belt at the north Platte River locality include Archean orthogneiss and orthoamphibolite dikes (Fig. 3A). The orthogneiss contains 2–50-cm-wide white, light gray, or grayish tan layers containing
+ quartz + potassium feldspar + plagioclase feldspar
+± biotite that alternate with 1–20-cm-wide dark gray layers containing more biotite and hornblende. one-to-100-m-wide pods of very coarse-grained to pegmatitic, pink to white foliated granite and granodiorite occur sporadically within the banded gneiss. outside of the Cheyenne belt, the Archean gneiss contains a weakly to moderately developed foliation parallel with compositional banding, and both banding and the foliation are folded. Locally undeformed granite dikes cut across the banding and foliation. Hills et al. (1968) reported a Rb-Sr whole- rock age of 2,500 ± 50 Ma for this unit, and similar rocks in the Sierra Madre yielded a U-Pb zircon age of 2,683 ± 6 Ma (Premo and van Schmus, 1989). Two-to-60-m-wide, near-planar, subvertical diabase dikes metamorphosed to amphibolite are hosted in the banded gneiss and gneissic granite in this area (Fig. 3A). These amphibolites contain the primary assemblage hornblende + plagioclase with retrograde epidote, chlorite, and actinolite. They are variably deformed at their margins but generally exhibit relict igneous textures in their interiors. The age of these dikes is unknown, but at least some of them are probably coeval with the 2,010-Ma Kennedy dikes of the Laramie Mountains (Cox et al., 2000) and the 2,000–2,100-Ma tholeiitic intrusions in the Snowy Pass Supergroup.
+A wide variety of rock types are exposed on the south side of the Cheyenne belt within one km of the contact with the Archean gneiss. Immediately south of the Archean contact, two bands of gray equigranular biotite granite are exposed (Fig. 3A). This granite is noticeably finer grained and darker gray than any of the granite pods within the Archean gneiss. The biotite granite bands are hosted in an immature metavolcanic and metasedimentary succession containing alternating bands of metasiltstone, metapelite, and felsic to mafic metavolcanic rocks (Fig. 3A). Mafic metavolcanic rocks contain the primary assemblage green hornblende + plagioclase ± epidote. The metavolcanic and metasedimentary rocks are bounded on the south side by a ~250-m-wide band of potassium feldspar-hornblende syenite, gabbro, and minor granodiorite. These intrusive rocks do not form map- sized bodies and are mapped as a mixed intrusive unit (Fig. 3A). At least some of the contacts between the metavolcanic rocks and the mixed intrusive unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+Meters
+300
+0
+Feet
+1000
+
+Contour interval 80 feet NAD 1927
+
+A.
+76
+B.
+Wyoming province
+73
+CB112
+CB103
+Poles to foliation = 20 Lineation = 02
+88
+75
+80
+65
+85
+87
+Colorado province
+78
+85
+83
+88
+CB106
+65
+74
+80
+CB107
+77
+76
+Poles to foliation = 25 Lineation = 02
+76
+
+88
+CB116
+CB121
+74
+87
+CB117
+69
+88
+N
+78
+66
+86
+7,600
+4558
+375
+
+Wyoming province
+Amphibolite
+Archean gneiss and gneissic
+ Colorado province
+Granite
+
+Diorite
+ 
+
+Mixed intrusive unit
+Metavolcanic and metasedimentary
+ Orientation of
+DD foliation
+Orientation of
+DD foliation parallel with banding
+Orientation of
+ Lithologic contact, dashed where
+approximated
+Intense crystal- plastic deformation related to terrane
+ 
+Precambrian fault, dashed where approximated
+Neogene fault, dotted where implied
+
+granite
+ succession
+ PP   lineation	
+ juxtaposition	Fault breccia
+
+376
+Figure 3. A, Geologic map of the north Platte River locality showing locations of samples discussed in the text. The pattern representing intense crystal-plastic deformation delineates the Cheyenne belt mylonite zones, and its intensity represents the relative deformation intensity observed in outcrop. B, Equal-area, lower-hemisphere projections showing the strike and dip of mylonitic foliations and trend and plunge of mylonitic lineations measured in the north Platte River locality. The data are divided into the Wyoming and Colorado provinces.
+
+are intrusive. In the southern-most part of the study area diorite of the Mullen Creek mafic complex is juxtaposed with the mixed intrusive unit across a neogene frictional/brittle normal fault.
+Deformation Features in Outcrop
+A wide range of fault rocks are present in the north Platte River locality. The northern margin of the Cheyenne belt shear zones in the Archean gneiss is marked by the appearance of widely spaced 1-mm-to- 1-m-wide zones of protomylonite and lesser amounts of mylonite and ultramylonite. These mylonitic bands are subparallel with the original compositional banding in the banded gneiss, and they are restricted to within ~200 m of the contact with the Colorado province rocks. They exhibit noticeable grain size reduction and contain strong, straight, east-northeast to northeast-striking, subvertical foliations defined by aligned phyllosilicates, recrystallized quartz, and trains of fractured feldspar grains (Fig. 3B). Weak, subhorizontal mineral lineations are visible on mylonitic foliation faces in two exposures. otherwise, protomylonites and mylonites of the Archean gneiss are S tectonites. Mylonitic rocks become somewhat more prevalent approaching the contact with the Colorado province rocks, but never constitute more than 30 percent of any exposure. Indeed, the overall deformation intensity in the Archean gneiss is quite low compared with rocks of the Colorado province to the south. Within 20 m of the Archean/ Paleoproterozoic contact, mylonite bands more than a few cm wide are folded into steeply plunging, upright, tight, asymmetrical, right-handed folds with wavelengths of 0.5–5 cm. The contact between the Wyoming province and Colorado province at the north Platte River locality is marked by a zone of well-indurated, silica-cemented fault breccia and cataclasite that completely overprints any older plastic deformation fabrics.
+I m m e d i a t el y s o u t h o f t h e A r c h e a n /
+Paleoproterozoic contact, the equigranular gray granite and metavolcanic and metasedimentary rocks are highly deformed and exhibit strong, straight, northeast-striking, steeply southeast-dipping to subvertical foliations (Fig. 3B). Granite generally appears as protomylonite or mylonite with foliation surfaces defined by aligned micas and f lattened quartz and feldspar grains. In metasedimentary and metavolcanic rocks, foliation surfaces are defined by
+ aligned micas, flattened quartz and feldspar grains, acicular hornblende grains, and compositional banding. Most of the metasedimentary and metavolcanic rocks have fine-grained protoliths, so the degree of deformation-induced grain size reduction cannot easily be estimated in the field. Steeply plunging mineral lineations are visible on foliation faces in two exposures of the mylonitic equigranular gray granite, otherwise high-strain rocks south of the Archean gneiss contact are S tectonites.
+A number of hydrothermal alteration zones occur around small faults in the Colorado province rocks of the north Platte River locality. Amphibolite- facies mafic metavolcanic rocks in these zones are commonly altered to actinolite-chlorite schist while feldspar grains in granitic rocks are partially or completely replaced by mats of randomly oriented very fine-grained white mica. Elsewhere, pervasive fracture networks containing 0.5 –5-mm-wide epidote veins have formed. These hydrothermal alteration zones probably predate formation of the breccia/cataclasite zone at the Archean/ Paleoproterozoic contact because there is no evidence of hydrothermal alteration in either the cataclasite or Wyoming province rocks north of the contact.
+
+Deformation Mechanisms
+Wyoming Province
+Deformation of quartz and feldspars is sensitive to variations in temperature, and the microscopic textures of these minerals can be used to estimate deformation temperatures in plastically deformed rocks (Tullis and yund, 1987; Hirth and Tullis, 1992; Stipp et al., 2002a). In the narrow mylonitic bands cutting the Archean gneiss, quartz crystals are f lattened into sheets that often exhibit core- mantle structures with relict cores surrounded by 10–30-µm-wide neoblasts (Fig. 4 A). Quartz cores display sweeping undulose extinction, and 10–20-µm-wide subgrains are concentrated along the majority of the grain boundaries (Fig. 4A). Some grain boundaries have few or no subgrains and exhibit 10–20-µm-wide lobate sutures (Fig. 4A). Feldspar grains in these samples exhibit undulose extinction and local subgrain development. However, they are also extensively fractured, and fine-grained disaggregated feldspar grains are altered to white
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A.
+CB103
+vertical
+qtz
+qtz
+100 μm
+B.
+CB117
+vertical
+fs
+fs
+qtz
+qtz
+100 μm
+Down
+Down
+
+
+ertic
+al
+ertic
+al
+
+Colorado Province
+Quartz in mylonites and protomylonites derived from the equigranular gray granite south of the Archean/Paleoproterozoic contact is flattened into sheets made up of numerous smaller grains. Quartz grain boundaries are generally straight to lobate, and near-120° triple junctions are locally visible (Fig. 4B).
+ Individual quartz grains exhibit straight or undulose extinction with patchy subgrain development. Both plagioclase and potassium feldspar grains in these samples exhibit undulose extinction with local subgrain development. Many feldspar grains are rimmed by 10–20-µm-wide neoblasts, and some feldspar crystals are completely recrystallized into elliptical masses of small neoblasts (Figs. 4B, 5A). Boundaries between relict feldspar cores and the mantling neoblasts exhibit 10–20-µm-wide lobate sutures. Many feldspar grains are also fractured along cleavage planes (Fig. 5C), but even fractured grains exhibit evidence for crystal-plastic deformation. These observations indicate that quartz in the equigranular gray granite samples underwent fast-grain-boundary- migration dynamic recrystallization (regime III of Hirth and Tullis, 1992) and feldspars underwent grain-boundary-bulging dynamic recrystallization. Assuming typical geologic strain rates of 10-13 to 10-14, deformation temperatures recorded by these samples are in excess of 450 °C, but less than 600 °C (Tullis and yund, 1987; Hirth and Tullis, 1992; Stipp et al., 2002a). Strongly deformed amphibolites in the metavolcanic and metasedimentary succession contain the primary assemblage green hornblende + plagioclase
++ epidote, and they exhibit no evidence for retrograde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C.
+fs
+CB117
+vertical
+fs
+fs
+fs
+qtz
+qtz
+fs
+250 μm
+D.
+CB117
+vertical
+
+
+qtz
+fs
+fs
+qtz
+qtz
+fs
+500 μm
+Down
+Down
+
+
+trik
+e-p
+rall
+el
+th-d
+ip
+pin
+ertic
+al
+ertic
+al
+A.
+CB116
+strike-parallel
+fs
+qtz
+qtz
+fs
+fs
+qtz
+250 μm
+B.
+CB117
+south-dipping
+qtz
+bt
+qtz
+bt
+50 μm
+SW
+NE
+Down
+ Kinematic Analyses
+Introduction
+Systematic kinematic analyses were conducted on seven oriented samples collected across the
+
+Cheyenne belt at the north Platte River locality. This was the highest sampling density we could achieve due to the hydrothermal alteration, lack of suitable rock types in some areas, limited exposure, and folding of mylonitic bands near the frictional/brittle fault zone at the Archean/Paleoproterozoic contact. Samples CB103 and CB112 from the Archean gneiss and samples CB107, CB116, and CB117 from the equigranular gray granite were cut in four foliation- perpendicular directions—parallel with strike; at 45° to strike, dipping northeast; at 45° to strike, dipping southwest; and vertical, perpendicular to strike (Fig. 6). Additionally, CB116 was also cut parallel with the weak mineral lineation with a rake on the foliation of 69° to the south. Because the traces of these cuts on the foliation are all 45° apart (Fig. 6), one of the cuts must be within 22.5° of the slip vector or at an angle of 67.5° or more to the vorticity vector. Samples CB106 and CB121 from the metavolcanic and metasedimentary unit were cut in two foliation- perpendicular directions—parallel with strike and vertical, perpendicular to strike. one of these cuts should be at an angle of 45° or more to the vorticity vector.
+Theoretically, the face with the most numerous a nd most interna l ly consistent k inematic indicators should be nearest to perpendicular to the vorticity vector of the simple-shear component of deformation. Therefore, by systematically quantifying the kinematic indicators visible in thin sections made from each of these cuts, we can test the transpression hypothesis with these samples. If the plastic shear zones at the north Platte River locality accommodated significant strike-slip motion, then the vorticity vector should be close to vertical, and if the shear zones record dominantly dip-slip motion, then the vorticity vector should be gently plunging or subhorizontal. Unfortunately, none of these samples are suitable for more precise quantitative estimates of the relative components of simple shear and pure shear deformation, or the mean vorticity of flow (see review by Xypolias, 2010), because the quartz-rich domains are not large enough, porphyroclasts are not rigid objects, and perfect coupling between the porphyroclasts and the matrix is doubtful.
+To assess the relative asymmetry in each sample section, thin sections were traversed in a grid pattern using an X-y mechanical stage on a standard petrographic microscope so that every part of the
+ 
+North- dipping face
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. Cartoon showing how samples from the north Platte River locality were cut in four different foliation-perpendicular directions. The traces of these cuts on the foliation are all 45° apart, and one of them must be at an angle of 67.5° or more to the vorticity vector.
+
+section was viewed once. The type and sense of motion of each potential microstructural kinematic indicator was recorded. Useful asymmetrical kinematic indicators in these samples include
+- and -type tailed feldspar porphyroclasts and complex mosaic feldspar grains (Fig. 5A)(Passchier and Simpson, 1986), mica fish (Fig. 5B)(Lister and Snoke, 1984), bookshelf feldspars (Fig. 5C) (Simpson and Schmid, 1983), and shear bands (Fig. 5D)(Berthé et al., 1979; Platt and vissers, 1980). Symmetrical kinematic indicators such as feldspar grains with symmetrical tails (-type porphyroclasts), complex mosaic feldspar grains, and symmetrical mica fish were recorded along with asymmetrical kinematic indicators to provide a more complete view of the degree of asymmetry in each sample section.
+
+Results from the Wyoming Province
+The two samples from the Wyoming province, CB103 and CB112, do not exhibit significant populations of microstructural kinematic indicators in any face. However, weakly developed dextral type-I S-C fabrics (Berthé et al., 1979; Lister and Snoke, 1984) are locally visible in strike-parallel thin sections of CB103. It is also interesting to note that none of the recrystallized quartz ribbons in any of the sections exhibit an oblique-grain-shape
+
+Table 1. Kinematic data from metasedimentary and metavolcanic samples collected at the North Platte River locality. Sample locations are given in Figure 3A. Analyses are based on one thin section per face.
+Sample CB106
+Face
+
+Feldspar clasts (23)
+
+Shear bands (9)
+Strike-parallel face sinistral symmetrical dextral
+sinistral dextral
+6
+7
+2
+0
+0
+Vertical face NW-side-up symmetrical SE-side-up NW-side-up
+2
+4
+2
+0
+ SE-side-up	9
+Sample CB121
+Face
+
+Feldspar clasts (74)
+Strike-parallel face sinistral symmetrical dextral
+ Vertical face	
+5	NW-side-up
+36	symmetrical
+3	SE-side-up
+2
+24
+4
+ dipping, southwest-dipping, and vertical faces of CB107 all exhibit significant populations of shear bands indicating southeast-side-up motion, and the subhorizontal face exhibits a small population of conjugate shear bands (Table 2). Sample CB117 exhibits maximum asymmetry in both the vertical face and the north-dipping face (Table 2). Hence, the vorticity vector recorded by CB117 lies about halfway between these two faces and plunges ~22.5° to the south, and CB117 accommodated southeast-side-up/sinistral
+oblique-slip motion. Sample CB117 also exhibits shear bands on all four faces, and the shear-
+
+foliation (type-II S-C fabric) that
+characterizes quartz domains in many granitic mylonites formed during simple-shear-dominated deformation. We tentatively i nter pre t t he se s a mple s a s recording pure-shear-dominated deformation because of the lack of asymmetrical microstructural kinematic indicators, but it is possible that many of the small mylonitic bands cutting the Archean gneiss record significant simple shear.
+
+Results from the Colorado Province
+Sample CB106 , a biotite schist, is the closest sample to the Archean/Paleoproterozoic contact (Fig. 3A). This sample is an S tectonite, and it was cut parallel with and perpendicular to the strike of foliation. The ver t i c a l c ut e x h ibit s she a r bands that consistently indicate southeast-side-up motion, but the strike-parallel face does not exhibit any shear bands (Table 1). The population of tailed
+ porphyroclasts in this sample
+is not large enough to verify the shear band data (Table 1). Because shear bands are essentially micro-scale normal faults that accommodate foliation-normal shortening as well as simple shear displacement (Platt and vissers, 1980), these data indicate that CB106 records general shear that accommodated southeast-side-up, dip-slip motion coupled with horizontal shortening.
+Samples CB107 and CB117
+are S tectonites from the southern band of mylonitic granite (Fig. 3A). Sample CB107 exhibits maximum asymmetry on both the vertical face and the south- dipping face, and the two faces display very similar populations of a s ymmetrica l k inematic indicators (Table 2). These data indicate that the vorticity vector recorded by CB107 lies about ha l f way bet ween these t wo faces and plunges ~22.5° to the north, and this sample records southeast-side-up/dextral oblique- sl ip motion. The northeast-
+ band data corroborate the clast- based kinematic analyses (Table 2). The presence of shear bands in all four sections of CB107 and CB117 indicates that these samples record general shear with bulk strain in the flattening field. This hypothesis is supported by the relatively large populations of s y m me t r ic a l k i ne m a t ic indicators in all four faces (Table 2). Sample CB116 was collected along strike from and between samples CB107 and CB117 (Fig. 3A). In this sample the strike- parallel face and the north- and south- dipping faces exhibit opposite senses of asymmetry in geographic coordinates (Table 2). The lineation-parallel and vertical faces of CB116 exhibit few asymmetrical kinematic indicators (Table 2). Therefore, CB116 probably records pure- shear-dominated deformation that accommodated horizontal shortening.
+Sample CB121 was collected near the southern margin of the high-strain zone. It is a felsic
+
+W. A. SULLIvAn, R. J. BEAnE, E. n. BECK, W. H. FEREDAy, AnD A. M. RoBERTS-PIEREL
+metatuff that contains numerous 0.5–2-mm-wide feldspar crystals set in a fine-grained matrix of recrystallized quartz, feldspar, muscovite, and biotite. Tailed feldspar porphyroclasts viewed on both strike-parallel and vertical faces of CB121 are almost all symmetrical, and the small populations of asymmetrical clasts are equally distributed (Table 1). no shear bands were observed in this sample. These data indicate that CB121 records pure-shear- dominated deformation that a c c ommo d a t e d hor iz onta l shortening.
+122
+Rocky Mountain Geology, v. 46, no. 2, p. 111–135, 12 figs., 2 tables, December 2011
+
+
+
+
+Sample CB107
+
+Strike-parallel face
+
+North-dipping face
+
+
+South-dipping face
+
+
+Vertical face
+
+
+
+
+sinistral
+4
+NW-side-up/sinistral
+1
+
+NW-side-up/dextral
+0
+
+NW-side-up
+4
+
+
+
+symmetrical
+22
+symmetrical
+40
+
+symmetrical
+40
+
+symmetrical
+39
+
+
+
+dextral
+2
+SE-side-up/dextral
+10
+
+SE-side-up/sinisitral
+25
+
+SE-side-up
+25
+
+
+
+sinistral
+8
+NW-side-up/sinistral
+12
+
+NW-side-up/dextral
+4
+
+NW-side-up
+1
+
+
+
+dextral
+13
+SE-side-up/dextral
+86
+
+SE-side-up/sinisitral
+88
+
+SE-side-up
+64
+
+
+
+Sample CB116
+
+
+
+
+
+
+
+
+
+
+
+
+Strike-parallel face
+
+North-dipping face
+
+
+South-dipping face
+
+
+Lin.-parallel face
+
+
+Vertical face
+
+sinistral
+10
+NW-side-up/sinistral
+4
+
+NW-side-up/dextral
+10
+
+NW-side-up/dextral
+4
+
+NW-side-up
+1
+symmetrical
+15
+symmetrical
+16
+
+symmetrical
+16
+
+symmetrical
+40
+
+symmetrical
+37
+dextral
+2
+SE-side-up/dextral
+7
+
+SE-side-up/sinisitral
+4
+
+SE-side-up/sinisitral
+3
+
+SE-side-up
+7
+sinistral
+0
+NW-side-up/sinistral
+0
+
+NW-side-up/dextral
+0
+
+NW-side-up/dextral
+3
+
+NW-side-up
+0
+dextral
+0
+SE-side-up/dextral
+0
+
+SE-side-up/sinisitral
+0
+
+SE-side-up/sinisitral
+2
+
+SE-side-up
+0
+Sample CB117
+
+
+
+
+
+
+
+
+
+
+
+
+Strike-parallel face
+
+North-dipping face
+
+
+South-dipping face
+
+
+Vertical face
+
+
+
+
+sinistral
+8
+NW-side-up/sinistral
+6
+
+NW-side-up/dextral
+18
+
+NW-side-up
+8
+
+
+
+symmetrical
+73
+symmetrical
+64
+
+symmetrical
+60
+
+symmetrical
+62
+
+
+
+dextral
+13
+SE-side-up/dextral
+36
+
+SE-side-up/sinisitral
+22
+
+SE-side-up
+48
+
+
+
+sinistral
+0
+NW-side-up/sinistral
+0
+
+NW-side-up/dextral
+0
+
+NW-side-up
+1
+
+
+
+dextral
+5
+SE-side-up/dextral
+78
+
+SE-side-up/sinisitral
+10
+
+SE-side-up
+30
+
+
+
+
+
+
+Face
+
+Feldspar clasts (211) & bookshelf feldspars (4)
+Shear bands (276)
+
+
+
+Face
+
+Feldspar clasts (175) & mica fish (2)
+Shear bands (5)
+
+
+
+Face
+Feldspar clasts (382), bookshelf feldspars (25), & mica fish (21)
+
+Interpretations
+The kinematic analyses of samples from the north Platte River locality indicate that these rocks all record foliation-normal shortening (Fig. 7). Additionally, sa mples CB107 a nd CB117 enjoyed general shear deformation. The vorticity vectors recorded by these two samples plunge steeply in opposite directions, and the components of strike-slip motion cancel each other out in geographic coordinates (Fig. 7). Therefore, we interpret this part of the shear zone as recording southeast-side-up, near-dip-slip motion. There is no evidence for a significant component of strike-slip motion in this area, but there is evidence for minor dextral strike-slip motion in the localized mylonitic bands that cut the Archean gneissic rocks in the northern part of the shear zone. Later dextral strike-slip motion along the cataclastic fault zone separating Archean and Colorado province rocks is implied by the steeply plunging, asymmetrical,
+
+
+SE	NW
+
+?
+CB117	?
+
+
+
+
+CB116
+
+
+
+
+CB121
+ CB107	?
+?
+
+
+CB106
+ 
+?
+
+? CB103
+
+
+
+
+
+Wyoming province
+
+ Amphibolite
+Archean gneiss and gneissic granite
+ Colorado province	Symbols
+
+ Granite
+Metavolcanic and metasedimentary rocks
+ 
+
+Pure-shear component. Example is foliation-normal flattening.
+ 
+
+Simple-shear component. Example is southeast-side-up/ dextral oblique-slip motion. Size of arrows indicates relative importance.
+
+
+Figure 7. Block diagram cartoon of the shear zone at the north Platte River locality. The dashed pattern delineates the mylonite zones, and it’s intensity represents the relative intensity of the deformation fabrics in outcrop. Arrows represent the inferred geometries of the pure-shear and simple-shear components of deformation at the different sample sites. view is towards the southwest.
+
+
+right-handed folds present in mylonitic bands near that fault zone.
+The apparent abrupt ~200 °C increase in deformation temperatures from the northwest side to the southeast side of the shear zone across the Archean–Colorado province contact is particularly interesting because in the eastern and central Medicine Bow Mountains there is a pronounced metamorphic gradient on the northwest side of the northern mylonite zone (Duebendorfer, 1988). This abrupt temperature change indicates that two different crustal depths are exposed across the frictional/brittle fault zone that separates Archean rocks from rocks assigned to the Colorado province in the north Platte River locality.
+Even with a relatively high geothermal gradient of 50 °C/km, the temperature difference implies 4 km of vertical displacement on this fault zone, and strike-slip displacements may be larger. The exact age of this fault zone is unknown, but it can be constrained. Significant post-1,750-Ma deformation events in the region include ~1,600-Ma deformation
+ under greenschist-facies conditions closely associated with regionally developed epidote veins and hydrothermal alteration (Duebendorfer and Houston, 1987; Strickland, 2004; Strickland et al., 2004; Duebendorfer et al., 2006), cataclastic faulting of probable Precambrian age (Duebendorfer, 1986), Laramide faulting that created the Medicine Bow Mountains and Sierra Madre (Houston et al., 1968), and neogene extension that formed the intervening Saratoga valley (Mears, 1998).
+This fault zone appears to postdate greenschist- facies hydrothermal alteration because this alteration is restricted to the southeast side of the fault, and there is no evidence of hydrothermal alteration in the cataclasites within the fault zone. Also, though it does form a 3-km-long lineament visible on aerial photographs, the fault does not form a significant topographical break as would be expected for a large-displacement Laramide or younger fault in this region. Therefore, this fault and the offset of the Archean–Colorado province contact within the Cheyenne belt shear zone in the north Platte
+
+River locality most likely correlates with the post- 1,600-Ma, pre-Laramide episode of cataclastic faulting recognized by Duebendorfer (1986).
+Regardless of the age of the large-displacement cataclastic fault at the Archean–Colorado province contact, the near parallelism of pre-existing fabrics on either side of the fault zone implies that the fault follows the ~1,750-Ma, plastic shear zone. Furthermore, the ~1,750-Ma plastic shear zone must have been subvertical throughout a significant portion of the crust because there is little difference in the orientation of the mylonitic foliations in lower-amphibolite- and lower-greenschist-facies tectonites across the Archean– Colorado province contact, and seismic reflection surveys indicate that the Cheyenne belt is steeply dipping at least 10–14-km below the present-day level of exposure (Smithson and Boyd, 1998).
+These observations have a direct bearing on conceptual models of the Cheyenne belt that invoke late-stage, orogen-scale folding and rotation of shallowly dipping shear zones into their present- day subvertical orientation (e.g., Karlstrom and Houston, 1984; Duebendorfer and Houston, 1986, 1987). If these models are correct, then the shear zones were rotated to vertical at both mid- and lower- crustal levels where deformation took place under amphibolite-facies conditions and upper-crustal levels where deformation took place under lower- greenschist-facies conditions. Such rotation and folding is feasible in the metasedimentary rocks of the Snowy Pass Supergroup. However, significant folding and rotation of the more rigid continental basement of the Wyoming province under lower-greenschist- facies conditions would be much more difficult. Moreover, if the Wyoming province basement in this area was folded and rotated significantly, then the metamorphosed mafic dikes that are now subvertical must have formed at relatively low dips, and the formation of large mafic dike swarms at dips of 20–40° seems unlikely.
+NORTH MULLEN CREEK LOCALITY
+
+Field Relationships
+Rock Units
+In the north Mullen Creek locality, the northern mylonite zone separates the high-temperature Bear Lake orthogneiss terrane from quartzite of the Lower
+ Libby Creek Group (Fig. 8A). Quartzite in this area is typically white, tan, or light gray with local light green and dark bluish gray beds. outside of the northern mylonite zone the quartzite exhibits a weakly developed foliation defined by muscovite and a weak quartz grain-shape fabric. Quartz grains in these rocks are completely recrystallized, and they exhibit the irregular or amoeboid grain boundaries typical of fast-grain-boundary-migration dynamic recrystallization. Foliation surfaces typically contain weakly developed mineral lineations defined by clusters of muscovite grains and elongated quartz pebbles. Relict cross bedding is also visible on some subhorizontal exposures. The quartzite hosts 2–100- m-wide isolated pods and bands of orthoamphibolite. These amphibolites contain the primary assemblage green hornblende + plagioclase + epidote, and they typically exhibit a relict igneous texture with weak deformation fabrics at their margins.
+Rock types in the western Bear Lake subterrane include orthoamphibolite, foliated granite, and biotite schist. In this area, orthoamphibolites of the western Bear Lake subterrane are medium to fine grained and contain the primary assemblage green hornblende + plagioclase ± epidote. These rocks are petrologically indistinguishable from amphibolites hosted in the Lower Libby Creek Group quartzites. Deformation in amphibolites of the western Bear Lake subterrane was highly variable. Many exposures exhibit weakly to moderately developed foliations and lineations defined by aligned prismatic hornblende that grade into undeformed amphibolite with relict igneous textures over a few meters. overall deformation intensity weakens away from the northern mylonite zone. Foliated granite is typically coarse grained and contains quartz + potassium feldspar + plagioclase feldspar + biotite ± hornblende. These rocks exhibit moderately developed foliations and lineations defined by ribboned quartz and feldspar grains and aligned mafic minerals. Undeformed granite was not observed in the field area. A single body of well- foliated biotite schist containing biotite + quartz + plagioclase is exposed in the northern mylonite zone in the north Mullen Creek locality.
+
+Deformation Features in Outcrop
+The northern mylonite zone in this area is marked by a strong, straight foliation and moderately
+
+A.	76
+76	79
+74
+ 
+379
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87
+70 69
+ Rock Units
+Libby Creek Group
+Amphibolite Quartzite
+Western Bear Lake subterrane
+Granite
+
+Amphibolite
+Biotite schist
+ Map Symbols
+Orientation of
+DD foliation
+Orientation of
+PP lineation
+Lithologic contact, dashed where approximated
+Field location of high-strain zone boundary, dotted where approximated
+Intense foliation and lineation related to terrane juxtaposition
+
+
+75
+81
+68	70
+ 
+0	Meters
+0	Feet
+ 
+400
+1000
+
+
+
+4563
+ 
+
+
+
+
+
+CB12 CB09
+CB171
+ 
+
+
+82 81
+ 
+
+
+77
+8800
+65 61
+
+64
+54
+
+71
+68
+
+71
+69	63
+79	67
+73
+ 
+
+
+
+
+
+CB159
+
+75
+67
+
+
+74
+65
+ 
+Contour interval 80 feet NAD 1927
+
+380
+
+Area of Figure 12
+
+B.
+Quartzite	N
+ 
+
+
+
+CB161
+ CB160
+
+81
+76
+ 
+CB15
+CB158
+
+63 61
+ 
+
+
+
+
+
+
+64
+CB03
+
+
+45    78	77
+59	65
+
+
+Poles to foliation = 46	W
+Lineation = 43
+Amphibolite	N
+ CB157
+ CB01	64
+41
+381
+8800
+
+N
+4564
+Poles to foliation = 19 Lineation = 12
+Figure 8. A, Geologic map of the north Mullen Creek locality showing locations of samples discussed in the text. The pattern representing intense crystal-plastic deformation delineates the northern mylonite zone, and its intensity represents the relative deformation intensity observed in outcrop. B, Equal-area, lower-hemisphere projections showing the strike and dip of mylonitic foliations and trend and plunge of mylonitic lineations measured in the north Mullen Creek locality. The data are divided by rock type.
+
+to strongly developed mineral lineations. Where the northern mylonite zone cuts quartzite, foliation surfaces are defined by aligned micas and a weak quartz grain-shape fabric, and lineations are defined by streaking of mica domains and opaque minerals on foliation faces. The mylonitic quartzites are noticeably finer grained, f laggy in outcrop, and original depositional features are no longer visible. Amphibolites cut by the northern mylonite zone are also f ine grained, and they exhibit strong foliations and lineations defined by aligned prismatic hornblende and compositional banding. Foliations in mylonitic rocks are northeast striking and dip steeply to the northwest, and lineations plunge steeply to the north and have rakes on the foliation faces of 60–90° (Fig. 8B). The northern boundary of the mylonite zone is abrupt. Coarse-grained, weakly foliated and lineated rocks grade into finer-grained, strongly foliated and lineated rocks over 3–5 m. The southern boundary of the mylonite zone is gradational with the regionally developed deformation fabric in the western Bear Lake subterrane. While mapping, the southern boundary was placed at the first appearance of amphibolite with relict igneous textures or where the deformation fabric in quartzite resembles the regionally developed weak foliation and lineation north of the mylonite zone.
+At the map scale, the quartzite–amphibolite
+contact in the northern mylonite zone appears to be folded into tight to isoclinal folds with axial surfaces subparallel with the strike of the mylonitic foliation (Fig. 8A). Interestingly, no outcrop-scale folds were observed anywhere in the field area. Therefore, the apparent folding of the quartzite–amphibolite contact may be a deformed complex intrusive contact between the quartzite and the diabase protoliths of the orthoamphibolite bodies.
+
+Microstructural Observations
+Quartz in rocks cut by the northern mylonite zone in the north Mullen Creek locality is completely recrystallized (Fig. 9). In most samples, quartz grains viewed in lineation-parallel thin sections define a weak grain-shape fabric oblique to the main foliation defined by aligned mica grains (type-II S-C fabric of Lister and Snoke, 1984) that indicates southeast- side-up motion (Fig. 9). no oblique-grain-shape fabrics were observed in lineation-perpendicular
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+500 μm
+Down
+
+thin sections of these samples. Individual quartz grains are 50–1000 µm wide, irregular to amoeboid in shape, and exhibit patchy or sweeping undulose extinction with few or no subgrains. Locally optically continuous island grains are present within larger grains. Quartz grain boundaries are pinned by large mica grains, but smaller mica grains are commonly entirely enclosed within a single quartz crystal. These observations indicate that quartz in samples from the north Mullen Creek locality underwent fast- grain-boundary-migration dynamic recrystallization (regime-III of Hirth and Tullis, 1992). This recrystallization texture combined with the presence of epidote in amphibolite mylonites indicates that deformation temperatures were in the range of 500– 550 °C.
+
+Quartz Crystallographic Fabrics
+Introduction
+Quartz crystallographic fabric formation and the resulting fabric geometries are sensitive to variations in deformation temperature (e.g., Lister, 1981; Wenk
+
+et al., 1989; Jessell and Lister, 1990; Heilbronner and Tullis, 2006), the noncoaxiality of flow (Fig. 10A) (e.g., Tullis, 1977; Lister and Hobbs, 1980; Schmid and Casey, 1986; Law et al., 1990), and distortional strain geometry (Fig. 10B)(e.g., Tullis et al., 1973; Lister and Hobbs, 1980; Price, 1985; Law, 1986; Schmid and Casey, 1986; Sullivan and Beane, 2010). The three most important crystallographic slip systems in naturally deformed quartzites at temperatures below 650 °C are basal a, rhomb a, and prism a (Schmid and Casey, 1986; Stipp et al., 2002b).
+As quartz crystallographic fabrics form, the a-axis maxima track the slip vector during simple-shear- dominated deformation or form conjugate pairs or girdles around the maximum or minimum finite elongation directions during pure-shear-dominated deformation (Fig. 10)(Schmid and Casey, 1986; Sullivan and Beane, 2010). Quartz crystallographic fabric patterns are relatively strain independent because they are dictated by the external kinematic framework imposed on the rocks. Therefore, the a-axis maxima will not change their orientation even if the finite strain axes do (see discussions in Wallis, 1992 and Sullivan and Law, 2007). Quartzites deformed in simple-shear-dominated, nearly strike- slip transpressional shear zones should exhibit shallowly plunging a-axis maxima parallel with the slip vector because the dominant deformation component accommodated subhorizontal, strike- slip motion (Fig. 10C ). Quartzites deformed in pure-shear-dominated transpressional shear zones should exhibit steeply plunging, nearly symmetrical a-axis maxima because the dominant component of deformation accommodated foliation-normal horizontal shortening coupled with vertical elongation. Dip-slip motion will result in steeply plunging, asymmetrical a-axis maxima.
+
+Data Collection
+Quartz crystallographic fabrics were measured in lineation-parallel, foliation perpendicular sections of 14 samples from the north Mullen Creek locality. The data was collected using an SEM at Bowdoin College equipped with an HKL nordlys II detector and Channel 5 software (software details in Schmidt and olesen, 1989). Samples were prepared by polishing microprobe-polished
+ thin sections approximately four additional hours in a non-crystallizing colloidal silica suspension on a vibratory polisher (SyTon method of Fynn and Powell, 1979). The thin sections were not carbon coated; charging was minimized by using a chamber pressure of 15 Pa, combined with the 70° tilt required for pattern acquisition. Electron backscatter diffraction (EBSD) patterns were collected in an automated mapping mode with a step size greater than the quartz grain size for each sample. operating parameters were an accelerating voltage of 20 kv, a working distance of 25 mm, and a beam current of
+2.2 nA. Channel 5 acquisition and indexing settings were 2x2 binning, high gain, 10 frames averaged, Hough resolution = 65, 6 bands, and 85 reflectors. Quartz was indexed using the lattice parameters of Sands (1969). Accepted data points were limited to those with mean angular deviations less than 1° based on the number of bands detected (6) compared to the experimental work of Krieger-Lassen (1996) on the precision of crystal orientations.
+
+Results
+Twelve of the 14 samples yield asymmetrical quartz crystallographic fabrics with steeply plunging a-axis maxima that indicate southeast-side-up/dextral oblique-slip motion parallel with or close to parallel with the steeply plunging mineral lineations (Fig. 11). The remaining two samples yield nearly random fabrics. However, within this overarching theme there are significant variations in fabric geometry that record different strain paths in different domains of the mylonite zone. Sample CB03 was collected well outside the mapped extent of the mylonite zone (Fig. 8A). It exhibits a well-developed asymmetrical cross-girdle c-axis fabric and an a-axis fabric with four maxima unevenly distributed about the foliation (Fig. 11A). These data are similar to the general-shear case of Figure 10A, and they indicate that at least some of the rocks outside of the northern mylonite zone in the north Mullen Creek locality record general shear that accommodated foliation-normal shortening in addition to southeast-side-up motion.
+Samples collected near the northwestern boundary of the northern mylonite zone (CB01, CB158, and CB159; Fig. 8A) yield single-girdle c-axis fabrics with the central girdles offset 10–20° from the centers of the plots and steeply plunging
+
+
+
+
+c
+Y
+a
+c
+a
+c
+a
+
+
+
+
+
+
+
+
+fl
+ni
+A.
+X
+B.
+X c
+Z
+Z
+a
+X
+
+Y	Z
+Pure shear
+General shear
+Simple shear
+Key
+a
+X
+c
+Z
+lineation
+flattening
+Y/Z
+foliation
+X/Y
+constriction
+
+
+
+
+
+
+
+
+
+Figure 10. A, Quartz c- and a-axis fabrics expected for monoclinic deformation under middle to upper greenschist-facies conditions (Price, 1985; Schmidt and Casey, 1986). X, y and Z correspond to the maximum, intermediate, and minimum axes of the finite-strain ellipsoid. The pure-shear component of deformation accommodates shortening normal to the foliation (X-y plane) coupled with elongation parallel with the lineation (X direction). The simple-shear component of deformation accommodates right-side-up motion with the vorticity vector parallel with y. B, Quartz c- and a-axis fabrics expected for coaxial deformation under middle to upper greenschist-facies conditions for a variety of finite-strain geometries (Schmidt and Casey, 1986; Sullivan and Beane, 2010). X, y and Z correspond to the maximum, intermediate, and minimum axes of the finite-strain ellipsoid. C, Cartoon showing the geometry of a-axis fabrics expected for simple-shear-dominated monoclinic transpression under middle-greenschist- to upper-amphibolite-facies conditions. Samples should exhibit subhorizontal a-axis maxima related to subvertical crystallographic glide planes. This is similar to the fabric geometry expected for monoclinic simple shear. C-axis fabric geometry is dependent on temperature.
+
+
+a-axis maxima offset 10–20° from the plot margins (Fig. 11B). These data are intermediate between the simple-shear and general-shear cases of Figure 10A, and they indicate that rocks at the northwestern boundary of the mylonite zone record simple- shear-dominated deformation that accommodated southeast-side-up/dextral, oblique-slip motion and a small component of foliation-normal shortening.
+ Three samples from the interior of the northern mylonite zone (CB09, CB12, and CB15; Fig. 8A) exhibit asymmetrical cross-girdle c-axis fabrics and a-axis fabrics with single small-circle girdles about the poles to the foliations and steeply plunging, asymmetrical maxima at the plot margins (Fig. 11C). These fabrics record coaxial flattening strain that accommodated significant foliation-normal
+
+
+
+
+
+A
+〈c〉
+ B
+〈c〉
+ C
+〈c〉
+ D
+〈c〉
+
+
+
+
+
+
+
+
+
+
+〈a〉
+ 1, 2... 6 MUD
+1979 data
+ 
+
+〈a〉
+ 1, 2, 3, 4 MUD
+1711 data
+ 
+
+〈a〉
+ 1, 2, 3, 4 MUD
+2082 data
+ 
+
+〈a〉
+ 1, 2,... 7 MUD
+2198 data
+
+
+
+
+
+
+
+
+
+
+70, 339
+ 62, 010
+ 69, 349
+ 66, 026
+
+
+Figure 11. Representative quartz c- and a-axis fabrics from the north Mullen Creek locality. Sample locations are shown in Figure 8. A, Data from sample CB03 collected well outside of the northern mylonite zone. B, Data from sample CB01 collected at the northwestern margin of the northern mylonite zone. C, Data from sample CB12 collected in the interior of the northern mylonite zone. D, Data from CB171 collected at the southeastern margin of the northern mylonite zone. All data is viewed towards the northeast in geographic coordinates in equal-area, lower-hemisphere projections. Projection planes are perpendicular to the steeply dipping foliations and parallel with the steeply plunging lineations. The sample foliations lie along the vertical great circles. Lineations plot at the tops and bottoms of the plots, and down plunge is indicated by the arrows. Lineation trend and plunge values are given beneath the a-axis plots. Contours are multiples of uniform density (MUD).
+
+
+shortening in addition to southeast-side-up/dextral, oblique-slip motion (c.f. Figs. 10A, B).
+Samples CB96, CB161, and CB171 were collected near the hinge zones of the map-scale folds (Fig. 8A). These samples yield single-girdle c-axis fabrics and asymmetrical, steeply plunging a-axis maxima (Fig. 11D). They also exhibit weakly developed small-circle a-axis girdles about the lineations (Fig. 11D). This fabric geometry indicates simple-shear-dominated, deformation that included a component of subhorizontal constriction coupled with subvertical elongation. Like the samples from the northwestern margin of the mylonite zone, the main fabric elements in CB96 and CB171 are offset ~15° from the plot center and plot margins (Fig. 11D).
+The remaining samples (CB157 and CB157; Fig. 8A) all exhibit single-girdle c-axis fabrics and steeply plunging, asymmetrical a-axis maxima that indicate simple-shear-dominated deformation with a small component of foliation-normal shortening coupled with subvertical elongation.
+ Interpretations
+Most of the quartzite samples from the north Mullen Creek locality yield single-girdle or asymmetrical cross-girdle quartz c-axis fabrics and steeply plunging, asymmetrical a-axis maxima (Fig. 11). These data record general-shear deformation that accommodated simultaneous southeast-side-up/ dextral oblique-slip motion nearly parallel with the mineral lineations and foliation-normal shortening. Strictly speaking, the northern mylonite zone in this area is transpressional because there is a consistent minor component of dextral oblique-motion in present-day coordinates. However, in all of the samples the slip vector of the simple-shear component of deformation is steeply plunging, and none of the samples exhibit subhorizontal a-axis maxima. Therefore, the northern mylonite zone in the north Platte River locality accommodated only minor strike-slip motion, and these data do not require
+
+significant oblique plate motions during formation of the Cheyenne belt.
+Different components of deformation are clearly partitioned into different domains of the mylonite zone in the north Platte River locality (Fig. 12). Three samples collected from the interior of the northern mylonite zone record significant components of coaxial flattening strain that accommodated foliation-normal shortening. These samples may represent a single large domain of flattening strain or multiple smaller domains. Because they are not found along-strike from each other, we favor multiple smaller domains of flattening strain (Fig. 12). Samples collected near the hinge zones of the apparent map-scale folds record coeval horizontal constriction and southeast-side-up/ dextral motion (Fig. 12). The structural significance of this partitioning between constriction and flattening is unclear, but one possibility is that the different strain domains are related to the samples’ positions in the apparent map-scale folds with constriction localized near fold hinge zones and flattening localized on fold limbs.
+Samples from the margins of the mylonite zone (CB01, CB158, CB159, and CB171) and one sample
+ from the interior of the mylonite zone (CB96) exhibit an overall triclinic deformation geometry with the central girdles of the c-axis fabrics offset 10–20° from the centers of the plots and the a-axis maxima offset 10–20° from the plot margins (Figs. 11B, 11D, 12). These samples must record a triclinic, general-shear deformation path because the principal kinematic axes defined by the crystallographic fabrics are oblique to all three principal elongation directions defined by the foliations and lineations.
+A small component of foliation-normal, coaxial shortening with elongation directions oblique to the vorticity vector is needed to explain this apparent triclinic geometry. The a-axis maxima in sample CB01 plunge more steeply than the mineral lineations in geographic coordinates. otherwise, the a-axis maxima and hence the slip vectors of the simple-shear components of deformation recorded by these samples all plunge 10–20° more shallowly than the mineral lineations. However, in every case, the rake of the trace of the plane normal to the vorticity vector on the foliations is greater than 45°. Therefore, all of these samples record dominantly dip-slip motion. The significance of this triclinic deformation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CB159
+CB160
+CB15
+CB158
+CB01
+CB157
+CB96
+CB12	CB09
+CB171
+CB161
+Granite
+Field location of high-strain zone boundary
+Amphibolite
+
+Quartzite
+Intense foliation and lineation related to terrane juxtaposition
+Zone of triclinic deformation geometry
+
+Zone of flattening
+
+Zone of constriction
+0
+Meters
+200
+
+path is also unclear, but it may have developed to solve space problems between the northern mylonite zone and the less intensely deformed wall rocks.
+The quartz crystallographic fabric data also have implications for the initial geometry of the northern mylonite zone and conceptual models of the Cheyenne belt that invoke rotation of shallowly dipping shear zones into their present-day subvertical orientation (e.g. Karlstrom and Houston, 1984; Duebendorfer and Houston, 1986, 1987). If the
+~1,750-Ma deformation occurred in a collisional plate tectonic setting with relative plate motions nearly orthogonal to the plate boundaries, then the principal stress direction should have been subhorizontal and nearly perpendicular to the shear zones. If rotation of the shear zones occurred prior to cooling below upper-greenschist- or amphibolite-facies conditions, then the last increments of deformation recorded by these rocks should be nearly coaxial, foliation-normal subhorizontal shortening. The presence of many samples in the northern mylonite zone that preserve a record of simple-shear-dominated deformation that accommodated dip-slip motion indicates that such a late-stage overprint did not occur in this area.
+DISCUSSION AND CONCLUSIONS
+
+Transpression Hypothesis
+Both the north Platte River and north Mullen Creek localities contain high-strain mylonitic rocks that formed under lower-amphibolite-facies conditions. Kinematic and crystallographic-fabric analyses of S and L-S tectonites from both localities indicate that the mylonite zones record general- shear deformation that accommodated two coeval deformation components: (1) southeast-side-up, dip-slip or southeast-side-up/dextral, oblique-slip motion and (2) coaxial foliation-normal shortening. In the north Platte River locality, both mylonitic rocks formed under greenschist-facies conditions and a major late-stage cataclastic fault zone probably accommodated some component of dextral strike-slip motion. Mylonitic quartzites of the north Mullen Creek locality record southeast-side-up/dextral oblique-slip motion, and, strictly speaking, this is a transpressional shear zone. However, in both areas the relative amounts of dextral strike-slip motion are small, and these data do not require any significant
+ oblique plate motion during the formation of the Cheyenne belt shear zones.
+Geometry and Kinematic Significance of the Cheyenne Belt
+Two lines of evidence from both field areas lead us to question structural models of the Cheyenne belt that invoke orogen-scale folding and late- stage rotation of initially shallowly dipping shear zones to the observed steep dip after the majority of deformation. First, the parallelism of mylonitic fabrics from different crustal levels on either side of the cataclastic fault that separates Archean and Colorado province rocks in the north Platte River locality implies that the mylonite zone in this area was subvertical to crustal levels where deformation took place under lower-greenschist- facies conditions. Significant folding and rotation of the Archean continental basement under lower- greenschist-facies conditions would be rheologically difficult. Also, significant folding and rotation of the Archean rocks requires a mechanism to explain the formation of gently dipping, planar diabase dikes, as these metamorphosed dikes are now subvertical. Second, mylonitic rocks that formed under lower- amphibolite-facies conditions in both localities record general-shear deformation that accommodated dip-slip motion coeval with foliation normal shortening. If these high-strain rocks were rotated from an initial gentle dip to their present subvertical orientation under high-temperature conditions, then the last increments of deformation should have been dominated by foliation-normal shortening, and there should be evidence of overprinting of the two deformation styles. The alternative explanation of rotation after peak metamorphism once again requires folding and rotation of the relatively rigid Bear Lake orthogneiss terrane and Archean continental basement under low-temperature conditions.
+With these constraints in mind, we interpret
+the deformation fabrics preserved in the Cheyenne belt mylonite zones in this area as a stretching-fault system (Means, 1989) between the old, cold, more rigid Archean lithosphere to the northwest and the young, hot arc terrane to the southeast. In this model, the majority of plate-boundary deformation at mid- crustal depths was accommodated by penetrative horizontal shortening and vertical elongation of
+
+the hotter, rheologically weaker rocks of the Green Mountain arc terrane of the Colorado province.
+This interpretation is supported by four observations. First, deformed rocks south of the Cheyenne belt throughout the southern Medicine Bow mountains exhibit steeply dipping synmetamorphic foliations and compositional layering along with less-pronounced steeply plunging mineral lineations (Houston et al., 1968). Second, tight to isoclinal folds in the Bear Lake and Barber Lake terranes interpreted as coeval with the Cheyenne belt are upright to steeply dipping and gently plunging (Duebendorfer, 1986). Third, pelitic rocks of the upper Libby Creek Group north of the Cheyenne belt in the central and eastern Medicine Bow Mountains resemble a classic slate belt with strong, straight subvertical phyllitic foliations and folds that indicate horizontal shortening (Houston et al., 1968; Karlstrom and Houston, 1984). Fourth, the crust south of the Cheyenne belt is 2–10-km thicker than the crust north of the belt (Smithson and Boyd, 1998; Crosswhite and Humphreys, 2003).
+The first two observations both indicate that penetrative horizontal shortening coupled with vertical elongation was the dominant synmetamorphic deformational style over at least 26 km across orogenic strike south of the Cheyenne belt shear zones. The third observation indicates that penetrative deformation in Libby Creek Group rocks interpreted as coeval with high-temperature deformation in the Cheyenne belt also accommodated penetrative horizontal shortening, but this deformation style is restricted to within ~6 km of the belt (Houston et al., 1968; Karlstrom and Houston, 1984). The fourth observation indicates that the Cheyenne belt marks a major crustal thickness discontinuity and that significantly more crustal thickening took place south of the Cheyenne belt.
+our interpretation requires an initial phase of deformation prior to development of the high- temperature shear zones of the Cheyenne belt to explain the juxtaposition of the different lithotectonic terranes. During this phase of deformation the different lithotectonic terranes would have been juxtaposed along thrust, oblique-slip, or strike-slip fault systems. Juxtaposition of these terranes by a thrust fault system requires subsequent folding and rotation to vertical. This early phase of deformation may correspond to the ~1,780-Ma tectonic event of
+ Jones et al. (2010). The early phase of contractional or transpressional deformation was followed by ~1,763- Ma extension (Jones et al., 2010). During extension the early-phase faults may have been overprinted by normal faults. This would help explain the apparent younger-on-older relationships across many of the major faults cutting the Snowy Pass Supergroup (Karlstrom and Houston, 1984). The high- temperature shear zones of the Cheyenne belt formed during a major phase of contractional deformation at ~1,750-Ma (Strickland et al., 2004; Jones et al., 2010). During this later phase of shortening the Cheyenne belt shear zones accommodated some dip- slip motion in addition to acting as a stretching fault system between the penetratively deforming young, hot rocks of the Green Mountain arc terrane and intrusive rocks related to ~1,763-Ma extension and the old, cold, relatively rigid Archean crust of the Wyoming province.
+ACKNOWLEDGMENTS
+
+SEM-EBSD data collection was funded by a Mellon Foundation Collaborative Faculty Enhancement grant to Sullivan and Beane and by nSF grant MRI-0320871 to Beane. Sullivan and Fereday would like to thank Justin and Lisa Howe and the staff of the A-Bar-A Ranch for their generous hospitality while conducting fieldwork. D. S. Jones and A. W. Snoke provided insightful discussions about the Precambrian geology of southeastern Wyoming. Thorough reviews by C. M. Bailey and D.
+M. Czeck greatly improved the final version of this manuscript, but any remaining errors of omission or interpretation are our own.
+REFERENCES CITED
+
+Ball, T. T., and Farmer, G. L., 1991, Identification of 2.0 to
+2.4 Ga nd model age crustal material in the Cheyenne belt, southeastern Wyoming: Implications for Proterozoic accretionary tectonics at the southern margin of the Wyoming craton: Geology, v. 19, p. 360–363.
+Berthé, D., Choukroune, P., and Gapais, D., 1979, orthogneiss mylonite and non-coaxial deformation of granites: the example of the South American shear zone: Journal of Structural Geology, v. 1, p. 31–42.
+Bickford, M. E., van Schmus, W. R., and Zietz, I., 1986, Proterozoic history of the midcontinent region of north America: Geology, v. 14, p. 492–496.
+
+Chamberlain, K. R., 1998, Medicine Bow orogeny: Timing of deformation and model of crustal structure produced during continent-arc collision ca. 1.78 Ga, southeastern Wyoming: Rocky Mountain Geology, v. 33, p. 259–277.
+Condie, K. C., 1982, Plate-tectonics model for Proterozoic continental accretion in the southwestern U.S.: Geology, v. 10, p. 37–42.
+Condie, K. C., and Shadel, C. A., 1984, An early Proterozoic volcanic arc succession in southeastern Wyoming: Canadian Journal of Earth Sciences, v. 21, p. 415–427.
+Cox, D. M., Frost, C. D., and Chamberlain, K. R., 2000, 2.01- Ga Kennedy dike swarm, southeastern Wyoming: Record of a rifted margin along the southern Wyoming province: Rocky Mountain Geology, v. 35, p. 7–30.
+Crosswhite, J. A., and Humphreys, E. D., 2003, Imaging the mountainless root of the 1.8 Ga Cheyenne belt suture and clues to its tectonic stability: Geology, v. 31, p. 669–672.
+Duebendorfer, E. M., 1986, Structure, metamorphism, and kinematic history of the Cheyenne belt, Medicine Bow Mountains, southeastern Wyoming [Ph.D. dissert.]: Laramie, Wyoming, University of Wyoming, 323 p.
+____1988, Evidence for an inverted metamorphic gradient associated with a Precambrian suture, southern Wyoming: Journal of Metamorphic Geology, v. 6, p. 41–63.
+____1990, Geologic map of the Cheyenne belt, Medicine Bow Mountains, Wyoming: Geological Survey of Wyoming Map oF-90-S, scale 1:24,000 and 1:48,000, 2 sheets.
+Duebendorfer, E. M., Chamberlain, K. R., and Heizler,
+M. T., 2006, Filling the north American Proterozoic tectonic gap: 1.60–1.59-Ga deformation and orogenesis in southern Wyoming, USA: Journal of Geology, v. 114, p. 19–42.
+Duebendorfer, E. M., and Houston, R. S., 1986, Kinematic history of the Cheyenne belt: A Proterozoic suture in the southeastern Wyoming: Geology, v. 14, p. 171–174.
+____1987, Proterozoic accretionary tectonics at the southern margin of the Archean Wyoming craton: Geological Society of America Bulletin, v. 98, p. 554–568.
+Dutton, B. J., 1997, Finite strains in transpression zones with no boundary slip: Journal of Structural Geology, v. 19, p. 1189–1200.
+Fernández, C., and Díaz-Azpiroz, M., 2009, Triclinic transpression zones with inclined extrusion: v. 31, p. 1255–1269.
+Fossen, H., and Tikoff, B., 1993, The deformation matrix for simultaneous simple shearing, pure shearing and volume change, and its application to transpression-transtension tectonics: Journal of Structural Geology, v. 14, p. 413–422.
+Fynn, G. W., and Powell, W. J. A., 1979, The cutting and polishing of electro-optic materials: Adam Hilger, London, 216 pp.
+ Heilbronner, R., and Tullis, J., 2006, Evolution of c-axis pole figures and grain size during dynamic recrystallization: Results f rom experimentally sheared quartzite: Journal of Geophysical Research, v. 111, B10202, doi: 10.1029/2005JB004194.
+Hills, F. A., Gast, P. W., Houston, R. S., and Swainback, I. G., 1968, Precambrian geochronology of the Medicine Bow Mountains, southeastern Wyoming: Geological Society of America Bulletin, v. 79, p. 1757–1784.
+Hills, F. A., and Houston, R. S., 1979, Early Proterozoic tectonics of the central Rocky Mountains, north America: Contributions to Geology, University of Wyoming, v. 17, p. 89–109.
+Hirth, G., and Tullis, J., 1992, Dislocation creep regimes in quartz aggregates: Journal of Structural Geology, v. 14, p. 145–160.
+Houston, R. S., and 15 others, 1968, A regional study of rocks of Precambrian age in that part of the Medicine Bow Mountains lying in southeastern Wyoming—with a chapter on the relationship between Precambrian and Laramide structure: Geological Survey of Wyoming Memoir no. 1, 167 p.
+Houston, R. S., Duebendorfer, E. M., Karlstrom, K. M., and Premo, W. R., 1989, A review of the geology and structure of the Cheyenne belt and Proterozoic rocks of southern Wyoming, in Grambling, J. A., and Tewksbury, B. J., eds., Proterozoic Geology of the southern Rocky Mountains: Geological Society of America Special Paper 235, p. 1–12.
+Houston, R. S., and Graff, P. J., 1995, Geologic map of Precambrian rocks of the Sierra Madre, Carbon County, Wyoming, and Jackson and Routt Counties, Colorado:
+U.S. Geological Survey Miscellaneous Investigation Map I-2452, scale 1:50,000, 1 sheet.
+Houston, R. S., and Karlstrom, K. E., 1992, Geologic Map of Precambrian metasedimentary rocks of the Medicine Bow Mountains, Albany and Carbon Counties, Wyoming:
+U.S. Geological Survey Miscellaneous Investigations Series Map I-2280, scale 1:50,000, 1 sheet.
+Jessell, M., and Lister, G. S., 1990, A simulation of the temperature dependence of quartz fabrics, in Knipe, R. J., Rutter, E. H., eds., Deformation Mechanisms, Rheology
+and Tectonics: Geological Society of London Special
+Publication, v. 54, p. 353–362.
+Jiang, D., and Williams, P. F., 1998, High-strain zones: a unified model: Journal of Structural Geology, v. 20, p. 1105–1120.
+Jones, D. S., Snoke, A. W., Premo, W. R., and Chamberlain,
+K. R., 2010, new models for Paleoproterozoic orogenesis in the Cheyenne belt region: Evidence from the geology and U-Pb geochronology of the Big Creek Gneiss, southeastern Wyoming: Geological Society of America Bulletin, v. 122, p. 1877–1898.
+
+Jones, R. R., Holdsworth, R. E., Clegg, P., McCaffrey, K., and Tavarnelli, E., 2004, Inclined transpression: Journal of Structural Geology, v. 26, p. 1531–1548.
+Karlstrom, K. A., and Bowring, S. A., 1988, Early Proterozoic assembly of tectonostratigraphic terranes in the southwestern north America: Journal of Geology, v. 96, p. 561–576.
+Karlstrom, K. A., Flurkey, A. J., and Houston, R. S., 1983, Stratigraphy and depositional setting of Proterozoic metasedimentary rocks in southeastern Wyoming: record of an Early Proterozoic Atlantic-type cratonic margin: Geological Society of America Bulletin, v. 94, p. 1257– 1294.
+Karlstrom, K. A., and Houston, R. A., 1984, The Cheyenne Belt: Analysis of a Proterozoic suture in southern Wyoming: Precambrian Research, v. 25, p. 415–446.
+Krieger-Lassen, n. C., 1996, The relative precision of crystal orientations measured from electron backscattering patterns: Journal of Microscopy, v. 181, p. 72–81.
+Law, R. D., 1986, Relationships between strain and quartz crystallographic fabrics in the Roche Maurice quartzites of Plougastel, western Brittany: Journal of Structural Geology, v. 8, p. 493–515.
+Law, R. D., Schmid, and S. M., Wheeler, J., 1990, Simple shear deformation and quartz crystallographic fabrics: a possible natural example from the Torridon area of nW Scotland: Journal of Structural Geology, v. 12, p. 29–45.
+Lister, G. S., 1981, The effect of the basal-prism mechanism switch on fabric development during plastic deformation of quartzite: Journal of Structural Geology, v. 3, p. 67–76.
+Lister, G. S., and Hobbs, B. E., 1980, The simulation of fabric development during plastic deformation and its application to quartzite: the influence of deformation history: Journal of Structural Geology, v. 2, p. 355–370.
+Lister, G. S., and Snoke, A. W., 1984, S-C mylonites: Journal of Structural Geology, v. 6, p. 617–638.
+Means, W. D., 1989, Stretching faults: Geology, v. 17, p. 893– 896.
+Mears, B., 1998, neogene normal faulting superposed on a Laramide uplift; Medicine Bow Mountains, Sierra Madre, and intervening Saratoga valley, Wyoming and Colorado:
+Contributions to Geology, v. 32, p. 181–185.
+Passchier, C. W., and Simpson, C., 1986, Porphyroclast systems as kinematic indicators: Journal of Structural Geology, v. 8, p. 831–844.
+Platt, J. P., and vissers, R. L. M., 1980, Extensional structures in anisotropic rocks: Journal of Structural Geology, v. 2, p. 397–410.
+Premo, W. R., and van Schmus, W. R., 1989, Zircon geochronology of Precambrian rocks in southeastern Wyoming and northern Colorado, in Grambling, J.
+ A., and Tewksbury, B. J., eds., Proterozoic Geology of the Southern Rocky Mountains: Geological Society of America Special Paper 235, p. 13–32.
+Price, J. P., 1985, Preferred orientations in quartzites, in Wenk, H.R., ed., Preferred orientations in Deformation Metals and Rocks: An Introduction to Modern Texture Analysis: Academic Press, orlando, p. 385–406.
+Reed, J. C., Jr., Bickford, M. E., Premo, W. R., Aleinikoff,
+J. n., and Pallister, J. S., 1987, Evolution of the early Proterozoic Colorado province: Constraints from U-Pb geochronology: Geology, v. 15, p. 861–865.
+Resor, P. G., and Snoke, A. W., 2005, Laramie Peak shear system, central Laramie Mountains, Wyoming USA: Regeneration of the Archean Wyoming province during Paleoproterozoic accretion, in Bruhn, D., and Burlini, L., eds., High-strain zones: Structure and physical properties: Geological Society of London Special Publication 245, p. 81–107.
+Sands, D. E., 1969, Introduction to crystallography: W. A. Benjamin, new york, 165pp.
+Schmid, S. M., and Casey, M., 1986, Complete fabric analysis of some commonly observed quartz c-axis patterns: American Geophysical Union Geophysical Monograph, v. 36, p. 263–286.
+Schmidt, n. H., and olesen, n. o., 1989, Computer-aided determination of crystal lattice orientation from electron channeling patterns in the SEM: Canadian Mineralogist, v. 27, p. 15–22.
+Simpson, C., and Schmid S. M., 1983, An evaluation of criteria to deduce the sense of movement in sheared rocks: Geological Society of America Bulletin, v. 94, p. 1281–1288.
+Sims, P. K., and Stein, H. J., 2003, Tectonic evolution of the Proterozoic Colorado province, Southern Rocky Mountains: Rocky Mountain Geology, v. 38, p. 183–204.
+Smithson, S. B., and Boyd, n. K., 1998, Geophysical constraints on the deep structure of the Cheyenne belt, southeastern Wyoming: Rocky Mountain Geology, v. 33, p. 279–292.
+Stipp, M., Stünitz, H., Heilbronner, R., and Schmid, S. M., 2002a, Dynamic Recrystallization of quartz: Correlation between natural and Experimental Conditions, in de
+Meer, S., Drury, M. R., de Bresser, J. H. P., Pennock,
+G. M., eds., Deformation Mechanisms, Rheology and Tectonics: Current Status and Future Perspectives: Geological Society of London Special Publication, v. 200, p. 171–190.
+____ 2002b, The eastern Tonale fault zone: a ‘natural laboratory’ for crystal plastic deformation of quartz over a temperature range from 250 to 700 °C: Journal of Structural Geology, v. 24, p. 1861–1884.
+Strickland, D., 2004, Structural and geochronologic evidence for the ca. 1.6 Ga reactivation of the Cheyenne belt,
+
+
+
+southeastern Wyoming [M.S. thesis]: Laramie, Wyoming, University of Wyoming, 157 p.
+Strickland, D., Chamberlain, K. R., and Duebendorfer, E. M., 2004, Structural and thermochronologic evidence for a ca. 1.6 Ga contractional event in southeastern Wyoming: Geological Society of America Abstracts with Programs, v. 36, no. 5, p. 405.
+Sullivan, W. A., and Beane, R. J., 2010, Asymmetrical quartz crystallographic fabrics produced during constrictional deformation: Journal of Structural Geology, v. 32, p. 1,430–1,443.
+Sullivan, W. A., and Law, R. D., 2007, Deformation path partitioning within the transpressional White Mountain shear zone, California and nevada: Journal of Structural Geology, v. 29, p. 583–598.
+Tullis, J., 1977, Preferred orientation of quartz produced by slip during plane strain: Tectonophysics, v. 39, p. 87–102.
+Tullis, J., Christie, J. M., and Griggs, D. T., 1973, Microstructures a nd preferred orientations in experimentally deformed quartzites: Geological Society of American Bulletin, v. 84, p. 297–314.
+Tullis, J., and yund, R. A., 1987, Transition from cataclastic f low to dislocation creep of feldspar; mechanisms and microstructures: Geology, v. 15, p. 606–609.
+Wallis, S. R., 1992, vorticity analysis in a metachert from the Sanbagawa Belt, SW Japan: Journal of Structural Geology, v. 14, p. 271–280.
+Warner, L. A., 1978, The Colorado lineament: A middle Precambrian wrench fault system: Geological Society of America Bulletin, v. 89, p. 161–171.
+Wenk, H. R., Canova, G., Molinari, A., and Kocks, U. F., 1989, viscoplastic modeling of texture development in quartzite: Journal of Geophysical Research, v. 94, p. 17,895–17,906.
+Xypolias, P., 2010, vorticity analysis in shear zones: A review of methods and applications: Journal of Structural Geology, v. 32, p. 2072–2092.
+Manuscript Submitted January 26, 2011
+Revised Manuscript Submitted April 20, 2011
+Manuscript Accepted September 30, 2011

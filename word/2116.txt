@@ -1,0 +1,69 @@
+Reddy Ganta
+Agricultural Infomatics Scientist
+
+	•	GLORIETA GEOSCIENCE, INC.  P.O.BOX 5727 Santa Fe,NM 87502
+	•	Voice (505) 983-5446 Ext. 107   Fax (505) 983-6482   email: ganta@glorietageo.com
+
+Education:	
+	M.S., Bioinformatics, Indiana University-Purdue University Indianapolis, IN, 2004
+		Thesis: "Electrostatically Driven Reversible Aggregation of -Lactoglobulin a Milk Protein"
+		Other Research Areas: Microbial Source Tracking for Fecal Coliforms, DatabaseManagement
+	
+	M.S., Agriculture (Soil Science& Agril. Chemistry), ANGR Agril. University, India, 1998
+Thesis: “Impact of Long-Term Sewage Water Irrigation on Soil Chemical Properties and Uptake of Heavy Metals by Maize Plants”
+
+	B.Sc., Agriculture ANGR Agril. University, India, 1996
+	
+Honors and Awards: 
+National Merit Scholarship for post Matriculation studies from Ministry of Human Resources Govt. of India
+
+Professional Development:
+New Mexico Comprehensive Nutrient Management Plan Workshop (December 13-16, 2004) 
+Advanced training in Database Management and application development, 2003
+Training in Source Tracking for fecal coliforms using RNA ribotyping, 2001
+	Training in Arc View GIS, 2001
+
+Professional Experience:
+5 Years Experience encompassing the following areas:
+	•	Facilitate in Environmental Compliance with State and Federal regulations
+	•	Prepare NPDES discharge permits for CAFOs in New Mexico, Nevada 
+	•	Prepare Comprehensive Nutrient Management Plans, Land Application Datasheets
+	•	Perform Annual inspections, prepare Quarterly, semi-annual monitoring reports 
+	•	Perform Pond Size/ Pond Volume calculations 
+	•	Geohyrologic Mapping using GIS 
+	•	Collect Ground Water and Soil Samples
+	•	Milk Protein Aggregation and Minimization studies using physico-chemical methods 
+	•	Microbial Source Tracking for fecal coliforms using RNA ribotyping
+	•	Heavy Metal Uptake studies by food crops irrigated with wastewater
+	•	Database Design and Management, Application Development 
+
+Selected Project Experience:
+	Glorieta Geoscience, Inc., Santa Fe, NM – Agricultural Informatics Scientist, (12/04 -Present) Discharge permit preparation includes specifying discharge quality, quantity, and location; Reporting/Plans preparation includes Comprehensive Nutrient Management Plans (CNMP), Land Application Data Sheets (LADs), Lagoon Design, Pond size & Pond Volume  calculations;  Spatial Data analysis includes Geohydrologic Mapping using GIS, Database Management and Application Development, Data Collection and Data analysis. Fieldwork includes groundwater and soil sampling, Annual Inspections and Quarterly, Semi-Annual monitoring.
+University of Idaho, Moscow, ID - Teaching Assistant (Spring 2004) 
+Responsibilities included teaching lab classes for the course “Cells and Evolution of Life”.
+
+Indiana University Purdue University, Indianapolis – Research Assistant (2001-2003)  Research activites included Electrostatic modeling of proteins using Delphi (MSI); Protein Aggregation Kinetics studies using Turbidimetry, light scattering, HPLC, Ultra-Centrifugation, and Stopped Flow;  Aggregation minimization studies using polyanions (PAA, PVS, Heparin).
+
+University of Idaho, Soil Microbiology Laboratory Dept. of Soil science Moscow, ID – Source Tracking Research Assistant  (2000-2001)
+Responsibilities included Collecting soil and waste water samples; Culturing fecal coliforms, Extracting DNA and RNA from fecal coliforms; Performing agarose gel separation; Designing DNA oligomer primer, performing Polymerase Chain Reaction (PCR) amplification and  restriction enzyme digestions for 16 S ribosomal DNA; Creation of  a ribotype database of E. Coli strains in Palouse River water shed, Idaho. 
+
+ANGR Agricultural University, Dept. of Soil Science and Ag. Chemistry Hyderabad, India - Research Assistant  (1996-98) 
+Responsibilities included Collection of Soil, waste water and plant samples from Maize Research Station, Hyderabad, India which is being irrigated with raw muncipal sewage water for the past 50 years in an effort to study the effect of wastewater irrigation on soil chemical properties and heavy metal uptake by Maize plants; Analysis of soil, plant and water for physico-chemical properties and heavy metals; Statistical Data analysis to study the distribution patterns of heavy metals in soils and uptake of heavy metals by plants
+
+Regional Agricultural Research Station(RARS), AKP,  India- Extension Agent (1995-96) Responsibilities included acting as a Liaison between RARS and Farmers, assisiting in  knowledge transfer to the farmers through Result Demonstrations and Method Demonstrations. Conducting  workshops on Integrated Nutrient Management, Integrated Pest Management.
+	
+	•	Affiliations:
+	Member of Indian Network for Soil Contamination Research (INSCR)
+Member of Indian Society of Soil Science
+
+	•	Computer Skills: 
+	•	Operating Systems: MS WINDOWS, MACINTOSH OS7, Unix
+	•	Prog. Languages:    C++, Visual Basic
+	•	Databases:  		 Oracle, SQL, MS Access
+	GIS:                          ArcView, Arc/Info
+	Bioinformatics:       Blast, FastA, Genefinder, ClustalW, RASMOL, PC Model, GenBank, PDB
+
+Selected Publications:
+	•	Reddy R Ganta, RamVanam, Emek Seyrek and Paul Dubin. 2004. Electrostatically driven reversibleaggregation of -Lactoglobulin. Biomacromolecules (publication pending).
+	•	Reddy R. Ganta, and K. Jeevan Rao. 2000. Impact of sewage irrigation on Macronutrient status of soils of Maize Research Station, Amberpet, Hyderabad The Andhra Agricultural Journal 36:245-251.
+	•	Reddy R Ganta, and K. Jeevan Rao, 1999. “Impact of long-term sewage irrigation on heavy metal accumulation in soils and plants” in the 2nd International Conference on Soil Contamination Research for Austral-Asia Pacific region (SCRAP) held at New Delhi, India Dec 17-19,1999.	

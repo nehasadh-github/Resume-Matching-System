@@ -1,0 +1,81 @@
+Mohammed Hameedullah Sharief
+Mobile : +91-9700402170
+Email	: mdhsharief123@gmail.com
+CAREER OBJECTIVE
+
+To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills and knowledge efficiently for organizational goal.
+ACADEMIC PROFILE
+
+	•	Masters degree in Communication Engineering and Signal processing from V.R.S.E.C Accredited by NBA, Kanuru with 7.35 CGPA in 2016.
+	•	Bachelors degree in Electronics and Communications Engineering from K.H.I.T. Chowdavaram with 61.39% in 2014.
+	•	Completed Intermediate (+2 Standards – M.P.C.) From NIOS, Guntur with 55% in 2010.
+	•	Completed S.S.C. (X- Standard) from Viswasanthi E.M High School, Guntur with 67% in 2008.
+SIGNIFICANT ACHEIVEMENTS
+
+	•	Published paper in International Journal of Research in Engineering and Technology in 2016.
+	•	Participated in paper presentation conducted at Technozion in NIT Warangal.
+	•	Attended workshop on Facebook App development conducted by Innobuzz at K.L. University
+	•	Actively participated in workshop on Cloud Computing conducted by JIGNASA in Vijayawada.
+PERSONAL COMPETENCIES
+	•	Do not give up until I succeed.
+	•	Zeal to learn new things.
+	•	Ability to quickly grasp technical aspects
+	•	Putting in maximum efforts to be the best.
+	•	Ability to understand the situation and act according to it.
+TECHNICAL COMPETENCIES
+
+Technical Skills	: MATLAB(Image processing, signal processing, communication)
+Operating Systems	: Windows XP/07/08
+Packages	: MS-Office and Internet
+
+ACADEMIC PROJECTS
+Project Title	:	Brain Tumour Segmentation using K-means Clustering
+Duration	:	12months
+Platform	:	Windows 7
+Packages Used	:	MATLAB version R2015a (8.5.0.197613)
+Environment	:	Digital Image Processing
+
+Project Overview:
+
+Brain tumour segmentation is done by using k-means clustering through this we can able to segment the tumour region in MRI images and also accuracy is calculated with the help of confusion matrix through ground truth which is tool for creating mask from the image.
+
+Responsibility:
+
+My greater responsibility was to involve in designing the model with overall clustering techniques and getting efficient results.
+
+Future Scope:
+
+	•	Identification and reduction of noise in image without disturbing the tumour region.
+	•	Skull stripping without resizing image
+
+Project-2:
+
+Project Title	:	GSM based automatic energy meter reading system
+Duration	:	Semester (6months)
+Platform	:	Windows XP
+Packages Used	:	Keil µVision v3 and Proteus Design
+Environment	:	Embedded Systems
+Team Size	:	4
+Application Overview:
+This application is used to give the reading of electricity used by the consumer and sends the message through GSM modem to his/her mobile and the following message is also sent to the electrical department
+
+PERSONAL PROFILE
+
+Father name
+: Mohammed Khasim
+Date of Birth
+: 3-oct-1993
+Languages Known
+: English, Hindi, Urdu, Telugu
+Alternate Number
+: 7337054880
+Alternate E-mail
+: mohasin_106@yahoo.com
+Hobbies Adress
+: Playing Shuttle, Chess and Singing
+: D.N.O 18-15-7, Syed khan Street, Chinna Bazar, Guntur-522003
+DECLARATION
+
+I, Mohammed Hameedullah Sharief hereby declare that the particulars of information and facts stated here in above are genuine.
+
+(MOHAMMED HAMEEDULLAH SHARIEF)

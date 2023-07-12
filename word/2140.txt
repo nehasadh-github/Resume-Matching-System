@@ -1,0 +1,274 @@
+Mailing Address: Muscat, Oman.
+GSM: +968 9570 3160, +92 300 7134443
+Email: sajid.napster@gmail.com
+
+SAJID ALI
+
+Professional Certifications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional Skills
+ 
+
+Practical Experience
+
+OMAN FIBER OPTIC CO. S.A.O.C was constituted in 1996 and commenced cable production in early 1999. Located in Muscat, the capital of the Sultanate of Oman, OFO uses state of the art technology to draw Fiber and Manufacture world class Fiber Cable products. OFO is a public listed company traded in the Muscat Securities Market (MSM).
+
+
+	Oman Fiber Optic Co. S.A.O.C (Muscat, Oman)
+	•	Senior System / Network Engineer
+From: June-2015 to: Present
+Following are the Responsibilities / Job description:
+	•	AD Architecture Design, Implementation and daily troubleshoot and administration
+	•	ADFS, DFS, DHCP in clustered configurations
+	•	Group Policy, DNS, File Server, CA, AD RMS
+	•	Exchange Server 2010, 2016, Online
+	•	Virtual Machines – VMware vSphere Management (Data Center)
+	•	Backup – Veeam Backup and Replication, Symantec Backup and others.
+	•	Storage Management – Dell EMC
+	•	CCTV - DVR maintenance camera related work
+	•	PABX check & manage
+	•	Antivirus – Kaspersky, Symantec and other vendors product
+	•	Installation, configuration & administration of Proxy Server, Router, Firewalls.
+	•	Design, implementing and Managing LAN & WAN
+	•	Provide enhancement request feedback to IT manager regarding technology environment and user needs.
+	•	Ability to work independently and in a team environment.
+
+	•	Ability to communicate well with internal users and external vendors/contacts.
+	•	Report to IT manager and assist him/her in IT core activities
+	•	Adhere to IT Policy
+NASMA TELECOMMUNICATIONS LLC is a technology based IT and Communications Solutions Provider and Systems Integrator. Nasma is principally involved in providing integrated IT and communication solutions to various industries including Energy, Oil and Gas, Utilities, Telecommunications,
+	Nasma Telecommunications (Muscat, Oman)
+	•	Network Engineer
+From: Dec-2013 to: June 2015
+Following are the Responsibilities / Job description:
+
+
+
+
+	•	Configure and install various network devices and services (e.g., routers, switches, firewalls, load balancers, VPN, QoS)
+	•	Perform network maintenance and system upgrades including service packs, patches, hot fixes and security configurations
+	•	Monitor performance and ensure system availability and reliability
+	•	Monitor system resource utilization, trending, and capacity planning
+	•	Provide Level-2/3 support and troubleshooting to resolve issues
+	•	Work within established configuration and change management policies to ensure awareness, approval and success of changes made to the network infrastructure
+	•	Select and implement security tools, policies, and procedures in conjunction with the company’s security team
+	•	Liaise with vendors and other IT personnel for problem resolution
+
+HAYA WATER is a semi government Oman Waste Water Company working in Muscat. It has about 700+ users in Head office and other multiple locations.
+	•	Haya Water (Muscat, Oman)
+	•	IT Support Engineer
+From: Nov-2012,	to: Nov-2013
+Following are the Responsibilities / Job Description
+	•	Configuration, Installation and Troubleshooting of Servers, Workstations and Printers.
+	•	Installation, Configuration of Server 2003, 2008, 2012.
+	•	Installation, Configuration of Windows 7, 8 and Windows 10 Workstations.
+	•	Managing/Supervising Helpdesk team and Handling user complaints on phone and through remote desktop.
+	•	Configuration and Installation of Wireless Access points for LAN/Internet connectivity.
+	•	Working on CISCO Call Manager.
+	•	Hardware Maintenance/Part replacement of Computers and Laptops.
+	•	Managing and Creating User accounts in Active Directory.
+	•	Managing Print server and Network printers.
+	•	Managing Multifunction RICOH Printers (Print, Fax, Copy and Scanning).
+	•	MS Exchange Account management.
+	•	Servers and Workstation Image Backup using Acronis 10.
+	•	Lost Data recovery using recovery software.
+	•	Installation and configuration of SOPHOS antivirus server.
+	•	Configuration and Installation of CISCO and ERICSON IP and Digital Phone systems.
+	•	Configuration and troubleshooting of Tally System (Tanker Services).
+	•	Configuration and troubleshooting of Call center.
+	•	Co-ordination with different Maintenance contracting companies and suppliers.
+	•	Management and updating of IT Asset reports.
+	•	Managing web based applications like Maximo, HRMS, GIS, Tanker Access System, and Oracle.
+	•	Financial and Call Center Application etc.
+	•	Managing Training and conference room PCs, Laptops, Projectors, Sound system etc.
+	•	VMWare Workstation.
+	•	Network switch and cable management.
+	•	Ticket Management in e-support Application.
+
+CRESCENT BAHUMAN is the largest vertically integrated denim manufacturing facility in Southeast Asia. Crescent Bahuman Ltd. originally setup as a joint venture between The Crescent Textile Mills, Pakistan and Greenwood Mills Inc., USA is now fully owned
+
+by the Crescent Group.
+	Crescent Bahuman Ltd (Hafizabad, Pakistan)
+	•	IT Support Officer
+From: Dec-2010,	To: Nov-2012
+Responsibilities:
+	•	Working on Service Desk Plus (Manage Engine)
+
+
+
+
+
+
+	•	Surveillance system installation and configuration, (POE Camera’s, IP Base Camera’s, Moveable & Static Camera’s and troubleshooting of them.
+	•	Repairing Camera’s (Hardware wise).
+	•	Create and maintain network user accounts.
+	•	LAN administration activity.
+	•	Addition/Removal of new hardware/software on the network.
+	•	General office support.
+	•	Supporting the Foreigner Guests, (Troubleshooting, Solutions for them).
+	•	Installation, maintenance, troubleshooting of network and computer system.
+	•	Installation of Hardware (computers, printers and other related peripherals).
+RFID Zymetry Factory System:
+	•	The network consists of more than 10000 nodes.
+	•	RFID Zymetry Factory System First time implementation in Pakistan.
+	•	One Piece Online Tracking System from (Cut to Pack).
+	•	Install Physical Infrastructure.
+	•	Online: POE Hubs, POE Job Controllers, Job Readers, Flat Console Cables, and troubleshooting on them.
+	•	Install Related Software’s etc.
+	•	Draw a Proper Map of this Infrastructure and monitoring.
+	Global Apparel pvt ltd (Lahore, Pakistan).
+	•	IT Officer
+From: Jan-2010	to: Dec-2010
+Responsibilities:
+	•	Manage users with Active Directory.
+
+
+
+
+
+
+
+Academic:
+	•	 Handle user’s emails with Mail Daemon email software.
+	•	Handle user’s internet connectivity with Win Proxy.
+	•	Technical Support of routine network and Hardware problems.
+	•	Wi-Fi Networking
+
+	•	BSc.	(Computer Science)
+2017	Virtual University Pakistan	Lahore, Pakistan.
+	•	Bachelors	(Humanities)
+2010	A.I.O.U	Islamabad (Punjab) Pakistan.
+
+
+Projects:
+
+Migration of Exchange Server 2010 On-Premise to Exchange Server 2016 June 2017 – July 2017
+Project description
+	•	Health Check Assessment for Directory Service.
+	•	Health Check Assessment for Messaging Services.
+	•	High Level Design Architecture for Directory Services.
+	•	High Level Design Architecture for Messaging Services.
+	•	Migration Planning for Messaging Services Transition.
+	•	Prepare Directory Services for Transition.
+	•	Install and Configure virtual Windows Server 2016 - Exchange Server 2016 –Active, Passive, DR-Passive.
+	•	Prepare Messaging Services for Transition.
+
+	•	Adjust Client Access endpoint with publically registered name, enable Outlook Anywhere and verify Outlook Clients are connecting to new CAS namespace.
+	•	Install and Configure three virtual Exchange 2016 servers with Client Access and Mailbox Roles.
+	•	Adjust Exchange 2016 CAS Internal and External URLs and Install UC SSL Certificate.
+	•	Install and Configure DAG on Exchange 2016 mailbox servers for onsite Exchange Database Resiliency.
+	•	Create Mailbox Databases on Exchange 2016 and replicate them via DAG.
+	•	Configure Intra Org email between Exchange 2010 and Exchange 2016.
+	•	Configure Inter Org email between POP Downloader and new Exchange 2016.
+	•	Swing CAS namespace to new Exchange 2016 Servers and configure DNS distribution via DNS round robin for CAS High Availability.
+	•	Securely publish Exchange 2016 Client Access Services to internet via existing firewall.
+	•	Verify Outlook Connectivity to legacy mailboxes via new Exchange 2016 Servers.
+	•	Conduct ~20 pilot user migration from Exchange 2010 to Exchange 2016.
+	•	Production user migration from Exchange 2010 to Exchange 2016.
+	•	Migrate Exchange Organization Messaging Services from Exchange 2010 to Exchange 2016.
+	•	Uninstall Exchange 2010 Mailbox Servers and join them to workgroup.
+	•	Uninstall Exchange 2010 CAS\HUB Server and join them to workgroup.
+	•	Deployment of anti-virus agents on new servers.
+	•	Deployment of backup age
+
+Manage Engine Service Desk Plus (HelpDesk) Deployment
+May 2017 – May 2017
+Project description
+	•	Analyze the current IT Operations & practice.
+	•	Review of Current State
+	•	IT Service Catalog Workshop - Review
+	•	Design Incidents / Service Catalog Templates
+	•	Creating Technician Groups / Roles
+	•	Agent Deployment Assets and Network Scan
+	•	Workflow /AD integration / Mail configuration
+	•	Configuration Reports and Dashboard Customization
+	•	Scenario based Training (Train the Trainer Model)
+	•	Sign-off on the Deliverable
+	•	Project Closure - Go Live
+	•	Product Fine Tuning and Training
+
+Switches Implementation Aug 2016 – Aug 2016
+Project description
+	•	Installation and Configuration of Cisco Nexus Switch.
+	•	Installed on network Rack.
+	•	Configured basic switch configuration.
+	•	Configured Vlans, SVI’s
+	•	Configured port-channel towards New Core-Switch.
+	•	Erase the configuration of Cisco-3850 Switch, Removed from the network and configured SVI’s for All Vlans as the gateway.
+	•	Configured ports of Cisco-3850 Switch, and IP-Helper address for DHCP.
+	•	Configured route towards internet.
+	•	Erase the configuration of Cisco-3650 switch, removed from the network and configured Vlans and port configuration.
+
+	•	Tested both 3650 and 3850 switches, Tested connectivity of DHCP Server, Internet, Printers, Application, Emails from inside and outside.
+	•	Installation and Configuration of Three Cisco 2960 Switches.
+
+
+
+
+
+Implementation of EPICOR ERP System Jun 2014 – Jul 2015
+Project description
+	•	Implementation of Complete EPICOR
+Implementation of Remote Desktop Services in Windows Server 2012/2012 R2 Apr 2014 – Apr 2014
+Project description
+	•	Implementation of Remote Desktop Services in Windows Server 2012 R2.
+
+RFID base Tracking System Oct 2010 – Aug 2011
+Project description
+	•	One Piece Online Tracking System from (Cut to Pack).
+	•	Install Physical Infrastructure.
+	•	Online: POE Hubs, POE Job Controllers, Job Readers, Flat Console Cables, and also troubleshooting on them.
+	•	Install Related Software’s and configurations etc.
+	•	Professional Certifications:
+
+
+VMware Certifications:
+1) VMware Certified Professional 6 – Data Center Virtualization
+Cisco Certifications:
+	•	Cisco CCNP: 300-101: Implementing Cisco IP Routing.
+	•	Cisco CVNS Video: Cisco Video Network Specialists
+	•	Cisco: Advanced Collaboration Architecture Sales Engineer
+	•	Cisco CCDA: Designing for Cisco Internetwork Solutions
+	•	Cisco CCNA Routing and Switching – 2013
+Microsoft® Certified Professional
+	•	MS: Microsoft Specialist Server Virtualization with Windows Server Hyper-V and System Center Specialist
+	•	MCSE: Microsoft® Certified Server Infrastructure Solutions Expert: Windows Server 2012
+	•	MCSA: Microsoft® Certified Solutions Associate: Windows Server 2012
+	•	MCTS: Microsoft® Certified Technology Specialist: Windows 7
+
+
+Personal Information	Name	:	Sajid Ali
+Marital Status	:	Married
+Nationality	:	Pakistani
+Passport #	:	DX1807752
+Date of Birth	:	1st Feb, 1990
+Driving License	:	Gulf – Sultanate of Oman.
+Mobile	:	+968 9570 3160, +92 300 7134443
+Email ID	:	sajid.napster@gmail.com

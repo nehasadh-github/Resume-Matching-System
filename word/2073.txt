@@ -1,0 +1,54 @@
+Loren Shevitz
+345 W. Fullerton #2101
+Chicago, il 60614-5367
+loren@shevitz.org
+(773) 665-1234 home
+(773) 368-3591 mobile
+
+
+Education
+
+	•	University of Chicago
+	•	Master’s in Computer Science, August 2002
+	•	Coursework includes: Advanced Databases, Web Programming, Advanced Java Programming, Networking, IT Security, and more
+
+	•	University of Michigan (Ann Arbor)							
+	•	Bachelor of Arts in Psychology, April 1994
+	•	Sophomore Honors Award, 1992
+	•	Residential College graduate (entails additional requirements)
+Computer Skills
+
+	•	Fluency with Java, C++, PHP, Linux, SQL, HTML, CSS, Dreamweaver, Cloudscape and Sybase
+	•	Familiarity with JavaScript, Perl, Python, CORBA, EJBs, Apache, XML (DOM, SAX & XSLT)
+	•	Proficiency with Microsoft Office
+	•	Windows 9x, XP
+	•	MacOS
+	•	Unix
+
+Programming Projects
+
+	•	Developed PDA in Java that included a memo pad, calculator, bookmark list, and game
+	•	Developed Customer Relations Model using PowerDesigner, SQL, and 
+	•	Developed online store “Loren’s A Cappella SUPERstore” using PHP to connect to a Sybase database
+	•	Developed Online Othello game using Java Networking services
+	•	Implementation with polling
+	•	Implementation with RMI
+	•	Developed XML Calendar application in Java involving Swing and DOM (Apache’s Xerces Parser)
+	•	Developed julianfirstbornstein.net as a present to a friend.  Credits are entire site, from content to photos to Javascript/PHP interface.
+	•	
+Relevant Experience
+
+Shircago Music –Project Manager***, January 1999-Present
+	•	Designed A Cappella music superstore which allows you to buy CDs and custom compilations
+	•	Designed regular group music site
+	•	Designed advertisement for JUF News  using Adobe Photoshop 7.0
+	•	Participated in design of Habayit.org; co-webmaster
+	•	Developed international Jewish a cappella email list
+
+Hillel –Technical consultant, January 1999-Present
+	•	Organized online computer conference
+	•	Upgraded all computers from Win 95 to 98 
+	•	Restored system
+
+
+

@@ -1,0 +1,146 @@
+	•	R. ISHWARYA
+	•	No. 201, Srikar Nivas,						              Phone: +91-9840042071 / 9566715562 
+	•	DR Colony Phase 2, Hyder Nagar,						    Email: ishwarya92@gmail.com
+	•	Kukatpally, Hyderabad –500085.					                             
+		 
+Test Engineer with good knowledge about Software Testing Life Cycle and development of automation tests using Selenium and analyzing specifications for requirements along with a Software engineering degree seeks to work as a test engineer in a recognized company.
+
+PERSONAL  PROFILE
+
+SUMMARY OF SKILLS
+
+Personal Details:
+
+DOB : 22nd Jun,1992
+Gender : Female
+Nationality : Indian
+Marital Status: Married
+Blood Group: B+ve
+Husband’s Name:
+R. Badrinarayanan
+
+Permanent Address:
+
+No. 2A, Rajalaxmi flats, Laxmi nagar, 7th street EXTN, Nanganallur, Chennai-61.
+
+Present Address :
+
+Door No. 201, Flat No. 75, Srikar Nivas, Dharma Reddy Colony Phase 2, Hyder Nagar, Kukatpally, Near JNTU, Hyderabad - 500085
+
+Languages known: 
+
+English, Tamil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	Almost 4 years of experience in Information Technology with emphasis on Quality Assurance using Manual and Test Automation tools.
+	•	Proficient in using HP interactive products like -  HP Quality Center (QC).
+	•	Experience in working with open source tools Selenium (Selenium Web Driver), TestNG, Eclipse and preparation of automation test framework.
+	•	Experience in working with many external applications like Notepad, Excel, IE, MS word etc through Selenium / JAVA.
+	•	Experiencein functional testing, unit testing, integration testing, regression testing, GUI testing, back-end testing
+	•	Experience in writing Test Plans, defining Test Scenarios and Test Cases, developing and maintaining test scripts, analyzing bugs, interacting with team members and track the bugs till closure.
+	•	Good  knowledge of testing within an Agile environment
+	•	Good knowledge in SQL
+	•	Good Knowledge in INSURANCE Domain
+
+ACADEMIC ACCOLADES
+
+	•	Hold Bachelor Of Engineering in Electronics and Communications 
+
+EDUCATIONAL CREDENTIALS
+
+	•	BE (ECE) 
+SASTRA UNIVERSITY, KUMBAKONAM
+
+TECHNICAL SKILLS
+
+
+Testing Skills
+Manual and Selenium
+
+Defect Tracking Tool
+HP ALM 
+
+Languages
+
+Testing Framework
+JAVA
+
+TestNG
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Project Name		: Metlife US Business Testing
+Client			: METLIFE
+Organization		: IBM India Pvt limited
+Designation		: Associate System Engineer
+Duration		: Jun 2013 – Till Date
+Operating System	: Windows 7 
+Environment		: WEB   
+
+
+
+
+
+Responsibilities	: My major responsibilities are
+
+	•	Involved in Identifying the E2E scenario & Creating the Reusable methods, Generic methods & POM.
+	•	Created test scripts using Selenium Web driver.
+	•	Developed new scripts for the regression and sanity testing
+	•	Execute/Run the scripts.
+	•	Verify the Automated Test Result, and Logging the Defect in QC and updating status to the higher management.
+	•	Prepared Test Report based on the Test results.
+	•	Managing knowledge sharing to the team after identifying critical bug.
+	•	Involved in Database Testing through JDBC
+	•	Taking Daily status calls with client
+	•	Writing test cases and scenarios based on the release functionalities
+	•	Automated test cases to check GUI and Functional features of the AUT, compared and analyzed actual with expected results and reported all deviations to the appropriate individual(s) for resolution
+
+                Stream engages in a wide array of activities that include structuring, underwriting, and trading collateralized securities across the globe. Stream makes active markets and takes proprietary positions in the full range of asset-backed, residential mortgage-backed, commercial-backed and collateralized debt obligation securities in both the cash and synthetic markets. In addition, Stream originates commercial mortgage and single-family loans through conduit and loan purchase activities, and advices clients on securitization opportunities. Bringing together Morgan Stanley's Fixed Income and Investment Banking divisions, Stream draws on their expertise in finance markets to give clients the best of securitization finance.
+
+DECLARATION 
+
+I hereby declare that the above mentioned information is true to the best of my knowledge.
+
+
+PLACE:  Hyderabad
+
+
+
+ISHWARYA                          

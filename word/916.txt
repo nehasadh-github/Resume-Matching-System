@@ -1,0 +1,128 @@
+
+ABHIJIT ADHIKARY
+GIS Engineer, Developer	Contact No. – +917278409851
+Email id. - abhijitadhikary001@gmail.com
+
+
+
+Objective
+
+	•		To work with a dynamic, fast-paced organisation with a focus on bleeding edge software in Geographic Information System.
+	•	Obtain a challenging leadership position applying creative problem solving and lean management skills with a growing company to achieve optimum utilization of its resources and maximum profits.
+	•	To obtain a position that will enable me to use my technical skills and ability to work well with Team.
+
+
+
+Summary
+
+	•	Over 2 years of Geographic Information System experience.
+	•	Hands on experience in Arc GIS, Auto CAD, Erdas Imagine.
+	•	Good command in Arc Object.
+	•	C# .Net Developer.
+
+
+Highest Educational Qualification	
+	•	Masters in Geoinfomatics from Uttarakhand Open University.
+
+
+Technical Skills
+
+	•	GIS Software: Arc GIS, Auto CAD, MapInfo.
+	•	Image Processing Software: Erdas imagine.
+	•	DBMS software: MS Access
+	•	Programming language: C, C# .NET, Python.
+	•	Arc Object by using C# .NET.
+	•	General Software: MS Word, Advance Excel etc.
+
+
+
+Work Experience – ERIS Techno Management Pvt. Ltd.
+
+
+
+
+GIS Executive
+
+Aug 2016 to Dec 2016
+
+	•	Project Overview
+	•	Project Monitoring and inspection of DDUGJY (Rural Electrification).
+
+	•	Roles & Responsibilities
+	•	Collect GPS coordinates of Poles.
+	•	Draw Simple Line Diagram on Arc GIS 10.3.
+	•	Network Mapping of Electric Lines.
+	•	Quality checking of data.
+	•	Monitoring project progress and generate reports.
+
+
+
+Work Experience – Spatial Geotech Pvt. Ltd.
+
+GIS Engineer
+
+Dec 2016 to Aug 2018
+
+	•	Project Overview
+	•	Digitalization of Cadastral Map issued by Department of Land and Revenue, Govt. of Rajasthan.
+
+	•	Roles & Responsibilities
+	•	Scanning of Raster (Hard copy) Map.
+	•	Georeference the scanned map to restore the actual scale size with minimum error.
+	•	Printout the data after georeference to matching with original raster data.
+	•	Digitization of raster data to make digital format of cadastral map.
+	•	Perform vector cleanup, Topology etc. to remove the errors from data.
+	•	Mosaic small parts of map and make a complete village map.
+	•	Check quality of data (QC).
+	•	Finally produce layout of map and manage data both in digital and hardcopy format.
+	•	Provide training to new joiner all of mentioned topics.
+	•	Manage internal cloud to upload, download and store data.
+	•	Manage a team of 6 members with ensure the production with best quality.
+	•	Visit to field.
+
+	•	Project Overview
+	•	Socio Economical Survey of Uttarakhand’s selected districts.
+
+	•	Roles & Responsibilities
+	•	Update the data as per field Survey report in database.
+	•	Land use mapping over Google Earth image by Arc GIS software.
+	•	Manage a field team, collecting data and coordinate with team members.
+
+
+
+Work Experience – Accenture India Pvt. Ltd.
+
+
+Sr. Process Executive
+
+Sep 2017 to Dec 2017
+
+	•	Project Overview
+	•	Develop software for object tracking by Lidar images and normal RGB images.
+
+	•	Roles & Responsibilities
+	•	Identify object from Lidar Images.
+	•	Tracking moving object from Lidar Image in client software.
+	•	Quality check of data (QC)
+
+
+
+
+Work Experience – Cognizant Technology Service Pvt. Ltd.
+
+Process Executive
+
+Jan 2019 to Present
+
+	•	Project Overview
+	•	Development of Google Maps.
+
+	•	Roles & Responsibilities
+	•	Identify user query and search for geographic location in Google Maps.
+	•	Hands on experience on Atlas to develop and edit Google maps.
+
+
+
+
+
+Date: 01.01.2019

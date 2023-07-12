@@ -1,0 +1,195 @@
+Kunal Ramteke
+Mobile: +91-7737414374 ,+91-8319392475
+E-mail: kunaleieng@gmail.com
+To obtain a challenging position where I can use my experience and innovative ideas effectively for the development of an organization.
+Technical Skills
+	•	Having a thorough understanding of electrical systems.
+	•	Production analysis, Root cause analysis, reports generation.
+	•	Excellent trouble shooting skills in Circuit breakers, Central inverters and monitoring systems, Transformer testing.
+	•	Sound knowledge of Solar AC/DC installation.
+	•	Worked on 2.9 M.V.A transformer &11/ 33/110/132 K.V Transmission line .
+	•	Medium and low voltage switchgear, relay and protection system.
+	•	Solar module, string combiner box, grounding systems.
+	•	Preventive maintenance scheduling 
+
+1.BHEL-EDN BANGLORE                                                                  ( From May 2015 to Till date )
+
+Erection & Commissioning of N.T.P.C Ultra Mega 50MW solar Power plant project.
+As part of an Erection & Commissioning team ,my responsibilities include:
+
+Erection
+	•	Handling daily works, (50)Man power, material planning and Execution
+	•	Cable tray, breakers ,transformer ,SMB ,panel ,J.B and PV modules installations.
+	•	H.T and L.T ,OFC ,power ,control cable laying and termination.
+	•	Scada cables utp cables terminations and testing
+	•	Preparation of running Account (RA) bills, checklist ,drawing proposals material PO etc.
+	•	Knowledge about tender documents
+	•	Coordinate with clients and various sub- contractors.
+
+Commissioning
+	•	Testing of VCB ct/pt ratio ,timing ,contract resistance measurement(crm), polarity, winding resistance, meggering
+	•	Relay inter panel wiring and operation testing
+	•	VCB bus bar, H.T/L.T cables hi- pot testing.
+	•	Earth pit resistance checks.
+	•	Transformer ratio ,vector group ,winding resistance ,core balance testing.
+	•	AC,HT & LT  cables phase sequences dc cables polarity and meggering.
+	•	VCB protection and metering wiring checks.
+	•	WMS system like Pyreonometer ,Temperature sensor ,wind speed installation and testing.
+	•	Plant communication system and scada 
+
+Operation & Maintenance
+ I was worked with IOCL 5 MW Solar plant  at Rajasthan as O&M Engineer.
+	•	Leading a 15 member’s team for complete operation and maintenance of a 5 MW solar plant.
+	•	Associate with the commissioning team of different types of inverters like OPS, ON Grid Inverters and string inverters.
+	•	String monitoring and troubleshooting of inverters and control system for fault free operation of solar plant.
+	•	 Associate with the design and analysis team for improving generation of the plant.
+	•	Earthing systems, communication interference, and switchyard communication cables selection.
+	•	Establishment of the complete SCADA communication system (OPS ltd.)  In the plant including weather monitoring station.
+	•	Troubleshooting and Performance analysis of different types of inverters .
+	•	C.U.F and P.R calculation and performance analysis for solar park.
+	•	Operation and Maintenance of 33kv/415v switchyard
+	•	Trouble shooting of all the fault like WTI,OTI and Earth Fault 
+	•	Testing of timing, closing /opening of Vacuum Circuit Breaker, Also checking of vacuum interrupter.
+	•	Hands on experience with regular and Preventive Maintenance, Relays, Connection drawings, Junction box layout, 33KVElectrical drawings.
+	•	Sound knowledge of pneumatics operation.
+	•	Relay, Contactor, MCB, MCCB, ELCB, Breakers.
+
+Projects Undertaken 
+
+
+PROJECT-1
+Name
+10 MW  SOLAR PLANT ODF BADMAL (ODISHA) on going
+Company
+B.H.E.L  
+Role
+Erection and Commissioning of  10 M.W SOLAR PLANT.
+Drive
+Installation of panel, pcu,smb,scada..
+Team
+10
+Duration
+6 months
+Description
+1. Monitoring and control of Complete 10 M.W Plant which includes
+ Its local ,remote and PLC control
+2. Commissioning and erection of I/O panels and P.C.U”S panels 
+
+PROJECT-2
+Name
+15 MW SOLAR PLANT ODF MEDAK (Andra pradesh)
+Company
+B.H.E.L  
+Role
+Erection and Commissioning of SCADA 15 M.W SOLAR PLANT.
+Drive
+SCADA Complete commissioning.
+Team
+3
+Duration
+1 MONTH
+Description
+1. Monitoring and control of Complete 15 M.W Plant which includes
+ Its local ,remote and PLC control
+2. Commissioning and erection of I/O panels and P.C.U”S panels 
+
+PROJECT-3
+Company
+I.O.C.L Rawara, (Rajasthan)
+Role
+ Erection & Commissioning  of  30 kW roof Top Solar Project..
+Team
+Individual
+Duration 
+1 Month
+
+PROJECT-4
+Name
+N.T.P.C  1G W SOLAR PARK ,kadiri (Andra pradesh)
+Company
+B.H.E.L  
+Role
+Erection and Commissioning of SCADA 50 M.W SOLAR PLANT.
+Drive
+SCADA Complete commissioning.
+Team
+2 members (Project Coordinator )
+Duration
+1 MONTH
+Description
+1. Monitoring and control of Complete 50 M.W Plant which includes
+ Its local ,remote and PLC control
+2. Commissioning and erection of I/O panels and R.T.U”S panels 
+
+PROJECT-5
+Name
+1 MW CANAL TOP SOLAR PLANT (Andra pradesh)
+Company
+B.H.E.L  
+Role
+Erection and Commissioning of SCADA 1 M.W SOLAR PLANT.
+Drive
+SCADA Complete commissioning.
+Team
+SELF
+Duration
+15  DAYS
+Description
+1. Monitoring and control of Complete 1 M.W Plant which includes
+ Its local ,remote and PLC control
+2. Commissioning and erection of I/O panels and P.C.U”S panels 
+
+
+2. Electronics Corporation of India Limited,
+  
+   (A Government of India (Dept. of Atomic Energy) Enterprise )              March.2014 to May 2015
+Client Name: DAE-  Nuclear Power Corporation of India Limited, Rawatbhata Rajasthan Site.
+Designation: Scientific Assistant ‘C’
+	•	Over 1 years of experience in Erection, Installation, Calibration, Maintenance and Detail Engineering and Commissioning of Control & Instrumentation systems for Mega Power Projects.
+	•	Operations & knowledge of erection & commissioning processes of Field Instrumentation of 2*220 Mw RAPP 5&6 Power Plant Project.
+	•	Installing and commissioning of different level of PLCs .
+	•	Responsible for Calibration, Operation and maintenance of process instruments (e.g. Control Valves, MOVs, various sensors & transducers, Metering Skids, Field Controllers) 
+	•	Work in various types of RADIATION MONITORING SYSTEMS ,PMS,Reactor Regulating System, PSS/SSS, COIS, PLC and Power supply, Logic cards and Relay Cards including their Daily Routine checks and Preventive Maintenance.
+	•	Total annual maintenance of ECIL supplied electronic control & instrumentation(C&I) systems.
+
+3.Ispat Industries Limited, Raigad, Mumbai                                           June 2008 to Dec 2009
+Designation: Junior Engineer (Electrical & Maintenance)
+
+ISPAT  INDUSTRIES LTD Steel  company in Maharashtra. 
+I  worked in Oxygen Plant as Maintenance Engineer Electrical and Automation, Oxygen plant capacity is 1260 TPD. There was10 heat Exchanger, one turbine, 5 CT fans (7.5kw, 14.4A, 1440rpm) 5compressors (600kw, current63A, 6.6kv, speed2976rpm)
+
+Internship/Trainings:
+	•	Two months P.L.C  & SCADA training in NSIC institute Chennai 
+	•	Completed Training based on Microprocessor Diesel Engine Indian Railway Diesel shed, katni
+	•	One week training in PLC hardware & wiring in industrial automation, from(Advanced Training Institute, Chennai)
+	•	Three month Training on Instrumentation and Control from CRISP, Bhopal. sponsor by PFC.  This Course Contains 3 Modules.
+	•	  Field Instrumentation - Measurement of Temperature, level, Pressure and Flow. Control  
+                           Valves & Actuators, Basics of P&ID, Interfacing of instruments.
+	•	   Electronics Maintenance - Multi-meters, Function Generator, LCR Meter,  and
+                           Testing of Electronic Circuits. 
+	•	   Industrial Pneumatics - Compressors, Air Dryers and Receivers, Piping Network, FRL,
+                           Actuators, Direction Control Valves, Electro-Pneumatics and circuits, Relay Logic solenoid  Valves, Introduction of Proximity  Circuits, Sensors, and Plant Related Pneumatic Circuit Design.
+
+Managerial Acumen.
+
+	•	Excellent communication and  interpersonal skills.
+	•	Ability to motivate others and to take responsibility.
+	•	Comfortable to work in group.
+	•	Ability to work under pressure.
+	•	Ability to ensure standards of efficiency are met in all the areas.
+	•	Ability to do failure analysis, draw conclusions, stimulate design, engineering up- gradation and follow up for desired changes.
+
+ Software Skill set: MS excel, MS word, MS power point.
+
+
+Education:
+	•	 B.E. in Electronics & Instrumentation (61.21%) From D.A.V.V. Indore(2012)
+	•	 Diploma in Electronics & Communication (69.79%) From R.G.T.U. Bhopal (2008)
+	•	 Higher Secondary. (69.78%) from M.P. Board, Bhopal (2005)
+	•	 High School. (67.8%) from M.P. Board, Bhopal (2003)
+
+I am sure I would be able to come up to your expectations and perform to the best of my ability.
+
+Date: …………..
+Place:   		                                     	     				(Kunal Ramteke)  
+

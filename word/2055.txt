@@ -1,0 +1,71 @@
+Jennifer So
+Address Phone: Email:
+
+September 2nd, 2013
+
+President
+EE 400D Robot Company 1250 Bellflower Blvd.
+Long Beach, CA 90840 Dear Mr. President,
+I am applying for the Manufacturing Line Manager position with the EE 400D Robot Company as advertised on the company website.
+
+My interest in Electrical Engineering grew when I started working with entertainment production equipment. I found myself increasingly drawn to understanding the science behind the technology, and decided to pursue a career in Electrical Engineering.
+
+As a Student Engineer Intern at The Boeing Company for a year and a half, I have had the opportunity to learn about 3D modeling on CATIA V5. Collaborating with a team of electrical engineers, I have worked on wiring design projects for the raceway cabin, onboard networking systems, and lower lobes of various 7-series airplanes. In addition, I have also worked as an Engineer Assistant at LKK Manufacturing, where I had the chance to learn about working with suppliers, logistics, and mechanics to put together efficient production schedules that meet sales and business needs.
+
+I would like to be a candidate for the Manufacturing Line Manager and 3D modeling positions, as my experience in 3D modeling and managing the daily tasks of running a manufacturing plant is highly applicable for the position. Alternatively, I would like to be on the systems team. Given the chance, I would like to work on the Prusa i3 dual extrusion head or the bio-printer projects.
+
+I look forward to hearing from you about the opportunity to join the EE 400D Robot Company. Sincerely,
+Jennifer So
+
+
+
+
+OBJECTIVE
+ JENNIFER SO
+ADDRESS PHONE: ∙ EMAIL:
+
+
+Seeking a Manufacturing Line Manager position at the EE 400D Robot Company.
+
+EDUCATION
+
+Bachelor of Science in Electrical Engineering	December 2013 California State University, Long Beach
+Bachelor of Arts in Psychology	March 2009
+University of California, Los Angeles
+
+PROFESSIONAL EXPERIENCE
+
+The Boeing Company, Student Engineer Intern	Long Beach, CA	March 2012 – Present ELECTRICAL ENGINEERING - WIRE DESIGN AND INSTALLATION		June 2013 – Present
+	•	Design wiring using 3D modeling tools such as CATIA for raceway and lower lobe on 7-series airplanes
+	•	Maintain wire harness detail and assembly design on 737 cabin raceway using CATIA V5, Enovia, and WIRS
+	•	Convert wire harness assembly of raceway models from CATIA V4 to V5
+PRODUCT SUPPORT ENGINEERING - FAULT ISOLATION	March 2012 – June 2013
+	•	Created fault isolation procedures in FIM for airplane avionics, electrical, lighting, and hydraulic systems with the use of wiring diagrams and system schematics
+	•	Updated FIM troubleshooting procedures for electrical components and electrical systems
+	•	Teamed with the e-MOD organization to convert older, non-SGML troubleshooting documents into modern SGML data, and enhance Fault Isolation Manual products to include digital services to all airline customers
+LKK Manufacturing, Engineer Assistant	Industry, CA	June 2010 – March 2012
+	•	Work with vendors, logistics and mechanics to create production schedules that meet sales and business goals
+	•	Tracked inventory, monitored daily usage trends for production line, and managed logistics of machinery parts
+	•	Maintained contractor and vendor relations to obtain necessary building maintenance services, machinery parts, and engineering tools for optimal pricing and quality
+Comcast Networks, E! News Intl Production Intern	Los Angeles, CA	January 2009 – May 2009
+	•	Assisted in editing E! News program content for international E! News launch
+Sony Pictures Television, Programming Intern	Culver City, CA	September 2008 – December 2008
+	•	Compiled research material for pilot projects for content and quality control purposes
+TVB, Programming Assistant	Norwalk, CA	June 2008 – August 2009
+	•	Ran File Transfer Protocol (FTP) to ensure successful and timely publication of television broadcast content
+
+ACADEMIC RESEARCH
+
+CubeSat at Cal Poly Pomona	June 2013 – Present
+	•	Develop low cost miniaturized satellite for space research using MATLAB and MPLAB
+	•	Collaborate with electrical team to create PID control system to control gyros
+
+TECHNICAL SKILLS
+
+MATLAB, CATIA V5, Xilinx, SAP, eMOD, WIRS, Enovia, Microsoft Word/Excel/Outlook/Powerpoint/ Publisher Adobe Acrobat Pro, Photoshop, InDesign, SPSS
+
+ORGANIZATIONS/AFFILIATION
+
+Boeing REACH	March 2012 - Present
+Biomedical Engineering Society (BMES) – Treasurer	August 2012 – May 2013
+Institute of Electronic and Electrical Engineers (IEEE)	August 2010 – Present

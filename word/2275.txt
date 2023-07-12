@@ -1,0 +1,44 @@
+Uri London    | 050-638-5397 | ulondon@gmail.com
+
+Summary
+Completing a Ph.D in Physics, with expertise in quantum mechanics, nonlinear physics and interferometry.
+8200 alumnus with a high technical orientation, analytical thinking and background in programming and simulations.
+Education
+2007-now Ph.D in Theoretical Physics, Hebrew University. Semiclassical physics, Cold atoms. 2003-2005 M.Sc in Theoretical Physics, Hebrew University. Condensed matter. Grade: 91.85 2000-2002 B.Sc in Physics and Mathematics. Grade: 87.23
+
+Courses
+2011 Technical analysis trading at Cashflow.
+2005 Workshops on financial markets and real-estate at Mati-Jerusalem.
+Experience
+2007-2012 Research assistant in The Hebrew University
+	•	Theoretical research of dynamical systems at the semiclassical limit.
+	•	Quamtum optics systems and cold atoms.
+	•	Usage of various analytical tools as well as simulations in Matlab and Fortran.
+
+2003-2011 Teaching assistant at The Hebrew University
+	•	Mechanics and special relativity, electromagnetism, optics, advanced lab.
+	•	Administration of E-learning systems.
+	•	In charge of tutors and graders staff.
+Exercise grader at Hadassa College
+	•	Internet programming and Java, Algebraic structures.
+Scientific editing at Magnes Press
+	•	Text editing in mathematical peer reviewed journals.
+
+1998-1999 Field engineer (Post Sale) at VocalTec
+A pioneering company for VOIP solutions.
+	•	Hardware and software installation of VOIP systems, providing on-site solutions.
+	•	Customer trainings and helpdesk.
+	•	Working with private customers, local businesses and major telecom corps.
+	•	Protocols: H.323, ISDN, SS7, TCP/IP.
+Skills & Expertise
+Languages/Tools: Matlab, Mathematica, C++, Python
+Other: HTML
+OFFICE: MS-Office, LaTeX	OS: Windows, Linux
+Army
+1995-1998 Technician at the Army Intelligence (8200). Full service, Staff Sergent.
+Administration and installation of
+	•	Telephony systems.
+	•	Computers networks, WAN, LAN, T1, TCP/IP.
+	•	RF systems, Antennas.
+Languages
+Hebrew: Native.	English: Fluent.

@@ -1,0 +1,42 @@
+Frederick Chen
+frederi1@andrew.cmu.edu 4257 Bryn Mawr Road Pittsburgh, PA 15219
+(509) 432-9173
+
+EDUCATION
+Carnegie Mellon University, Pittsburgh, PA	GPA: 3.08
+Bachelor of Science in Computer Science (Minor: Robotics), May 2015
+University of California – Los Angeles, Los Angeles, CA
+Bachelor of Science in Computer Science (August 2012 – May 2013)	GPA: 3.67
+Washington State University, Pullman, WA
+Running Start Program, (August 2010 - June 2012)	GPA: 3.95
+	•	State program that allows juniors and seniors to take college courses (53 units completed)
+Pullman High School, Pullman, WA
+High School Diploma with Honors, June 2012	GPA: 3.96
+
+PROFESSIONAL EXPERIENCE
+Systex Corporation, Taipei, Taiwan
+Student Intern (Summer 2013)
+	•	Consulted with clients to determine their IT needs
+	•	Assembled solutions to meet clients’ IT security needs
+	•	Learned and worked with Big-Data business models
+	•	Integrated cloud services such as IaaS and SaaS in business models Washington State University Physics Department, Pullman, WA Student Researcher (September 2011 - May 2012)
+	•	Worked with luminescence machines to analyze luminescence properties and applications of YAG and ZnO
+	•	Won the "Early Career" Award in SURCA for the Engineering and Physical Science category
+
+PROJECTS
+Applied Computational Intelligence Lab (2014), Pittsburgh, PA
+	•	Carnegie Mellon University: Creating a smart mirror interface to display various information
+	•	Implementing features such as facial recognition, voice sensing, and information display.
+	•	Integrating local and personal information to display and communicate to the users
+	•	Utilizing various techniques learned out of class such as application development and kinetic programming
+
+Intro to Robotics Projects (2014), Pittsburgh, PA
+	•	Carnegie Mellon University: Using the Lego Mindstorm NXT to perform various challenges
+	•	Completed challenges such as dead reckoning, path search, trajectory following, localization, and USAR challenge.
+	•	Working with members of different discipline such as mechanical and electrical engineering
+	•	Utilized various techniques learned in class including motor encoders, graph search algorithm, workspace and configuration space, and probability mapping
+
+SKILLS
+Computer Languages: C, C++, SML, RobotC, C#, HTML, CSS, Java, JavaScript, PHP
+Applications: Matlab, Visual Studio .NET, Origin Operating Systems: Unix, Linux, Windows, Mac OS Fluent in English, Chinese, and Japanese
+Soft Skills: Communication, interpersonal skills, adaptability, motivation, teamwork, commitment

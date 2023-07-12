@@ -1,0 +1,176 @@
+                                                                      
+CURRICULUM- VITAE
+                                                                                                                                                                                                          
+Jaiprakash Tiwari,                                                                                                                                       
+9873640547,8010316832               
+                 
+Passport No:- G5649842
+Jpt1.770@rediffmail.com
+                                                                                            
+OBJECTIVE
+
+Seeking a position in a renowned organization that will capitalize on acquired expertise to deliver cutting edge network solutions.
+
+PERSONAL SKILLS
+
+Hardworking, responsible, simple, discipline and willingness to learn and ability to deal with a logical approach.
+
+PROFESSIONAL EXPERIENCE
+Presently working in MAKSAT Technology Pvt Ltd as a Project Manager  .From May 2015 to till date.
+
+• Coordination with Team Management IWAN Project(Airtel) RF,WIMAX,FIBER,Survey(SPO Tool) , BTS Permision,MRF Genrate, SR,SO,Installation,E1 patching, End to End testing.
+    • Brief Knowledge of TEJAS MUX, ECI-MUX (XDM-100), Ceragon  STM-1, STM-4, STM-16, STM-64.
+    • Brief Knowledge of Route Planning of optical fiber,BTS,RF optimization.
+    • Supervision of Lying of Fiber & PCM Cable, Splicing & Termination of Fiber, Duct Lying, Cable Blowing, DIT. 
+    • Successfully Provided Lease Line Circuits, Testing & Installation of E1 Converters & Modems.
+    • Knowledge of BER Tester.
+    • Knowledge of Power Meter & Source Meter.
+    • Knowledge of Ethernet Tester. Whatsup gold,Netsaint,SDH.
+    • Knowledge of DOT Inspection.
+    • Link installation through wired connectivity. 
+    • Troubleshooting issues related with wired connectivity.
+    • Link installation through wireless Radios.
+    • Providing point to point & point to multipoint wireless link connectivity.
+    • Troubleshooting the issues related with Radio link.
+
+
+Job Responsibilities:-
+                                    In this project my role was  Implementation Engineer for North India . In which I have put my 100% Effort to make up our network in North India and it was a success which was accepted by VSNL Delhi & Mumbai.
+
+	•	Defence Project:-
+                                            In this project we have connected all the ASCON Node for Voice & data transfer over RF, coming in J&K region & Punjab. We used Ceragon STM-1 Radio on each side & connected them point to point on licensed frequency.
+
+	•	Northern Railway: -
+                                                 We used Ceragon PDH radio (18 Ghz) for connecting Railway offices, Army using for voice on Licensed frequency.I was working as a Team Leader and responsible for Installation, commissioning and  take sign off.
+ 
+
+
+worked in Spectranet Networks Ltd. (Shyam groups) from December 2008 to April 2015.
+
+Spectranet Class A ISP Networks LTD (Shyam Group):-  
+Spectranet no 1 Class A ISP  is a Group of the Shyam Telecom Ltd.,. Shyam Telecom is the biggest telecom company. The current Enterprise service offerings include premium and shared Internet Leased Line services, wireless internet services, VOIP and VPN Services.
+
+Designation: - Manager, Network & Wireless Operations 
+JOB Responsibilities & Roles: - Managing the entire POP deployment and Major Network operations within the locations. of  Mumbai,Hydrabad Chennai, Banglore.Kolkotta.
+
+Providing technical support to below mentioned:-
+ 
+    (1) VOIP Client.
+    (2) Wired Clients.
+    (3) Wireless Clients.
+    (4) Actively involve with transmission technical team for ongoing operations (Fiber,Transmission/NLD)  
+    • Installation, Commissioning, Testing, Operations & Maintenance of SDH equipments of different operators.  
+       (PGCIL, HFCL, TATA & TCL)  
+    • Coordination with private operator for National Long distance.
+    • Brief Knowledge of TEJAS MUX, ECI-MUX (XDM-100), STM-1, STM-4, STM-16, STM-64.
+    • Brief Knowledge of Route Planning of optical fiber.
+    • Supervision of Lying of Fiber & PCM Cable, Splicing & Termination of Fiber, Duct Lying, Cable Blowing, DIT. 
+    • Successfully Provided Lease Line Circuits, Testing & Installation of E1 Converters & Modems.
+    • Knowledge of BER Tester.
+    • Knowledge of Power Meter & Source Meter.
+    • Knowledge of Ethernet Tester. Whatsup gold,Netsaint,SDH.
+    • Knowledge of DOT Inspection.
+    • Link installation through wired connectivity. 
+    • Troubleshooting issues related with wired connectivity.
+    • Link installation through wireless Radios.
+    • Providing point to point & point to multipoint wireless link connectivity.
+    • Troubleshooting the issues related with Radio link.
+    • Experience in Configuring the VOIP devices like Cisco Routers of different series- 2600, 3640, 3660,     
+       Audio codes (MP-108,114,118,124) & Mediant.
+    • Experience in configuring and managing Cisco switches of 2950, 2960, 3550, 3560 series.
+    • Experience in configuring and managing Cisco Routers of different series viz.1601, 1721, 1751, 1841,   
+       2500, 2600, 3640, 3660, 3700, 3845, 7206 and solving the technical issues related with these routers. 
+ 
+  Worked in June 2007 to Nov 2008 Manager RF SpancoTelesystems and Solutions Ltd. Is one of the leading networking and systems integration Solutions Company in India. From providing telecom integration services to multinational companies, public sector units and India’s Vast Defense Sector, Spanco has evolved to extend its expertise into the Dynamic space of call center and business Process outsourcing also.(www.spancotele.com).
+
+Job Responsibilities:-
+
+	•	Project scheduling, resource planning, Project execution, Quality control as per Customer standard for VSNL WiMAX & MMDS project.
+	•	Interact with multi sub-vendors and single point of contact between customer and vendor. 
+	•	Responsible for the entire implementation of WiMAX testing and implementations.
+	•	Managing the Entire O & M Team comprises in 30 cities. 
+	•	Manage and co-ordinate I&C team for Installation & commissioning of BTS.  
+	•	Responsible for final BTS & SS acceptance test completion and Signoff.
+                      
+	•	Procurement of materials as per project requirement.
+	•	Working closely with Pre sales Team, providing technical and commercial solution to the key customer.
+	•	Responsible for the entire billing.
+	•	Handling I&C and logistic issues with customer.
+
+
+PROJECT UNDERTAKEN:-
+
+	•	VSNL MMDS Project- In this project We Spanco is the Last Mile Vendor for VSNL with Wipll Airspan as our Equipment Vendor. In this our role was to implement Last mile MPLS VPN with Wireless to the VSNL End Customers. For this we have selected some BTS( Base Terminal Station) as we have used Tata Cell sites for this purpose.
+
+Job Responsibilities:-
+                                    In this project my role was  Implementation Engineer for North India . In which I have put my 100% Effort to make up our network in North India and it was a success which was accepted by VSNL Delhi & Mumbai.
+
+	•	Defence Project:-
+                                            In this project we have connected all the ASCON Node for Voice & data transfer over RF, coming in J&K region & Punjab. We used Ceragon STM-1 Radio on each side & connected them point to point on licensed frequency.
+
+	•	Northern Railway: -
+                                                 We used Ceragon PDH radio (18 Ghz) for connecting Railway offices using for voice on Licensed frequency.I was working as a Team Leader and responsible for Installation, commissioning and  take sign off.
+ 
+MAJOR PROJECT:-
+
+Individually, I have headed in installation of POP Projects in Ludhiana (Punjab) Ambala (Haryana), Jammu (J&K), Baddi, Shimla (Himachal Pradesh), right from initiation & successful completion.
+
+Worked in Tulip Telecom Ltd. (Class-A ISP) from Jan 2000 to  May 2006:-
+Tulip Telecom LTD :-
+
+Tulip. It is a class ‘A’ Internet Service Provider (ISP) and is a part of Tulip Telecom Inc. USA. The Service Portfolio of the company is as follows:
+
+• Wired & Wireless Internet Access.
+• Voice over IP (VOIP Solutions).
+• VPN & Internet Security Solutions.
+
+
+
+
+
+JOB Responsibilities & Roles: - Managed the entire POP deployment of Delhi (NCR).
+Worked in Six year experience as an Assistant Manager wireless operation at Tulip Telecom Ltd.  Delhi(NCR), which includes:-
+
+• Experience in Link installation through RF Radios. 
+• Provided point to point & point to multipoint radio link connectivity to the clients.
+• Troubleshooting the client issues related with Radio link.
+• Experience in Link installation through wired connectivity.
+• Troubleshooting the client issues related with wired connectivity.
+• Handled VOIP issue (SIP Platform).
+• Experience in Configuring the VOIP devices like Cisco Routers of different series- 2600, 3640, 3660, Audio 
+  Codes (MP-108,114,118,124), Mediant.
+• Experience in configuring and managing Cisco switches of 2950, 2960, 3550, 3560 series.
+• Experience in configuring and managing Cisco Routers of different series viz.1600, 1700, 2500, 2600, 3640, 
+  3660, 3845 and solving the technical issues related with these routers.  
+
+
+MAJOR PROJECT :-
+
+In Chandigarh, I played a leading role in migration project of Tulip NOC (Delhi) to VSNL NOC (Delhi) after the merger of Primus with TATA-VSNL along with Migration of all the customers which were connected from Tulip NOC and installation of all the NOC equipments at VSNL NOC.I had been involved in this project right from its start and this project has been completed successfully.
+
+TECHNICAL KNOWLEDGE:-
+
+NAT, Access Lists, VLANS Access list, VLAN Trunking Protocol, VLANS, Inter VLANS Routing, Private Vlans, Port Security , Aggregation Switch links, Route Maps, HSRP, VRRP, GLBP, MHSRP, , STP, RSTP, MST, Static routing, Default Routing, Dynamic routing, ,RIPv1& v2, IGRP, EIGRP, OSPF,BGP,Frame Relay, Wired Modems & Radio modems.
+
+CERTIFICATION:-
+
+• CCNA (Cisco Certified Network Associate). 
+
+EDUCATIONAL QUALIFICATION:-
+
+• B.TECH IT From Lucknow University 
+• MBA IT From Maharastra University       .
+
+EXTRA CURRICULAR ACTIVITIES:-
+
+• Participated in School & college cricket matches at District level.
+
+ PERSONAL DETAILS
+  Name:                     Jaiprakash Tiwari
+  Date of Birth:            17 May 1972
+  Marital Status:           Married.
+  Language Known:     Hindi, English.
+  Permanent Address    L-81, Sector 11 Noida
+  Distt:- Goutam Budh Nagar (Uttar Pradesh)
+ Pincode 201301
+

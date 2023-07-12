@@ -1,0 +1,51 @@
+
+
+
+
+
+EDUCATION
+
+Rice University, Houston, Texas
+Master of Science, Statistics
+Sept. 2013  – Current
+Current GPA: 4.06
+Data Mining and Computational Statistics
+Courses: Advanced Linear Regression, Experiment Design, Mathematical Statistics, GLM Analysis, Stochastic Process, Data Mining, Statistical Computing with R, SAS Programming.
+Minzu University of China, Beijing, China
+Bachelor of Science, Information and Computing Sciences
+Sept.2009 – June.2013 Cumulative GPA: 3.7
+Computational Mathematics
+Courses: Data Structure, Computation Method, Linear Programming, Information Theory, Database etc.
+EXPERIENCE
+
+Rice University, Houston, Texas
+Step. 2013 – Dec. 2013
+Startup Companies Dataset Analysis
+
+	•	Leaded a group to analyze the American Startup dataset (by Crunchbase) covering Startups’ information since year 1987.
+	•	Used R’s package ggplot2, gmap, plyr etc. to clean, group and statistically visualize the dataset.
+	•	Built a logistical regression to analyze Startups’ survivability and growth potential.
+Institute of Computing Technology, Chinese Academic of Science, Beijing
+Oct. 2012 – May. 2013
+Undergraduate Researcher in Computer Vision
+
+	•	Applied Adaboost Leaning methods to face detection in relatively complex environment.
+	•	Built a basic supervised learning Neural Network to classify the face from the non-face by MatLab.
+	•	Researched into state-of-art facial detection methods and compared their pros and cons.
+China Universal Asset Management Co., Ltd., Beijing
+June.2012 – Aug. 2012
+	•	Retrieved customs’ data via SQL, did basic analysis summary using Excel and helped to write weekly report.
+Minzu University of China, Beijing
+Step. 2011 – Dec. 2011
+Questionnaires based study on minority students’ oversea study phenomenon.
+
+	•	Leaded a four-member team to design and handout about 2,000 questionnaires to undergraduates.
+	•	Typed the collected questionnaires into SPSS and did cluster and discriminant analysis on the categorical data. Wrote a report to the MUC international exchange center.
+	•	Exported SPSS data and imported them into SQL server and built a Visual Basic program to query and retrieve interesting subset for further research usage.
+TECHNICAL SKILLS
+
+Programming Language: MatLab, R, SAS, SQL, Python, C/C++, VB, Java. (decedent by proficiency) Software: SPSS, Excel, SQL Server 2005
+HONORS
+
+Honorable Mention at Mathematical Contest in Modeling organized by COMAP Meritorious Award at China Undergraduate Modeling Contest
+Outstanding Award at Beijing Undergraduate Research and Training Program

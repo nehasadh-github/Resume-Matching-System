@@ -1,0 +1,114 @@
+
+
+                                                                         RESUME
+ARUNKUMAR K KANDE				    S/O KUPENDRA B KANDE
+arunkumar.kande@gmail.com			    AT: BODHAN   TQ: ALAND
+mobile :7353029312,974198931                                    DIST:  GULBARGA   585104	
+****************************************************************************************************************
+Objective: Is to have performance that gives timely execution of plans .and motivating myself for        achievement of higher productivity.                  
+WORK EXPERIANCE:
+
+Total work experience of 12 year including 1.5 industry and 1.5 R&D..
+
+1) Worked as a SOFTWARE ENGINEER at SAMSUNG INDIA ELECTRONICS LIMITED                                                       
+         from DEC 2004 to APRIL 2005.
+2) Worked as a PROJECT ASSISTANT Engineer At PRCD ISRO 
+        from MAY 2003 to NOV     2004.
+3) Worked as a FIRMWARE ENGINEER at CHIP AUTOMATION TECHNOLOGIES. 
+        from FEB 2002 to APRIL 2003.
+
+
+
+
+PROJECTS HANDELED:
+ ACADEMIC PROJECT:  
+     1)     Microcontroller Based 12 Channel Announcers.
+        It is firmware project in which we have used the AT89c51.The bit oriented Operation
+        of the microcontroller is made used in this project. Whenever test button is pressed the  
+         input channels are checked and accordingly corresponding channels o/p is conveyed  
+         And announced. Turning of the siren is made by the reset buttons pressed.
+      
+ PROJECTS in C.A.T:
+2) Maximum Power  Point Tracking System.
+       Maximum PowerTracking System (MPPT) is used in Photovoltaic (PV) system to
+       Maximize the PV array output irrespective of temperature. And Radiation, also local load  
+       Electrical characteristics .the new MPPT system is developed in which controlling consist 
+       Of buck type of DC-DC Converter that is controlled  by a microcontroller based unit.
+3)   MP3 player.
+     Portable MP3 player based on the PC. It uses an AT89C51.and AT90L/S8535 
+     Microcontroller with its on board memory and STA013 decoder  and DAC. It supports for 
+     RS232 communication with PC for down loading fo songs and from the internet.
+   
+PROJETS AT ISRO:
+  4) Base Band Processing Module For Regenerative Payload Simulator.
+ Aim of the project is to develop a simulator for the base band processing and switching module
+  of the regenrative payload, which will recive the request from the user terminals . the input to 
+  this module is request packet from extracted from signaling channel, and respective 
+  demodulated signal of the channel to be switched.
+5) TTC RF Power Monitoring System, POWERMETER.
+   The aim of the project is to continuosly monitor the power level at Spacecraft end, setting 
+   reference level within operating window with data logging and raise the alarm in case there is 
+   drastic change in power level. The hardware consist of ADC, RS232, LCD, RAM, RTC and 
+   battery backup with built in power supply. the system has been provided with built in buzzer 
+   And external alram.the stand alone mode with internal battery verified for data rententivity
+   long term stability of 120 hours.
+6) DDS Based programmable wide band FM modulator.
+   This project is to devlop a wideband digital FM modulator using DDS technique the generated 
+   FM signal is to be used as RF uplink signal for satellite receversrs. Developed code for 
+   microcontroller which programs AD9850 DDS chip.The controller sets center frequency by
+   loading the tuning words in DDS chip.user can set the frequency and deviation. and phase
+  Modulation words are loaded into the AD9850 via parallel byte.center frequency ranging from 
+  10- 20MHz.modulating signal in the range of 283-30KHz.
+  MTECH PROJECT:
+7).Automatic weed detectection and smart herbicide sprayer robot for corn feilds
+A vision-based guidance method is presented to guide a robot platform which is designed independently to drive through the crops in a field according to the design concept of open architecture. Then, the offset and heading angle of the robot platform are detected in real time to guide the platform on the basis of recognition of a crop using machine vision. This project is basically developed to implement a number of agricultural production in many countries, such as picking, harvesting, weeding, pruning, planting, grafting, agricultural classification etc.
+
+
+SEMINARS: 
+	•	Geographic information system.
+	•	Intelligent real time embedded system.
+
+WORKSHOP:
+	•	Two days national level workshop on PSOC and Development in RRS COLLEGE.
+	•	Three days national level workshop on WIRELESS and NS/2 OS in GNDEC COLLEGE.
+
+TECHNOLOGY EXPOSURE:
+     Designing software, Developing Hardware, and Software design, developing
+     Prototype for Embedded Product.
+
+     Languages: C, Assembly languages for microcontroller and microprocessors.
+     IDE  for 8 bit and 16 bit, 32 bit microcontroller.
+
+     Emulator use and logic analyzer for development of embedded system.
+     
+
+
+EDUCATIONAL PROFILE:
+	•	M TECH Embedded system in Electronics and communication from RRS from JNTU      
+                    
+      2) B.E -Electronics and communication engineering from PDACE GULBARGA.
+           from Gulbarga university Gulbarga in NOV 2001 with   63%.
+
+      3)  P.U.C -from Sharanbasveswar College of science.
+          Pre University Education Board Karnataka in the year 1997 with 70.16%. 
+ 
+      4) S.S.LC -from Karnataka secondary Education Examination Board
+          In the year 1995 with 68%.
+
+
+
+
+
+
+PERSONAL PROFILE:                                  
+                    	                 Father name     :     Kupendra B. Kande
+                                   	Nationality         :     Indian.
+Sex                        : Male
+Date of Birth      : 22.07.1980
+Marital Status    : Married
+Languages          : Kannada, Hindi, English.
+
+With this I want conclude that I am looking for the opportunity and I hereby declare that the information furnished above is true to the best of my knowledge.
+				          
+ARUNKUMAR   K  KANDE           
+07353029312

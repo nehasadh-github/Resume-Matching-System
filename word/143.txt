@@ -1,0 +1,230 @@
+G.MANOHAR,                  							
+
+No: 70 n/2 e sector Barkhera Bhopal
+INDIA 
+E-mail:g.manohar1982@rediffmail.com
+Mob Ph:  9752705792,8754465318
+
+
+SUMMARY OF WORK EXPERIENCE
+
+
+	•	5+ years of rigorous experience and excellent understanding of, Server Administration, Technical support operations and Network functions.     
+	•	Thorough knowledge of Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Mac OS X 10.7 "Lion",Mac OS X 10.8 “Mountain Lion” ,Mac OS X 10.9 "Mavericks"  Windows Server 2003, Windows Server 2008, Windows server 2012,Raid,
+	•	Active Directory Services, Active Directory Group Policy Objects (GPO),DHCP, DNS and DFS, Active Directory Users and computers.
+	•	Excellent command of running projects employing industry standard project management techniques.
+	•	Extensive documentation and training experience.
+	•	Successful project and FOG (deploying OS through network LINUX BASED).
+	•	Excellent temperament to multi- task and coordinate various activities under high pressure and         time constraints and Troubleshoot any hardware related issues within least possible Turn Around Time.
+
+.TOOLS
+
+Tools Used
+ATS (Ticketing tool), ITOP (Ticketing tool), Zabbix 
+Dame ware remote tool, Team viewer , Remote desktop, VNC viewer
+
+       TECHNICAL SKILLS
+
+Operating System            
+Windows XP, Windows 7, Windows 8,  Windows 8.1, MAC OS X 10.7 "Lion", Mac OS X 10.8 “Mountain Lion, Mac OS X 10.9 "Mavericks",Mac OS X 10.10" Yosemite.
+Microsoft Servers:     
+ Windows Server 2000, Windows Server 2003, Windows Server 2008,  Windows Server 2012,  AD 2003, AD 2008,AD 2012
+Elements
+Servers, Firewall, Workstations,Desktops, Printers
+Antivirus           
+MacAfee& Symantec
+Data         
+Cobian Backup & Restore
+Virtualization:                 
+ VMware Player, Hyper-V
+Networking      
+Fortigate Firewall 110C, ,Dlink , Netgear wifi routers
+
+CERTIFICATION:
+	•	Course completed MCITP (Microsoft certified in IT professional ID NO-10232521) 2013
+
+Professional Experience
+
+Company Name	: Amnet-Systems Private Limited, Chennai.
+Designation      	: Junior IT Engineer
+Specialization 		: Windows  Admin and Desktop support Engineer
+Duration                        : September 2013 to December 2014                
+Roles and Responsibilities:
+	•	Installation and Maintenance of IMAC , MAC Book, Windows2003 , windows2008 and Windows 2012 server operating systems .Managing and maintaining 50+ Servers installed with Windows 2003/2008/2012 ,MAC10.6 OSX servers and printers.
+
+              MAC
+
+
+	•	Providing  24/7 support for Clients. Support given through remotely using VNC viewer.
+	•	Installing OS using Disk Utility and Boot camp.
+	•	Installed MAC OS X 10.7 "Lion", Mac OS X 10.8 “Mountain Lion , Mac OS X 10.9 "Mavericks"
+	•	Checking Logs everyday.
+	•	Clearing Logs, Temp files and profiles.
+	•	Installing and configuring Domain Name, Network ,Antivirus.
+	•	Installing and Configuring MS Outlook and Local and Network Printers and managing overall MAC and Windows software installations.
+	•	As per project requirement , I have installed Dual OS in IMAC like MAC OS and Windows OS.
+	•	Done the system upgrades and Software upgrades.
+	•	Sharing the folders and files in MAC.
+
+             Windows:
+
+
+	•	Providing  24/7 support for Clients. Support given through remotely using Dameware.
+	•	Installing and configuring DNS, DHCP Server,Antivirus, Outlook Express, MS Outlook and Local and Network Printers and managing overall software installations.
+	•	Complete management of User IDs and Groups, Mailboxes & Email Access.
+	•	Taking server backups for Every week using wnidows system state backup.
+	•	Configuring and maintaining RAID in  Server
+	•	Installing and maintaining Client WindowsXP ,windows 7, windows 8,Windows 8.1
+MAC Operating systems
+	•	Installation and troubleshooting of Application softwares, Antivirus
+	•	Creating & Managing FTP users and control rights.
+	•	Firewall policy routing , Daily backup , permission and restriction
+	•	Using VMware Workstation, VM player ,Installing and maintaining Virtual  servers.
+	•	Installing and configuring Active Directory, DNS, DHCPCreating User Accounts, Groups and Configuring Folder permissions.
+	•	Creating and configuring user profiles and Group policies.
+	•	Active Directory users and groups management
+	•	Giving folder permissions through the Synology (NAS)server and Windows server.
+	•	Assigning and Closing tickets through ATS ticket tracking tool.
+	•	Working with incident management and change management
+	•	Have resolved the priority tickets in a quick time span
+	•	Attending daily calls and updating the status accordingly to Management.
+	•	Clearing Logs, Temp files and profiles,unwanted softwares .
+	•	Wireless router configuration like Linksys, Dlink, Netgear.
+	•	Coordinating with clients for hardware and software issues and for top priority tickets.
+	•	Working with an antivirus team for anti-virus issues and checking daily antivirus update.
+	•	Resolving alert tickets like disk space issues, unwanted memory usage issues alert in the server.
+	•	Antivirus installation and upgradation of the agents in the servers across the environment. Troubleshooting all kinds of anti-virus related issues.
+	•	 Responding to E-mails in time and flexibility to work in 24/7.
+	•	 Troubleshoots L1 level desktop calls and server calls.
+	•	Creating Intranet and Internet Mail ids as per user requirements.
+	•	Cacti Monitoring for system and network interface performance.
+
+.
+ Company Name	: ASKI COMPUTERS Ashok Nagar,Chennai
+ Designation      	: Senior  Engineer Customer Support
+ Duration		: November 2011 to July 2013
+
+Roles and Responsibilities:
+
+	•	Playing an essential role of installing and maintaining the company’s LAN network switches 35 systems  
+	•	Installation and Maintenance of Windows2003 and windows2003 server operating systems which              includes
+	•	Installing and configuring Active Directory, DNS, DHCP
+	•	Creating User Accounts, Groups and Configuring Folder permissions.
+	•	Creating and configuring user profiles and Group policies.
+	•	Active Directory users and groups management
+
+	•	Managing the overall administration of LAN, configuration & maintenance of application servers.
+	•	Firewall policy routing , Daily backup , permission and restriction.
+	•	Installing and maintaining network and data communication hardware and software environment.
+	•	administrating accounts, setting up the permissions and access,troubleshooting all the Softwares.
+	•	Installing and maintaining windows 7,WindowsXP 
+	•	Installation and troubleshooting of Application softwares, Antivirus
+	•	Support given through remotely in windows using Teamviewer, Remote desktop connection.
+	•	Configuration of wireless routers Dlink, Linksys
+	•	Configuration of password policy for all systems which are all connected with wired and wireless Network.
+	•	Configuration of system to work  remotely in windows from anywhere.
+	•	Crimping LAN cables.
+	•	Microsoft Outlook,Outlook Express configuration .
+
+
+ 
+ 
+Company Name	: Mediatech Systems Chennai
+ Designation      	: Service Engineer
+ Duration		: April 2011 to April 2011
+
+Roles and Responsibilities:
+
+
+	•	Playing an essential role of maintaining the company’s LAN network . 
+	•	Installing and maintaining windows 2000,2003 Servers, WindowsXP,Windows 7  
+	•	Implemented, Maintenance and troubleshooting LAN Suite
+	•	Installation and troubleshooting of Application softwares, Antivirus
+	•	Support given through remotely in windows.
+	•	Configuration of file server, print server and password policy for all systems which are all                       connected with the network
+
+
+ Company Name	: Getsinfotek	Chennai
+ Designation		: Desktop Support Engineer
+ Duration		: Jun 2008 to Sep 2010
+
+Roles and Responsibilities:
+
+
+	•	Playing an essential role of maintaining the company’s LAN network (50 Systems). 
+	•	Installation of windows 2000,2003 servers and maintaining the same.
+	•	Implemented, Maintenance and troubleshooting ADS, DNS.DHCP
+	•	Installation of Operating System & trouble shooting for the above desktop PC’S.
+	•	Installation and troubleshooting of Application softwares
+	•	Support given through remotely in windows      
+
+      
+ACADEMIC PROFILE
+
+
+                 Qualification
+               University
+                      Period
+Graduation B.A
+
+
+Higher Secondary
+(12th STD)
+
+
+
+SSLC(10th STD)
+
+Annamalai University
+
+
+           State Board, TN
+
+
+
+            State Board, MP
+
+2003 – 2005
+
+
+2001-2002
+
+
+
+                   1999 – 2000
+
+
+
+
+AREA OF INTEREST:
+ 
+           
+             Windows   Systems  Admin ,MAC System Admin
+
+           
+HOBBIES
+Playing and watching Cricket.
+
+Singing and like to hear musics.
+PERSONAL PROFILE
+	Name			-		G.Manohar
+	Father’s name	             -		K.Ganeshan
+	Age			-		32
+	Date of Birth		-		1stth june’1982
+	Sex			-		Male
+	Marital Status      	-		Marreid
+	Nationality		-		Indian
+	Languages known	-		Hindi ,Tamil & English
+		
+
+
+DECLARATION
+I hereby declare that all the information stated above is true to the best of my knowledge and belief.
+
+
+
+
+
+Place:		Signature
+Date:                                                             			                      ( G.manohar)
+

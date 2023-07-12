@@ -1,0 +1,117 @@
++918341227301
+egalesanthosh@gmail.com
+SANTHOSH E
+Objective
+
+       To be associated as a Windows Server Administrator with a progressive organization that gives me scope to update knowledge and skills in accordance with the latest technologies and a part of team that dynamically works towards growth of organization and gain satisfaction thereof.
+Professional Experience
+
+        Having 4 Years of experience in IT industry as a System & Network Administrator.
+Skills
+
+Windows Server:
+	•	Installation and Configuration of Windows Server.
+	•	Active Directory Domain Configuration.
+	•	Creation and Management of Users, Groups, Domains and provision of access.
+	•	Working with remote desktop and Remote Assistance.
+	•	Managing and implementing various services (DNS, DHCP).
+	•	Routing.
+	•	Backup and Recovery of data.
+	•	NTBACKUP and Full Image Backup of Servers using external Tape Drives.
+	•	Terminal services (TS & WEB ACCESS).
+	•	VPN.
+	•	Internet Information Server (IIS) Configuration.
+	•	Management and configuration of Anti Virus Server.
+	•	Windows Deploy Service (WDS) Configuration. 
+	•	Redundant Array of Independent Disks (RAID) Configuration.
+	•	Installation and Configuration of Third Party Applications.
+	•	FTP creation and Authentication of users.
+	•	OPC Server Configuration.
+Hardware Skills:
+	•	Troubleshooting Server and Desktop Hardware problems
+	•	RAID Implementation (Levels 0,1, 5).
+	•	Maintenance of Printers and Scanners.
+	•	Installation of hard disk drives, modems, L3, L2 switches, firewalls.
+Basic Networking Skills:
+	•	IP addressing, Resolving IP conflicts.
+	•	Local Area Network and Routers Configuration.
+	•	Creation and configuration of VLAN And Trunking in Switches and Routers.
+	•	Backup and Restoration of configuration of Switches and Firewalls.
+	•	Crimping straight and cross cable.
+	•	Management of inter-networking Devices.
+	•	Troubleshooting Proxy and Browser problems.
+	•	Printer sharing.
+	•	UTP cable connectivity checking through LAN tester.     
+	•	OFC checking through OTDR.
+	•	Cleaning OFC ends using isopropyl.
+Extra Skills:
+	•	Outlook issues.
+	•	Outlook Backup and Restore
+	•	NVIDIA graphical cards 1 pc to number of monitors.
+	•	Troubleshooting applications at client side.
+	•	Installation and configuration of software like Citect, Oracle, Visual Basic, VNC, MS Office, external peripheral drivers.
+	•	Monthly preventive maintenance to desktops, servers, network equipment
+	•	Monitoring server room temperature and power.
+
+    Work History
+
+
+
+
+
+
+       IT Support Engineer,
+       Microcare computers pvt ltd,
+       STEEL PLANT (Scada project),
+       vizag, ANDHRAPRADESH,
+       PERIOD: oct-2016 To till date.
+ 
+       system administrator,
+       PCS TECHNOLOGY LTD,
+       STEEL PLANT (Scada project),
+       vizag, ANDHRAPRADESH,
+       PERIOD: June-2015 To oct-2016.
+
+       desktop support engineer L2 (dl2),
+       progressive infovision pvt.ltd,
+       (WIPRO PROJECT),
+       vizag, ANDHRAPRADESH,
+       PERIOD: JanUARY-2015 TO junE-2015.
+
+       hardware engineer,
+       NSB Bpo solutions pvt.ltd,
+       vizag, ANDHRAPRADESH,
+       PERIOD: march-2013 To sepTEMBER-2014.
+
+       system administrator,
+       Avanthi college OF ENGINEERING,
+       vizag, andhrapradesh,
+       PERIOD: decEMBER-2011 to july-2012.
+Education
+
+B. Tech in IT from VITAM (JNTUK), 2011.
+Intermediate from Narayana Junior College (AP Board of Intermediate), 2007.
+SSC from VST School (AP Board of Secondary School of Education), 2005.
+Personal Profile
+
+Name                          :	E Santhosh
+Father’s Name             :	E Gurunath
+Sex			:	Male
+Date of Birth               :	25-03-1990
+Languages known 	:	Telugu, English
+Marital Status		:	Single
+Permanent Address	:	Greens Enclave Building,
+                                                HB Colony,
+                                                Visakhapatnam.
+
+
+
+Declaration:			
+I hereby declare that the above-mentioned information is correct up to my knowledge. 
+
+Place: Hyderabad                                                                    			(E Santhosh)
+
+
+
+
+

@@ -1,0 +1,107 @@
+Archana Nair A
+Aiswarya House, Manjinikkara Omalloor P O, Pathanamthitta, 689647 Phone No: 0468-2350148, 9496773771
+Email: archananair518@gmail.com
+
+
+
+CAREER OBJECTIVE
+To give my best in my professional pursuit for overall growth of the company which provides me job satisfaction, career growth and help me achieve organisational goals.
+
+
+PERSONAL SKILLS
+	•	Good Team Player
+	•	Positive attitude
+	•	Interpersonal skills
+	•	Quick learner
+	•	Adaptive nature
+
+
+ACADEMIC QUALIFICATIONS
+
+Course
+Branch/Subject
+Board/University
+Institution
+Year of
+pass
+Percentage
+
+B.Tech
+Computer Science Engg:
+
+M G University
+Mount zion
+college of engg. Pathanamthitta
+
+2016
+
+64
+
+12th
+
+Bio- Mathematics
+
+State syllabus
+Holy Angels HSS, Adoor
+
+2012
+
+75
+
+10th
+
+GENERAL
+
+State syllabus
+St.Teresa’s CGHSS
+Ernakulam
+
+2010
+
+76
+
+
+
+TECHNICAL SKILLS
+C,C++,HTML,Java
+Completed BigData hadoop(MapReduce,Hive,Pig,Hbase) training from Spyrosys Technologies kochi.
+
+
+
+
+MAIN PROJECT
+PROJECT NAME : ANDROID OPERATED SMART HOME
+Android smart phone is used as a remote control for operating the electrical appliances. Android boasts a healthy array of connectivity options,including wifi,bluetooth and wireless data over a cellular connection. The controlling of appliances can be done either by using a server module. Here the controller is loaded with a program written using Embedded c language. The main objective of this project is to help for physically disabled persons specifically those who are unable to walk.
+
+
+MINI PROJECT
+PROJECT NAME : COIRFED SYSTEM
+Coirfed system is used to develop the small scale coir production to large scale production. In this project we are dealing with the stock entry details of various products,salary details of labours and details of wholesale dealers etc. In the existing system we have done it by manual and it is time consuming. In the proposed system we have done it by computer so the data entry and accessing the details of labour and products will be more accurate and easier.
+SEMINARS AND PRESENTATIONS
+Presented seminar on the curriculam section entitled as “VIRTUAL REALITY APPLICATIONS” : Virtual reality is the use of computer technology to create a simulated environment. Unlike traditional user interfaces, virtual reality places the user inside an experience instead of viewing a screen in front of person, users are immersed and able to interact with 3D world. The device used here is head mounted display and the technology used is CAVE technology. The main application of virtual reality is in military-this includes all three services (army,navy,and air force) where it is used for training purposes. By using this technology we can do training without the risk of death or serious injury.
+AWARDS AND ACHIEVEMENTS
+	•	Participated in dance on our college day.
+	•	Co-ordinated software hacking and debugging competition on college technical fest.
+	•	Organized technical fest on our college technical fest.
+
+
+PERSONAL DETAILS
+Age & DOB	: 22 years, 13-04-1994
+Gender	: Female
+Father’s name	: Mr. T G Asokan Nair
+Blood group	: O +ive
+Languages known	: English, Hindi, Malayalam Marital status	: Single
+
+Nationality	: Indian
+
+
+DECLARATION
+I consider myself familiar with Computer Science Engineering Aspects. I am also confident of my ability to work in a team. I have good communication skills and I can converse fluently in English and I am willing to be relocated anywhere.
+I hereby declare that the above information is true to the best of my knowledge.
+
+
+
+Archana Nair A	Date:
+ 
+
+Place:

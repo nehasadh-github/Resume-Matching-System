@@ -1,0 +1,142 @@
+Arjun Solanki
+System Administrator
+
+rajarjun1989@gmail.com | H/11, Shri Ramnagar, Dharm Sinh Desai Marg, Chhani Road, | Vadodara, Gujarat, 390002 | Mob: 903376-3620
+
+Summary
+To establish myself in an organization where I can utilize my acquired skills and knowledge which will boost my career growth in the field of Information technology.
+
+
+Education
+C P Patel & F H Shah Commerce College, S P University, Anand, Gujarat
+BCA, 53%
+July 2009
+T R Patel, GSHEB, Vadodara, Gujarat
+H.S.C, 72%
+June 2006
+T R Patel, GSEB, Vadodara, Gujarat
+S.S.C, 71%
+June 2004
+
+Employment History
+AIS Business Solution Pvt Ltd., Vadodara, Gujarat
+System Administrator  
+September 2016 - Present
+	•	 Managing Active Directory, GP, DNS, DHCP.
+	•	 Managing exchange server 2013 and Barracuda Spam Firewall.
+	•	 Managing CCTV server and Matrix door access control system.
+	•	 Monthly server maintenance for windows patch installation.
+	•	 Managing WSUS server as well as client system.
+	•	 Administrating Trend Micro Antivirus.
+	•	 Managing remote desktop support.
+	•	 Assets and inventory management. 
+	•	 Preparing daily activity and server performance report.
+	•	 Managing spice works and helpdesk portal.
+	•	 Co-Ordination with Dell, Matrix, Emerson and ISP vendors.
+	•	 VMware installation (ESXI) and configurations as well as VCenter support.
+	•	 Managing Dell Network devices-Switches, Wi-Fi and SonicWALL firewall (NSA 5600).
+	•	 Monitoring PRTG Graphs and Network troubleshooting.
+	•	 Managing SLA as per client requirement.
+	•	 US Client Support.
+	•	 Multifunctional Printers, Scanners Installation and Configurations.
+	•	 MS Office 2010, 2013, 2016 and office 365 support.
+	•	 HDD encryption through True crypt & Bit locker.
+	•	 Mitel VOIP configurations.
+	•	 236 Servers, Hardware & Network support.
+
+
+IDC Technologies (Wipro InfoTech), Vadodara, Gujarat
+Desktop Engineer - L2  
+December 2015 - September 2016
+	•	 450 Desktop, Servers & Hardware support.
+	•	 Leading team of 3 engineers.
+	•	 Basic trouble shootings on switches and routers.
+	•	 25 + Multifunctional Printers, Scanners Installation and Configurations.
+	•	 Call logging & follow up.
+	•	 MS Office 2003, 2007, 2010, 2013 and office 365 support.
+	•	 Lotus Notes 8.5.1 installation, configuration and troubleshooting.
+	•	 Daily Antivirus reports.
+	•	 HDD encryption and decryption through MacAfee.
+	•	 E-Token (Digital Signature Certificate) configurations.
+	•	 SCCM through software installation.
+	•	 Symantec backup utility (Incremental & Full Backup).
+	•	 VMware installation (ESXI) and configurations as well as VCenter support.
+	•	 Managing user accounts and Group policies.
+	•	 Managing DNS server.
+	•	 Managing DHCP server.
+	•	 Administrating Trend Micro Antivirus.
+Nityo InfoTech Pvt. Ltd. (DELL), Vadodara, Gujarat
+Desktop Engineer  
+March 2015 - September 2015
+	•	150 Desktop & Hardware support.
+	•	 Basic networking support.
+	•	 Basic trouble shootings on switches and routers.
+	•	 20 + Multifunctional Printers, Scanners Installation and Configurations.
+	•	 Call logging in BMC Remedy software.
+	•	 MS Office 2003, 2007, 2010 and office 365 support.
+	•	 Lotus Notes 8.5.1 installation, configuration and troubleshooting.
+	•	 Quick Heal antivirus support.
+	•	 HDD encryption and decryption.
+	•	 Wi-Fi projection support.
+	•	 Technical remote support (Team Viewer)
+	•	 SCCM through software installation.
+	•	 Daily Video conferencing testing.
+	•	 User creation, deletion, disable, password reset and unlock user accounts in AD.
+	•	 Folder creation and assign permissions.
+	•	 USB permissions through Quick Heal.
+	•	 Mail ID creation and provide permission.
+ 
+Impact InfoTech Pvt. Ltd. (Wipro InfoTech), Vadodara, Gujarat
+Desktop Engineer  
+July 2013 - March 2015
+	•	 300+ Desktop & Hardware support.
+	•	 Basic networking support.
+	•	 Basic trouble shootings on switches and routers.
+	•	 Monitoring support at data centre.
+	•	 24*7 Data centre support.
+	•	 VIP support (Collector of Vadodara and Police Commissioner of Vadodara).
+	•	 Multifunctional Printers, Scanners Installation and Configurations.
+	•	 Basic Server 2003, Server 2008R2 and Exchange server support.
+	•	 Call logging in CA Service Desk Tool.
+	•	 MS Office 2003, 2007, 2010 and office 365 support.
+	•	 Configuration and troubleshoot systems/applications on windows environment.
+	•	 Trend Micro Antivirus installation and update.
+	•	 Daily Backup activity.
+	•	 User creation, deletion, disable, password reset and unlock user accounts in AD.
+	•	 VMware installation (ESXI) and configurations.
+	•	 Folder creation and assign permissions.
+	•	 USB permissions through Trend Micro.
+
+DEV InfoTech Pvt. Ltd. (Wipro InfoTech), Vadodara, Gujarat
+System Engineer  
+Sep 2010 - Apr 2012
+	•	On call 24*7 support.
+	•	Synchronize with HO team for daily updates and solve application related problem with concern person.
+	•	Basic trouble shootings on switches and routers.
+	•	Installing and maintaining various standard software as per user requirements.
+	•	Monitoring support at data centre.
+	•	Basic Server 2003, Server 2008R2 and Exchange server support.
+	•	Daily Backup activity.
+	•	User creation, deletion, disable, password reset and unlock user accounts in AD.
+	•	VMware installation (ESXI) and configurations.
+	•	Configuration of Desktop, Laptop & printer with standard IT Checklist and Maintaining Asset Inventory.
+	•	As a single point of view I am responsible for branch rollout and maintaining IT asset.
+	•	System assembling-Dissembling 
+	•	Multifunctional printers and scanners installation-configurations.
+	•	Call logging in CA Service Desk Tool.
+	•	MS Office 2003, 2007 and 2010.
+	•	Lotus Notes 8.5.1 Installation, Configuration and troubleshooting.
+	•	Symantec, McAfee and Trend Micro Antivirus installation and update.
+	•	HDD encryption and decryption.
+	•	Preventive maintenance.
+	•	Provided Field support in city Nadiad, Anand, Bharcuh, Ankleshwar.
+
+Skills
+Managing DNS, DHCP, AD, GPO, AD site and replication, AD Backup, WSUS, ESXi Virtualization, Exchange, CCTV, Access Control System and Firewalls.
+
+Personal Details
+Date of Birth                 : 11th March 1989
+Marital Status               : Married
+Nationality                    : Indian
+Languages Known       : English, Hindi, and Gujarati.
+

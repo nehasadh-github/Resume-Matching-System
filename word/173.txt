@@ -1,0 +1,66 @@
+Shravan Maheshwaran
+
+
+
+
+
+SHRAVAN MAHESHWARN
+SHRAVAN MAHESHWARAN N R
+9643505725
+
+
+
+
+
+
+CAREER OBJECTIVE
+To work in industries where  my knowledge  and skills  are  constantly tested with challenging  assignments  and to work in positions empowering innovation and creativity.Interested to work in diverse fields pertaining to
+engineering and management.
+
+EDUCATION
+B.Tech Mechatronics	JULY 2011 — MAY 2015
+Bharath University,Chennai
+
+ACADEMIC PERFORMANCE
+F irs t Divis ion in B.Te c h Me c hat ronic s - CGPA- 7.15 /10 , 67% in the year 2015
+Secured 69 .76 in Higher secondary school examination(12t h )(Tamilnadu State Board)in the year 2011 . Secured 77.86 in the Secondary school examination(10 t h ) (CBSE) in the year 2009 .
+
+FINAL YEAR PROJECT
+DES IGN AND FABRIC ATION OF GS M C ONTROLLED ROBOT
+This robot is used for rescue purpose in earthquake areas. In the proposed system the DTMF decoder, PIR
+sensor, Ultrasonic sensor and the robot is interfaced with the PIC controller. The robot is navigated according to the commands given in the mobile. The DTMF decoder will decode the particular data and give it to the controller. According to the data the robot will move. The PIR sensor is used to check whether any human is present in the area. If any human detected then a message will be send to the monitoring GSM number. The ultrasonic sensor is used to stop colliding with obstacles. If any obstacle or human detected GPS value is fetch by controller and send through GSM
+
+MINI PROJECT
+DES IGN AND FABRIC ATION OF RED OBJEC T TRAC KING 2-AXIS ROBOT US ING MATLAB S OFTWARE
+Object tracking can be done by identifying and tracking some specific feature of the moving object such as color that belongs to the moving object. Thus trajectories of moving object can be traced through this process over time. Object tracking using computer vision is a crucial component in achieving robotic surveillance.The main aim of the object tracking is to track the object based on the information obtained from video
+sequences.In our project, we determine the region on interest (ROI) of the moving target which is followed adaptive color filter to extract the color information and thus the object is tracked. The  main contribution on  this paper is that the introduction on a color filtering method which  is  capable  of adaptively identifying  the most salient color feature that belongs to for moving object and using this color feature for tracking.
+
+WORK EXPERIENCE
+Ministry of Communication and Information Technology
+Trainee
+ 
+24th June 2014 — 18th July 2014
+
+I had undergone training at the Department of Electronics and Information Technology ,Ministry of communications & Information Technology under the guidance of Mr. B.M Baveja (Senior Director & Scientist G). The work assigned to me was to study and analyze the project proposals and research papers on new
+technology submitted by the academia from all over India for monetary funding by the Indian government  and  was required to brief the Director about concepts,applications,future scope and negative aspects if any
+everyday according to the work assigned .
+
+ADDITIONAL SKILLS
+Microsoft Office Module - Proficient in Excel,Powerpoint,Word ProE -Basic Level
+
+INTERESTS AND ACTIVITIES
+Reading - I like to spend my time reading on various subjects ,especially mythology and also love reading fundamental science related concepts and theories,nuclear physics in particular, it intrigues me. I like to watch movies and am a god loving person by nature.
+
+College Activities - Hosted cultural programs and took part in dancing competitions, essay writing, took seminars related to new technology and systems like valvetronics, sensotronics,3D printing etc.
+
+PERSONAL DETAILS
+Name: Shravan Maheshwaran N R. DOB : 28/05/1993.
+.
+Linguistic Ability: English, Hindi,Telugu,Tamil.
+West  Delhi district,
+New Delhi - 110058
+West delhi district, New Delhi -58
+
+
+DECLARATION
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief. Shravan maheshwaran N R

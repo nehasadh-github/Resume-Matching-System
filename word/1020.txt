@@ -1,0 +1,84 @@
+CHANDRASEKAR M
+
+Mobile: +91-9003323249		1-56, Pambalamman Kovil Street, Mail Id:  expochandru@gmail.com	Muthugapatti, Namakkal - 637 405.
+
+OBJECTIVE:
+A talented and dedicated IT professional with diverse experience in database and data warehousing for 2 years. Looking for a challenging position to utilize my knowledge of designing and operating for enterprise data integration and helping in growth of industry.
+TECHNICAL SKILL:
+Operating system	: UNIX, Linux, Windows 7, XP Programming Languages	: SQL, PL/SQL, UNIX Shell Scripting Database	: Oracle 11g
+Database GUI Tools	: SQL * Plus, PL/SQL Developer, Toad ETL Tools	: Informatica Power Center 9.1
+Environment	: Informatica 8.6, Oracle 10g, PL/SQL, UNIX, TOAD
+
+EDUCATIONAL SUMMARY:
+	•	Computer Science and Engineering from Info Institute of Engineering, Anna University of Technology, Coimbatore.
+EXPERIENCE SUMMARY:
+Working in VBA Technology Solutions Limited from June 2014 to till date as an Associate.
+
+PROJECT DETAILS:
+
+Project Title  : Retail Sales
+Client	: Telelookz
+Duration	: Jun 2015 to till date
+Role	: ETL Developer
+Tools Used	: Oracle 11.6, Informatica 9.1, UNIX
+Description: The Retail Sales Process needs an understanding of the Business and Requirements for Decision Making. The data is obtained from Relational tables and Flat files. The project involves cleansing and transforming the data in the staging area and then loading into Oracle data marts. The project mainly deals with all the possible ways to perform the analytical calculation to cater for the needs of strategic business requirements mainly for sales, stock comparisons and strategic planning for decision support systems.
+Responsibilities:
+	•	Was responsible for collecting requirements from business users and filling the requirement specification documentation.
+
+	•	Worked on Source Analyzer, Warehouse Designer, Mapping Designer, Mapplet Designer and Transformation Developer.
+	•	Extraction, Transformation and loading of data from flat files and oracle sources into oracle database.
+	•	Created various transformations like Source Qualifier, Lookup, Sequence Generator, Router, Filter, Aggregator, Joiner, Expression, and Update Strategy.
+	•	Created Informatica Mappings and Mapplets using different transformations.
+	•	Involved in Performance tuning for better performance.
+	•	Responsible for Creating workflows and worklets. Created Session, Event, Command, Control Decision and Email tasks in Workflow Manager.
+	•	Analyze data quality and report the anomalies to business users using TOAD.
+	•	Involved in Unit, System integration, User Acceptance Testing of Mappings.
+Project Title: Sales Analysis Data mart
+Client	: SmiTraders
+Duration	: Nov 2014 – May 2015
+Role	: ETL Informatica Developer
+Tools Used	: Oracle 11.6, Informatica 9.1, UNIX
+Description: It keeps track of day-to-day sales in different branches. The main objective of the project is to provide integrated information on retail sales data for Management’s better decision making. ETL tool Informatica is used to extract data from different legacy source systems, and load that strategic source data to the data mart.
+
+Responsibilities:
+	•	Worked closely with Business Analysts in understanding the Business requirements.
+	•	Conducted user meeting and gathered the requirements
+	•	Experience in integration of various data sources like Oracle, DB2, SQL server and MS access and non-relational sources like flat files into staging area.
+	•	Tuned mappings using Power Center-Designer and used different logic to provide maximum efficiency and performance.
+	•	Used technical transformation document to design and build the ETL modules.
+	•	Worked extensively with various active transformations in Informatica Power Center like Filter Transformation, Aggregator Transformation, Joiner Transformation, Rank Transformation, Router Transformation, Sorter Transformation, Source Qualifier, and Update Strategy Transformation.
+	•	Used the Debugger in debugging some critical mappings to check the data flow from instance to instance.
+	•	Developed all the mappings according to the design document and mapping specs provided and performed unit testing.
+	•	Performed unit testing at various levels of the ETL and actively involved in team code reviews.
+	•	Excellent analytical / communication skills and good team player.
+
+Project Title: Online Departmental Store
+Client	: FastCovai
+Duration	: July 2014 – Oct 2014
+Role	: Back end developer
+Technologies Used : WordPress
+Description: This project is relatively an e-commerce website based on the Coimbatore city. Customer has to signup depending on their needs such as for office, for home, for school…etc., and the order will be accepted online. A confirmation mail and message to the mobile number will be triggered.
+Responsibilities:
+	•	Build and manipulate Word Press websites.
+	•	Edit and repurpose Word Press plugins in accordance to customers’ needs.
+	•	Write and extend Word Press plugins.
+	•	Perform quality assurance tests on all web projects.
+	•	Obtain estimates for programming and development needs.
+	•	Perform activities to optimize websites for search engine optimization.
+
+Achievement:
+	•	Awarded “On the Spot Award” for the work contributed in the vision migration project.
+	•	Promoted as an “Analyst” in the month of Jun 2016.
+Personal Details:
+Name	: CHANDRASEKAR.M
+Date of Birth	:  15/05/1990
+Gender	: Male
+Nationality	: Indian
+Father’s name : Mr. Maruthai.N
+Mother Tongue : Tamil.
+Languages known : English, Tamil (Read, Write, Speak)
+Telugu (speak)
+
+I hereby declare that the details furnished above are true to my knowledge.
+
+(CHANDRASEKAR M)

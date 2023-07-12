@@ -1,0 +1,53 @@
+
+CURRICULUM VITAE
+PERSONAL DETAILS
+NAME - SIMIYU ENOCK WANGILA ID NO	- 30474150 MOBILE NO	- 0708761565
+EMAIL -simiyuenock1990@gmail.com
+P.O BOX	- 2151 - 50200 BUNGOMA RESIDENT	- SIRISIA
+CARRIER OBJECTIVES
+	•	To be an agent of change and empowerment in the society. To work with a dynamic organization and a reputation as a valued team player, where I can fully incorporate my creativity and academically acquired knowledge to grow professionally towards achieving the best in the world of information technology and business at large.
+EDUCATIONAL
+DURATION
+INSTITUTION
+AWARD
+2013 – 2017
+MOI University
+Bachelor of Science (computer science)
+2008 – 2011
+Kibabii boys
+KCSE(B+)
+1999 – 2007
+N.Y.S Primary
+KCPE CERT.
+
+SUMMARY OF QUALIFICATIONS
+A New Graduate with a computer science Degree. Possess a sound background in web development, App development and Project Management as well as extensive training in structured programming techniques such as C and C++, XML, HTML 5,CSS,JavaScript, Php and Java .
+Experienced in working with adobe Photoshop cs6.
+Experienced in working with the Microsoft family of operating systems (DOS, WINXP), LINUX . Strong PC hardware assembly and troubleshooting skills, as well as computer networking.
+A highly-motivated, productive and customer-focused team player with strong, interpersonal, organizational, time management, analytical and problem solving skills. Reliable and dedicated with the ability to grasp and apply new procedures quickly; organize and prioritize tasks to meet deadlines and adapt readily to new challenges.
+
+
+
+
+
+
+SKILLS
+
+
+Acquired an excellent set of inter-disciplinary skills related to computer applications including computer hardware, computer programming, and computing networks
+
+Programming with java - created a high school accounts stand alone application that helps to ease printing of fee receipts, students fee balance sheets, summary of daily and monthly collections and summaries of student payments, totals, balance and prepayments per form and streams.
+Database used : Mysql
+
+Current project: building a java web based application; high school management system using the following:
+	•	Java language
+	•	JSP
+	•	XML
+	•	And spring framework.
+	•	TomCat as a webContainer and MYSQL db.
+
+Knowledge in mobile application – android programming
+
+WORK EXPERIENCE
+	•	2017 – IT Officer Sirisia constituency during Mass voter Registration II. REFEREE
+Mr. David Constituency D.R.O Tel : 07250-787-59

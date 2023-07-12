@@ -1,0 +1,145 @@
+SUDHEER V.MUHAMMED				
+'VATTAKUDY HOUSE'
+NELLIKUZHI P.O. 
+ERNAKULAM (Dist.)                                                     Mob: 8281065563 
+KERALA					           Ph: 0485 2852253
+PIN: 686691				                        Email: sudheer.muhammedv@gmail.com
+
+
+Objective:
+	
+ To use my creativity and logical skill for the betterment of the firm for which I work 
+ and to constructively develop my thought and  personality during the process..
+
+Academic Qualifications:
+
+Qualification
+University/Board
+Institution
+Performance
+B Tech, Computer Science and Engineering(2003 –07)
+Mahatma Gandhi University, Kottayam, Kerala
+Mar Athanasius College of Engineering, Kothamangalam
+60.9%
+A.I.S.S.C.E 2003
+C.B.S.E
+Vimalagiri Public School, Kothamangalam
+72.00%
+A.I.S.S.E 2001
+C.B.S.E
+Vimalagiri Public School, Kothamangalam 
+76.40%
+
+Skills:
+
+Languages  and Frameworks
+C#.Net,ASP.NET 4.0, 3.5 ,2.0,WPF,WF, WCF,  Silverlight, MVC-(3,4) ,    MVVM , LINQ, Entity Framework 4.0, JQuery, JQuery Mobile,  JSON, CSS ,XML,HTML 5,AJAX, ADO.Net, VB.Net ,C, C++, JAVA
+Operating Systems
+Windows , LINUX
+Tools
+Visual Studio 2010,2008, 2005,2003, SVN, VSS, Dexterity , Adobe DreamWeaver ,Adobe FireWorks ,Net Beans 
+Others 
+Microsoft Dynamics GP , MS CRM 4.0, Familiar with MS SQL Server 2008,2005, Oracle  9i, MS SQL Server 2000,MySQL, NopCommerec customisation.
+
+Experience:  4+  years 
+
+	•	Network Systems &Technologies (NeST), Technopark,Trivandrum – March 2011 to till date.     
+
+	•	Kameda Infologics , Technopark Trivandrum- Novemeber 2010 to  March 2011
+
+
+	•	Reachmarketing Inc,Trivandrum – October 2008  to May 2010
+
+
+
+
+ Projects Profile:
+
+	•	Nop commerce customisation 
+Technologies Used : ASP.Net MVC 4.0 , Jquery, Entity Framework 4.0, LINQ,Autofac,Fluent validation 
+
+	•	Failure RMA Tracker
+Role - Team  Lead
+Technologies Used : ASP.Net, SQL Server
+
+	•	Tele-Tag:
+ Technologies Used : ASP.Net MVC 3.0 , Entity Framework 4.0, LINQ, JQuery Mobile ,  WCF , FFMPEG API, Facebook API,Twitter API.
+Tele-Tag is an online mobile game targetting viewers of  tv channels .  UI designed using jquery mobile . Have 3 users – the players , sponsors (channels) and admin . Sponsors are being served by Tele Tag and they can consume teletag service . The website is integrated with social networks including facebook ,twitter etc . 
+
+	•	CRS – Central Reciepe Server
+Technologies Used : EF 4.0, WCF, WPF , LINQ
+Central Reciepe Server is a source control  software for  reciepes and library components  CRS is a repository of recipe and recipe library components. Central and local recipe databases are automatically synchronized when recipes are added, deleted or updated. It will be integrated with an existing client machines for each tools.
+It also has a management console for settings and other inputs in server side. 
+
+	•	Pattern Editor 
+Technologies Used : WPF , MVVM ,  LINQ
+Pattern Editor is a user interface that defines patterns and measurement areas for the purpose of statistical quality analysis of glass materials, Semiconductor materials and lenses, which is integrated to a mapping hardware. The software will be an interface for giving the valid input to the mapping hardware as well as it analyses the quality information read from the hardware.  
+
+	•	ICE CELL FTS:
+Technologies Used : WF 4.0,  WPF , LINQ,  WCF
+Cell FTS is a host software which is used to automate the equipment in a Semi conductor fab manufactoring company . It is build upon a cell controller service which implements all the functionalities of equipment . It contains Workflow activities that corresponds to job sequences that to be performed with the equipment .
+
+	•	Hospital Information System : 
+
+Technologies Used : WPF , C#.Net ,Oracle
+Comprehensive, scalable hospital management Information software designed for use in all types of clinical settings - from a primary healthcare center to multi-specialty tertiary care hospital. The ease of use and the wealth of information provided are specifically targeted to simplify the work pressure of healthcare provider and improve the quality and work flow. Manage the administrative, financial and clinical aspects of a hospital.
+
+        7 . Phoenix Cardnet – ASP.Net Website  
+
+Technologies Used :  ASP.Net 3.5 , MS SQL 2005 , MS SQL Server Reporting Services, LINQ,AJAX ,RAD Controls , jQuery , eConnect , GP Webservices .
+A website for managing users and transactions for  sold ATM and POS machines . All the sales reports and customer management are implemented .  The website is integrated with a GP application using eConnect and Webservices .
+
+        8 . Phoenix Cardnet – Microsoft Dynamics  GP Application .
+
+Technologies Used : Dynamics GP, Microsoft Dexterity ,  Visual studio tools 
+Dynamics GP application for financial processing of phoenix ATM and POS machines sales . 
+
+        9. PSA -  Program status analysis 
+A web application for analysis and management of different  types of  project . Provision for importing and exporting projects from different project management softwares like MS Project. 
+Technologies Used :  ASP.Net 3.5 , LINQ,MS SQL 2005, AJAX ,RAD Controls
+
+        10.  Myetrek
+Social networking  website . Fully ajax enabled website with all features of normal social networking websites . Videos , galleries seperate school and college sections ,
+                 book section , walls etc.
+Technologies Used :  ASP.Net 3.5 , MS SQL 2005,LINQ, AJAX ,RAD Controls,JQuery
+        11.  Reach Marketing inc – CRM Website + web store 
+ www.reachmarketinginc.com was developed for a US client. The Reach is an online marketing site. The Reach site contains website marketing, flyers and software. The reach site has 4 types of users client, Employee ,admin, and reach partner. It includes flyer sending options, and system to manage the orders from the client. And admin and employee side is designed such as they can communicate through the system itself, and mail sending is also allowed there between the users, admin can assign the work and responsibilities through the site itself. Environment: VisualStudio.Net 2005, ASP.NET, C#, SQL Server 2000/2005, MS SQL Server Reporting Services 2000/ 2005, IIS 6.0.
+
+12 . Carnivo XO – www.carnivoxo.com            www.carnivoxo.com was developed for a US client. The Carnivo is an online marketing           site. The Carnivo site contains Blog, forum, chat order posting etc. And Carnivo contains a weekly news sending service.  And it contains admin part to control most part of the system from the site itself. Environment: VisualStudio.Net 2005, ASP.NET, C#, SQL Server 2000/2005, MS SQL Server Reporting Services 2000/ 2005, IIS 6.0. 
+       13 .Homeownership Talk - www.homeownershiptalk.com
+This site is also developed for a us client, through which user can ask their doubts regarding their loan, and home ownerships. From the site itself admin can see the questions and can send reply to them, auto mail sending, flyer sending is also allowed in this site.
+
+
+Passport :
+
+Name: Sudheer Vattakudy Muhammed
+Passport Number : G4922169
+
+Hobbies:
+
+ Listening to music
+ Playing and watching football,cricket,badminton
+ Learning new technologies
+ Writing Technical Articles
+  
+Personal Details:
+
+Age & Date of Birth
+27, 22nd  July 1985
+Sex 
+Male
+Nationality 
+Indian
+Father’s Name
+V.A.Muhammed
+Languages Known
+English, Malayalam,Hindi
+
+Declaration:
+
+	I hereby declare the details given above are true to my best of my knowledge and belief.
+                    
+
+Place: Trivandrum						           Yours Sincerely,
+Date:
+                                                                                                                   Sudheer V.Muhammed

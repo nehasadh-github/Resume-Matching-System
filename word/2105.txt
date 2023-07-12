@@ -1,0 +1,131 @@
+
+
+
+
+
+Priya Elza Jacob
+Phone: 0091-9995532188
+Email: priya.elza.jacob@gmail.com
+
+
+CAREER OBJECTIVE
+
+Looking forward to be a part of an organization that will convert my potential into performance and recognition for hard work, honesty and sincerity and thereby contributing to the growth of the organization and myself.
+PERSONAL PROFILE
+
+I am a B.Tech Graduate in Information Technology having about 2 years of work experience both in India and in the U.A.E. I love to be a successful member of a team where I can contribute my knowledge and skills. I wish to contribute meaningfully to the growth and success of the organization by undertaking challenging assignments and delivering quality and timely results, using my professional knowledge and skills. I have the ability to work under pressure, adaptability to changing work environment and accepting challenges in a competitive environment. Good communication skills, openness to learning and believing in teamwork are some personal qualities I have.
+PROFESSIONAL EXPERIENCE
+
+Lamprell Energy Ltd                                                                                                           June 2014 – August 2014
+
+                         Temporary Staff (IT)
+
+	•	Designed and developed a store management software (Primesoft) to track real time information for a departmental store.
+	•	Forms were developed that provides for data entry and queries using Oracle Form Developer-a productive development environment for internet business applications.
+	•	Modules developed for the project :
+	•	User Management
+	•	Supplier Management
+	•	Customer Management
+	•	Shop Management
+	•	Inventory Management
+	•	Data storage and manipulation was performed in Oracle SQL Developer –an Oracle database IDE.
+	•	Using Oracle SQL developer, performed table creation, updating and manipulation, execution of queries, exported data into formats like XML, Excel,   PDF, etc., debugging and testing.
+	•	Oracle Report Builder was used to generate reports that allowed the organization to centralize report processing and to better manage reporting.
+	•	Specific SQL statements were generated using query builder to obtain customized report data.
+	•	Reports generated were exported to formats like PDF and Word.
+
+
+
+
+
+
+TECOM Investments, Dubai, UAE							August 2011 – March 2013
+
+KPMO Analyst (April 2012 – March 2013)
+
+	•	Participated as well as led requirements gathering for key stakeholders at TECOM. Translated these requirements into a system interface for the management of team improvement plans (TIP-ACTS).
+	•	Developed workflows, security schemes, permissions, notifications and dashboards in JIRA 4.2.2 for the WMS a custom built organization project management tool. 
+	•	Performed customization of workflows and dashboards as well as configured custom fields and screens.
+	•	Empowered users by coordinating and providing training and hands-on work-sessions on using the WMS.
+	•	Assisted in the creation of dashboard views, filters and query reports. 
+	•	Developed detailed manual to improve user understanding of system and answer FAQs.
+	•	Coordinated and worked closely with Group IT to document and trouble shoot fixes to WMS. 
+	•	Performed research on portals and have added content to the PMO’s portal page. 
+	•	Attended trainings and vendor presentations on SharePoint 2010 and SharePoint 2013.
+
+                        Trainee Intern (August 2011 – March 2012)
+
+	•	Received JIRA training and developed workflows for various areas within TECOM.
+	•	Developed pages and site map for the KPMO portal page.
+	•	Participated in requirements gathering sessions and strategy discussions for the Work Management System (WMS). 
+
+
+Sutherland Global Services, Kerala, India						December 2010 – April 2011
+
+                        Technical Support Executive 	
+									
+	•	Worked for McAfee to support Customers in the management and prevention of hardware viruses. 
+	•	Successfully eliminated viruses, Trojans, spyware, rootkits and other malware from Customers’ PC in allotted time period and adhering to SLA agreements.  
+	•	Effectively applied security updates to Customers; operating system and reduced the risk of re-infection.
+ 
+TECHNICAL SKILLS
+
+LANGUAGES: 
+Core Java, Oracle, ASP.NET, C#, CSS, JavaScript, JQuery, C/C++, HTML, PL/SQL, XML, SQL, MS Office (Excel, Word, Power Point, Access).
+
+IDE: 
+Microsoft Visual Studio 2010/2012, Net Beans, Eclipse, Microsoft SQL Server, Oracle JDeveloper, Oracle Form Builder, Oracle Report Builder, Oracle SQL Developer.
+
+ ACADEMIC PROJECT
+
+FINAL YEAR PROJECT: (Tamil Nadu College of Engineering)
+
+Fast Query Point Movement Techniques for Large CBIR Systems
+Performing target search in content based image retrieval systems to find a specific image using efficient query point movement methods.  This approach enabled reaching any given target image with fewer iterations in the worst and average cases. A new index structure and query processing technique was proposed to improve retrieval effectiveness and efficiency.  Intended targets could be retrieved even with poor selection of initial query points.
+(Front end: Java 1.6 Back end: SQL Server 2000)
+
+COURSES ATTENDED
+
+	•	Diploma in Java Technologies (Java1.6, J2EE, JSP, Servlets & Oracle 9i database) from NIIT, Kochi, India.
+	•	Certification Course in ASP.NET from G-TEC, Kochi, India.
+	•	Microsoft SharePoint Foundation 2010 from New Horizons, Dubai.
+	•	Microsoft Excel 2010 from New Horizons, Dubai.
+
+EDUCATION
+
+Tamil Nadu College of Engineering, Tamil Nadu, India. 
+Graduation: May 2010
+B.Tech Information Technology
+
+Our Own English High School, Dubai, U.A.E. 
+Graduation:  April 2006
+Central Board of Secondary Education (10th and 12th)
+
+ADDITIONAL
+   
+Personal Details
+Date of Birth
+October 29, 1988
+Gender
+Female
+Nationality
+Indian
+Marital Status
+Single
+Driving License
+Indian driving license
+Languages
+Fluent in Malayalam, Hindi and English
+Visa Status
+Residence Visa
+
+              
+
+.
+                                                         
+        
+                   	
+
+
+         
+

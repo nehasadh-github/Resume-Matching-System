@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel Yasumasa Takahashi
+Curriculum Vitae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March/2014
+
+Daniel Yasumasa Takahashi
+Curriculum Vitae
+
+Personal Information
+Full name	Daniel Yasumasa Takahashi
+Address	Green Hall, Princeton University, Princeton, NJ 08540
+e-mail	dtakahas@princeton.edu, takahashiyd@gmail.com
+
+
+Formal Education
+2010 - present	Postdoctoral Research Fellow.
+Department of Psychology
+Princeton University, Princeton, NJ USA Scholarship: Pew Latin American Fellowship Supervisor: Asif Ghazanfar
+
+2009 - 2010	Postdoctoral Research Fellow.
+Institute of Mathematics and Statistics
+Universidade de São Paulo, USP, Sao Paulo, Brazil
+Scholarship: Fundação de Amparo à Pesquisa do Estado de São Paulo Supervisor: Antonio Galves
+
+2004 - 2009	PhD in Bioinformatics.
+Universidade de São Paulo, USP, Sao Paulo, Brazil
+(Co-guardianship) Universidade de São Paulo (Advisor : Luiz Antonio Baccalá) Title: Medidas de Fluxo de Informação com Apicação em Neurociência, Advisor: Koichi Sameshima
+Scholarship: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+
+2004 - 2008	Bachelor's in Matemática Aplicada e Computacional. Universidade de São Paulo, USP, Sao Paulo, Brazil Title: Teorema do Núcleo de Schwartz
+Advisor: Paulo Domingos Cordaro
+
+1998 - 2003	Medical degree.
+Universidade de São Paulo, USP, Sao Paulo, Brazil
+Title: Redes neurais artificiais no auxílio ao diagnóstico da doença de Alzheimer Advisor: Koichi Sameshima
+Scholarship: Conselho Nacional de Desenvolvimento Científico e Tecnológico
+
+
+
+Honors and Awards
+
+
+2010
+Pew Latin American Fellowship
+2007
+Travel Grant Award - 10th Tamagawa-Riken Dynamic Brain Forum
+2006
+Best Work Award - I Latin American School on Computational Neuroscience
+2002
+Oswaldo Cruz Award in medical research – Honorable mention
+1997
+Bronze medal – Brazilian Mathematical Olympiad
+
+
+
+
+Bibliographic Production
+Articles Published in Refereed Journals
+
+
+29. Ghazafar A, and TAKAHASHI DY (2014)
+Facial expressions and the evolution of the speech rhythm.
+Jurnal of Cognitive Neuroscience, in press.
+
+28. Fujita A, TAKAHASHI DY, Patriota A (2014)
+A non-parametric method to estimate the number of clusters.
+Computational Statistics and Data Analysis, in press.
+
+27. TAKAHASHI DY, Narayanan DZ, Ghazanfar AA (2013) Coupled oscillator dynamics of vocal turn-taking in monkeys. Current Biology, v. 23, 2162-2168.
+
+26. Santos SS, TAKAHASHI DY, Nakata A, Fujita A (2013)
+A comparative study of statistical methods used to identify dependencies between gene expression signals
+Briefing in Bioinformatics, doi: 10.1093/bib/bbt051
+
+25. Baccalá LA, de Brito CS, TAKAHASHI DY, Sameshima K (2013) Unified asymptotic theory for all partial directed coherence forms Philosophical Transactions of the Royal Society A, v. 371, 20120158
+
+24. Sato JR., TAKAHASHI DY, Hoexeter, MQ, Massirer KM, Fujita A (2013)
+Measuring network's entropy in ADHD: A new approach to investigate neuropsychiatric disorders
+Neuroimage, v77, p. 44-51.
+
+23. Gallo S, Lerasle M, TAKAHASHI DY (2013)
+Markov approximations of chains of infinite order in the $\bar{d}$-metric
+Markov Processes and Related Fields, v. 19, 51-82.
+
+22. Gallo S and TAKAHASHI DY (2012)
+Attractive regular stochastic chains: perfect simulation and phase transition.
+Ergodic Theory and Dynamical System, FirstView, p.1-20, http://dx.doi.org/10.1017/etds.2013.7
+
+21. TAKAHASHI DY, Sato JR, Ferreira CE, Fujita A (2012)
+Discriminating different classes of biological networks by analyzing the graphs spectra distribution.
+PLoS ONE, v. 7(12): e49949. doi:10.1371/journal.pone.0049949
+
+20. Ghazanfar AA, TAKAHASHI DY, Mathur NA, Fitch WT (2012)
+Cineradiography of monkey lipsmacking reveals the putative origins of speech dynamics.
+Current Biology, v. 22, p. 1176-1186.
+
+19. Lerasle M and TAKAHASHI DY (2011)
+An oracle approach for interaction neighborhood estimation in random fields.
+Electronic Journal of Statistics, v. 5, p. 534-571.
+
+18. TAKAHASHI DY, Baccalá LA and Sameshima K (2010)
+Information theoretic interpretation of frequency domain connectivity measures.
+Biological Cybernetics, v.103, p. 463-469.
+
+17. Sato JR , TAKAHASHI DY, Arcuri SM, Sameshima K, Morettin PA, Baccalá, LA (2009) Frequency domain connectivity identification: An application of partial directed coherence in fMRI. Human Brain Mapping, v. 30, p. 452-461.
+
+16. Dzirasa K., Ramsey AJ, TAKAHASHI DY, Stapleton J, Potes JM, Williams JK, Gainetdinov RR, Sameshima K, Caron MG, Nicolelis MAL (2009)
+Hyperdopaminergia and NMDA Receptor Hypofunction Disrupt Neural Phase Signaling.
+The Journal of Neuroscience, v. 29, p. 8215-8224.
+
+15. Raicher I, Shimizu M, TAKAHASHI DY, Nitrini R, Caramelli P (2008)
+Alzheimer's disease diagnosis disclosure in Brazil: a survey of specialized physicians' current practice and attitudes.
+International Psychogeriatrics, v. 20, p. 471-481.
+
+14. TAKAHASHI DY, Baccalá L, Sameshima, K (2008)
+Partial directed coherence asymptotics for VAR processes of infinite order.
+International Journal of Bioelectromagnetism, v. 10, p. 31-36.
+
+13. Lopes RI, Nogueira L, Albertotti CJ, TAKAHASHI DY, Lopes RN (2008)
+Comparison of of virtual cystoscopy and transabdominal ultrasonography with conventional cystoscopy for bladder tumor detection.
+Journal of Endourology, v. 22, p. 1725-1729.
+
+12. Shimizu M, Raicher I, TAKAHASHI DY, Caramelli P, Nitrini R (2008)
+Disclosure of the diagnosis of Alzheimer's disease: caregivers' opinions in a Brazilian sample.
+Arquivos de Neuro-Psiquiatria, v. 66, p. 625-630.
+
+11. Raicher I, TAKAHASHI DY, Kanda PAM, Nitrini R, Anghinah R (2008)
+qEEG spectral peak in Alzheimer's disease: a possible tool for treatment follow-up.
+Dementia & neuropsychologia, v. 2, p. 9-12.
+
+10. TAKAHASHI DY, Baccalá LA, Sameshima K (2007) Connectivity Inference via Partial Directed Coherence. Journal of Applied Statistics, v. 34, p. 1259-1273.
+
+9. Vittielo AP, Ciriaco JG, TAKAHASHI DY, Nitrini R, Caramelli P (2007)
+Brief cognitive evaluation of patients attended in a general neurological outpatient clinic.
+Arquivos de Neuro-Psiquiatria, v. 65, p. 299-303.
+
+8. Sato JR, Felix MM, TAKAHASHI DY, Amaro Jr E, Brammer MJ, Morettin PA (2006)
+A method to produce evolving functional connectivity maps during the course of an fMRI experiment using wavelet based time-varying Granger causality.
+NeuroImage, v. 31, p. 187-196.
+
+7. Sato JR, TAKAHASHI DY, Cardoso EF, Martin MGM, Amaro Jr E, Morettin PA (2006) Intervention Models in Functional Connectivity Identification Applied to fMRI. International Journal of Biomedical Imaging, v. 2006, p. 1-7.
+
+6. Nitrini R,Caramelli P, Herrera E, Castro I, Bahia VS, Anghinah R, Caixeta L, Radanovic M, Charchat-Fichman H, Porto CS, Carthery MT, Hartmann APBJ, Huang N, Smid J, Lima P, TAKAHASHI DY, Takada LT (2005)
+Mortality from dementia in a community-dwelling Brazilian population .
+International Journal of Geriatric Psychiatry, v. 20, n. 3, p. 247-253.
+
+5. Nitrini R, Caramelli P, Herrera E, Bahia VS, Caixeta L, Radanovic M, Anghinah R, Charchat-Fichman H, Porto CS, Carthery MT, Hartmann APBJ, Huang N, Smid J, Lima P, Takada LT, TAKAHASHI DY (2005) Incidence of dementia in a community-dwelling Brazilian population.
+Alzheimer Disease and Associated Disorders, v. 18, n. 4, p. 241-246.
+
+4. Sameshima K, TAKAHASHI DY, Baccalá, LA (2005)
+Avaliando a complexidade da dinâmica cardiovascular por entropia amostral.
+Revista Brasileira de Hipertenção, v. 12, n. 1, p. 27-32.
+
+3. Anghinah R, Caramelli P, TAKAHASHI DY, Nitrini R, Sameshima K (2005) EEG alpha band coherence analysis in healthy adults: preliminary results. Arquivos de Neuro-Psiquiatria, v. 63, n. 1, p. 83-86.
+
+2. Costa GGO, Ctenas BB, TAKAHASHI DY, Mion O, Mello JJF, Butugan O (2005)
+
+Comparação entre a Rinometria Acústica, 'Peak Flow'Nasal Inspiratório e sua Correlação com Sintomas e Sinais Clínicos de Rinite.
+Arquivos de Otorrinolaringorologia, v. 9, n. 3, p. 203-211.
+
+1. Hartmann APBJ, Almeida SM, Livramento JA, Nitrini R, TAKAHASHI DY, Caramelli P (2004) Hyperphosphorylated tau protein in the cerebrospinal fluid of patients with Alzheimer's disease and other dementias: preliminary findings.
+Arquivos de Neuro-Psiquiatria, v. 62, n. 3b, p. 751-755.
+
+
+Book Chapters
+
+	•	TAKAHASHI DY, Baccalá LA, Sameshima K (2014) Information Partial Directed Coherence
+In: Methods in Brain Connectivity Inference through Multivariate Time Series Analysis, p. 75-86.
+
+	•	Baccalá LA, TAKAHASHI DY, Sameshima K (2014) Asymptotic PDC Properties
+In: Methods in Brain Connectivity Inference through Multivariate Time Series Analysis, p. 113-131.
+
+
+	•	Baccalá LA, TAKAHASHI DY, Sameshima K (2006) Computer intensive testing for the influence between time-series
+In: Handbook of Time Series Analysis ed: Wilterhalter; Schelter; Timmer, Springer, p. 411-435.
+
+	•	Sameshima K, TAKAHASHI DY (2004) Métodos Quantitativos em Medicina
+In: Métodos Quantitativos em Medicina ed.São Paulo : Manole, v.1, p. 493-526.
+
+	•	TAKAHASHI DY, Charchat H, Nitrini R, Caramelli P, Sameshima K (2000)
+Exploração de redes neurais artificiais no auxílio ao diagnóstico neuropsicológico da doença de Alzheimer. In: Anais do I congresso de lógica aplicada à tecnologia - LAPTEC.1 ed.São Paulo : Plêiade, v.1, p. 359-371.
+
+
+Articles Published in Refereed Proceedings (complete)
+
+	•	Brito SC, Baccalá LA, TAKAHASHI DY, Sameshima K (2010) Asymptotic behavior of generalized partial directed coherence
+IEEE Engineering in Medicine and Biology Society. Conf. , v.1, p.1718 - 1721.
+
+	•	TAKAHASHI DY, Baccalá LA, Sameshima K (2010)
+Frequency domain connectivity: an information theoretic perspective
+IEEE Engineering in Medicine and Biology Society. Conf. , v.1, p.1726 - 1729.
+
+	•	Baccalá LA, TAKAHASHI DY, Sameshima K (2007) Generalized Partial Directed Coherence
+InternationalConference on Digital Signal Processing, v.1. p.162 - 166
+
+	•	TAKAHASHI DY, Charchat H, Caramelli P, Nitrini R, Sameshima K
+Análise da não-linearidade do modelo diagnóstico neuropsicológico da doença de Alzheimerpor redes neurais artificiais
+Anais do VII congresso brasileiro de informática em saúde, 2000.
+
+
+Abstract Presented in Conferences
+
+	•	TAKAHASHI, D. Y., BACCALÁ, Luiz Antonio, Lebedev, M.A., SAMESHIMA, Koichi, NICOLELIS, Miguel In: Neuroscience 2006, 2006, Atlanta.
+
+Neuroscience 2006. , 2006.
+
+	•	SAMESHIMA, Koichi, TAKAHASHI, D. Y., BACCALÁ, Luiz Antonio In: Neuroscience 2006, 2006, Atlanta.
+Neurosience 2006. , 2006.
+
+	•	TAKAHASHI, D. Y., SATO, João Ricardo, SAMESHIMA, Koichi, BACCALÁ, Luiz Antonio, MORETTIN, Pedro Alberto, GALVES, Antonio
+In: 9 Escola Brasileira de Probabilidade, 2005, São Sebastião.
+. , 2005.
+
+	•	SATO, João Ricardo, FELIX, Marcelo de Maria, TAKAHASHI, D. Y., AMARO JUNIOR, Edson, MORETTIN, Pedro Alberto
+In: Congresso Brasileiro de Neuroimagem Funcional, Ribeirão Preto.
+Congresso Brasileiro de Neuroimagem Funcional. , 2005.
+
+	•	BACCALÁ, Luiz Antonio, SANTOS, Lucas Manoel dos, TAKAHASHI, D. Y., SAMESHIMA, Koichi, NICOLELIS, Miguel
+In: Society for Neuroscience, 2005, Washington DC.
+Proceedings of Society for Neuroscience. , 2005.
+
+	•	SATO, João Ricardo, FELIX, Marcelo de Maria, TAKAHASHI, D. Y., AMARO JUNIOR, Edson, MORETTIN, Pedro Alberto
+In: 11 ESCOLA DE SÉRIES TEMPORAIS, 2005, Espírito Santo.
+ANAIS DA 11 ESCOLA DE SÉRIES TEMPORAIS. , 2005.
+
+	•	CHOI, Andrea Yoon, TAKAHASHI, D. Y., VALLE, Angela Cristina Do, SAMESHIMA, Koichi
+In: XX Reunião anual das Federações de Sociedades de Biologia Experimental, 2005, Aguas de Lindóia.
+. , 2005.
+
+	•	TAKAHASHI, D. Y., BACCALÁ, Luiz Antonio, SAMESHIMA, Koichi
+In: XIX Reunião anual das Federações de Sociedades de Biologia Experimental, 2005, Aguas de Lindóia.
+. , 2005.
+
+	•	TAKAHASHI, D. Y., BACCALÁ, Luiz Antonio, CARAMELLI, Paulo, NITRINI, Ricardo, SAMESHIMA, Koichi In: XVII Reunião Anual da Federação de Sociedades de Biologia Experimental, 2002, Salvador.
+Anais da XVII Reunião Anual da Federação de Sociedades de Biologia Experimental. Fesbe, 2002.
+
+	•	TAKAHASHI, D. Y., GOMIDE, V., CHADI, G. In: Fesbe, Salvador.
+Anais do XVII Reunião Anual da Federação de Sociedades de Biologia Experimental. Fesbe, 2002.
+
+	•	TAKAHASHI, D. Y., ANGHINAH, Renato, CARAMELLI, Paulo, NITRINI, Ricardo, BACCALÁ, Luiz Antonio, SAMESHIMA, Koichi
+In: 9 SIMPÓSIO INTERNACIONAL DE INICIAÇÃO CIENTÍFICADA USP, 2001, Ribeirão Preto.
+ANAIS DO 9 SIMPÓSIO INTERNACIONAL DE INICIAÇÃO CIENTÍFICADA USP. , 2001.
+
+	•	SAMESHIMA, Koichi, ANGHINAH, Renato, TAKAHASHI, D. Y., CARAMELLI, Paulo, NITRINI, Ricardo, BACCALÁ, Luiz Antonio
+In: 31st ANNUAL MEETING SOCIETY FOR NEUROSCIENCE, 2001, 2001, San Diego.
+Soc. Neurosci. Abstr.. Washington: Society for Neuroscience, 2001.
+
+	•	TAKADA, Leonardo Tadao, BAHIA, Valéria Santoro, HUANG, Nancy, RADANOVIC, Márcia, CARTHERY, Maria Teresa, TAKAHASHI, D. Y., CAIXETA, Leonardo
+In:
+Arquivos de Neuro-Psiquiatria. , 2001. v.59. p.58 - 58
+
+	•	TAKAHASHI, D. Y., ANGHINAH, Renato, CARAMELLI, Paulo, NITRINI, Ricardo, BACCALÁ, Luiz Antonio, SAMESHIMA, Koichi
+In:
+
+Arquivos de Neuro-Psiquiatria. , 2001. v.59. p.46 - 46
+
+	•	NITRINI, Ricardo, HERRERA, H., CARAMELLI, Paulo, ALENCAR, G. P., BAHIA, Valéria Santoro, CAIXETA, Leonardo, ANGHINAH, Renato, TAKAHASHI, D. Y., TAKADA, Leonardo Tadao
+In:
+Arquivos de Neuro-Psiquiatria. , 2001. v.59. p.40 - 40
+
+	•	TAKAHASHI, D. Y., VALLE, Angela Cristina Do, OLIVEIRA, M. C., SAMESHIMA, Koichi, TIMO-IARIA, C. In: XVI REUNIÃO DA FEDERAÇÃO DE SOCIEDADES DE BIOLOGIA EXPERIMENTAL, 2001, Caxambu. ANAIS DO XVI REUNIÃO DA FEDERAÇÃO DE SOCIEDADES DE BIOLOGIA EXPERIMENTAL. , 2001.
+p.63 - 63
+
+	•	TAKAHASHI, D. Y., ANGHINAH, Renato, CARAMELLI, Paulo, NITRINI, Ricardo, BACCALÁ, Luiz Antonio, SAMESHIMA, Koichi
+In: XVI REUNIÃO DA FEDERAÇÃO DE SOCIEDADES DE BIOLOGIA EXPERIMENTAL, 2001, Caxambu.
+ANAIS DA XVI REUNIÃO DA FEDERAÇÃO DE SOCIEDADES DE BIOLOGIA EXPERIMENTAL. , 2001.
+p.48 - 48
+
+	•	HARTMANN, Ana Paula Barbosa Jeronimo, ANGHINAH, Renato, TAKAHASHI, D. Y., CAIXETA, Leonardo, LIMA, E. E. P., SMID, Jerusa, PORTO, Claudia Sellito
+In:
+Arquivos de Neuro-Psiquiatria. , 2001. v.59. p.60 - 60
+
+	•	TAKAHASHI, D. Y., CHARCHAT, H., CARAMELLI, Paulo, NITRINI, Ricardo, SAMESHIMA, Koichi
+In: XV REUNIÃO DA FEDERAÇÃO DE SOCIEDADES DE BIOLOGIA EXPERIMENTAL, 2000, Caxambu.
+ANAIS DA XV REUNIÃO DA FEDERAÇÃO DE SOCIEDADES DE BIOLOGIA EXPERIMENTAL. , 2000.
+p.105 - 105
+
+	•	TAKAHASHI, D. Y., CHARCHAT, H., NITRINI, Ricardo, CARAMELLI, Paulo, SAMESHIMA, Koichi In: XIX CONGRESSO BRASILEIRO DE NEUROLOGIA, 2000, Salvador.
+ANAIS	DO	XIX	CONGRESSO	BRASILEIRO	DE	NEUROLOGIA.	Associação	Arquivos	de
+Neuro-Psiquiatria Dr. Oswaldo lange, 2000. v.58. p.87 - 87
+
+
+Articles in Magazines
+
+	•	Takahashi, D. Y.
+Total Saúde. , v.30, p.14 - 14, 2010. http://www.revistatotalsaude.com.br/Default.aspx?Tabid=55&ItemID=128
+
+	•	Takahashi, D. Y.
+Total Saúde. , p.12 - 13, 2010. http://www.revistatotalsaude.com.br/Default.aspx?Tabid=56&ItemID=148

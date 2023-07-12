@@ -1,0 +1,284 @@
+Sandeep K Keloth
++91 - 9535501525
+sandeepkkeloth@gmail.com
+
+A Management & Technical Consultant for 15 years and an ITIL certified professional with extensive subject matter expertise in Project Management, Operations, SAP BI Data warehousing, SAP HANA, Oracle Technologies, coordination and support Services experience. And have worked in India, USA and UAE. Seeking a leadership role in a fast-growing reputed company.
+
+
+Professional Highlights
+Having worked in a multinational business environment for more than 15 years and having direct experience in the American, Europe, Australian, Arabian and Indian business ways. I have acquired Project Development, Planning & Management experience in IT operation; in technical domains - SAP BI Data warehousing, HANA & Oracle Technologies, Coordination and Support services. My process oriented experience has helped my teams to develop efficient productive and profitable business solutions.
+ 
+Managerial Capabilities 
+	•	Involved in project initiation, planning, execution, monitoring, controlling and closing, for companies like E&Y, Accenture, IBM, WIPRO, ADEA technologies, Optimal Solutions etc.
+	•	Successfully lead a Unilever’s global project spanning multiple stakeholders, departments and time zone to completion in 2015. 
+	•	An effective leader with proven abilities in leading teams during all Project phases. Has special interest in training and guiding team members and sharing knowledge with team mates. 
+	•	Worked as a coordinator for a PMO.	
+	•	Setting baseline, tracking and monitoring progress of projects while ensuring Consistent delivery as per scope, budget and SLA.
+	•	Information Management: Communication and Status reporting.
+	•	Identifying and maintaining Effort tracking, SLA and Commitment tracking, Review, Client Weekly reports.
+	•	Risk and Issue management: Maintaining an effective knowledge base for follow-ups.
+	•	Resource management to ensure on-time project completion
+	•	Business development initiatives
+	•	Actively involved Process transitions in adherence with Client’s requirements.
+	•	Being the Single point of contact for all Client and internal escalations.
+	•	Leading, mentoring and monitoring the performance of team members to ensure efficiency in process operations and meeting of individual & group targets.
+
+Technical Capabilities
+	•	Involved in more than 7 Full Life Cycle Implementations and Support Projects of SAP BI on various kinds of assignments.
+	•	Handled leadership and technical roles in SAP BI, HANA and Oracle projects.
+	•	Industries worked in – Telecom, Banking and Finance, Mining, Retail/Distribution, Health and life Science Industries for major and leading business houses across the world.
+	•	Represented companies as technical lead in business development initiatives.
+	•	Implemented SAP BI Data Warehousing projects using BI Modeling, Extraction and Reporting
+	•	Experienced in BI Architecture, Data flow strategy, Source System, Data Source, Data modeling (Star Schema), Info Source, Info Objects, PSA, Data Targets, ODS (DSO), Multi Providers, Info cubes, Info sets, process chains, Lo-cockpit - Enhancements, User Exits (Classes), BEx Analyzer, Info sets, Query Optimizations and BW Security.
+	•	Expertise in the Performance techniques like Performance tuning, Aggregates, Compression, Indexes and Rollups (Performance Improvement) and BIA. 
+	•	Involved in documenting Functional specifications and Technical specifications in SAP Solution Manager, Test cases, Test results and Production support documents. 
+	•	Worked on Quality Mercury centre tool for testing of objects of BI objects.
+
+Educational Qualification
+	•	ITIL Certified Professional (2014) 
+	•	Master of Computer Applications (2002)
+	•	Bachelor of Science, Physics (1999)
+
+Technology
+	•	SAP BI 7.3
+	•	SAP HANA
+	•	Oracle 
+	•	Pro*C
+
+Career Chronology
+
+      Company
+JK Techno soft
+Duration
+May 2016 – till date
+Environment
+SAP
+Role
+Project Manager
+Project: J.K. Organization is multinational group head-quartered in India with a heritage of more than 125 years. JK Techno soft is a CMMi global IT services and software solutions company founded in 1988 and a part of $4 Billion JK organization.
+
+	•	Managing Analytics Competency team, As a On Time Delivery Manager for all competency projects and handling as a single point of contact for all quality and knowledge concerns.
+	•	Managing Analytics Competency for all Resource and Recruitment activity for achieving the target as per the GTM 2017 plan. Managing Analytics Competency in the JKT Marketing strategical plan and closely working with Marketing team to achieve the goal.
+	•	Worked closely with the presales team in analytics competency enquiries and in the proposal preparations.
+	•	Hosted and Managing JKT Academy Framework and Organizational Governance team and Driving JKT Academy Framework as the single point of contact in Knowledge Management and Training program.
+	•	Streamlined and taken up end to end responsibility in the 2017 ISO 9001 Audit readiness for All SAP Live and Ongoing running Projects. 
+	•	Leading, mentoring and monitoring the performance of team members to ensure efficiency in process operations and meeting of individual & group targets. Organizer in JKT fun team.
+
+
+
+      Company
+Ernst & Young India
+      Project
+Unilever, Bangalore 
+Duration
+Feb 2015 – March 2016
+Environment
+SAP
+Role
+Project Manager
+Project: Unilever is a global company which makes many of the world famous brands, and products are used in over half the households on the planet with a turnover of over €48 billion and sales in nearly every country in the world.
+	•	I was overall responsible for delivery, project Management, status reports, weekly review meetings, and overall coordination at global and offshore span till project closure. 
+	•	My role involves project management, on time delivery management, review of all deliverables, managing resources, prepare plan on any team ramp-ups or ramp down based on discussion with client & delivery managers.
+	•	Deputed at client location to manage the Supplier Net project, which is part of a global Supply Chain System. 
+	•	Coordination with the global stake holders. Prepare & Update weekly status report to global and offshore managers.
+	•	"Supplier Net" Project is an initiative from the global team to provide HUL Supplier data for global supplier reporting. This involved development of custom extractors (Data source) and enhancing standard SAP extractors in ECC from which BODS fetches data. 
+
+
+
+Company
+Accenture India
+Client
+AIES, Belgacom Group, AIG – Chartis, BHP Billiton
+Duration
+July 2010 – Jan 2014
+Environment
+SAP BI 7.3, SAP BI 7.0, SAP HANA on Windows 2000 
+Role
+Senior System Analyst
+Project 1: The AIES is the Accenture innovation project capability from Accenture Innovation Center India, is aimed at providing a one-stop interface for understanding and analyzing enterprise environments to leveraging upon Enterprise architecture development of AIES. 
+	•	Managed Center of Excellence and was the single point of contact for all quality and knowledge concerns.
+	•	I managed, Lead, mentored and monitored the performance of team members to ensure efficiency in process operations and meeting of individual & group targets.
+	•	Worked for Enterprise architecture for deploying business gathering and developing the implementation part of KPI169 and KPI 34 for BOSS on SAP HANA project. 
+	•	Performed Design and loading of data to MSSQL server and then parallel loading data in to SAP
+	•	 HANA server using flat files. Analyze and monitored the data in target system. 
+	•	Worked for the build for tables in HANA, attribute view, analytical view and calculation view for these KPI’s. 
+	•	Working on Continuous improvement (CI) in the area of AIES on BW for transformation, update rule structure and transfer.
+	•	Building Capability for HANA practice which involves in resource handling and cross training, involved in the SAP HANA, BI estimation for future projects by using ADM estimator for getting estimation for their releases. 
+	•	Conducting One to One meeting with the team members to address quality issues and provide feedback on the quality of their work.
+	•	Ensuring under performers receive adequate coaching and documenting their feedback.
+
+Project 2: The Belgacom Group is the largest telecommunications company in Belgium, headquartered in Brussels.
+	•	I managed and led the SAP BI Practice for Belgacom Consolidation data warehouse Project a team size of 4 members who were involved in the Implementation for Release.
+	•	During this project I was also a part of the presales team to help the SAP BI deals with responses with respect to SAP BI. I have validated and provided inputs for the SAP BI ADM estimator for getting estimates for their Releases.
+	•	Worked closely with the client requirement to understand, analyze and coordinate the requirement which had no documentation initially in place. 
+	•	In order to create for every BI info cube object an interface between the Data warehouse of Telindus and the Teradata database, team created Open hubs object to export data. For every export we created open Hub in the Development and later transport to Quality and Production. 
+	•	Project created open hubs data flow for more than 250 open hubs for Priority 1 and 3 delta and full loads. 
+	•	Also documented a detailed excel document for all open hub objects and its attributes of with a detail functional explanation. 
+	•	Managed and Coordinated the activities between India and Brussels region, I setup and managed the offshore BI Team involved in the build, documentation and test phase of the Project.
+	•	Conducting One to One meeting to address quality issues and provide team members feedback on the quality of their work.
+	•	Involved in monitoring and controlling the project on day to day basis and taken appropriate measures to bring the project in line whenever there were deviations.
+
+Project 3: American International Group, also known as AIG, is an American multinational insurance corporation.
+	•	Led the SAP BI team for AIG Chartis Project. I was involved in Managing the offshore BI Team.
+	•	I was involved during the development of Blueprints, Reporting requirements, requirement gathering, implementation and various other phases of the Project.
+	•	Various report solution were done for FI and IM module. The solution was done for Asset accounting, Actual, Budget, Forecasting, Accounts Payable, and Accounts Receivables from BI point of view. Some part for the work also included BO reports as the clients want to generate reports in BO reports.
+	•	Add on development on creating the Data flow designs for US Actual data which is coming from ECC and created the data flows for International actual, budget and forecast data which are coming from the ePlanning and created the BEx Reports with different types of requirements as per the Functional Documents in my tenure of this project, and recommended all the feasible scope /enhancements that can bring lot of improvements towards the current service offered. 
+	•	Have created the list of SAP BI Objects as per the Functional Design Document and also interacted with the BO team to understand the business requirement.
+	•	Continuously monitored the risks of the project and implemented the mitigation plans successfully.
+Project 4: BHP Billiton is a Leading global natural resources company, one of the world's premier mining companies. Project includes the R1D and R3 Projects to implement FI for BHP Billiton in SAP BI across the globe. 
+	•	This project is a SAP BI 7.0 implementation in FICO for BHP Billiton (AU). 
+	•	As a System Analyst my role is to understand the requirements for the reports and delegate it to the team and coordinate its members. I was sole responsible for design and development of major reports in FI like Credit Risk Management, Product Risk management, Mark to Market, Trading Profit and Loss and Exposure reports in R1D release. 
+	•	Leading, mentoring and monitoring the performance of team members to ensure efficiency in process operations and meeting of individual & group targets.
+	•	In R3 release I had worked immense in Matrix report. I had worked closely with the design team and process architects on requirement gathering, designing the technical data flow model for all the reports and cascaded this to the team. 
+	•	I was involved in different phases of testing like Component Test, Unit Test & Integration testing. During this phase, my responsibility is to make user's understand the requirements about the reports and also support them during testing. 
+	•	I was also responsible for the defect management process for the current project. This includes defect assignment to the members within the team, keeping track of the priority defects. 
+	•	Organize weekly meetings on the root cause of the defect, lessons learnt is shared across the team to restrain similar defects in future. 
+	•	I had worked on ARIS, a tool for creating Technical Data Models for the reports. 
+	•	Tested all the developed objects using Unit Test scenarios from Source System to the Data Target level as well as report level and recorded in HPQC (Quality Center). 
+
+
+      Company
+360 Business Process, NJ, USA
+      Project
+Bridge House Pharma 
+Duration
+April 09 – Sept 09
+Environment
+SAP BI 7.0 on Windows 2000  
+Role
+Senior Programmer Analyst
+Project: Bridge Laboratories is a preclinical contract research organization (CRO) that provides US-level regulatory-compliant drug development services globally.
+	•	Restructured the organization structure and streamlined communication channels.
+	•	Ensuring uniformity in Process understanding at both Client and Organization ends.
+	•	Developed and delivered effective client presentations concerning Data warehousing case studies, methodology, off-shoring, collaboration with third-party suppliers and emergency support. 
+	•	Interacted with Business Users in gathering, analyzing requirements and specifications in the areas of Logistics of Sales & Distribution (SD), Finance – Controlling and Inventory Management. BI work related to requirement gathering and solution.
+
+
+      Company
+Adea Technologies Bangalore/USA
+      Project
+Home Base UK
+Duration
+March 08 – Jan 09
+Environment
+SAP BI 7.0 on Windows 2000
+Role
+Technical Onsite/Offshore Coordinator
+Project: It is the UK's leading home and general merchandise retailer which has 1,000+ stores in UK. 
+	•	Lead a team of Five Technical Consultants to Support the BI, BO Projects for Home Retail Group. 
+	•	I worked as Onsite/Offshore Coordinator and was involved in the co-ordination of the Indian offshore team which involved in monitoring of Data loads for various Cubes into the BW system daily, weekly and monthly. 
+	•	Major Reports generated by BW offshore team to Onsite team here in London include: Business user report and Daily Status report.
+	•	Actively involved in conducting fortnight meetings, maintaining incident reports as well as shift logs. 
+	•	Maintaining Work History for all the tickets until it is closed down. To inform the onsite consultant if there were any deadlocks. 
+	•	Conducted team meetings on a weekly basis to keep track of the support issues and to get an update of the tickets within the team.
+	•	Performed regular follow ups of P2/P3/P4 tickets with the end users and ensuring that the SLA is not breached & well within the agreed terms.
+
+
+      Company
+IBM India
+      Project
+Spansion CA US
+Duration
+October 07 - March 08
+Environment
+SAP BIW 3.1C on Windows Server 2003
+Role
+Senior BI Consultant
+Project: Spansion is the largest company exclusively focused on Flash memory solutions. 
+	•	This was a support project for a SAP BW system for the Retail client. Involved in escalating tickets regarding extractions, Performance Issues and also load failures by Remedy Tool. 
+	•	Take ownership of the Incident & assign the ticket to the Respective Team members and ensure that we adhere to the SLA based on Platinum, Gold and Silver Support
+	•	Analyzed and corrected production problems as they occur. Monitoring of Data loading Info packages, analyzing the reasons for frequent failures of Info Package and Edited manually.
+	•	I was also involved in preparing some Documentation for the End-users for some of the important Queries/Cubes etc.
+
+
+
+Company
+Wipro Technologies
+Project
+Weyerhaeuser WA US
+Duration
+April 07 -Oct 07
+Environment
+SAP BI 7.0 on Windows Server 2003
+Role
+Consultant – SAP BI
+Project: Weyerhaeuser is the world’s largest private owner of merchantable softwood timber and the world’s largest producer of softwood lumber and market pulp.
+	•	This project is a Purely an Implementation project of SAP BI based solution. The module covers COPC and there subject areas. 
+	•	Involved in studying the “As-Is” business processes within Weyerhaeuser, and proposed “To-Be” processes to be followed by the firm during the Blue print phase. As part of designing the “To-Be” processes for New Connection, successfully developed a method of handling New Connection cases. 
+	•	Created Technical design documents for the enhancements and reports during the Realization phase. Conceptual Knowledge of Multidimensional Data Model using Extended Star Schema for COPC Module, Subject Areas which includes Manufacturing By Department (MBD) and Inventory Valuations. 
+	•	Performed system testing and Involved in unit testing the BI objects with testing tool called Mercury Quality Centre. 
+	•	Prepared Business Process Design documents for the various processes during the blue print phase. 
+	•	Prepared Functional design documents for the enhancements and reports to be custom developed during the Realization phase. 
+	•	Prepared scripts for testing of various scenarios, after the configurations and developments were completed. 
+	•	Presented weekly status reports to the Project Management, informing them on the status of each deliverable. 
+	•	Worked as a coordinator, liaising between the functional teams and the Development team, to complete the developments as per schedule.
+
+
+Company
+Accenture Service, IDC through Optimal Solution Integration Pvt Ltd,
+Project
+UCB Pharma Belgium
+Duration
+May 06- April 07 
+Environment
+SAP BIW 3.5 on Windows Server 2003
+Role
+Senior Consultant 	
+Project: UCB is a leading global biopharmaceutical company dedicated to the research, development and commercialization of innovative pharmaceutical and biotechnology products. 
+	•	This project was aimed at Implementation (PS Module) and enhancements for a SAP BW based solution. The primary modules covered in this project were PS, IM and PP.  
+	•	Implementation of BW using Extended Star-schema according to the data requirement for Project System (PS) Module. Set up procedure for extracting R/3 data for WBS Planning, WBS Budget, WBS Actual, WBS Commitments, and Service Entry Sheet in Project System Module using BC and Generic extractions. 
+	•	Uploaded Master and Transactional data from SAP as the OLTP source. Customized Info Objects, Info Sources and Info Cubes & ODS’s. Involved in Creation of Reports such that the execution time is evenly distributed through out the Report using Restricted Key Figures, Calculated Key Figures, Variables, Exceptions and Conditions. 
+	•	Created UDD Documentation for the whole PS Development Project.
+
+
+      Company
+Client Solution Integration Pvt Ltd
+      Project
+Training and Pilot Development on XYZ client
+Duration
+Oct 04  – May 06
+Environment
+SAP BIW 3.1C on Windows NT
+Role
+Trainer
+Project: SAP BIW Training and Trainer: - Pilot Training includes SAP BI Data Modelling, Extraction, Reporting, 
+	•	Performance Tuning (Loading and Reporting), Jobs Scheduling Transport Management and Authorizations.
+
+
+Non SAP work experience: -	
+
+      Company
+New Age Technology, Abu Dhabi, UAE
+      Project
+Complete Logistics Solutions Provide
+Duration
+March 03 –Nov 03
+Environment
+Oracle Forms Ver 4.5, Oracle Reports Ver 4.5 with Oracle8i on Windows 2000
+Role
+Oracle Programmer
+Project: This project was developed to maintain Employee details.
+	•	Employee details consist of attendance which calculate salary and time to time remainder of their pending jobs which all come in HR Administration module in Oracle environment.
+
+
+
+      Company
+Hindustan Aeronautics Ltd, India
+      Project
+Aircraft Maintenance Project (Jaguar), HAL, India
+Duration
+Feb 02 – Aug 02
+Environment
+SQL * Forms Ver 4.5, SQL * Report Writer Ver 2.5, Pro*C with Oracle 7.3 on HP-UNIX 9.0
+Role
+Oracle Programmer
+Project: This Project was being developed to maintain and monitoring Aircraft Modification/service Details of Indian Aircraft (Jaguar) right from the beginning when it comes for the Modification/service to the final stage. 
+	•	This system is being developed after a thorough analysis of the Existing Modification in the different aircrafts. 
+
+
+Personal Details
+Citizen			: Indian
+Gender			: Male
+DOB			: 23 May 1978
+Passport Validity		: Till 2021 
+NASSCOM NSR ITPIN	: 741008477062

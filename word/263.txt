@@ -1,0 +1,178 @@
+
+MOHANRAJ THANGARAJ
+ D-Wing/301, Green Gagan Building, Mhada Rd. 2Lokhandwala Towship | Kandivali - E, Mumbai – 400101 | Mobile no: 9819535239 | E-mail:raj.decode@gmail.com
+
+
+Career Objective:
+
+Symbiotically grow with an organization & contribute to the growth of the company with positive attitude, Hardworking, Learning new Technologies and providing outstanding results.
+
+Strengths:
+
+	•	Ability to work in Team.
+	•	Eager to learn many new things.
+	•	Accepting challenges to achieve new assignments.
+
+Technical Skills 
+
+Operating Systems and Applications
+
+	Windows:
+		Client: 	Windows 7, Ms-office 2007, Hyper-V Manager and Citrix XenCenter.
+		Server:	Windows 2008, Ms Exchange 2010 and SharePoint Foundation 2013.
+	Linux:
+		Cent OS and Ubuntu.
+
+	Virtualization:
+		Oracle VM VirtualBox, Hyper-V, VMWare and Citrix XenServer.
+	
+	Backups:
+		Symantec Backup Exec 2012, SQLBackupAndFTP and Windows Server Backup.
+
+
+Servers & Hardwares
+
+	Servers:
+		Chassis Server	: IBM Blade Center HS22 (7870) and Intel Modular Server MFSYS25.
+		Standalone Server	: Dell 730 Servers, Intel S5000VSA and Intel S5500BC.
+
+	Storage Devices:
+Dell PowerVault MD3400, IBM DS3512, IBM System Storage Expansion EXP3512 and Thecus NAS N4100PRO.
+
+	Networking and Securities:
+		Security: Cyberoam, Mcafee EPO, Cisco PIX 301, Zeroshell & Diladele Web Safety on VMs.
+		Network and Video Processor Devices: SMC 6152L2 and F5 BIG IP Load Balancer.
+
+Educational Qualification:
+Degree/Course
+University / School
+Grade
+Year of Passing
+B.Sc. in Computer Science
+Mumbai University
+Second Class
+2013
+H.S.C in Science
+Mumbai Board
+Second Class
+2006
+S.S.C
+Mumbai Board
+Second Class
+2003
+
+Techinical Qualification:
+Course
+Institute
+Year
+DNS and DNSSec Management and Monitoring
+South Asian Network Operators Group
+2013
+Cisco Certified Network (CCNA)
+RST forum
+2011
+Computer Hardware Maintenance and Assembling
+Bharatiya Vidya Bhavan
+2008
+Web Page Designing and Editing
+Bharatiya Vidya Bhavan
+2008
+
+Professional Experience:
+
+     Microscan Computers PVT. LTD. (From June 2010 to April 2014)
+Designation: Desktop Support Engineer [L1, L2 & L3 Support]
+Rolls & Responsibilities:
+Server Management
+	Windows Server:
+	•	Installation and Maintenance of Windows Server 2008 and 2012.
+	•	Troubleshooting and Maintaining Exchange Server 2010.
+	•	Configuring and Maintaining Active Directory, DHCP & DNS.
+	•	Server Backups and Restoration.
+	•	Updating Security Patches.	
+	Linux:
+	•	Deploying and Managing Linux Servers and Applications.
+	•	Plan and deploy application patches and upgrades on regular basis as per client request in Linux/Unix.
+	•	Managing Firewall using Iptables.
+	•	Daily Monitoring and Backup & Restore of Linux Servers.
+	•	Trouble Shooting Appliansys, DNS-BOX for DHCP and DNS service related issues.
+Virtualization
+	•		Creating, Managing and configuring Virtual Machines in Citrix Xen Server.
+	•		Creating, Managing and Configuring Virtual Machines in Hyper-V.
+	•	Creating, Managing and Configuring Virtual Machines in VMware.
+	Storage Management
+	•		Creating Arrays and Logical Drives in IBM Storage DS315.
+	•		Configuring LUN and Mapping Logical Drives with respect to SAS Host-Port Identifiers.
+	•		Configuring and RAID Partitioning in Thecus NAS N4100PRO.
+	•		Configuring iSCSI for remote Data Recovery Site.
+Antivirus & Securities
+	•		Updating User and Server with latest Definition Database from McAfee EPO.
+	•		Creating Policies and Managing Content & URL Filtering from Diladele Web Safety.
+
+Network Management:
+	•		Configuring Switches, Routers and Wireless Devices for Local Office Environment.
+	•	Structured Cabling Design and Installation.
+	•		Configuring Switches, Routers and other Devices for SysLog Server.
+	•	Maintaining Local Networks & Firewalls (Zeroshell).
+
+Workstation Management:
+	•	Troubleshooting User level Hardware and Software Issues.
+	•	Configuring Outlook and assisting user for Ms Word and Excel.
+	•	Providing Training to Users about various Applications and related Technologies.
+	•	OS Hardening.
+	•	Windows Updating and applying Security Patches.
+	
+	Team Management:
+	•	Ability to motivate and lead others in a team environment.
+	•	Strong decision making and problem solving skills.
+	•	Mentoring and training up junior and new staff.
+	•	Ability to prioritize tasks and workloads in order of importance.
+	•	Ability to build rapport and trust quickly with work colleagues.
+	•	Maintain current and accurate inventory of technology Hardware, Software and other assets.
+	•	Make recommendations about purchase of technology resources.
+	•	Offered best solutions to the top management regarding project-related queries.
+
+Orient Technologies Pvt. Ltd. (From April 2014 to October 2014)
+Designation: System Administrator (RIM) [L2 & L3 Support]
+Rolls & Responsibilities:
+	•	Troubleshooting and Maintaining Exchange Server 2010.
+	•	Creating, Managing and Configuring Virtual Machines in Hyper-V.
+	•	Creating, Managing and Configuring Virtual Machines in VMware.
+	•	Updating Servers with latest Antivirus Definition and reporting same to the clients.
+	•	Scheduling and maintaining Users, Servers and SQL Backups from Symantec Backup exec 2012, SQLBackupAndFTP and Windows Server Backup.
+
+Velocis System Pvt. Ltd. (From February 2015 to Till Date)
+Designation: Engineer – Network Services
+Rolls & Responsibilities:
+	•	Creating, Managing and Configuring Virtual Machines in VMware.
+	•	Configuring Firewall for SMB
+	•	Configuring Load Balancer for Network Load Balancer for Servers.
+	•	Creating IRule Codes for NLB.
+	•	Software/Firmware up gradation of F5 Big IP Load Balancer.
+	•	Creating and Configuring Users in BIG IP Access Policy Manager for VPN Access.
+	•	Keeping Track of Projects and Documentations.
+	
+Projects Completed:
+	•	POC and implementation of Cyberoam in Star CJ.
+	•	Implementation of F5 BIG IP Load Balancer APM in Aditya Birla Financial group
+	•	Establishment of IT Infrastructure, comprises of Dell 730 Servers, Dell PowerVault MD3400 Storage, Hyper-V & VMs, and Symantec Backup Exec 2012 in Superior Energy.
+
+Personal Details:
+
+Date of Birth		: - 11th March, 1985.
+Gender			: - Male.
+Marital Status		: - Single.
+Nationality			: - Indian.
+Passport Number		: - M2443062 
+Languages Known	: - English, Hindi, Marathi & Tamil.
+Hobbies			: - Computer Games, Swimming, Movies & Listening Music.
+
+The above mentioned facts are true to the best of my knowledge. If given an opportunity, surely, I will work with the best of my abilities & talent.
+
+Date		:-
+Place		: - Mumbai.
+
+
+                                                                                                          MOHANRAJ THANGARAJ
+ 
+

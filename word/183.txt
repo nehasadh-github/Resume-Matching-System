@@ -1,0 +1,184 @@
+
+RESUME
+
+
+MANJU MERIN KOSHY
+Email: merin.koshy5@gmail.com
+
+
+
+                                                         
+
+
+Kunchattil House
+Thazhakara p.o				            
+Mavelikara					             Mobile No.: 9747045337
+Alappuzha District                                                    Mobile NO:9495352563
+Kerala					
+Pin-690102
+
+Objective
+      “Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging & creative environment”.
+
+
+Educational Qualification
+Degree
+College
+University/Board
+Year of passing
+CGPA/%
+M.E (Communication and Networking)
+St.Xavier`s catholic College of Engineering
+Anna University
+2015
+7.9
+B.TECH
+(ECE)
+Musaliar college of Engineering and Technology
+MG university
+2012
+70
+12th
+ST.Mary`s Residential school,Thiruvalla
+Central board of secondry Education
+2008
+80
+10th
+Infant Jesus English Medium School Mavelikara
+Indian council of secondry education
+2006
+75
+
+
+
+
+
+
+
+
+
+Current Status
+                   Working as lecturer in Archana College of Engineering,pandalam.
+Additional Qualification
+
+DIPLOMA in Hardware and Networking
+Attended Telecom training at RTTC,Trivandrum
+
+
+
+
+
+
+
+
+
+Project Profile 
+Main Project   : M.E
+
+REVERSIBLE DATA HIDING IN ENCRYPTED IMAGES
+
+Team Size:   1
+Period:   1 year
+Skills:   Design, Programming in Matlab
+Environment:   Matlab
+Operating System:   Windows 2007
+Current status:   Completed first phase of project
+
+Description:  Internet has made it easier data transfer accurate and faster to the destination. At the same time it is may be easier to modify and misuse the valuable information through hacking. Reversible data hiding (RDH) in encrypted images maintains the excellent property that the original cover can be losslessly recovered after embedded data is extracted while protecting the image content’s confidentiality. In this  method by reserving room before encryption with a traditional RDH algorithm is used . Furthermore, this  method can achieve real reversibility, separate data extraction and greatly improvement on the quality of marked decrypted Images data extraction and image recovery are free of any error
+
+Main Project   : B.TECH
+
+Team Size:   4
+Period:   3 months
+Skills:   Design, Programming in VHDL, Simulation in Xilinx
+Environment:   Xilinx
+Operating System:   Windows 2007
+
+Description: 
+The HF radar receiver system used for ionospheric measurements, installed at VSSC, Trivandrum. The HF radar system used here works mainly on 18 MHz.. This signal is amplified to 50kW peak power in the transmitter and is fed to the antenna. This electromagnetic energy is radiated into space by antenna array. The backscattered signal from the irregularities are passed through a coherent receiver where the signal is phase detected using two reference signals having quadrature phase relationship. The in phase and quadrature phase outputs of the two phase detectors (sine and cosine channels) have all the information contained in the backscattered received signal. As a part of augmentation, the receiver system of the HF radar to a state-of-the-art Digital Receiver using FPGA technology is to be carried out. 
+
+
+
+
+Special Skills
+	•	Versatile
+	•	Good Interpersonal skill
+	•	Optimistic
+	•	Hardworking & Ability to work in a team
+
+
+
+
+
+
+
+
+Software Skills
+	•	Office Package: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Microsoft Outlook Express
+	•	Languages: VHDL ,C.
+	•	FPGA Development (Altera, Xilinx)
+	•	Analog Development: Resolver-to-Digital Converters, A/D Converters, D/A Converters
+	•	Software tools: MATLAB, Simulink, Xilinx
+
+Area of Interest
+
+	•	Communication system
+	•	 Networking
+	•	Network Security
+
+
+
+Conference Profile
+	•	Presented a Paper on “REVERSIBLE DATA HIDING IN ENCRYPTED IMAGES” at International Conference on 20th February 2015.
+REFERENCES
+
+
+Dr. Paul A.J Ph.D
+Head Of Department
+Electroncis and Communication
+Musaliar College Of Engineering and Technology
+Pathanamthita
+
+Dr.R.P Anto Kumar Ph.D
+Head Of Department
+IT Department
+ST.Xavier`s Catholic College Of Engineering and Technology
+Kanyakumari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal Profile	
+
+     Father’s name 		: Koshy V.G
+     Mother’s name 	          	: Suma koshy
+     Date of Birth          	: 03.11.1989
+     Gender			: Female
+     Nationality                        : Indian
+     Marital Status 	          	: Single
+     Languages Known 	: Malayalam, English, Tamil, Hindi
+     Mother Tongue		: Malayalam
+     Experience                        : Fresher
+
+
+
+Declaration
+                I (Manju Merin Koshy) hereby declare that the above details furnished by me are true to the best of my knowledge.
+				            
+Place	: MAVELIKARA                                                                                                         
+Date	: 31-08-2015                                                                MANJU MERIN KOSHY
+

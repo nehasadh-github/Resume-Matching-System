@@ -1,0 +1,202 @@
+MOHAMMAD DILSHAD ALAM
+Project & Commissioning Engineer (Automation)
+
+H-45, Millat Colony, Bari Road,
+Gaya, Bihar, India	Contact No: +91 8860804247 E-mail : dilshadalam08@gmail.com		+91 9934616618
+
+Objective
+
+"To obtain a challenging position in Instrumentation / Industrial Automation and Project Management field, in a growth oriented organization and to employ the knowledge and skills acquired during my career to contribute to the team effort to achieve group goals and at the same time endeavor to acquire newer and sophisticated skills”.
+Career Summary
+
+Thirteen years of work experience in Instrument Project Design, Engineering and Commissioning with Rockwell Automation, Invensys process system, Honeywell Middle East & Yokogawa Middle East.
+Currently working as Instrument Project Engineer in Engineering Division – Yokogawa Engineering Bahrain.
+Professional Experience
+
+Present Job Profile
+
+Company : Yokogawa Middle East Bahrain Designation : Project Engineer – Engineering Division Duration : From Jun 2010 to Present
+Present Job Responsibilities
+Working as a Commissioning engineer for PCQ-2 Tank farm and Berth Project (SADARA) from Apr 2016 to present.
+Professional Skills
+Good experience of Hardware Design Engineering and Integration and Commissioning of DCS and ESD System.
+Sizing of process and safety Instrument in accordance with the technical instruction, Architecture and hardware selection based on customer’s RFQ, Specification, IO Summary and Segregation Philosophy.
+Coordinates the evaluation of the design changes to the original scope of work and verifies the Implementation with team.
+Coordinating with Procurement activities for all type of instruments including third party items, Controller and raising BOM and Floating enquiries to Vendor & Vendor follow-up.
+Planned, scheduled and estimated project activity times, sequencing those activities from concept to completion. Monitored actual progress, compare to baseline and report progress against schedule.
+Prepared weekly and monthly progress report.
+Experience includes:
+Installation, Configuration, Fault diagnostics, preparing connection to a DCS, Locate DCS faults, Monitor & Modify values and Troubleshooting of DCS as well as ESD hardware.
+
+Review of P&ID, Hookup drawings, Instrument location & wiring layout, air Flow Diagrams. Field Engineering, Assisting in Modification of system design (Internal panel modification, addition of modules in Panel) as per Client requirement etc.
+Logic checking and wiring diagram checking.Developing logics for PLC and DCS. Cause & Effects (Safety Analysis Chart _Process).
+SIL3 Safety system.
+Foundation Field Bus Segments and DD files. Performing serial/Modbus communication test.
+Interface with Vendor’s Packages and other disciplinary requirements. Conducting SAT, Calibrating Fire and Gas field instruments.
+Project executed
+
+	•	ADCO SAHIL AND SHAH FULL FIELD DEVELOPMENT PROJECT
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP
+Role : DCS Project Engineer Duration : June 2010 to Dec 2011
+End User : Abu Dhabi Company for Onshore Oil Operation (ADCO) EPC : Tecnicas Reunidas (TR) - Spain
+Project Details : The project scopes include additional wells, flow lines, replacement and modification of existing facilities and building new surface.
+Key Role
+Involved Preparation of Basic and Detail engineering. Conducted Power Loop checking.
+Generated Open and close loops in system, extended support in FF devices configuration & ADM (Advanced diagnostic module).
+Conducted PRE-FAT, FAT test and involved all related shipping activities.
+
+	•	ABU DHABI OIL REFINING COMPANY (TAKREER PROJECT)
+
+Engineering Location : Yokogawa Abu Dhabi System : Yokogawa CENTUM VP & ProSafe RS Role : Project Engineer
+Duration : Jan 2012 to Dec 2012
+End User : Abu Dhabi Oil Refining Company
+EPC : S.K Engineering & M/s Daewoo Engineering– Korea
+Project Details : It was the expansion of the existing plant for double the output at the refinery from its capacity of about 400,000 barrels a day of crude oil and condensate.
+Key Role
+Involved in the Project Engineering stage for support.
+Coordinated successful System testing for Distribution Control System, Emergency Shutdown System and Burner Management System.
+Conducted PRE-FAT, FAT test, SAT test and involved all related shipping activities.
+
+	•	ADCO ASAB FULL FIELD DEVELOPMENT PROJECT
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP
+Role : Startup Commissioning Engineer Duration : Jan 2013 to Jun 2013
+End User : Abu Dhabi Company for Onshore Oil Operation (ADCO) EPC : Petrofac
+Project Details : The project scopes include additional wells, flow lines, replacement and modification of existing facilities and building new surface.
+
+Key Role
+Involved in Pre-Commissioning and Commissioning of DCS, ESD & Wellheads.
+
+	•	ADCO QUSAHWIRA FULL FIELD DEVELOPMENT PROJECT
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP
+Role : DCS Project Engineer Duration : Jul 2013 to Nov 2013
+End User : Abu Dhabi Company for Onshore Oil Operation (ADCO) EPC : NPCC
+Project Details : The project scopes include additional wells, flow lines, replacement and modification of existing facilities and building new surface.
+Key Role
+Involved Preparation of Basic and Detail engineering. Conducted Power Loop checking.
+Generated Open and close loops in system, extended support in FF devices configuration & ADM (Advanced diagnostic module).
+Conducted PRE-FAT, FAT test and involved all related shipping activities.
+
+	•	ABU DHABI MARINE OPERATING COMPANY UMMLULU & NASR PHASE 1 PROJECT
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP & ProSafe RS Role : Startup Commissioning Engineer Duration : Dec 2013 to Dec 2014
+End User/Operator Abu Dhabi Marine Operating Company (ADMA)/ ZADCO EPC : L&T
+Project Details : ADMA OPCO planned to develop two phases Ummlulu and Nasr phase 1 to achieve a peak production of approximately 22,000 STBOPD each. Aiming for early production using the spare capacity at ZADCO UAD facilities for Ummlulu two Wellhead towers and Abu Al Bukhoosh (ABK) facilities for Nasr Phase consisting two Wellhead towers and one manifold tower.
+Key Role
+Involved in Pre-Commissioning activities at Sohar Yard (OMAN) and Commissioning for Process (DCS), safety and Fire & Gas systems (PLC & Subsystem) at offshore.
+Conducted training on ICSS systems (Yokogawa) for ZADCO and ADMA operators.
+
+	•	SAIH NIHAYDA CONDENSATE STABILIZATION PLANT (OMAN)
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP & ProSafe RS Role : Startup Commissioning Engineer Duration : Jan 15 to Mar 2015
+End User : Petroleum development Oman EPC : ATS
+Project Details : The project scopes include SNGP PLC migration shutdown.
+Key Role
+Involved in Pre-Commissioning and Commissioning of DCS, ESD.
+
+	•	Automation up gradation at Khatiyah Degassing Plants (QATAR)
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP & ProSafe RS Role : Startup Commissioning Engineer
+
+Duration : Apr 15 to Jul 2015 End User : Qatar Petroleum EPC : Qatar Petroleum
+Project Details : The project scopes include EPIC for Automation Upgrade at KM, KS &amp; KN Degassing Stations at Dukhan.
+Key Role
+Involved in Pre-Commissioning and Commissioning of DCS, ESD.
+	•	Ruberef Yanbu Refinery Expansion Project
+
+Engineering Location : Yokogawa Bahrain System : Yokogawa CENTUM VP & ProSafe RS Role : DCS Project Engineer
+Duration : Aug 2015 to Dec 2015 End User : Saudi Aramco Ruberef
+EPC : Samsung engineering company LTD
+Project Details : It was the expansion of the existing plant.
+Key Role
+Involved Preparation of Basic and Detail engineering. Conducted Power Loop checking.
+Conducted PRE-FAT, FAT test and involved all related shipping activities.
+Previous Job Profile
+
+Project: 3.3 KV Switchgear Replacement at Umm Al Dalakh (ZADCO, Abu-Dhabi)
+This system is used to Monitor & Control the Load Shedding of Generator.
+Role: - Panel Designing and Testing, PLC programming, HMI developing and commissioning. Duration : Jan 16 to Mar 2016
+CPU: - Controllogix L61 I/O: - 1794 Flex I/O.
+HMI: - Touch Screen PC (Axiom) Networks: - Control net Programming Language:-Ladder
+MicroLogix(1000,1100,1200,1400,1500),	RSLogix	5,	RSLogix	500,	RSLogix	5000,
+ControlLogix, RS View 32 (SCADA), Panel View(C300,C600,300,300micro,600,,650,900 color,900 mono,600plus,900plus,Panel Builder, RS View Studio (PLC & HMI programming software of Allen Bradley),Installation, programming & commissioning 0f Power Flex (4,40,400,7,70,700,1336)
+
+Company : Om Automation, New Delhi, India
+Designation : Project Design & Commission Engineer (Rockwell) Duration : From May 2005 to Jun 2010
+Job Responsibilities
+Worked as a Design Engineer and providing technical support, preparing I/O Database, preparing I/O specifications etc.
+Maintained all CAD operations, CAD peripheral equipment, CAD files and paper files; managed all engineering documents for centralized document management system.
+Responsible for the layout and design of Control system Panels, such as DCS, ESD, Network, server and Power distribution Panels, System architecture, network diagrams, Loop drawings, cable schedule, single line diagram, cable bus, including control room raised Floor Cable Management System.
+Prepared HIS (Human Interface Station) Consoles, Auxiliary Consoles, hardware console, WALL MOUNTED PANEL.
+Interacted with customers and took their opinions in re-designing products. Collaborated with engineering team and delivered projects in time.
+
+Involved in quality inspection, reviewed engineering design specifications and developed simplified and cost effective designs.
+Educational Background
+
+
+Degree/Course
+Board/Institute/University
+Year
+Percentage
+Diploma in Electrical & Electronics
+K.C.T. Polytechnic, Gulbarga
+(Govt. aided Institute & approved by AICTE).
+2004
+58.00 %
+Intermediate (B.I.C.B)
+Mirza Galib College, Gaya
+2000
+70.00 %
+
+Professional Experience	
+
+No.
+Company Name
+Designation
+Duration
+Years
+1
+Reliance Way Engineering
+Project Engineer
+June-2010 TO Till Date
+7
+2
+Om Automation
+Project Engineer
+May-2005 TO June-2010
+5
+3
+Detection Instruments Pvt. Ltd.
+Service Engineer
+Feb-2004 TO April-2005
+1
+
+Key Strength	
+
+Flexibility & Adaptability, Quick learner, Leadership, Team Work Skills, Effective Communicator, Negotiating.
+
+Skill Set	
+
+	•	Experience with YOKOGAWA control products, Centum 3000, Centum VP (DCS) and ProSafe RS (ESD & Fire and Gas) system.
+	•	Experience with Rockwell PLC,RS Logix 500, RS Logix 5000,RS View 32(SCADA) ,Panel Builder,RS View Studio(HMI) & AC/DC Drive.
+	•	Experience with Honeywell control products, Safe Builder or Safety Manager (ESD & Fire and Gas) system.
+	•	Good Know – how of Modbus, IEC-101, IEC-103, IEC 61850, Ethernet, video controllers, GPS and Switch/Router configuration.
+	•	Familiar with Windows XP/WIN7, TCP/IP networks, IT solution (troubleshoot & solutions), and MS Office.
+	•	2D & 3D Computer aided designing- MicroStation & AUTOCAD certified.
+
+Personal Information	
+
+	•	Full Name	: Mohammad Dilshad Alam.
+	•	Date of Birth	: 12th Feb, 1984
+	•	Gender	: Male
+	•	Marital Status : Single
+	•	Passport	: N 0414452
+	•	Place of Issue : Abu Dhabi(UAE)
+	•	Validity	: 16/12/2025
+
+DECLARATION
+I hereby declare that the above-mentioned information is correct up to my knowledge And I bear the responsibility for the correctness of the above mentioned particulars.
+
+Mohammad Dilshad Alam

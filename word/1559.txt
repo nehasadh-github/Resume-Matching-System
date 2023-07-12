@@ -1,0 +1,116 @@
+CURRICULUM VITAE
+RAMPRASATH.T
+ramprasath638@gmail.com
++91-9976356638
+
+
+OBJECTIVE:
+Highly dedicated and reliable electrical maintenance engineer with excellent project management abilities. Able to maintain strong and positive professional relationships with superiors and subordinates. Adept at adjusting work pace to accommodate emergency conditions.
+SUMMARY:
+
+	•	Two years of experience in US RECRUITMENT and One year of experience in ELECTRICAL MAINTENANCE.
+POSITION:
+
+	•	Strong knowledge of electrical distribution system and high voltage motors.
+	•	Identification and resolved causes of equipment malfunction.
+	•	Ensured adherence to best and safe project practices.
+	•	Provided all required electrical system technical support.
+	•	Monitoring indicators to make sure machine is working properly.
+
+
+
+
+
+WORKING EXPERENCE:
+
+Company Name: Savvy soft technologies pvt ltd.
+
+Position	: Technical Recruiter Duration	: Jul 2013-Aug-2015. Roles and Responsibilities:
+	•	Handled the tasks of screening, selecting and submitting candidates to job orders within a defined discipline.
+	•	Understanding the requirement from Client Company to choose most suitable candidate from job portals like Dice, Monster, carrier builder etc.
+	•	Contact the candidate through VOIP and discuss about the job requirement, roles and responsibilities, about the company details, duration, salary, negotiations, etc.
+
+
+Company Name: PRS INDUSTRIES, Chennai. Position		: Electrical Maintenance Engineer Duration	: Sep 2015-Nov 2016
+
+Roles and responsibilities:
+
+	•	Maintaining the electrical equipments in the company.
+	•	Provide engineering support by responding to request for electrical and mechanical problems.
+	•	Keeps equipment operating by following operating instructions.
+	•	Troubleshooting breakdowns and recovering those issues.
+	•	Strong knowledge in electrical motor starters.
+	•	Maintain perfect power supplies and performing preventive maintenance.
+
+
+
+
+
+PROJECT:
+
+Title: AUTOMATIC BOREWELL CONTROL USING MICROCONTROLLER
+
+Description:
+
+	•	This project is used to run multiple bore wells by using single motor-compressor set based on sensing of the water level present inside bore well.
+	•	In this project we are using microcontroller.
+	•	It has a timer part which is used to use to change the timings of the motor.
+
+Working principle:
+
+	•	Initially it will drain out the water from first bore well. Once present water was drained out it will change into another bore well.
+	•	If the water has drained with fixed time it will change automatically to next bore well.
+	•	Also we can change the timings based on availability of water.
+
+Advantages:
+
+	•	Increasing the efficiency of the motor.
+	•	Reducing wastage of the electric power.
+	•	Avoiding of dry run condition of the motor and increase the draining water level.
+	•	Reducing the man power in operations.
+
+
+EDUCATIONAL QUALIFICATION:
+
+Completed Bachelor of Engineering in Electrical and Electronics Engineering (BE-EEE)
+with 70% in Sri Eshwar college of Engineering in 2013 batch.
+
+
+
+
+Computer knowledge:
+ 
+
+	•	PCB designing software.
+	•	Windows 7 and 8 operating systems.
+	•	MS office outlook.
+
+
+
+
+
+
+PERSONAL DETAILS:
+
+Date of Birth	: 05-11-1991
+
+Languages known: English, Tamil, Moderate Hindi read and write. Native	: Udumalpet(Tk),Tiruppur.
+Marital status	: Single
+
+
+
+
+
+
+Declaration:
+
+I hereby declare that the above written particulars are true to the best of my knowledge and
+belief.
+
+
+
+Date:
+
+Place:
+
+RAMPRASATH.T

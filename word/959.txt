@@ -1,0 +1,170 @@
+CURRICULUM VITAE
+                                                                       
+             AHETESHAM AHMED
+Email:	aakaa92@yahoo.com ahmedk.arewale@gmail.com
+Mob:     +91-7276290539 
+ 	  +91-8600839020 
+  Skype Id:  ahetesham92
+
+Total Professional Experience:  +18.5 Years
+
+
+OBJECTIVE
+
+To be associated with a progressive organization that gives ample scope to apply my skills and knowledge. And involve myself as a part of team that will work dynamically towards the growth of organization.
+
+EMPLOYMENT HISTORY
+
+Total Experience
+:
++18.5 Years (4 Years in India and +14.5 Years in Gulf Countries)
+10 years Experience in Maintenance and +8 Years Testing, Pre-commissioning and Commissioning along with Construction Projects like Airport, University and Hospital.
+
+  Name of Employer        : 	Bechtel Corporation  (ID # 395539)
+Project	:	Development of Muscat International Airport (Oman)
+Duration	:	 From March 2017 to April 2018
+Nature of job	:	Commissioning and Turnover of Fire Alarm System
+Name of Employer
+:
+Crompton International
+Project
+:
+Qatar Petroleum District QPD (Qatar)
+Duration
+:
+From November 2016 to December 2016
+Nature of job
+   :
+Commissioning and Testing of Building Management System
+Name of Employer
+:
+Al-Hugayet Contracting Est.
+Project
+:
+King Abdullah University of Science and Technology (KAUST)
+Duration
+:
+From March 2009 to June 2016
+Nature of job
+:	Testing and Commissioning of Low Current Systems (FDAS/BMS)
+Name of Employer
+:
+Saudi Oger Limited
+Project
+:	King Khalid International Airport (K.S.A.)
+Duration
+:
+From October 2002 to November 2008
+Nature of job
+:
+Maintenance and Operation of Fire Alarm Systems
+Name of Employer
+:
+Sri Vyenkateshwara Electronics
+Project
+:
+Manufacturing and Installation Company (India)
+Duration
+:
+From May 1998 to March 2001
+Nature of job
+:
+Service Engineer for Low Current Systems
+Name of Employer
+:
+Shweta Electronics
+Project
+:
+Maintenance and Installation company (India)
+Duration
+:
+From April 2001 to June 2002
+Nature of job
+:
+Service Engineer for Low Current Systems
+
+ACADEMIC QUALIFICATION
+
+Engineering Industrial Electronics 3year’s diploma in Government Polytechnic College Solapur Board of Technical Examination (BTE), Maharashtra State
+
+
+COMPUTER PROFICIENCY
+
+Certificate in Computer Hardware Maintenance from Government Polytechnic, Solapur MS Word and MS Excel.
+
+TECHNICAL KIT
+
+Well equipped with Supervision of Installation, Testing and Commissioning of Low Current systems as few are listed here;
+Fire Detection Alarm System (GE, Notifier and Simplex), NOVEC System, VESDA System (Very Early Smoke Detection Aspiration) and Building Management System (Siemens, Honeywell and Alerton)
+
+PREVIOS JOB RESPONSIBILIES AT DEVELOPMENT   OF   MUSCAT   INTERNATIONAL   AIRPORT (OMAN)
+
+	•	Performing loop checking, trouble shooting, pre commissioning & commissioning for FDAS as per Cause & Effect and standard
+	•	Testing of Interface between FACP and HVAC System, Fire suppression system for sprinkler, Magnetic release / Rolling shutter door, Elevator etc.
+	•	Supervise the installation of FACP, Initiating devices, Beam/Flame detector,  Notification appliance circuit (NAC), Water flow switch, Tamper switch, Control, Monitor and Isolator Modules as per IFC
+	•	Supervise the installation of conduits, tagging, cable trays/ladder racks, cables, junction boxes, wiring termination as per the project specification
+	•	Making Red line drawings as any modifications at site during construction of FDAS and reporting to documentation department to make update as built drawing
+
+PREVIOS JOB RESPONSIBILIES AT QATAR   PETROLIUM   DISTRICT (QATAR)
+
+	•	Inspection, testing and preparation of check sheets for all Electrical & Instrumentation activities
+	•	Supervise Panel Installation, Terminations and Commissioning of Building Management System (BMS)
+	•	Perform loop checks & functional test for DDC Panel Systems
+	•	Competent in reading and understanding specifications, drawings and all other discipline  related project and engineering documentation
+
+PREVIOS JOB RESPONSIBILIES AT KAUST (Academic and non Academic Buildings)
+
+	•	Inspection and Witness the testing activities of all type of  Fire alarm Systems (Conventional and Addressable), Fire suppression systems (NOVEC 1230), VESDA, Fire smoke damper Actuators , Control Valves Actuators, Solenoid valves, Integrated Building Management System (IBMS) during Installation , testing and pre-commissioning / commissioning time
+	•	Integration test between FACP with SOC Workstation
+	•	Perform loop checks, functional test as per project specifications for FDAS
+	•	Execute work based on Scope of Work, IFC Drawings, Project Specifications and implementing the execution of work
+	•	Visual inspection and testing of Interface between FACP and HVAC System, Fire suppression system for sprinkler, kitchen hood system, Magnetic release door, Elevator etc.
+	•	Review Red-line drawings and verification of As-Built drawings as per the modifications made on site
+	•	Reviews the loop folders submitted by the contractor and ensure that it contains all the relevant documents
+	•	Initiate Exception Item List (EIL) for FDAS after Walkthrough invitation by Aramco PMT
+	•	Worked as Client Representative commissioning Inspector in Kaust Academic and non Academic Building
+	•	As the client representative I carryout routine inspection and for witnessing and signing (Proponent) the pre commissioning and commissioning folders after receiving RFI as per various quality standard and test records of Saudi Aramco
+
+	•	Preparation of daily and weekly progress reports to properly track the work progress and report Kaust higher management
+	•	Attending the meetings with main contractor, PMTs and other Aramco supervisors to discuss the project progress
+	•	Experience in layout diagram, riser diagram, termination diagrams, schematics, loop diagrams, functional logic diagrams, fire and gas layouts, instrument layouts, cause and effects, specification and datasheets
+	•	Installation inspection of conduits and fittings (above and below ground), cable trays/ladder racks, cables, junction boxes, control panels, consoles, wiring termination as per the project specification
+	•	Carryout the surveillance inspections of wiring termination and checking that all the tags are as per the project specification
+	•	Partial responsible for Complete handing over of projects to End users (Kaust FrPD, Kaust maintenance companies)
+
+PREVIOS JOB RESPONSIBILIES AT KING   KHALID   INTERNATIONAL   AIRPORT   (K.S.A)
+
+	•	Disseminating all the work orders being received on weekly basis for preventive maintenance and corrective maintenance on daily basis
+	•	Conducting all the functional test of the panel once a year for each panel
+	•	FIRE and LIFE SAFETY SYSTEMS: All kinds of maintenance and trouble shooting of fire alarm control panel (FACP) including smoke detector, Heat detector, Beam detector, duct detector, UV detector etc. with de-activation and re-activation of FACP for assisting other department like utility, HVAC and electrical systems
+	•	BUILDING AUTOMATION SYSTEM computer through airport monitoring system. Also involved in maintaining several key installation facilities in the airport like Saudi catering, control tower, air cargo
+	•	Co-ordinates with all the concern Main Contractor & subcontractors who is responsible for functional test
+i.e. fire department, safety inspector, service desk, airfield operation, control tower, Q.A. dept. and responsible authorities in the premises where the test will be conducted
+	•	Maintains all track records of daily work activities
+	•	Maintains building automation computer hardware system and security system by performing and corrective maintenance as required
+	•	King Khalid International Airport (K.K.I.A) project doing maintenance as per standards of Saudi Aramco facility at Airport for fire and life safety systems, UPS and security systems which is fully monitored 24*7
+
+
+PREVIOS JOB RESPONSIBILIES AT SHRI   VYENKATESHWARA   ELECTRONICS
+
+	•	Assembling, installation and maintenance of uninterruptible power supply having capacity of 300VA to 2KVA online and offline both by using MOSFET and IGBT technology manufacturing and maintenance  of emergency light system, power inverter, battery charger units
+	•	Installation and maintenance of Fire Alarm System, camera and access door control system
+, 
+
+PREVIOS JOB RESPONSIBILIES AT SHWETA   ELECTRONICS
+
+	•	Installation and Maintenance of C.C.T.V. fire alarm system, water level control and home security system
+	•	Installation and Maintenance of Power inverter and Uninterruptible Power Supply
+
+
+PERSONAL DETAIL
+
+Father's Name	: Khalid Arewale
+Address	: 284, Taj apartment, Flat No.1, Sakhar Peth, Solapur
+    Date of Birth	: 20 March 1977
+Passport No.	 :  H 7725334
+Date of Expiry	: 18 Dec 2019
+GCC License	: Valid Driving License of Saudi Arabia
+
+
+AHETESHAM AHMED

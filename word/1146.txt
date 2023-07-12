@@ -1,0 +1,111 @@
+Sharanya P.V.
+Email:Sharanyapv624@gmail.com
+Contact: 9964667669
+				                                                   
+OBJECTIVE
+
+Be part of a team-oriented, creative organization, where my educational background, development experience, problem-solving skills and my communication skills can benefit the company’s core goals.
+
+
+EDUCATION
+
+Bachelor of Engineering in Electronics & Communication from Canara Engineering College Benjanapadav; affiliated to Vishwesvaraya Technological University, Belgaum in the year 2013.
+Percentage Aggregate: 62.45 %
+SSLC from St. Victor’s Girls High School Puttur; Percentage of marks: 75.52%
+PUC from St. Philomena College Puttur Karnataka; Percentage of marks: 76.5%
+Diploma from KVG P Sullia; Percentage of marks:66.56%
+
+
+
+TECHNICAL PROFICIENCY:
+
+	•	  Microprocessor, Microcontroller ,VHDL programming
+	•	  VLSI designing, Computer Hardware and Networking
+	•	  MS Excel, MS Access, MS word ,MS paint
+	•	  Programming languages: C , Microprocessor,   microcontroller
+	•	  Operating System: Dos, Windows 98 – XP – Millennium,LINUX
+	•	
+
+PROJECTS UNDERTAKEN
+
+1. PROJECT
+
+
+
+
+Team Size: 4
+
+Software: PIC18F442
+Programing language: Tiny Encryption Algorithm.
+Hardware: RS232 UART,  Zigbee module,Keypad,Power supply, Crystal.
+
+
+
+
+
+
+
+
+
+
+
+TITLE:”CRYPTOGRAPHIC SECURED WIRELESS COMMUNICATION FOR MILITORY  APPLICATION”.
+              FOR MILITORY  APPLICATION”
+
+
+
+Project Description:
+“The art of protecting information by transforming it into an unreadable format, called cipher text. Only those who possess a secret key can decipher the message into plain text. Encrypted messages can sometimes be broken by cryptanalysis, also called codebreaking, although modern cryptography techniques are virtually unbreakable .As the Internet and other forms of electronic communication become more prevalent, electronic security is becoming increasingly important. Cryptography is used to protect e-mail messages, credit card information, and corporate data. One of the most popular cryptography systems used on the Internet is Pretty Good Privacy because it's effective and free. 
+This project is based on this on”symmetric key cryptography”. An encryption system in which the sender and receiver of a message share a single, common key that is used to encrypt and decrypt the message. Symmetric-key systems are simpler and faster, but their main drawback is that the two parties must somehow exchange the key in a secure way.
+
+
+Skills:                                                                                                                                              
+
+MANUAL TESTING
+
+	•	A budding professional with extensive conceptual knowledge in Software Testing
+
+	•	Demonstrated exposure in full life-cycle implementations with skills in executing Software Development life cycle (SDLC)  & different Models of SDLC
+ 
+	•	Good knowledge on STLC, Manual Testing, Types of testing,
+
+	•	Decent information of Build, Re-spin, Release
+
+	•	Good knowledge on writing Test Case, Test plan, Reviewing Process.
+
+	•	Knowledge on Defect, Defect cycle
+
+	•	Good knowledge on Defect Tracking Tool – Bugzilla
+
+Training Attended :                                                                                                                             
+Tejas –TSSC Certification Program in Telecom Technology, At  Sadguru Shikhanpratista.
+
+ISO 9001: Auditor/Lead Auditor course.
+
+ 
+WORK EXPERIENCE:                                                                                                                              
+
+Company Name :  QMS Certification Services Pvt. Ltd.
+Designation       :    Certificate Engineers.
+Duration           :     from 25--03-15 Till the date
+
+EXCURRICULLAR ACTIVITIES:                                                                                                  
+Reading News paper, Cooking, Listening music, Browsing.
+
+PERSONAL PROFILES :                                                                                                          
+Father’s Name              - VENKAPPA P.S
+Permanent Address      - Keremoole house, Savanoor  post ,
+                                     -  Puttur  Taluq,Dakshina kannada, Pin-574202
+Date of Birth              -   3rd March1989
+Sex                             -   Female
+Nationality                -   Indian
+Marital Status          -   Single
+Languages Known -    Kannada, Hindi, English
+
+I hereby declare that the above information is true to the best of my knowledge and belief.
+									
+							                                       
+Place: Banglore						                         SHARANYA P.V 
+
+
+			                         

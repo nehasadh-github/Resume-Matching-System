@@ -1,0 +1,201 @@
+
+
+
+Europass Curriculum Vitae
+
+
+
+
+
+
+Personal information
+First name(s) / Surname(s)	Eric M.H.M. Hameleers
+Address(es)	[Address withheld] Eindhoven
+Telephone(s)	Mobile:	+31 6 [number withheld]
+Fax(es)
+E-mail	eric.hameleers@gmail.com Nationality	NL
+Date of birth	09-may-1961 Gender	M
+
+Desired employment / Occupational field
+ Software Engineer UNIX/Linux, Software Release Integrator
+
+
+Work experience I have 32 years of experience in IT. I started in a customer/sales support role where I gained experience in application programming and training-course lecturing. From 1992 to 1997 I worked in system management and source code control
+environments. During the period of 1997 to 2007 I started focusing on network management and network security. Between 2007 and 2016 my primary role shifted to UNIX backend support and teamleader. My career is greatly influenced by the GNU/Linux operating system, Open Source Software and Internet security.
+
+Past project experience includes: design and implementation of customer VPN and firewall solutions on Linux and MS Windows platforms; Software Build Manager in small (6 developers) and large (>100 developers) commercial projects; design, implementation and maintenance of a high-availability Linux-based office server cluster; design of a 9000-user global LDAP directory-infrastructure; 3rd line UNIX support for many hundreds of developers; Head of IT for a global Non Governmental Organization; Helpdesk teacher/controller/trainer/manager ; Process Controller for LEAN Six Sigma implementation in IT ; Techical Application Manager.
+
+Dates	December 2017 – to date
+Occupation or position held	Senior Linux Infrastructure Expert
+
+Main activities and responsibilities
+ In the role of Technical Application Manager: responsible for the availability, stability, security, lifecycle management of the Linux infrastructure used by the Electrical Engineering Department (part of Development & Engineering).
+For more detail see the Annex.
+
+Name and address of employer	ASML Netherlands
+Type of business or sector	Lithography systems for the semiconductor market
+
+Dates	Jan 1998 – November 2017
+Occupation or position held	IT Specialist, Linux & Open Source; Team Leader Mobility & End User Services
+
+Main activities and responsibilities
+ UNIX and network specialist, consultant, teamleader and IT manager in various long-term projects.
+For a detailed overview of project assignments, acquired skills and experience, see the Annex.
+
+Name and address of employer	IBM Global Services Type of business or sector	IT/Consultancy
+Dates	Dec 1992 – Dec 1997
+Occupation or position held	Systems Manager
+
+Main activities and responsibilities
+	•	 Internal systems management of Novell, Linux and Windows servers.
+	•	Help desk and second-line support to internal staff.
+	•	Consultancy and helpdesk for external customers.
+	•	Implementation of Intranet and Internet services: email, firewall, webservers.
+	•	Implementing network infrastructure for on-site projects.
+
+Name and address of employer	Data Sciences
+Type of business or sector	Embedded Software Development
+
+Dates	Apr 1990 – Dec 1992
+Occupation or position held	Customer Support Engineer
+
+Main activities and responsibilities
+	•	 First- and second-line support to customers in Netherlands and Germany.
+	•	Preparing and presenting product demonstrations as a sales tool.
+	•	Infrastructure design and roll-out at customers' sites.
+	•	Consultancy and application programming.
+	•	Lecturing courses on CAD and systems management.
+	•	Internal systems management.
+
+Name and address of employer	Cadmes
+Type of business or sector	CAD/CAM Software Development
+
+Dates	Dec 1986 – Mar 1990
+Occupation or position held	Sales Support
+
+Main activities and responsibilities
+	•	 Preparing and presenting product demonstrations.
+	•	Writing and lecturing CAD courses for customers.
+	•	As an application programmer, extending CAD/CAM functionality for customers.
+
+Name and address of employer	Cadmes
+Type of business or sector	CAD/CAM Software Development
+
+Education and training
+Dates	2012
+Title of qualification awarded	LEAN Six Sigma, Orange belt Dates	2003
+Title of qualification awarded	Red Hat Certified Engineer #808003505607683 Dates	1979 - 1988
+Title of qualification awarded	Kandidaats-examen in Physics
+
+
+Name and type of organisation providing education and training
+
+Personal skills and competences
+ Technische Universiteit Eindhoven, Netherlands
+
+
+Mother tongue(s)	Nederlands
+Understanding
+Speaking
+Writing
+Listening
+Reading
+Spoken interaction
+Spoken production
+
+
+
+English French German
+ 
+C2
+Proficient
+C2
+Proficient
+C2
+Proficient
+C2
+Proficient
+C2
+Proficient
+A2
+Basic
+B1
+independent
+A2
+Basic
+A2
+Basic
+A2
+Basic
+C2
+Proficient
+C2
+Proficient
+C2
+Proficient
+C2
+Proficient
+C2
+Proficient
+(*) Common European Framework of Reference for Languages
+
+
+
+Social skills and competences
+
+
+
+
+Organisational skills and
+competences
+
+
+
+
+
+
+Technical skills and
+competences
+
+
+
+
+
+
+
+
+Computer skills and
+competences
+ Since 2006 I volunteer as a member of the Slackware Linux core development team.
+I am an active member of the Slackware Linux user community and its defacto community manager, offering support and mentoring in online forums.
+I have given lectures about Slackware Linux for audiences ranging from ten to several hundred people, in the Netherlands and abroad.
+
+	•	Between 1998 and 2016 I have been "Locatie-Hoofd Bedrijfs Hulp Verlening" for the IBM Eindhoven office for which I am trained and certified. I also am certified for "EHBO" (first aid).
+	•	In 2001/2002 I was Leader of the IBM Linux Knowledge Center. The LKC was founded with the purpose of creating an internal platform for Dutch Linux enthusiasts, and breeding ground for Linux skills.
+	•	In 2012 I bootstrapped the “Slackware Documentation Project”, an international and multi-lingual effort to unify scattered documentation and HOWTO’s into one single Wiki, coordinating the efforts of tens of people spread out over the globe.
+
+	•	Design, implementation, maintenance: one of the first fully open source based High Availability clusters for a demanding office environment.
+	•	Design, implementation: a custom LDAP directory infrastructure from scratch with only open source components, gaining deep knowledge of Directory Services.
+	•	Writing: much of the official Slackware Linux documentation.
+	•	Implementation: creator of Slackware’s official AMD64 (64-bit) port from scratch, and currently working on a ‘hard-float’ ARM port. Creator of project ‘liveslak’ which generates ISO images containing several Live variants of Slackware Linux for demo & testing purposes.
+	•	Language: participating in translator teams for several Open Source projects (dutch translations).
+
+	•	Computer languagues: proficient in shell scripting (Bash) and intermediate level Perl and Python scripting. I have written substantial systems in C and Java.
+	•	Software development: able to analyze software builds and diagnose/debug compilation errors.
+	•	Software development: skilled in the use of software configuration management and version control tools like git, ClearCase but also CVS, RCS and Visual SourceSafe.
+	•	Service Management: proficient in the use of Service Management tools like Service-Now, RequestTracker.
+	•	Generic: in-depth knowledge of Linux and Windows operating systems and the tools available on those systems enables me to be productive and guide others to become more productive as well.
+
+
+Driving licence	AB/E
+
+Additional information	Web sites I maintain:
+http://alien.slackbook.org/blog/ http://slackware.com/~alien/ http://docs.slackware.com/
+
+Interviews with online IT magazines:
+http://www.linux-mag.com/id/7502/ http://laurentparenteau.com/blog/archive/2010/02/ Meet_the_Linux_Family_Eric_Hameleers.html http://slackworld.berlios.de/2011/eric-hameleers-on-slackware-13.37.html
+
+Personal interests:
+I love my wife and son, and we spend time together walking, cycling, cooking and visiting friends when I am not working on Slackware Linux. I like to listen to a variety of modern music and read fiction (mainly Science Fiction). I am an avid bread baker and aspiring brewer.
+
+Annexes	Detailed overview of project assignments, acquired skills and experience.

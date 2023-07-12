@@ -1,0 +1,35 @@
+
+EDUCATION
+
+Rice University, Houston, TX
+Bachelor of Arts in Mathematical Economics Analysis	December 2013 Master of Arts in Statistics		May 2014
+Cumulative GPA: 3.58
+Relevant Coursework: Applied Time Series and Forecasting, Applied Stochastic Processes, Market Models, Quantitative Financial Risk Management (Portfolio Theory)
+EXPERIENCE
+
+Bank of America Merrill Lynch, New York, NY	June 2013 – August 2013 Summer Analyst, Investment Analytics
+	•	Aided in a new firm-wide “Goals-Based” initiative of tailoring financial advice to client’s goals and objectives, rather than strict benchmarks
+	•	Programmed in R to find 6 types of archetypal investors based on surveys of personal financial goals taken by over 13000 of the firm’s clients
+	•	Reviewed the bank’s business lines to design a series of financial products to attract millennials to the firm; Presented findings with group members to the Heads of Global Wealth & Retirement Solutions
+	•	Wrote multiple whitepapers on topics in behavioral finance and the impact they have in advising clients and shaping investing habits
+Rice University Statistics Department, Houston, TX	January 2013 – Present Research Assistant
+	•	Analyzed investment opportunities into the water market, aggregating stock data and creating an index based on growth and volatility metrics; Findings published in technical report series January 2014
+	•	Performed time series analysis on water resources and infrastructure to forecast trends in the global economy; Findings published in technical report series December 2013
+	•	Select results can be viewed on personal, self-directed data analysis website (ethanmcm.com)
+Baylor College of Medicine, Houston, TX	May – August 2012 Programmer
+	•	Programmed in R on NeuroLaw project studying impact of neuroscience development in policy and law
+	•	Organized over 50 million observations, looking for correlations and creating regression models
+Awty International School, Houston, TX	January – May 2012 Data Analyst
+	•	Organized campus wide survey of students, faculty/staff, and parents (800+ participants)
+	•	Complied 50-page conclusive report (based on 50,000+ observations) for administration to use in their restructuring phase
+LEADERSHIP
+
+Math Circle, Houston, TX	August 2011 – Present
+Mentor and Volunteer
+	•	Host and organize 100+ middle and high school students in their learning of higher level mathematics
+Rice University Athletics, Houston, TX	August 2011 – Present Varsity Sports Liaison
+	•	Provide link between Rice community and varsity athletes, increasing student attendance at athletics events
+SKILLS, AFFILIATIONS, & TRAINING
+
+Computer: Microsoft Word, PowerPoint, Excel, R, SQL, SAS, MATLAB
+Affiliations: Boy Scouts of America (Eagle Scout); Rice Univ. – Graduate Student Soccer Team (Midfielder)

@@ -1,0 +1,225 @@
+P.NAVANEETHAKRISHNAN
+
+
+E-Mail: srp.krishnan@gmail.com
+
+Contact: +91 9442205033, 9444450553
+O B J E C T I V E
+
+Looking for a challenging position in the field of Testing & Commissioning. where I can utilize my knowledge and skills with passion and hard work for organization goal and own career development.
+P R O F I L E S N A P S H O T
+
+	•	A focused professional having nearly 5 years of experience in Electrical Testing & Commissioning, Maintenance And Instrumentation in Power Plant and Sub-station sector
+	•	Hands-on experience of Electrical Testing and Commissioning of HT panels, LT panels, breakers, ACB and VCB, complete Plant Earthing, MOV setting, Transmitters erection, Thermocouple and RTD fixing in Power Plant Electrical Sector
+	•	Sound knowledge of Personal Safety Protective Equipment (PPE) Rules such as Safety Helmets, Safety Shoes, Hand Gloves, Safety Goggles Ear Muffs / Plugs, Life Jackets / Work Vests, Safety Belts / Harness, Self Contained Breathing Apparatus (SCBA)
+	•	Instrumental in ensuring that all electrical equipment’s are in safe working order in line with current regulations/ standards. Expertise in handling maintenance, servicing, fault finding and troubleshooting
+	•	Acquainted with industrial automation like PLC, DRIVE, DCS, SCADA & power plant Instrumentation
+	•	An effective communicator with excellent skills in building relationships
+C O R E C O M P E T E N C I E S
+
+	•	Preparing commissioning schedules in coordination with equipment suppliers, erection, testing and commissioning team to match with the project completion plan
+	•	Planning and implementing proactive / predictive / preventive / shutdown maintenance schedules for machinery so as to increase machine up-time / equipment reliability
+	•	Identifying areas of obstruction/breakdowns and taking steps to rectify the equipment through application of trouble shooting techniques
+	•	Complying with safety requirements by following procedures and reporting/documenting safety incidences & near misses
+	•	Executing energy saving & other cost saving measures with suitable modifications in process
+O R G A N I Z A T I O N A L E X P E R I E N C E
+
+Responsibilities:
+	•	Erection, Commissioning, operation & maintenance of:
+	•	HT and LT switch gears ranging from 440V ACB, 6.6, 11, 33Kv VCB’s and 110Kv Sf6 Breakers switch yard.
+	•	Power and distribution transformers of 11KV/440V auxiliary transformer & main Transforms up to 75MVA.
+	•	Turbine Generator and Excitation System.
+	•	Incoming, Feeder and HT capacitor panels.
+	•	Cable Tray, Voltmeter and Ammeter.
+	•	Batteries, Battery chargers and UPS.
+	•	Trouble-shooting in PLC, SCADA and DCS.
+	•	AUX relay installing in panels.
+	•	Handling a team of 10 team members and managing activities related to all electrical erections and project management.
+	•	Performing activity of cable termination LT and HT.
+	•	Maintaining synchronization of TG with E.B.
+	•	Reading electrical drawings, interconnection charts.
+
+	•	Ensuring commissioning and servicing of all types of starter modules such as direct online starter (DOLS), star delta starter, variable frequency drive(VFD).
+	•	Testing & Commissioning of 6.6/11/33KV VCB Panel (INDOOR,OUTDOOR).
+	•	Testing of Breakers (GE, ABB, Schneider, Siemens) and also servicing of VCB,ACB, SF6, Breakers.
+	•	Testing and commissioning of Relays (Numerical & Electromagnetic relays).
+	•	Testing of Isolator (11KV ON/OFF LOAD) panel.
+	•	Testing and commissioning of 15 HP Motors.
+	•	Testing of Cable (LT&HT).
+	•	Testing and Commissioning of Power transformers.
+	•	Testing of Current transformers and Potential transformers.
+	•	Selection of Bus bars for suitable amps ratings, and selection of Cables.
+	•	Selection of Current Transformers and Potential transformers and well knew about Minimum and Maximum Voltage of Phase to phase, and Phase to Earth Clearances.
+	•	Knowledge of Alstom RTU, BCU, DS Agile and S1 Agile software.
+	•	Knowledge of Alstom IO Client, IO Server and SQL System operations.
+	•	Knowledge of ABT Meters and Supporting Software M cubed 100.
+	•	Generate reports entire Station Generation and utility in PDF or XLSX formats according to the client specifications.
+	•	Testing of device connectivity in entire station all Numerical relays, Gateways, Servers, DR- PC with main server.
+T E S T I N G B E F O R E P R E - C O M M I S S I O N I N G
+
+HT/LT BREAKERS,CONDUCTORS, RELAYS, CT,PT,LBS.
+
+	•	Physical Inspection Test.
+	•	WR & Insulation Resistance Test.
+	•	High Voltage Test.
+	•	Contact Resistance Test.
+	•	Primary Injection Test.
+	•	Secondary Injection Test for Relays.
+	•	Operating Time Test.
+	•	Mechanical/ Electrical Functional Test.
+	•	Protection Control Test.
+	•	Galvanometer Test.
+	•	Ratio Test.
+	•	Phase Sequence Test.
+
+EARTHING, HT/LT CABLES, ISOLATORS,INSULATORS,SURGE ARRESTER:
+
+	•	Earth Resistance Test.
+	•	Hi-Pot Test.
+	•	Insulation Resistance Test.
+	•	Phase Identification Test.
+
+TRANSFORMERS, MOTORS, GENERATORS,OLTC.
+
+	•	Physical Inspection Test of Earth flats, Cables.
+	•	Insulation Resistance Test.
+	•	Winding Resistance Test.
+	•	Magnetic Balance Test.
+	•	Vector Group Test.
+	•	Voltage Ratio Test.
+	•	Magnetic Current Test.
+	•	Transformer Stability test.
+	•	Short Circuit Test.
+	•	No-Load Test.
+
+	•	Locked Rotor Test.
+	•	Low/High Speed Test.
+	•	Temperature Rise Test.
+	•	Speed/Torque Test.
+	•	Tan delta for Bussing’s
+
+ELECTRO-MECHANICAL/ SOLID STATE RELAYS:
+
+	•	OC/EF RELAYS(ABB-REJ,REM,REF)(SCHNEIDER,ALSTOM,AREVA- Micom Series)(C & S)
+	•	UV/OV RELAYS(PROK DV’s, ABB, SCHNEIDER,ALSTOM,L&T)
+	•	Master Trip/Transformer RELAY(ABB, ALSTOM,C&S)
+
+ NUMERICAL RELAYS:
+
+	•	ABB ( REF 615 RED 615)
+	•	SCHNEIDER ( Micom- P220, P127, P143, P122)
+	•	ALSTOM ( Micom- P442,P642, P141) KNOWLEDGE ABOUT MAJOR TESTING KITS:
+	•	KYORIZSU & MEGGER - Digital Insulation Tester
+	•	FLUKE	- Digital Multimeter
+	•	SCOPE	- Contact Resistance Meter with cables
+	•	SCOPE	- Time interval kit
+	•	OMICRON	- CMC 256
+
+T E C H I N C A L S K I L L S
+
+	•	Good understanding of Electrical Drawings, Planning of Projects, Erection &testing Maintenance.
+	•	Knowledge of Different Electrical and Instruments.
+	•	Knowledge of PLC, SCADA and RTU system.
+A C A D E M I C Q U A L I F I C A T I O N
+
+2010	Diploma in Electrical and Electronics from E.I.T Polytechnic College, Erode, (TN) with 73%
+2013	Bachelor of Electrical and Electronics from Jay Shriram Group of Institutions, Tirupur, (TN) with 6.6/10 CGPA
+IT S K I L L S
+
+Knowledge of:
+	•	MS Office Packages
+	•	PLC, SCADA and Auto cad 2010
+	•	Good understanding of Internet tools.
+W O R K E X P E R I E N C E
+
+SL.
+No
+
+Company
+
+Capacity
+
+Designation
+
+1
+
+Alfa Engineering and Service, Coimbatore, India. (JUN 2013 – DEC 2014)
+Substations
+
+( 110kv,33kv,11kv - Substation )
+
+Electrical Engineer - Substation Automation
+
+
+2
+Hyundai Heavy Industries, Kuwait. (FEB 2015 – JUN 2015)
+Gas Power Plant
+
+(4X15.75 KV) (GTG)
+Electrical Engineer - Testing and Commissioning
+
+
+
+
+
+
+3
+
+
+
+
+
+Technosys Engineers and Consultants,
+Chennai
+
+(AUG 2015 – FEB 2018)
+
+Tata Steel Ltd,Jarkhand,India.Substations
+(11kv/6.6 Kv - Substation )
+
+Sr.Electrical Engineer – Testing and Commissioning
+
+
+Alstom Transport LTD, Kerala ,India. Substations & GIS
+(33/11/6.6 KV SS, 110/33KV GIS )
+
+Sr.Electrical Engineer – Testing and Commissioning
+
+
+
+GE T & D India LTD, 33/110 KV Switch Yard
+
+Sr.Electrical Engineer – Testing and Commissioning
+
+
+4
+
+
+T & C Engineer PVT LTD, Chennai. ( FEB 2018 - Till Date )
+
+NLC PSS 33/110KV
+Switch yard
+
+Site Engineer – Operation and Maintenance
+
+P E R S O N A L D E T A I L S
+
+Date of Birth	1th Jun, 1990
+Address	No.2,Ramerextension,
+Gobichettipalayam-TK, Erode-DT, Tamil Nadu, India
+Languages known	English, Tamil.
+Nationality	Indian
+Marital Status	Single
+Passport Details	J 9472895 (Expiry date : 05.12.2022).
+
+
+DECLARATION:
+
+I hereby declare that the above-furnished details are true to the best of my knowledge and if I get a chance to work for your organization, I will deliver my performance to the satisfaction of self and to the Organization.
+
+
+
+
+(NAVANEETHAKRISHNAN P)
+
+

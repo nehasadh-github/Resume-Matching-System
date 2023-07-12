@@ -1,0 +1,201 @@
+CURRICULUM-VITAE
+MANU TIWARI
+Mobile: +91 – 9891020801 
+E-Mail: manukumart93@gmail.com
+Skype ID: manu.kumar9891
+
+To utilize my professional skills and knowledge acquired in reaching my potential and achieving the goals of a respective organization hence build a stronger career.
+    
+
+SNAPSHOT
+
+	•	B.Tech. (Electrical & Electronics) with over 4.6 years of experience in Distribution and Power Management, Smart Metering, Distribution Automation, Smart Grid, PLC/RF/GPRS, AMI, Wireless communication integration among various software & hardware of Automation and Control systems.
+	•	 Currently working in Sumeru Verde Technology Pvt. Ltd designated as Business Analyst- Functionality Team Lead and to develop and monitor Energy utility, Power project with wireless communication.
+	•	Currently handling Delivery Part as a Team Lead for Tata Power Delhi Distribution Limited (TPDDL/NDPL), Calcutta Electric Supply Corporation (CESC) and Power Grid (Pondicherry).
+	•	SDLC Knowledge with thorough understanding of Smart Meters, Data Concentrator, Controllers, Software’s 
+	•	Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management. 
+	•	Successfully executed installation, commissioning and calibration of equipment’s and software at site.
+	•	Testing of software and Quality Assurance and preparing various use cases.
+	•	Strong collaboration, team building, interpersonal, communication skills with proficiency at grasping new technical concepts quickly & utilizing the same in a productive manner.
+	•	Knowledge of various microcontrollers system design (8/16/32 bit) specific for smart metering and another related product.
+	•	Understanding of Hardware design for smart energy meter. 
+
+Skill Set
+TECHNICAL:
+
+	•	 MDM (Meter Data Management) MDAS (Meter Data Acquisition System), AMI (Advance Meter Infrastructure), AMR (Automatic meter Reading), DA (Distribution Automation on RF based), PLCC Metering (Power line Carrier Communication), RF Metering (Radio Frequency based), Mobile Meter Reading(MMR), Supervisory Control and Data Acquisition (SCADA).
+	•	 Energy Auditing, Network Analysis, Meter Testing, Power system, AMR, Distribution and Electricity, GIS, Smart Grid, Data validation, Meter firmware testing.
+                  
+CAREER SCAN
+
+Key Responsibilities Handled 
+	•	Manage the operations performing meter reading schedule, Read and retrieve meter data, calculate usage, Validate, edit & estimate meter data, Format data, Manage data on MDM server, Meter/device management.
+	•	Participating in Solution Reviews with team and to recommend future needs for operation to Head of Unit
+	•	Responsible for Firmware up gradation of meters and DCU, Firmware Testing, Design Test case /Test Scenarios.
+	•	Responsible for preparing the reports, various utility report development and help in report making, software testing and quality Assurance.
+	•	Data analysis and prepare the ROI report for utility.
+	•	Configures, tests, and maintains network equipment’s and related services
+	•	Identifies, diagnoses, and resolves operation problems
+	•	Create and maintain comprehensive documentation for all implemented networks
+	•	Provide pre-tendering and post-award technical support for projects
+	•	Assist in reviewing proposals and solution presentations
+	•	Fully operate AMI system application environment & Provides AMI/AMR operational support
+	•	Analyzing and repairing equipment and system difficulties and provide training and education to other department personnel.
+	•	Monitoring operating system patches and software upgrades, and routine hardware configuration and Data migration and system integration.
+	•	Handle complex tasks relating to AMI operations, installation, and/or maintenance for local, off-site and/or remote locations.
+	•	Hand on experience in direct meter read using MMR (Longi).
+	•	Reporting AMI platform Healthiness and best Utilization.
+	•	Interfacing with System Test, Quality and Compliance to ensure the documentation meets the needs to efficiently accomplish those tasks.
+	•	Performs other related duties as needed upon request by the immediate supervisor
+	•	Understand, implement and convey Silver Spring’s technology for the purposes of providing architectural guidance and design documentation to meet customer needs.
+	•	Responsible for configuration support of Silver Spring’s networks and related advanced troubleshooting.
+	•	Responsible for architectural guidance on how to support non-DA applications (e.g. AMI, Street Light) on a common network platform.
+	•	Check the DA network through Field Service Unit.
+	•	DCU to AMI Meter Testing in Lab, like Disconnection of Meter, Configuration settings, sanction load settings and threshold settings
+	•	Geographical survey of all sites and mapping in system.
+	•	Energy Auditing and loss calculation.
+	•	Various reports testing like meter billing report tamper report, load profile report etc. and making help in report development in software level.
+	•	Writing Project Deliverables Bid Specifications, Request for Proposals (RFP's), Project Definitions (PD's), and Request for Awards for complex Telecommunications, IT hardware, software and related services.
+	•	Communicating business requirements to Head of Unit
+	•	Working with Head of Unit to establish schedule
+	•	Reporting to Head of Unit progress, risks, issues Participating on Business Requirement interviews and demonstrations
+	•	Material & Manpower & resource management.
+
+Working Experience
+1. 
+Project Title: Smart Grid Technology Using Radio Frequency (RF)
+
+Client: CESC (Calcutta Electricity Supply Corporation), Tata Power Delhi Distribution Limited (TPDDL) Delhi
+
+Project Location: Kolkata and Delhi
+	
+Role: Project Engineer	
+Skill Used: MDAS (Meter Data Acquisition System), RF Mesh, Antenna Selection and Configuration as per requirement, various types of tool used for Bridge and Access point configuration and Diagnostic tool and reporting application.
+
+Role Description: Face all technical challenges in site location including Bridge and Access Point configuration, installation and Network issue, show report of DTR data to client, and suggest to client for any improvement required for Network good health
+
+Project Details: This is based on Radio Frequency Communication (RF Mesh) for Distribution Automation on DTR Feeder.
+
+2.
+Project Title: Agnitio Business Intelligence Tolls (ABITS)
+
+Client:  CESC (Calcutta Electricity Supply Corporation), Tata Power Delhi Distribution Limited (TPDDL) Delhi
+
+Project Location: Kolkata Jodhpur Park Area	
+
+Role: Business Analyst (Noida).
+	
+Skill Used: Meter Data Acquisition System, Meter Data Management, Advanced data Analysis, System   Operation Management. Perform Data Analytics and providing different report (predication, forecasting etc.), Validation Testing (VT), System Integration Testing
+
+Role Description: Designing Use cases and developing the various UX design, Executing the various software testing and Quality Assurance.
+
+3.
+Project Title:  Smart Grid Technology (Distribution Automation) Using RF Mesh 
+Client: CESC (Calcutta Electricity Supply Corporation), Tata Power Delhi Distribution Limited (TPDDL) Delhi
+	
+Project Location: Kolkata and Delhi	
+Role: Project Engineer	
+
+Skill Used: MDAS (Meter Data Acquisition System), RF Mesh, Antenna Selection and Configuration as per requirement, Various types of tool used for Bridge, smart meter and Access point configuration and Diagnostic tool and reporting application.
+
+Role Description: Face all technical challenges in site location including Bridge and Access Point configuration, installation and Network issue, show report of DTR data to client, and suggest to client for any improvement required for Network good health
+Project Details: This is based on Radio Frequency Communication (RF Mesh) for Distribution Automation on DTR Feeder.
+
+4. 
+Project Title: Smart Grid Technology Using Power Line Carrier Communication (PLCC)
+Client: CESC (Calcutta Electricity Supply Corporation), Tata Power Delhi Distribution Limited (TPDDL) Delhi
+
+Project Location: Kolkata
+	
+Role: Project Engineer
+	
+Skill Used: MDM (Meter Data Management) MDAS (Meter Data Acquisition System), AMI (Advance Meter Infrastructure), PLCC Metering (Power line Carrier Communication), various type of tool used for Meter configuration and Diagnostic tool and reporting application.
+
+Role Description: Face all technical challenges in site location including Bridge and Access Point configuration, installation and Network issue, show report of DTR data to client, and suggest to client for any improvement required for Network good health.
+
+Project Details: This is based on Radio Frequency Communication (RF Mesh) for Distribution Automation on DTR Feeder.
+
+PREVIOUS PROFILE:
+Previously worked with Protocol Automation Technologies as Project Engineer for the period of May 2012 to May 2013 (1 year).
+
+Project Title: Restructured Accelerated Power Development and Reforms Program (Madhya Pradesh, North East), N-APDRP (M.P (Jabalpur).
+
+Client: MPSEB, APDCL, TCS      
+                     
+Project Location: Madhya Pradesh, North East
+
+Module: MDAS (Meter Data Acquisition System)
+
+Environment: 7MDAS application Servers, Oracle11g, Wireless Communication hardware (20,000GPRS Viola Modems, 370 Viola DCUs, 5Viola M2Ms).
+
+Skill Used: Meter reading of all locations (HT, DT, LT, BM and Substations) through the modem and DCU by using GPRS technologies.              
+
+Scholastics
+
+Degree
+
+University
+Year of Passing
+Percentage
+B.TECH
+(Electrical & Electronics Engineering)
+Gautam Buddha Technical University.
+(Hindustan Institute of Technology Greater Noida)
+2012
+68.34%
+
+10+2
+U.P Board
+(ST. Andrew Inter College Gorakhpur U.P)
+2006
+63.2%
+10th
+Bihar Board
+(D.H. S Narayan Pur Siwan Bihar)
+
+2004
+61.72%
+
+Projects   
+	•	Academic Project: LDR based AC bulb dimmer
+             This project based is based on Atmel 89c52 microcontroller. In this project save energy   on variation of surrounding light intensity, for this we use light dependent resister which is sense outer light intensity if light intensity of surrounding which comes room are increases then electric bulb intensity decreases during this save energy.
+
+Summer Training
+Organization: Bharat Heavy Electrical Limited.
+Duration     : 4 Weeks.
+Location     : Haridwar
+Role           : As Trainee engineer
+Description: Exposure obtained in the areas of Electrical machine manufacturing, different Rating Turbo generator, Synchronous generators like 200, 250, 500MW and Exciter.
+
+Strengths 
+	•	Zeal to accept work related challenges, dedication towards work.
+	•	Self-Motivated and a good Team player.
+	•	Good understanding of project issues, Ability to work independently or as part of a team.
+	•	Good Interpersonal and analytical skills.
+ Special Mention
+
+	•	I got Best team player award of the year 2014.
+	•	I have always tried to maintain an optimum balance between my Academics and extracurricular activities, because I feel both are essential for overall development as a mature individual.
+	•	Participated in numerous quizzes in school.
+	•	I have AMCAT score card.
+
+
+Personal Dossier
+Father’s name              : Ram Darshna Tiwari
+Date of birth		: 12th Aug, 1988	
+Gender           	            : Male
+Languages Known	: English, Hindi
+Passport number          :  K9296174             
+Passport expiry date     :  13-01-2023.
+Permanent Address      : Vill.- Narayan pur, P.O- Hasua, Distt- Siwan, Pin code – 841236, Bihar.
+Hobbies                         : Listening music, watching movies, singing, 
+Alternate Email ID	: manutiwarit93@gmail.com
+                                
+Notification
+
+I certify that to the best of my knowledge and belief, this CV correctly describes me, and my qualifications.
+
+Date:                                                                                                               
+
+Place:    NOIDA                                                                                (MANU TIWARI)
+

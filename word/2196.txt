@@ -1,0 +1,74 @@
+ATHULIA GOPI
+KottalilThoppil (H)
+Chumathra P							athuliagthoppil@gmail.com
+Thiruvalla,							Ph No: +91 9539198718                                                                         
+Pathanamthitta
+Pin-689103							
+
+Career Objective                                                                         
+
+To be an excellent professional and to be a part of an organization which provides constant learning of latest technological upgrades, and provides career growth.
+
+Academic Profile                                                                         
+
+	•	Completed  ‘Basic Software Testing’ Course  from Spyrosys Software  Testing Solutions, Cochin
+
+	•	Completed MCA from School of Technology And Applied Sciences, Kottayam  with an aggregate of 66% under  MG University2012-2015
+
+	•	Completed Bsc.Computer Science from College of Technology And Applied Sciences,Mallappally with an aggregate of 57% under  MG University2009-2012
+
+Technical Proficiency        
+
+Programming Languages:C, C++,JAVA,ASP.NET,PHP
+Manual TestingProficiency :
+	•	Strong in SDLC, STLC and Defect Life Cycle.
+	•	 Knowledge on Test Plan, Tracebility Matrix.
+	•	Knowledge of writing, reviewing and executing Test Cases.
+	•	Knowledge on Functional, Integration, and System Testing.
+	•	Knowledge on Smoke, Regression, Compatibility  and various other types of Testing
+AutomationTestingProficiency: 
+Tools :
+	•	QTP, 
+	•	Selenium, 
+	•	Load Runner
+
+Area ofInterests: Software Testing,Programming.
+
+
+
+
+
+Project
+
+	•	Developed a Software application named as ‘Television Rating Point’ Using ASP.NET.
+	•	Developed aCollege Management System in PHP as front end and MYSQL as back-end
+	•	Developed a Software application named as ‘Executable UML’Using JAVA  as front -end
+	•	Developed Grade Making System using JAVA as front end and MYSQL asback-end
+
+
+
+Strengths
+	•	 Able to work in a team
+	•	Active learning and critical thinking
+	•	System and Operational Analysis
+	•	Flexibility and Adaptability
+
+
+Personal Information                                                                       
+
+Father’s Name		:  Gopi P
+Sex			:  Female
+Date of Birth         	: 12-OCT-1990
+Hobbies		: Reading,Painting
+Marital Status		:Single
+Languages known	: English, Tamil
+
+Declaration
+
+I hereby declare that all the information’s furnished above are true to the best of my knowledge.
+Place:  Thiruvalla	                                                                   Yours Faithfully
+ 
+Date:			                                                                    ATHULIA GOPI
+
+
+

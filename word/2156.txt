@@ -1,0 +1,1034 @@
+Contents lists available at ScienceDirect
+
+Journal of Structural Geology
+journal homepage: www.elsevier.com/locate/jsg 
+
+
+
+
+
+
+
+
+Asymmetrical quartz crystallographic fabrics formed during constrictional deformation
+W.A. Sullivan a,*, R.J. Beane b
+a Department of Geology, Colby College, 5803 Mayﬂower Hill, Waterville, ME 04901, USA
+b Department of Geology, Bowdoin College, 6800 College Station, Brunswick, ME 04011, USA
+
+
+
+a r t i c l e i n f o
+
+Article history:
+Received 15 April 2010 Received in revised form 16 July 2010
+Accepted 8 August 2010
+Available online 17 August 2010
+
+Keywords:
+Quartz crystallographic fabric Quartz c-axis fabric
+Quartz a-axis fabric Constrictional strain L tectonite
+Western Hayfork terrane
+ a b s t r a c t  
+
+Numerical simulations predict unique quartz crystallographic fabric patterns for plane strain, ﬂattening, and constriction. Multiple studies support the predictions for plane strain and ﬂattening. To test predictions for constriction, this paper analyzes ﬁve examples of quartz crystallographic fabrics from a 1- km-wide domain of L tectonites in the Pigeon Point high-strain zone, Klamath Mountains, California,
+U.S.A. These samples were deformed under greenschist- to amphibolite-facies conditions. Quartz c-axis fabrics are similar to the predicted double-girdle fabrics except that amphibolite-facies samples exhibit c- axis maxima and are distinctly asymmetrical about the elongation lineations. Activation of different slip systems combined with small deviations from pure constriction account for the c-axis maxima, and noncoaxial ﬂow accounts for the fabric asymmetry. The simple-shear component is randomly oriented in geographic coordinates throughout the domain of L tectonites.
+These data conﬁrm that numerical simulations predict the quartz c-axis fabric geometry developed during constriction for some deformation conditions, and they conﬁrm the quartz a-axis patterns pre- dicted for constriction for the ﬁrst time. These data also demonstrate that the relationship between quartz crystallographic fabrics and strain geometry is not straightforward, and they indicate that a-axis fabrics may be more useful indicators of strain geometry variations.
+© 2010 Elsevier Ltd. All rights reserved.
+
+
+	
+
+
+
+	•	Introduction
+
+Crystallographic fabrics are a common feature of plastically deformed rocks from the crust and the mantle. Quartz and olivine are the two most widely studied and well-understood minerals in terms of the crystallographic fabrics that develop during plastic deformation. Of these two, quartz is by far the most common mineral in crustal rocks exposed in the continents. Moreover, it is often concentrated by sedimentary processes or as vein ﬁll, so quartz-rich rocks are found in almost all continental metamorphic terranes. For these reasons, the development of quartz crystallo- graphic fabrics during plastic deformation has been an active area of research for more than four decades. Indeed, it is widely accepted that quartz crystallographic fabric formation and the resulting fabric geometry are sensitive to variations in deformation temperature and strain rate (Lister, 1981; Wenk et al., 1989; Jessell and Lister, 1990; Okudaira et al., 1995; Kruhl, 1998; Stipp et al., 2002a,b; Heilbronner and Tullis, 2006), the noncoaxiality of ﬂow
+
+
+* Corresponding author. Tel.: þ1 207 859 5803; fax: þ1 207 859 5868.
+E-mail address: wasulliv@colby.edu (W.A. Sullivan).
+ (e.g. Tullis, 1977; Lister and Hobbs, 1980; Schmid and Casey, 1986; Dell’Angelo and Tullis, 1989; Law et al., 1990; Takeshita et al., 1999), and distortional strain geometry (Tullis et al., 1973; Majoribanks, 1976; Tullis, 1977; Lister  and  Hobbs, 1980;  Price, 1985; Law, 1986; Schmid and Casey, 1986). This sensitivity to different deformation parameters, combined with the relative ease of measuring them, makes quartz crystallographic fabrics an important tool for analyzing natural high-strain zones, and they have been used to characterize deformation in exhumed meta- morphic terranes from all over the world (e.g. Law  et al., 1984, 2004; Lee et al., 1987; Wallis, 1995; Xypolias and  Koukouvelas, 2001; Sullivan and Law, 2007; Toy et al., 2008; Barth et al., 2010).
+h i
+
+
+0191-8141/$ e see front matter © 2010 Elsevier Ltd. All rights reserved. doi:10.1016/j.jsg.2010.08.001
+
+W.A. Sullivan, R.J. Beane / Journal of Structural Geology 32 (2010) 1430e1443	1431
+
+
+
+
+Fig. 1. Flinn diagram depicting the quartz c-axis fabric geometries predicted by Lister and Hobbs (1980) and the corresponding a-axis fabric geometries deduced by Schmid and Casey (1986). X, Y, and Z are the maximum, intermediate, and minimum axes of the ﬁnite strain ellipsoid. The line k ¼ 1 represents plane strain. Adapted from Schmid and Casey (1986).
+
+
+Majoribanks, 1976; Tullis, 1977; Compton, 1980; Law et al., 1984; Price, 1985; Schmid and Casey, 1986; Law, 1986). However, well- documented natural fabrics produced under apparent constrictional strain conditions are rare in the literature, and constrictional deformation of rocks has not been reproduced in experiments. Because of this, Lister and Hobbs’ (1980) model remains the only link between quartz crystallographic fabric geometry and constrictional strain 30 years after its publication. As far as we are aware, only     a single sample from a single study has yielded both a measured prolate strain geometry and a double-girdle quartz c-axis fabric with girdles symmetrically arranged about the lineation (Burg and Teyssier, 1983 reproduced in Price, 1985) as predicted for pure con- strictional deformation by Lister and Hobbs’ (1980) model. To ﬁll this void, this paper presents ﬁve exceptionally well-documented examples of quartz crystallographic fabrics developed in a 1-km- wide domain of L tectonites in the Pigeon Point high-strain zone, Klamath Mountains, California, U.S.A. The quartz c-axis fabrics developed in these samples are similar to those predicted by Lister and Hobbs’ (1980) numerical simulations except that in four of the ﬁve samples exhibit c-axis maxima and the c-axis girdles are distinctly asymmetrical about the mineral elongation lineations. Phyllosilicate fabrics in these rocks deﬁne a weak, randomly oriented foliation not detectable by looking at the samples. Quartz crystallographic fabric geometry is unrelated to the weak phyllosi- licate foliation, and the fabric asymmetry is randomly oriented in   a geographic reference frame. These data show that Lister and Hobbs’ (1980) model does predict quartz c-axis fabric geometry during constrictional deformation for some deformation conditions. They also provide the ﬁrst conﬁrmation of the quartz a-axis patterns that Schmid and Casey (1986) predicted would form during con- strictional deformation. At the same time, these data demonstrate that the relationship between crystallographic fabric geometry and ﬁnite strain geometry is not as straightforward as generally assumed, especially for non-plane strain, noncoaxial deformations, and they indicate that a-axis fabrics may be more useful indicators of ﬁnite strain geometry under a variety of deformation conditions.
+
+	•	Geologic setting
+
+The samples documented in this study are from a 1-km-wide domain of well-developed L tectonites in the middle Jurassic Pigeon
+ 
+Point high-strain zone, Klamath Mountains, California, U.S.A. (Wright and Fahan, 1988; Sullivan, 2009) (Fig. 2). The Pigeon Point high-strain zone is a gently SE-dipping zone of intense plastic deformation that cuts Jurassic metavolcanic and metasedimentary rocks of the western Hayfork terrane. Foliation surfaces in LeS- and L > S-tectonites in the Pigeon Point high-strain zone are shallowly to moderately dipping and poles to foliations deﬁne a partial great circle distribution roughly centered about the mineral elongation lineations (Fig. 2c). Elongation lineations, including the domain of L tectonites, plunge gently to the ESE (Fig. 2c). Overall, this pure-shear-dominated high-strain zone accommodated a subordinate component of top-to-the-WNW- directed, reverse-sense displacement coupled with zone-normal contraction and transport-parallel elongation (Sullivan, 2009). Sullivan (2009) concluded that the domain of L tectonites in the Pigeon Point high-strain zone accommodated a component of con- strictional deformation that was concentrated in a convex-upwards groove in the upper boundary of the high-strain zone. The geometry of the high-strain-zone boundary and resulting strain localizationwas likely related to magmatic heating that catalyzed intense plastic deformation in the ﬁrst place (Sullivan, 2009).
+			þ	þ	þ	þ -
+þ	þ	þ	þ -	þ -
+þ
+þ	þ	þ	þ -	þ -
+			þ	þ	þ	þ
+¼
+¼
+¼
+L tectonites in the Pigeon Point high-strain zone display a unique set of microstructural features on lineation-normal faces that also argue in favor of true constrictional deformation (Sullivan, 2009). Despite the strong mineral shape fabrics visible on lineation-parallel faces, there is no discernable mineral shape fabric visible on linea- tion-normal faces of L tectonites of all of the different rock types cut by the high-strain zone. Porphyroclasts in greenschist-facies L tec- tonites of the metavolcaniclastic unit show no shape preferred
+
+
+
+orientation, and they are sometimes completely rimmed by seams of ﬁne-grained epidote, indicating pressure solution took place all the way around the clasts. Amphibole grains are oriented such that basal sections are commonly presented on lineation-normal faces, but their intermediate axes show little or no preferred orientation. In siliceous meta-argillites of the metasedimentary unit, basal cleavage traces of phyllosilicates in quartz-rich domains appear randomly oriented when viewed in lineation-normal sections, and quartz shows no grain shape preferred orientation (Fig. 3). These rocks also display 1e3-cm-scale compositional segregation with quartz-rich domains being completely encircled by 0.5e2-mm-thick phyllosili- cate-rich domains on lineation-normal faces. Within the phyllosili- cate-rich domains there is a weak phyllosilicate shape preferred orientation that is parallel with the domain boundaries. This indi- cates that the deformation of the phyllosilicate-rich domains was partially controlled by the rheologically stronger quartz-rich domains undergoing constrictional deformation.
+
+	•	Sample descriptions
+
+	•	Sample locations
+
+Three of the meta-argillite L tectonite samples; WH-04, WH-181, and WH-150; were collected from the domain of amphibolite-facies
+ metamorphism near one of the maﬁc/ultramaﬁc composite dikes (Fig. 2b). WH-04 and WH-181 were collected within 10 m of each other. Another sample, WH-182, was collected at the edge of the domain of amphibolite-facies metamorphism, and a ﬁnal sample, WH-112, was collected from the greenschist-facies domain, well outside of the domain of amphibolite-facies metamorphism as mapped by Sullivan (2009) (Fig. 2b). WH-112 is also from a struc- turally higher position within the domain of L tectonites, closer to the high-strain-zone boundary (Fig. 2). An oriented sample of garnet amphibolite L tectonite used to provide deformation temperature estimates, WHT-04A, was collected by A. W. Snoke near the same maﬁc dike as the quartzite L tectonite samples (Fig. 2b).
+
+	•	Samples WH-04, WH-181, WH-150, and WH-182
+
+		þ	þ	þ
+þ	þ
+garnet grains.
+
+
+
+
+
+Fig. 2. (a) Simpliﬁed geologic map of the Pigeon Point high-strain zone. (b) Geologic map of the domain of L tectonites centered about Pigeon Point along the Trinity River. Sample localities and the domain of amphibolite-facies metamorphism are noted. (c) Equal-area, lower-hemisphere projection showing lineations and poles to foliation from the Pigeon Point high-strain zone. Maps and orientation data modiﬁed from Sullivan (2009).
+
+
+
+Fig. 3. Pairs of lineation-parallel and lineation-perpendicular photomicrographs of meta-argillite L tectonites depicting parts of the sample domains covered by the SEM-EBSD analyses. Sample numbers appear at the bottom of each pair. Note the presence of near-1200 grain-boundary intersections in samples WH-04, WH-181, and WH-150. The plunge and trend of the lineations are noted for each lineation-parallel section. Lineation-perpendicular sections are viewed down plunge.
+
+
+
+WH-112
+
+
+
+
+502 data	Outer circle = 9%
+Largest petal = 8.6%
+ 
+
+
+
+
+
+
+
+
+
+
+
+501 data	Outer circle = 13%
+Largest petal = 12.2%
+ 
+b
+WH-150
+Foliation
+Lineation
+
+
+
+
+506 data	Outer circle = 10%
+Largest petal = 9.3%
+
+
+
+WH-181
+ WH-182
+ 
+
+
+Phyllosilicate long-axis orientations
+ 
+Sample number
+WH-NNN
+ 
+
+
+
+
+E-W line is strike of lineation- normal plane
+
+
+
+
+498 data	Outer circle = 12%
+Largest petal = 11.2%
+ 
+
+
+499 data	Outer circle = 10%
+Largest petal = 9.6%
+ 
+Visually estimated foliation
+
+
+Fig. 4. (a) Rose diagrams showing the long-axis orientations of phyllosilicate grains measured in lineation-normal sections of the meta-argillite L tectonites. The data are viewed in the down-plunge direction, and the E-W line of the plots is geographic horizontal. (b) Orientations of foliations determined from the phyllosilicate orientation maxima in a.
+
+
+In lineation-parallel sections of these samples quartz grains exhibit only a weak grain shape preferred orientation parallel with the mesoscopic lineation. Individual quartz grains in these sections appear as lobate to semi-polygonal grains, and 1200 grain- boundary intersections are common (Fig. 3). Extinction within quartz grains varies from sweeping undulose to nearly straight, and subgrains are generally semi-polygonal to polygonal in shape. Quartz grain boundaries are typically pinned by larger phyllosili- cate grains, but some smaller phyllosilicate grains are completely enveloped by large quartz grains. Quartz grain size is largest in domains with few or no phyllosilicate grains (Fig. 3). These obser- vations indicate that quartz in these samples underwent rapid grain-boundary-migration dynamic recrystallization with a high rate of recovery of intracrystalline strain. Phyllosilicate grains in lineation-parallel sections exhibit a strong grain shape preferred orientation parallel with the mesoscopic lineation (Fig. 3), and  some  phyllosilicate  grains   have  long-axis   dimensions   close   to
+100 mm. Garnet grains in these samples are typically euhedral and are   concentrated   in   phyllosilicate-rich   domains.   A  1-cm-wide
+granitoid dike cuts sample WH-181. Feldspar grains in this dike exhibit core-mantle structures. Feldspar cores exhibit sweeping or
+patchy undulose extinction but few subgrains. Boundaries of relict feldspar grains exhibit 20e30-mm lobate sutures, and mantling neoblasts are typically less than 25 mm in diameter. These obser-
+vations  indicate  that  feldspar  grains  in  this  sample  underwent
+grain-boundary-bulging dynamic recrystallization.
+
+	•	Sample WH-112
+
+					þ	þ	þ	þ	þ	þ
+ observed in this sample. There are distinct quartz grain size domains in this sample that are directly controlled by phyllosilicate and graphite concentration. These observations indicate that quartz in this sample underwent sweeping grain-boundary-migration dynamic recrystallization and minor subgrain-rotation dynamic recrystallization. As in the other samples phyllosilicate grains exhibit a strong grain shape preferred orientation in the lineation- parallel section. Biotite and muscovite grains are noticeably smaller
+in this sample, and their long-axis dimensions rarely exceed 30 mm. Garnet  commonly  appears  as  fractured  and/or  skeletal  grains in
+direct contrast to the pristine euhedral grains observed in the other samples.
+
+
+Table 1
+Values showing representative amphibole compositions from three areas on WHT- 04A. Fe as ferrous iron; cations calculated using spreadsheet of Brady and Perkins (2007).
+
+Area 1
+Area 2
+
+Area 3
+SiO2	42.1	42.79
+43.26
+41.03
+41.37
+42.76
+TiO2	1.57	1.68
+0.69
+0.98
+1.54
+0.98
+Al2O3	11.84	12.08
+12.34
+11.4
+11.96
+12.17
+FeO	21.61	19.07
+20.91
+23.25
+22.38
+21.68
+MnO	0.66	0.64
+0.37
+0.86
+0.94
+0.57
+MgO	7.92	8.6
+6.01
+6.24
+6.84
+6.13
+CaO	9.28	9.92
+10.57
+10.14
+8.85
+10.02
+Na2O	1.57	1.65
+0.9
+1.62
+1.71
+1.21
+K2O	0.53	0.67
+1.1
+0.88
+0.58
+0.87
+H2O	1.86	1.96
+1.93
+1.9
+1.91
+1.93
+F	0.15	0
+0.03
+0
+0
+0
+Cl	0.06	0.04
+0
+0.02
+0.05
+0.04
+Total	99.23	99.26
+98.18
+98.34
+98.12
+98.37
+Cations based on 23 oxygens
+
+
+
+
+Si	6.47	6.5
+6.68
+6.46
+6.46
+6.61
+Ti	0.18	0.19
+0.08
+0.12
+0.18
+0.11
+Al	2.14	2.16
+2.24
+2.11
+2.2
+2.22
+Feþ2	2.78	2.42
+2.7
+3.06
+2.92
+2.8
+Mn	0.09	0.08
+0.05
+0.11
+0.12
+0.07
+Mg	1.81	1.95
+1.38
+1.46
+1.59
+1.41
+Ca	1.53	1.61
+1.75
+1.71
+1.48
+1.66
+Na	0.47	0.49
+0.27
+0.49
+0.52
+0.36
+K	0.1	0.13
+0.22
+0.18
+0.11
+0.17
+
+
+Table 2
+Values showing representative garnet compositions from three areas on WHT-04A. Fe2O3 calculated by charge balance and end-member percentages calculated based on site occupancies using spreadsheet of Brady and Perkins (2009).
+Area 1	Area 2	Area 3
+Weight percent oxides
+
+
+
+
+
+
+
+
+
+
+SiO2	36.91
+37.21
+37.08
+36.98
+36.68
+36.88
+36.83
+36.65
+36.66
+36.23
+36.58
+TiO2	0.41
+0.38
+0.33
+0.47
+0.4
+0.4
+0.36
+0.46
+0.32
+0.33
+0.36
+Al2O3	20.29
+20.55
+20.69
+20.28
+20.07
+20.39
+20.24
+20.1
+20.17
+20.28
+20.28
+FeO	29.46
+28.91
+29.42
+28.86
+29.74
+29.31
+29.59
+29.37
+29.96
+29.72
+29.69
+MnO	3.8
+3.76
+3.54
+3.56
+3.99
+3.95
+3.71
+3.88
+3.57
+3.46
+3.62
+MgO	3.49
+3.46
+3.58
+3.62
+3.15
+3.22
+3.45
+3.17
+3.56
+3.56
+3.47
+CaO	5.15
+5.42
+4.85
+5.7
+5.71
+5.35
+5.21
+5.44
+5.34
+5.35
+5.2
+Total	99.61
+99.78
+99.51
+99.57
+99.9
+99.59
+99.48
+99.17
+99.64
+99.03
+99.25
+Cations based on 12 oxygens
+
+
+
+
+
+
+
+
+
+
+Si	2.96
+2.98
+2.97
+2.96
+2.94
+2.96
+2.96
+2.96
+2.94
+2.92
+2.94
+Ti	0.02
+0.02
+0.02
+0.03
+0.02
+0.02
+0.02
+0.03
+0.02
+0.02
+0.02
+Al	1.92
+1.94
+1.95
+1.91
+1.9
+1.93
+1.92
+1.91
+1.91
+1.93
+1.92
+Feþ3	0.11
+0.07
+0.07
+0.11
+0.17
+0.1
+0.12
+0.11
+0.18
+0.19
+0.14
+Feþ2	1.87
+1.87
+1.91
+1.83
+1.83
+1.87
+1.87
+1.87
+1.83
+1.81
+1.86
+Mn	0.26
+0.25
+0.24
+0.24
+0.27
+0.27
+0.25
+0.27
+0.24
+0.24
+0.25
+Mg	0.42
+0.41
+0.43
+0.43
+0.38
+0.39
+0.41
+0.38
+0.43
+0.43
+0.42
+Ca	0.44
+0.46
+0.42
+0.49
+0.49
+0.46
+0.45
+0.47
+0.46
+0.46
+0.45
+Almandine	62.52
+62.26
+63.72
+61.11
+61.63
+62.68
+62.62
+62.61
+61.89
+61.7
+62.55
+Pyrope	13.99
+13.74
+14.31
+14.45
+12.69
+12.9
+13.86
+12.75
+14.4
+14.54
+14.02
+Grossular	13.86
+14.81
+13.35
+15.3
+15.03
+14.51
+14
+14.66
+14.06
+14.18
+13.92
+Spessartine	8.66
+8.5
+8.04
+8.07
+9.13
+9
+8.47
+8.89
+8.2
+8.03
+8.31
+Andradite	0.8
+0.51
+0.45
+0.85
+1.32
+0.73
+0.88
+0.87
+1.31
+1.39
+1.04
+CaeTi Gt	0.18
+0.17
+0.14
+0.23
+0.19
+0.18
+0.16
+0.22
+0.14
+0.15
+0.16
+
+
+
+	•	Sample WHT-04A
+
+	þ	þ
+þ	þ
+show no evidence for compositional zoning. However, a few garnet grains    have    w30-mm-wide,    high-magnesium    rims    that   are
+ 
+truncated by the fractures. Chlorite is locally present growing in fractures between garnet grains, but no replacement textures were observed. Some biotite grains are partially replaced by chlorite. These observations indicate that deformation probably continued for a short time after peak metamorphic conditions were reached in this sample.
+
+	•	Phyllosilicate fabrics in  meta-argillite L tectonites
+
+All of the meta-argillite L tectonite samples exhibit a strong phyllosilicate grain shape fabric in lineation-parallel thin sections, and there is no apparent phyllosilicate grain shape fabric in quartz- rich domains of lineation-perpendicular thin sections (Fig. 3). To
+
+
+Table 3
+Representative values showing the range of plagioclase compositions from three areas on WHT-04A. Cations and end members calculated with spreadsheet of Brady and Perkins (2009).
+Area 1	Area 2	Area 3
+Weight percent oxides
+
+
+
+
+
+
+
+
+
+
+SiO2	58.99	60.52
+58.19
+58.14
+58.78
+59.87
+59.9
+59.77
+61.34
+61.49
+60.11
+59.16
+Al2O3	24.99	25.2
+26.28
+25.18
+26.06
+25.2
+25.38
+25.37
+24.34
+24.37
+25.24
+25.61
+FeO	0.07	0.09
+0.1
+0.13
+0.15
+0.15
+0.14
+0.15
+0.11
+0.14
+0.07
+0.1
+CaO	8.09	7.31
+9.04
+7.82
+8.65
+7.67
+7.46
+7.74
+7.17
+6.46
+7.06
+8.73
+BaO	0.02	0.08
+0.11
+0.33
+0.06
+0.03
+0.01
+0.05
+0
+0
+0
+0.03
+Na2O	6.75	7.3
+6.36
+6.85
+6.55
+7.08
+7.3
+6.93
+7.7
+7.74
+7.28
+6.74
+K2O	0.19	0.1
+0.16
+0.23
+0.09
+0.09
+0.08
+0.24
+0.12
+0.14
+0.09
+0.07
+Total	99.12	100.6
+100.25
+98.77
+100.34
+100.09
+100.26
+100.25
+100.82
+100.4
+99.93
+100.54
+Cations based on 8 oxygens
+
+
+
+
+
+
+
+
+
+
+Si	2.67	2.69
+2.61
+2.64
+2.63
+2.68
+2.67
+2.67
+2.72
+2.73
+2.69
+2.64
+Al	1.33	1.32
+1.39
+1.35
+1.38
+1.33
+1.33
+1.34
+1.27
+1.28
+1.33
+1.35
+Feþ2	0	0
+0
+0
+0.01
+0.01
+0.01
+0.01
+0
+0.01
+0
+0
+Ca	0.39	0.35
+0.43
+0.38
+0.41
+0.37
+0.36
+0.37
+0.34
+0.31
+0.34
+0.42
+Ba	0	0
+0
+0.01
+0
+0
+0
+0
+0
+0
+0
+0
+Na	0.59	0.63
+0.55
+0.6
+0.57
+0.61
+0.63
+0.6
+0.66
+0.67
+0.63
+0.58
+K	0.01	0.01
+0.01
+0.01
+0
+0.01
+0
+0.01
+0.01
+0.01
+0.01
+0
+An	39.41	35.42
+43.59
+38.14
+41.99
+37.24
+35.94
+37.63
+33.76
+31.32
+34.7
+41.55
+Ab	59.48	63.99
+55.5
+60.52
+57.51
+62.21
+63.61
+60.96
+65.55
+67.87
+64.77
+58.05
+Or	1.11	0.59
+0.92
+1.34
+0.5
+0.54
+0.46
+1.4
+0.69
+0.81
+0.53
+0.4
+
+
+
+
+Fig. 5. Crystallographic fabrics from the meta-argillite L tectonite samples viewed towards the NNE in vertical planes containing the lineations. (a) Data collected in lineation- parallel thin sections. The dashed great circles represent the foliations from the phyllosilicate orientation analyses in Fig. 4. (b) Data collected in lineation-perpendicular thin sections and viewed in the lineation-parallel reference frame as in a. Quartz c axes measured in a lineation-parallel thin section of WH-150 using a light microscope equipped with a universal stage. All plots are equal-area, lower-hemisphere projections, and the lineations lie at 090, 2700 . Contours are multiples of uniform density (MUD).
+
+
+conﬁrm this, we determined the long-axis orientations of approx- imately 500 phyllosilicate grains in quartz-rich domains of each of the meta-argillite L tectonite samples by measuring the angle of inclination to an arbitrary axis in lineation-perpendicular sections.
+ Two criteria were used in these analyses: (1) the grains must not be in visible contact with phases other than quartz, and (2) the grains must have an axial ratio of at least 3:1. We omitted grains with axial ratios less than 3:1 because the large-axial-ratio grains are most
+
+
+likely to provide a sensitive indicator of any shape preferred orientations.  The  results   of   these   analyses   were  rotated   into a common geographic reference frame (Fig. 4a).
+In all ﬁve of the meta-argillite L tectonite samples long axes of phyllosilicate grains are distributed over a 1800 arc. However, there is a distinct phyllosilicate orientation maximum, hereon referred to as a foliation, in each sample. The inclination values of the foliations were determined visually using a rose diagram, and the strike and dip of the foliations was determined from the sample orientation markers by geometric construction. The strike and dip values of the foliations found using this method range from 301, 79-NE to 075, 25-SE (Fig. 4b). Values for the two adjacent samples, WH-04 and WH-181, are similar. These results indicate that: (1) there is a weak foliation in all of the meta-argillite L tectonite samples that is not detectable without a quantitative analysis, (2) the orientation of the weak foliation is consistent over a few meters, and (3) the orien- tation of the weak foliation is very inconsistent throughout the domain of L tectonites.
+
+	•	Deformation temperature estimates
+
+Dynamic recrystallization of both quartz and feldspar is strongly dependent on deformation temperature and strain rate (Tullis and Yund, 1987; Hirth and Tullis, 1992; Stipp et al., 2002a). In the three samples from the  amphibolite-facies  domain;  WH- 04, WH-181, and WH-150; quartz underwent rapid grain- boundary-migration dynamic recrystallization. Feldspar grains in WH-181 record extensive grain-boundary-bulging dynamic recrystallization. Assuming typical geologic strain rates of 10-13e10-14,  these  observations  indicate  deformation  tempera- tures were in excess of 450 0C, but less than 600 0C (Tullis and Yund, 1985, 1987; Hirth and Tullis, 1992; Stipp et al., 2002a,b). Quartz grains in sample WH-182, collected at the edge of the amphibolite-facies domain, also underwent rapid grain- boundary-migration recrystallization, but 1200 grain-boundary intersections are less common. Hence we infer that it experienced slightly lower deformation temperatures than WH-04, WH-181,  and WH-150, but was probably still deformed at temperatures in excess of 450 0C (Hirth and Tullis, 1992; Stipp et al., 2002a,b). Sample WH-112, collected outside of the domain of amphibolite- facies metamorphism, exhibits evidence for both rapid grain- boundary-migration and local subgrain-rotation dynamic recrystallization of quartz, indicating deformation under upper- greenschist-facies conditions of 400e500 0C (Hirth and Tullis,  1992; Stipp et al., 2002a,b).
+The presence of brown biotite in greenschists of the lower metavolcaniclastic unit  indicates  deformation  temperatures  in the Pigeon Point high-strain zone outside of the domain of amphibolite-facies metamorphism were in  the  upper  range  of  the greenschist facies (Bucher and Frey, 1994, p. 275e276). The presence of hornblende with brown pleochrosim in amphibolites indicates that rocks in this domain reached middle amphibolite- facies conditions. Amphibole, garnet, and plagioclase in sample WHT-04A were analyzed by wavelength dispersive spectrometry on the Cameca SC-100 electron microprobe at the University of Maine. Analytical conditions were 15-kV accelerating voltage, 10-
+nA beam current, and 5-mm beam. Data were calibrated with mineral  and  synthetic  standards,  and processed  using  the X-Phi
+correction of Merlet (1994). Amphibole compositions are pre- sented in Table 1. Garnet is predominantly Alm61e64 Prp12e15 Grs13e15 Sps8e9 (Table 2). Plagioclase is An31e44 (Table 3). Using these data, the garnet-hornblende-plagioclase-quartz barometer of Kohn and Spear (1990) and the garnet-hornblende ther- mometer of Graham and Powell (1984) yield equilibrium condi- tions  of  5.7e7.5  kb  and  625e750  0C  (Calculations conducted
+ 
+
+Fig. 6. Crystallographic fabrics from lineation-parallel thin sections of the meta- argillite L tectonite samples viewed perpendicular to the weak foliations deﬁned by the phyllosilicate orientation analyses presented in Fig. 4. Samples with steeply dipping foliations, WH-04, WH-181, and WH-150, are viewed down into the ground. Samples with shallowly dipping foliations, WH-112 and WH-182, are viewed towards the NNE with the lineation down plunge on the right-hand sides of the plots. All plots are equal-area, lower-hemisphere projections, and the lineations lie at 090, 2700 . Contours are multiples of uniform density (MUD).
+
+
+
+
+Fig. 7. (a) Crystallographic fabrics from lineation-parallel thin sections of the meta- argillite L tectonite samples deformed under amphibolite-facies conditions viewed so that the c-axis maxima lie along the E-W great circles of the plots. (b) Crystallographic fabric from WH-112 viewed so that the c-axis girdles join near the center of the plot and the a-axis maxima lie along the primitive. All plots are equal-area, lower-hemi- sphere projections, and the lineations lie at 090, 2700 . Contours are multiples of uniform density (MUD).
+ 
+using program of S. Swapp, personal communication). The pressure-independent garnet-hornblende thermometer of Ravna (2000) conﬁrms these temperature estimates. The thermometry calculations provide an upper deformation temperature bound for the amphibolites, because the last stages of deformation are associated with retrograde metamorphism of these rocks.
+
+	•	Quartz crystallographic fabric geometry
+
+	•	Data collection
+
+Quartz crystallographic fabrics were measured in lineation- parallel sections of all ﬁve meta-argillite L tectonite samples, and  in lineation-perpendicular sections of WH-04, WH-181, and WH-
+¼
+x
+h i
+Quartz grains in one domain of sample WH-150 are large
+enough to allow measurement of c-axis orientations using a light microscope. A parallel thin section was made from the same billet as the thin section used in the EBSD analysis, and 900 c axes were measured using a light microscope equipped with a universal stage. These data were collected in a grid pattern with a step size much larger than the average grain size. This dataset is similar to the EBSD datasets from the same sample (Fig. 5), and it provides an addi- tional veriﬁcation of the SEM-EBSD analyses.
+
+Table 4
+Average opening angles of a- and c-axis small-circle girdles.
+
+Sample
+a-axis opening angle
+c-axis angle
+opening
+Lister and Hobbs
+Not applicable
+1440
+(1980) model A
+
+
+Lister and Hobbs
+Not applicable
+1560
+(1980) model B
+
+
+Lister and Hobbs
+Not applicable
+1600
+(1980) model C
+
+
+WH-04
+620
+1520
+WH-181
+590
+1510
+WH-150
+580
+1640
+WH-182
+640
+1550
+WH-112
+650
+1270
+
+
+
+	•	Samples WH-04, WH-181, WH-150, and WH-182
+
+Samples WH-04, WH-181, and WH-150 from the domain of amphibolite-facies metamorphism and sample WH-182 from the edge of the domain of amphibolite-facies metamorphism yield comparable quartz crystallographic fabric patterns. To facilitate visualization  and   interpretation,   these   fabrics   are   plotted   in a variety of different lineation-parallel reference frames including:
+(1) in a vertical plane containing the lineation so that they are viewed towards the NNE (Fig. 5), (2) perpendicular to the foliation detected by the phyllosilicate orientation analyses (Fig. 6), and (3) with the fabrics rotated so that the c-axis maxima lie along the  EeW great circles and the a-axis maxima lie near the primitives (Fig. 7a). In these samples c-axis patterns contain distinct maxima within diffuse small-circle girdles offset from the center of the  plots. The a-axis patterns are characterized by diffuse small-circle girdles centered about the lineations with weaker maxima that are asymmetrically distributed about the lineations. Average opening angles of c-axis girdles about the lineations are 151e1640, and average opening angles of a-axis girdles are 58e640 (Figs. 6 and 7a, Table 4). Note that these opening angle values were measured in reference frames wherein the c- and a-axis maxima lie along the primitives, and they change slightly depending on which reference frame the fabrics are viewed in. Depending the reference frame used, the c-axis patterns can appear as a single small-circle girdle with a distinct maxima offset from the center of the plot or a pair of asymmetrical partial small-circle girdles with distinct maxima near the primitives (Figs. 5e7a). We emphasize that these are essentially the same fabric patterns with the maxima oriented differently with respect to geographic horizontal. When viewed in the foliation- perpendicular reference frame, the c-axis maxima lie near the primitives (Fig. 6).
+
+Fig. 8. (a) Crystallographic fabric patterns predicted for homogeneous coaxial, con- strictional deformation by Lister and Hobbs (1980) and Schmid and Casey (1986). The maximum ﬁnite elongation direction lies at 090, 2700 . (b) Cartoon depicting the three- dimensional geometry of the crystallographic fabric patterns in a (Inspired by R.D. Law). Note the two symmetrical cones of c axes and the corresponding symmetrical cones of a axes.
+ Lineation-parallel and lineation-perpendicular sections of samples WH-04, WH-181, and WH-150 yield very similar crystallo- graphic fabrics when viewed in the same reference frame (Fig. 5). This indicates that the crystallographic fabrics are homogeneous at the hand sample scale and that the maxima are not a function of an orientation-based sampling bias in our data collection. Samples WH- 04 and WH-181 yield opposite maxima orientations when viewed in the same reference frame, however (Fig. 5). This indicates that the crystallographic fabrics are not homogeneous at the 10-m-scale.
+
+	•	Sample WH-112
+
+Sample WH-112, collected from outside the domain of amphibolite-facies metamorphism as mapped by Sullivan (2009), yields a distinctly different quartz crystallographic fabric pattern from the other four samples. Its c-axis pattern consists of well- deﬁned small-circle girdles with an average opening angle about the lineation of 1270, and its a-axis pattern consists of well-deﬁned small-circle girdles with an average opening angle about the
+
+Fig. 9. Geometric reconstructions of the a- and c-axis patterns expected for different slip systems based on Lister and Hobbs’ (1980) model and the assumption that the a- axis pattern remains ﬁxed as a pair of symmetrical cones with 600 opening angles about the maximum ﬁnite elongation direction. (a) Pattern for basal hai slip. When the crystal’s a-axis lies at the primitive, its c-axis will also lie at the primitive. (b) Pattern for  rhomb  hai  slip.  When  the  crystal’s  a-axis  lies  at  the  primitive,  its  c-axis  will  lie approximately 500 from the primitive along the small-circle girdle. (c) Pattern for prism  hai slip.  When the  crystal’s  a-axis lies  at  the  primitive, its  c-axis will  lie at  the plot center. Note that there will be a single c-axis girdle for a sample completely dominated by prism hai slip.
+
+
+
+lineation of 650 (Fig. 7b, Table 4). Note that these opening angle values were measured in the plot depicted in Fig. 7b and they change slightly when the data are viewed in different reference frames. The small-circle girdles of c axes are joined in one part of the plot producing a  pattern between a  type-II cross girdle  and    a true double-girdle fabric predicted for pure constrictional defor- mation by Lister and Hobbs’ (1980) simulation (Figs. 1 and 7b). Interestingly, the location where the two c-axis girdles join lies very near the pole to the weak foliation deﬁned by the phyllosilicate orientation analyses (Fig. 6).
+
+	•	Analysis of quartz crystallographic fabric patterns
+
+	•	Samples WH-04, WH-181, WH-150, and WH-182
+
+	•	Overview of important factors
+Three factors are commonly cited as inﬂuencing quartz crystallo- graphic fabric geometry: (1) the dominant active slip system which is a function of deformation temperature and strain rate, (2) the distortional strain geometry, and (3) the noncoaxiality of ﬂow. For plane-strain deformations the dominant active slip system typically controls the location of fabric maxima (Lister, 1981; Wenk et al., 1989; Jessell and Lister, 1990). The link between strain geometry and crys- tallographic fabric geometry is well established for plane strain and ﬂattening strain (Tullis et al., 1973; Majoribanks, 1976; Tullis, 1977; Compton, 1980; Law et al., 1984; Price, 1985; Schmid and Casey, 1986; Law, 1986), but it remains tenuous for constrictional strain. Most workers agree that the noncoaxiality of ﬂow controls the symmetry of the fabric with respect to the ﬁnite strain ellipsoid during plane strain deformation (e.g. Dell’Angelo and Tullis, 1989; Law et al., 1990; Wallis, 1995; Takeshita et al., 1999), but little is known about how the noncoaxiality of ﬂow inﬂuences quartz crys- tallographic fabric geometry for constrictional or ﬂattening
+ deformations. To better interpret our data, we consider each of these factors as possible inﬂuences on the geometry of the crystallographic fabrics.
+
+	•	Inﬂuence of the active slip systems
+h i
+h i
+h i	h i
+
+
+
+
+Fig. 10. Cartoon crystallographic fabric plots and cartoons depicting the three-dimensional geometry of the crystallographic fabric patterns found in WH-04, WH-181, WH-150, and WH-182. (a) Cartoon depicting the fabric so that the c-axis maximum lies along the EeW great circle. In this reference frame poles to the weak foliations deﬁned by the phyl- losilicate orientation analyses would lie close to the plot center. (b) Cartoon depicting the fabric at a right angle the reference frame depicted in a so that the c-axis maximum is at the primitive. In this reference frame poles to the weak foliations deﬁned by the phyllosilicate orientation analyses would lie near the N and S axes of the plot, close to the primitive. See text for discussion.
+
+
+
+h i
+h i	h i
+	•	Inﬂuence of ﬁnite strain geometry
+h i
+
+	•	Inﬂuence of noncoaxial of ﬂow
+Noncoaxial ﬂow is the only way to explain the asymmetry of the crystallographic fabrics in the high-temperature samples. Data from all of these samples can be rotated so that the plots exhibit  two small-circle girdles of c axes with maxima at the plot primitive and two distinctly asymmetrical small-circle girdles of a axes with maxima about 5e100 from the EeW great circle (Fig. 10b). This is similar to viewing the samples in the foliation-perpendicular reference frame (Fig. 6). In three dimensions the c axes form two half-cone-shaped clusters with opening angles of 151e1640 that appear on opposite sides of the median line deﬁned by the lineation
+ (Fig. 10b). The a axes of each sample form two cone-shaped clusters with one half of each cone containing many more a axes than the other, and the highest a-axis densities are offset about 5e100 from the median line deﬁned by the lineation (Fig. 10b). The consistent asymmetry of the a-axis maxima with respect to the lineation gives these samples a monoclinic crystallographic fabric geometry best explained by noncoaxial ﬂow. Because they are dominated by prism a slip, the presumed principal slip plane is consistently at a high angle to the weak foliation deﬁned by the phyllosilicate orientation analyses (Fig. 6). Therefore, either the shear plane of the simple- shear component was at a high angle to these weak foliations or the simple-shear component of deformation was preferentially accommodated by basal a slip under amphibolite-facies condi- tions. Because the a-axis fabrics in the high-temperature samples exhibit the most asymmetry across a plane roughly perpendicular to the c-axis maxima (Fig. 10), we favor the latter of these two hypotheses and propose that the c-axis maxima approximate the pole to the shear plane of the simple-shear component of defor- mation recorded by the quartz grains. In such case, the weak foli- ation deﬁned by the phyllosilicate grains probably formed in response to grain-boundary sliding between phyllosilicate and quartz grains that accommodated a signiﬁcant portion of the simple-shear component of deformation in these samples. This coeval strain-path partitioning between different slip systems in quartz and between different deformation mechanisms in the rocks can also explain the apparent high angles between the XeY planes of the ﬁnite strain ellipsoids deﬁned by the crystallographic fabrics and the weak foliations deﬁned by the phyllosilicate grains.
+h i
+h i
+understanding of how constrictional deformation was accommo- dated in the Pigeon Point high-strain zone. Because the crystallo- graphic fabric maxima in the high-temperature samples are randomly oriented when the samples are viewed in the same geographic reference frame, it seems unlikely that a component of noncoaxial ﬂow in these samples is related to the overall kinematic geometry of the high-strain zone. Instead, we propose that the noncoaxial deformation recorded in these samples acted as a series of outcrop-scale conjugate faults in a cone-shaped array similar to that envisioned for quartz glide planes and a axes at the micro- scopic scale. If, however, this kind of process played a dominant role in the constrictional deformation recorded at Pigeon Point, then there should be evidence at the outcrop scale such as discrete zones of greater deformation intensity or small systematic variations in the orientation of the mesoscopic lineations, but we see no evidence of such strain partitioning at the outcrop scale. Therefore, it seems unlikely that any component of noncoaxial ﬂow recorded in the high-temperature samples played a dominant role in accommodating constrictional deformation in the Pigeon Point high-strain zone. Finally, if the high-temperature samples record appreciable components of simple shear, then there was probably some amount of deformation-path partitioning between quartzites in the domain of amphibolite-facies metamorphism and quartzite L tectonites outside of this domain, because the lower-temperature sample, WH-112, yields a much more symmetrical fabric.
+
+	•	Sample WH-112
+
+Sample WH-112 is much easier to interpret. Its c-axis pattern consists of two nearly symmetrical small-circle girdles with average opening angles about the lineation of 1270 and its a-axis pattern consists of two nearly symmetrical small-circle girdles with average opening angles about the lineation of 650 (Fig. 7b). Hence, we inter- pret WH-112 as recording pure-shear-dominated, near-constrictional deformation. The small-circle c-axis girdles join in one part of the plot producing a pattern between a type-II cross girdle and a true double-
+
+
+
+girdle fabric predicted for pure constrictional deformation by Lister and Hobbs’ (1980) numerical simulation (Figs. 1 and 7b). If the point where the two c-axis girdles meet does indeed deﬁne the XeY plane of the ﬁnite strain ellipsoid, then this plane is nearly orthogonal to the weakly developed foliation in this sample (Fig. 6). Following our argument that the quartz crystallographic fabrics not the mineral shape fabrics provide the best record of the kinematic framework imposed upon the quartz grains, we propose that the data from WH- 112 is an excellent example of a quartz crystallographic fabric formed during nearly coaxial, near-constrictional deformation of quartzite under upper-greenschist-facies conditions. The phyllosilicate shape fabric in this sample may also record a component of noncoaxial deformation accommodated by grain-boundary sliding between phyllosilicate and quartz grains, but this noncoaxial deformation is not recorded by the quartz crystallographic fabric.
+Sample WH-112 provides additional evidence that Lister and
+Hobbs’ (1980) numerical simulation predicts quartz c-axis fabric geometry during constrictional deformation under some deforma- tion conditions. The a-axis fabric patterns in this sample and in the high-temperature samples also provide the ﬁrst conﬁrmation of Schmid and Casey’s (1986) prediction that small-circle girdles of a axes with opening angles of about 600 will form symmetrically about the maximum ﬁnite elongation direction during constrictional deformation. Note that this lower-temperature sample has the smallest c-axis girdle opening angles of any of the samples. This observation favors the hypothesis that the opening angles of quartz c-axis girdles formed during constrictional deformation increase with increasing deformation temperatures given a constant a-axis girdle opening angle.
+
+	•	Conclusions
+
+h i
+h i
+The lower-temperature sample, WH-112, exhibits two well- deﬁned c-axis girdles symmetrically distributed about the lineation as predicted by Lister and Hobbs (1980). As such it provides addi- tional evidence that these numerical simulations predict quartz c-axis fabric geometry during constrictional deformation under some deformation conditions. Our results also conﬁrm Schmid and Casey’s (1986) prediction that small-circle a-axis girdles with opening angles of approximately 600 will form about the maximum ﬁnite elongation direction during constrictional deformation. Moreover, in the high-temperature samples the a-axis girdles are more consistent and better developed than the small-circle c-axis girdles, and we propose that quartz a-axis fabrics are a better tool for analyzing ﬁnite strain geometry under a variety of deformation conditions than the c-axis fabrics. Because of the variable sensi- tivities to different deformation parameters of the two crystallo- graphic fabric components, we argue that, whenever possible, quartz a-axis fabrics should be published alongside quartz c-axis data. Additionally, the smaller c-axis girdle opening angles
+ observed in sample WH-112 argue in favor of the hypothesis that the opening angles of c-axis girdles formed during constrictional deformation will increase with increasing deformation tempera- ture given a constant a-axis girdle opening angle. This apparent sensitivity to different deformation parameters could be a boon to geologists trying to understand high-strain zones with signiﬁcant domains of constrictional strain where traditional kinematic anal- ysis techniques cannot be applied due to the lack of a foliation reference frame. Therefore, we emphasize that more research in this area is needed. In particular numerical simulations need to be developed to explore the effects of variably oriented pure-shear and simple-shear deformation components on the development of quartz crystallographic fabrics.
+
+Acknowledgements
+
+This research was funded by a Colby-Bates-Bowdoin Collabo- rative Faculty Enhancement Grant from the Andrew W. Mellon Foundation awarded to Sullivan and Beane, and by NSF Grant MRI- 0320871 awarded to Beane. R. D. Law encouraged Sullivan to pursue this research and inspired the three-dimensional crystal- lographic fabric diagrams. S. Swapp and K. Achenbach helped Sul- livan conduct preliminary crystallographic fabric analyses of these samples at the University of Wyoming. M. Yates helped collect the mineral composition data, S. Swapp provided a copy of her garnet amphibolite thermobarometry program used to obtain the quan- titative PeT estimates, and A. Snoke provided the sample. C. Teyssier and V. Toy provided helpful and insightful reviews that greatly improved the manuscript, but any remaining errors of omission or interpretation are our own.
+
+References
+
+Barth, N.C., Hacker, B.R., Seward, G.E., Walsh, E.O., Young, D., Johnston, S., 2010. Strain within the Ultrahigh-pressure Western Gneiss Region of Norway Recor- ded by Quartz CPOs. In: Geological Society, London, Special Publication, vol. 335, pp. 661e678.
+Bouchez, J.L., Duval, P., 1982. The fabric of polycrystalline ice deformed in simple shear: experiments in torsion, natural deformation and geometrical interpre- tation. Textures and Microstructures 5, 171e190.
+Brady, J., Perkins, D., 2009. Olivine, Pyroxene, garnet, Spinel and Feldspar Spread- sheets. Science Education Research Center. Web. Feb 6, 2009.
+Brady, J., Perkins, D., 2007. Amphibole Formula Spreadsheet. Science Education Research Center. Web. March 30, 2007.
+Bucher, K., Frey, M., 1994. Petrogenesis of Metamorphic Rocks. Springer-Berlag, Berlin, 318 pp.
+Burg, J.P., Teyssier, C., 1983. Contribution à l’étude tectonique et microtectonique des séries cristallophylliennes du Rouergue oriental: La déformation des laccolites syntectoniques, type Pinet. Bulletin du Bureau de recherches geologiques et minieres 2ème série l, 3e30.
+Compton, R.R., 1980. Fabrics and strains in quartzites of a metamorphic core complex, Raft River Mountains, Utah. In: Crittenden Jr., M.D., Coney, P.J., Davis, G.H. (Eds.), Cordilleran Metamorphic Core Complexes. Geological Society of America Memoir, vol. 153, pp. 271e279.
+Dell’Angelo, L.N., Tullis, J., 1989. Fabric development in experimentally sheared quartzites. Tectonophysics 169, 1e21.
+Fynn, G.W., Powell, W.J.A., 1979. The Cutting and Polishing of Electro-optic Mate- rials. Adam Hilger, London, 216 pp.
+Graham, C.M., Powell, R., 1984. A garnet-hornblende geothermometer: calibration, testing and application to the Pelona Schist, Southern California. Journal of Metamorphic Geology 3, 13e21.
+Heilbronner, R., Tullis, J., 2006. Evolution of c-axis pole ﬁgures and grain size during dynamic recrystallization: results from experimentally sheared quartzite. Journal of Geophysical Research 111, B10202. doi:10.1029/2005JB004194.
+Herwegh, M., Handy, M.R., 1996. The evolution of high temperature mylonitic microfabrics: evidence for simple shearing of a quartz analogue (norcamphor). Journal of Structural Geology 18, 689e710.
+Herwegh, M., Handy, M.R., Heilbronner, R., 1997. Temperature- and strain rate- dependent microfabric evolution in monomineralic mylonite: evidence from in-situ deformation of norcamphor. Tectonophysics 280, 83e106.
+Hirth, G., Tullis, J., 1992. Dislocation creep regimes in quartz aggregates. Journal of Structural Geology 14, 145e160.
+Jessell, M., Lister, G.S., 1990. A simulation of the temperature dependence of quartz fabrics. In: Knipe, R.J., Rutter, E.H. (Eds.), Deformation Mechanisms,
+
+
+
+Rheology and Tectonics. Geological Society, London, Special Publication, vol.54, pp. 353e362.
+Kohn, J.J., Spear, F.S., 1990. Two new barometers for garnet amphibolites with application to southeastern Vermont. American Mineralogist 75, 89e96.
+Krieger Lassen, N.C., 1996. The relative precision of crystal orientations measured from electron backscattering patterns. Journal of Microscopy 181, 72e81.
+Kruhl, J.H., 1998. Reply: prism- and basal-plane parallel subgrain boundaries in quartz: a microstructural geothermobarometer. Journal of Metamorphic Petrology 16, 142e146.
+Law, R.D., 1986. Relationships between strain and quartz crystallographic fabrics in the Roche Maurice quartzites of Plougastel, Western Brittany. Journal of Structural Geology 8, 493e515.
+Law, R.D., Knipe, R.J., Dayan, H., 1984. Strain path partitioning within thrust sheets: microstructural and petrofabric evidence from the Moine thrust zone at Loch Eriboll, NW Scotland. Journal of Structural Geology 6, 477e497.
+Law, R.D., Schmid, S.M., Wheeler, J., 1990. Simple shear deformation and quartz crystallographic fabrics: a possible natural example from the Torridon area of NW Scotland. Journal of Structural Geology 12, 29e45.
+Law, R.D., Searle, M.P., Simpson, R.L., 2004. Strain deformation temperatures and vorticity of ﬂow at the top of the Greater Himalayan Slab, Everest Massif, Tibet. Journal of the Geological Society of London 161, 305e320.
+Lee, J., Miller, E.L., Sutter, J.F., 1987. Ductile strain and metamorphism in an exten- sional tectonic setting: a case study from the northern Snake Range Nevada, USA. In: Coward, M.P., Dewey, J.F., Hancock, P.L. (Eds.), Continental Extensional Tectonics. Geological Society, London, Special Publications, vol. 28, pp. 267e298.
+Lister, G.S., 1981. The effectof the basal-prism mechanism switch on fabric development during plastic deformation of quartzite. Journal of Structural Geology 3, 67e76.
+Lister, G.S., Hobbs, B.E., 1980. The simulation of fabric development during plastic deformation and its application to quartzite: the inﬂuence of deformation history. Journal of Structural Geology 2, 355e370.
+Majoribanks, R.W., 1976. The relation between microfabric and strain in a progres- sively deformed quartzite sequence from central Australia. Tectonophysics 32, 269e293.
+Merlet, C., 1994. An accurate computer correction program for quantitative elec- tron-probe microanalysis. Mikrochmica Acta 114, 363e376.
+h i
+Price, J.P., 1985. Preferred orientations in quartzites. In: Wenk, H.R. (Ed.), Preferred Orientations in Deformation Metals and Rocks: An Introduction to Modern Texture Analysis. Academic Press, Orlando, pp. 385e406.
+Prior, D.J., Boyle, A.P., Brenker, F., Cheadele, M.C., Day, A., Lopez, G., Peruzzo, L.,
+Potts, G.J., Reddy, S., Spiess, R., Timms, N.E., Trimby, P.W., Wheeler, J., Zetterstrom, L., 1999. The application of electron backscatter diffraction and orientation contrast imaging in the SEM to textural problems in rocks. Amer- ican Mineralogist 84, 1741e1759.
+Ravna, E.K., 2000. Distribution of Fe2þ and Mg between coexisting garnet and hornblende in synthetic and natural systems: an empirical calibration of the garnet-hornblende Fe-Mg geothermometer. Lithos 53, 265e277.
+Sands, D.E., 1969. Introduction to Crystallography. W.A. Benjamin, New York, 165 pp.
+ Schmidt, N.H., Olesen, N.O., 1989. Computer-aided determination of crystal lattice orientation from electron channeling patterns in the SEM. Canadian  Mineral- ogist 27, 15e22.
+Schmid, S.M., Casey, M., 1986. Complete fabric analysis of some commonly observed quartz c-axis patterns. American Geophysical Union  Geophysical  Monograph 36, 263e286.
+Stipp, M., Stünitz, H., Heilbronner, R., Schmid, S.M., 2002a. Dynamic recrystalliza- tion of quartz: correlation between natural and experimental conditions. In: de Meer, S., Drury, M.R., de Bresser, J.H.P., Pennock, G.M. (Eds.), Deformation Mechanisms, Rheology and Tectonics: Current Status and Future Perspectives. Geological Society, London, Special Publication, vol. 200, pp. 171e190.
+Stipp, M., Stünitz, H., Heilbronner, R., Schmid, S.M., 2002b. The eastern Tonale fault zone:  a  ‘natural  laboratory’  for  crystal  plastic  deformation  of  quartz  over     a temperature range from 250 to 700 0 C. Journal of Structural Geology 24, 1861e1884.
+Sullivan, W.A., 2009. Kinematic signiﬁcance of L tectonites in the footwall of a major terrane-bounding thrust fault, Klamath Mountains, California, USA. Journal of Structural Geology 31, 1197e1211.
+Sullivan, W.A., Law, R.D., 2007. Deformation path partitioning within the trans- pressional White Mountain shear zone, California and Nevada. Journal of Structural Geology 29, 583e598.
+Takeshita, T., Wenk, H.R., Lebensohn, R., 1999. Development of preferred orientation and microstructure in sheared quartzite: comparison of natural data and simulated results. Tectonophysics 312, 133e155.
+Toy, V.G., Prior, D.J., Norris, R.J., 2008. Quartz fabrics in the Alpine Fault mylonites; inﬂuence of pre-existing preferred orientations on fabric development during progressive uplift. Journal of Structural Geology 30, 602e621.
+Tullis, J., 1977. Preferred orientation of quartz produced by slip during plane strain.
+Tectonophysics 39, 87e102.
+Tullis, J., Christie, J.M., Griggs, D.T., 1973. Microstructures and preferred orientations in experimentally deformed quartzites. Geological Society of American Bulletin 84, 297e314.
+Tullis, J., Yund, R.A., 1985. Dynamic recrystallization of feldspar; a mechanism for ductile shear zone formation. Geology 13, 238e241.
+Tullis, J., Yund, R.A., 1987. Transition from cataclastic ﬂow to dislocation creep of feldspar; mechanisms and microstructures. Geology 15, 606e609.
+Wallis, S.R., 1995. Vorticity analysis and recognition of ductile extension in the Sanbagawa belt, SW Japan. Journal of Structural Geology 17, 1077e1093.
+Wenk, H.-R., Canova, G., Molinari, A., Kocks, U.F., 1989. Viscoplastic modeling of texture development in quartzite. Journal of Geophysical Research 94, 17,895e17,906.
+Wright, J.E., Fahan, M.R., 1988. An expanded view of Jurassic orogenesis in the western United States Cordillera: Middle Jurassic (pre-Nevadan) regional metamorphism and thrust faulting within an active arc environment, Kla- math Mountains, California. Geological Society of American Bulletin 100, 859e876.
+Xypolias, P., Koukouvelas, I.K., 2001. Kinematic vorticity and strain rater patterns associated with ductile extrusion in the Chelmos Shear Zone (External Hel- lenides, Greece). Tectonophysics 338, 59e77.

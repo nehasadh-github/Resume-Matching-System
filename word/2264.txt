@@ -1,0 +1,58 @@
+
+
+EDUCATION	Rice University	Houston, Texas
+Master of Statistics Candidate	2012 - 2014
+	•	GPA 4.0; top ranking academic student; grader in two undergraduate level applied statistics courses
+	•	Analyzed the West Texas Intermediate (WTI) crude oil price and its correlative factors during 1994 - 2013 by using time series model; performed analysis for several applied financial projects including correlation between market capitalization and dividend yield with economic performance;
+Renmin University of China	Beijing, China
+Bachelor of Science in Mathematics and Applied Mathematics	2007 - 2012
+	•	High Academic Performance Scholarship for last two academic year
+
+EXPERIENCE	SharpCloud Software Inc.	Houston, Texas
+Data Visualization Consultant Intern	10/2013 – Now
+	•	Designed the data visualization structure on 6 main categories of the “Unconventional Reservoirs, 2013 R&D Program Summary Book” for ConocoPhillips
+	•	Collected and visualized data of Baroid Surface Solutions meeting in Halliburton to organize, preserve, and exhibit the perspective & strategies of the company from FY2014 to FY2017
+	•	Designed and created the feasibility analysis roadmap of Emerging Technologies & Industries program of Energy Technology Institute(ETI), including market opportunity, market capacity, and added value
+
+Metropolitan Transit Authority of Harris County	Houston, Texas
+Facilities Maintenance Intern for Capital Programs	6/2013 – 8/2013
+	•	Produced 110-page strategic plan & key performance indicators for FY2014 facilities maintenance in 3rd largest county in US (annual budget $31M)
+	•	Created database of $330M in maintenance expenditures from FY2001-2012 and identified historical spending & energy consumption trends &anomalies, resulting in first-ever waste reduction initiatives
+	•	Designed and built statistical models of 12 Metro facilities’ power & gas consumption over 12-year period and developed forecast & plan for reducing energy usage & cost by 10% in FY2014
+	•	Collaborated with 9 facilities managers and presented findings to 20-high level managers & CEO
+
+Daimler AG	Beijing, China
+Testing Engineer Intern in Test House Telematics	1/2012 - 7/2012
+	•	Gathered & analyzed telematics data on the Head Unit (HU) system of the 2013 Mercedes-Benz, analyzed feedback from 1,500 customers, resulting in the identification of 150 defects
+	•	Designed 100+ test cases on the Speech Dialog System (SDS) and corrected 60 defects
+	•	Worked with senior engineers to implement findings; presented findings to senior leadership
+
+
+
+
+
+EXTRA-
+ Ernst & Young	Beijing, China
+Tax Department Intern	7/2010 - 8/2010
+	•	Assisted in analyzing balance statement data for commercial bank and large energy company
+
+CURRICULAR	Students in Free Enterprise (SIFE)	Beijing, China
+	•	Interviewed managers of 5 large 3rd-party capital management companies and analyzed business performance data, which was used to organize the Beijing 3rd Party Capital Management Committee
+
+
+
+
+
+HONORS
+
+
+SKILLS
+ Auto Club in Renmin University of China	Beijing, China
+Vice-President	9/2008 - 8/2009
+	•	Implemented marketing campaign targeted at auto magazines and websites to obtain sponsorship
+
+	•	Top 3 singer in Rice Voice school-wide singing championship, 2012
+	•	Awarded "Excellent" Volunteer award as a telecommunication engineer in Beijing Olympic Games, 2008
+
+	•	Languages: Bilingual proficiency in English and Mandarin
+	•	Computer: Access, Excel, Oracle, Outlook, PowerPoint, R, SAS, SharePoint, SQL, VBA, Word, WRDS Database

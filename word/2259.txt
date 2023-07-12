@@ -1,0 +1,71 @@
+PERSONAL INFORMATION	
+Name:
+us
+al
+of
+5654933
+
+es
+ol
+al
+EDUCATION	
+Bachelor Degree:
+Central University of Finance and Economics, Beijing, China, 2006-2010
+Bachelor of Economics, Majoring in International Economics and Trade (Direction of Financial Risk Management)
+Overall GPA: 86/100
+Major GPA: 90/100
+
+Expected Master Degree:
+Rice University, Houston, TX, USA, 2013-Expected Spring 2014
+Master of Statistics, Majoring in Statistics
+Current GPA: 4.11/4.33
+
+GRE (General): Verbal: 640/800 (92%); Math: 800/800 (94%); Writing: 3.5/5
+TOEFL iBT: Reading: 28; Listening: 26; Speaking: 24; Writing: 25
+
+WORKING EXPERIENCES	
+Jiyuhai Investment Consulting Company Limited, Beijing, 2009- 2010
+Internship: Margin Account Trader
+	•	Trained in international spot gold trading
+
+Suzhoujie Sub-branch, China Everbright Bank, Beijing, 2010- 2011
+Corporate Client Manager
+	•	Marketing and maintaining corporate clients;
+	•	assisting corporate loan supervision;
+	•	Drawn over fifty million Yuan of personal deposits in international financing services between academies;
+	•	Responsible for project of life and annuity of Caterpillar Inc. (China);
+	•	Responsible for Hainan Airlines’ Merge and Acquisition loan.
+
+EDUCATIONAL EXPERIENCES	
+Grader: STAT 280, Rice University, Fall 2013
+
+Related Rice University Coursework:
+	•	Overview of Mathematical Statistics, Introduction to Regression and Statistical Computing,	Applied Time Series and Forecasting,	Quantitative Financial Analytics, Statistical Computing and Graphics (R Programming),		Advanced Statistical Methods,
+
+Quantitative Financial Risk Management,	Market Models,	Introduction to Random Processes and Applications
+
+Notable Rice University Class Projects
+	•	Estimated returns and volatilities of assets using ARIMA, GARCH models.
+	•	Applying MCMC method to simulate stochastic volatility.
+	•	Simulated and back tested several stock investing strategies, Dogs of The Dow, Buy And Hold , MaxMedian, etc, using R Programming Language.
+	•	Gained experience in analyzing corporate financial reports. Constructed hypothetical portfolios applying various market models, VaR, CAPM , etc, in lieu of the virtual market environment.
+	•	Explored data and wrote a report on Global Terrorism Database, 104,611 observations dealt with using R.
+	•	Explored data and wrote a report on National Survey of Family Growth Database, 21,332 records dealt with in R.
+
+Honors	
+	•	“Excellent Student of Beijing”, Beijing Municipal Commission of Education, 2003
+	•	“Excellent Undergraduate Graduation Thesis”, Central University of Finance and Economics, 2010
+	•	“Eminent Contribution Prize” Winner, China Everbright Bank, 2011
+
+SOCIAL ACTIVITIES AND VOLUNTEERS	
+2006 Attending “China-Canada Financial Risk Management Seminar” 2006 Consoling seniors in Beijing Songtang Hospice
+2007 Accompanying disabled children of Tianlun School 2008 Directing visitors of Care and Rehabilitation Expo China
+
+SKILLS	
+Fluent Application of R Studio, SAS, LaTex, Excel, Word, and Power Point Skills in SPSS, EViews and Matlab
+
+INTERESTS AND HOBBIES	
+Volleyball, painting and swimming
+REFERRERS	
+	•	Dr. Erzsébet Merényi , Professor, Department of Statistics, Rice University, erzsebet@rice.edu
+	•	Dr. John A. Dobelman, Professor, Department of Statistics, Rice University, dobelman@stat.rice.edu

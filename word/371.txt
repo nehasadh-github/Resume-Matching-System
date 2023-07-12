@@ -1,0 +1,100 @@
+: English Tamil Kannada
+To Speak
+Email ID
+vigneshtechdev@gmail.com
+
+Phone Number
+9942934263
+
+Permanent Address
+No17
+Raju Naidu layout, Veerakeralam, Coimbatore,  Tamil  Nadu, India.
+Pin-641007
+
+Personal Data
+Date of Birth: 15/06/95 Gender	: Male Nationality : Indian Marital Status: Single
+
+Linguistic Ability
+P.VIGNESH
+OBJECTIVE
+
+Seeking a position that will utilize my talent to enhance the growth of the organization.
+Educational Qualifications
+
+Course
+Institution
+Board
+/University
+Year of
+Passing
+Marks (%)
+Obtained
+
+B.E
+Paavai college of Engineering,Namakkal
+
+Anna University
+
+April 2016
+
+74
+
+HSC
+Government boys higher secondary school
+
+State Board
+
+April 2012
+
+65
+
+SSLC
+Government boys higher secondary school
+
+State Board
+
+April 2010
+
+70
+
+EXPERIENCE
+Bharat electronics and limited, Bangalore.
+Designation   : Engineer trainee,
+Duration : From March 2017 to till Date, Department : Microwave super components, Roles and responsibilities:
+	•	Hands on experience in using RF equipment like Vector network analyzer, Spectrum Analyzer, Signal Generator, AWG, Communication Service Monitor, Programmable Oscilloscopes, Microscope
+	•	There are Four Vidal role in HDRX which I am participating such as Module testing, Board testing, Receiver testing and Offering to customers
+	•	I have role in testing Microwave Modules such as Amplifiers, Filters, Switches, Equalizers, Detectors, Mixers using VNA
+	•	Visual inspection of PCB multilayer boards, and microwave module
+	•	Electrical Testing and debugging of PCBs and microwave modules.
+	•	Testing whole Rf section comes in project such as Microwave module and mixer to mixer, Lo to mixer response using VNA
+	•	After Rf section testing has to do frequency measurement, sensitivity measurement,DF measurement
+	•	If needs correction among measurement has to do Tuning as per procedure.
+	•	After intermediate testing need to do ESS such as Thermal cycling, Random vibration as per ATP
+
+	•	expertise in maintaining of hardware documents such as schematic, net list, part list, Gerber, master drawing documents, in SAP PLM
+	•	Hands on experience in creating ECR(Engineering Change Report),Purchase request, Store request using SAP PS modules
+	•	PROJECT
+
+Homodyne Receiver (Rf and microwave)
+Homodyne receiver is a part of ESM and it is used to find DF and Frequency measurement of target, it is based on principle of “Down conversion” in order to convert EM signal into IF signal. it takes RF input from BLI antenna array for high accuracy DF measurement.
+Drones in Agriculture
+In order to reduce manpower in agriculture field, drones used to spraying fertilizer and monitoring forming land, And we can use as home delivery purpose. and surveillance monitoring
+SOFTWARE PROFICIENCY
+ADDITIONAL QUALIFICATION
+
+	•	I have knowledge on soldering and assembly
+	•	INSTRUMENT HANDELED
+Signal generator, Vector network analyzer, Spectrum analyzer, Programmable Logical analyzer, Programmable Oscilloscope, Arbitrary waveform generator (AWG), Microscope,
+	•	I have designed Rf circuit using ADS and Genesys Software
+	•	I have knowledge on EMC testing
+	•	I have designed mini Robots and I have won many prizes in paper presentation and project presentation
+	•	I have published paper , On the title “Haptic technology”
+	•	HOBBIES
+
+Listening music, Singing, Playing Cricket, Drawing, Surfing Net
+
+I hereby declare that all the statements made in above are correct to the best of my knowledge and belief.
+
+Place	:	YoursSincerely
+
+Date	:	(P.VIGNESH)

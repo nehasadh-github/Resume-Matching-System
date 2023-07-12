@@ -1,0 +1,182 @@
+Curriculum Vitae
+Senior Telecom Technician
+ VIGNESH.D                                                                                                                
+Mobile: +971-526710593, +971-505367026. 
+E-Mail: vigneshsekaran.5@gmail.com 
+             vdhanasekaran@adnoc.ae  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+OBJECTIVE
+                                                                                                     
+To work with maximum potential in a challenging and dynamic environment, with an opportunity of working with diverse group of people and enhancing my professional skills with learning and experience for career growth.
+ QUALIFICATION 
+
+Degree of  Bachelor of Engineering in Electronics & Communication Engineering, Anna University Guindy, Year of Passing-April 2012.
+
+KEYSKILLS:
+Trouble shooting the problems in process industries, routine maintenance, Field Instruments Installation, commissioning, pre-commissioning, calibration, testing of instruments, online, breakdown maintenance and  Predictive / preventive maintenances, Knowledge in conducting Factory Acceptance Test (FAT), Site Acceptance Test (SAT), Inspection Test Plan (ITP), Design General Specification (DGS) & Method Statement. Work as per safety standards, Also have good experience in Surveillance, CCTV, ACS, PAGA,Fiber optic splicing&Testing , Radio programming and assembling, Configuring IP phones, Voice recording systems, Analog & digital phones configuring and installation, Working knowledge in Main Distribution Frame MDF and Private Automatic Branch Exchange PABX ,Antenna and Repeater installation, Handling knowledge telecom equipments, Knowledge in fiber cables and copper cables,  Basic knowledge in PLC CENTUM VP DCS, DELTA V DCS, ESD: PRO SAFE-RS (YOKOGAWA) EMERGENCY SHUT DOWN SYSTEM, & Fire & Gas systems.
+Summary of Skills
+	•	Possess 7  years of experience in developing, designing, Installing, Constructing & Commissioning equipment for monitoring and controlling engineering systems.
+	•	Responsible for maintaining required spares for instruments and maintaining proper master list for all instruments. Maintaining the documentation for many systems, including loop diagrams, panel drawings.
+	•	Verification of Detailed Engineering Documents which includes PFS&PEFS (P&ID), Instruments Tag list, Instruments and JB location Layout, Instruments Cable trench and Tray layout, Instruments Cable schedule, Functional Logic Diagram and Loop Diagrams, Panel Wiring Diagrams and PLC Specification.
+	•	Understanding the IFC Drawing (i.e.) to prepare instrument index, Cable Tray Routing Plan, Instrument location Plan, Instrument Tubing Plan, Loop Drawings.
+	•	Preparation of Control and Automation Philosophy, Cause & Effect diagram, F&G I/O list, Instruments Data Sheets, Hook-UP drawings, Instruments Name Plate drawings Instruments Engineering Data Sheets, and preparation of As-Built of above documents.
+	•	Coordinating with Procurement activities for all type of instruments, Telemetry Transmitter and Receiver cards for field camera's, Back up hard disks, Power supply and video amplifier, Encoder cards fittings and  raising BOM and Floating enquiries to Vendor & Vendor follow-up for budgetary cost estimation and preparing MR.
+	•	Ability to troubleshoot, repair and maintain Field instruments and instrumentation systems. Ability to work independently with minimal supervision.
+	•	Ability to read and understand  data sheets, instrument drawings, I/O wiring diagrams, P & IDs, calculation  and specifications.
+	•	Having maintenance and Operation knowledge of field instruments such as Field/outdoor camera's, Field/outdoor speaker, Field/outdoor batch reader, Field /outdoor telephones.
+PROFESSIONAL EXPERIENCE IN ABROAD
+Present Employer:	
+GASCO (On shore Natural Gas Processing Company) Ruwais, Abu Dhabi, Working as a Sr.Telecom Technician in (M/s zener Electrical & Electronics Contracting Services L.L.C, Abu Dhabi) from December 2014 to Till Date.
+
+My Responsibilities:
+
+	•	Experienced in carrying out Installation, commissioning, calibration / maintenance and Inspection and testing of Various type of  Telecom systems.
+
+	•	Perform Primitive maintenance for all devices with regular cycle gap as per Maximo.
+
+	•	Perform regular inspection and functional check to all devices regularly to make sure it is functioning well.
+
+	•	Having hands on experience in trouble shooting and fault finding for various process plants CCTV & ACS systems, control logics and process equipments.
+
+	•	Servicing & Maintenance of CCTV Camera Encoders, Network Video Recorder NVR'S ,Workstations, Checking and calibration of Field & Indoor camera issues PTZ and video issues.
+
+	•	Worked as an CCTV Technician in the Installation and Commissioning of up gradation OSD8817T and OSD8817R “GASCO Ruwais old Sulphur Plant Project”
+
+	•	Having good working experience in Hernis 400 & 500 systems, Bosch , Oxalis, Axis , Hikvision, Pelco systems.
+
+	•	Configuring ,Trouble Shooting, Enabling  Features like Call pickup, Display Features, Call forward, DND etc for IP and Digital phones.
+
+	•	Working experience in Main distribution frame MDF and analog lines, maintaining a fleet map for the each vertical MDF, Maintain data in Excel for each user's individually locating end to end connection.
+
+	•	Perform weekly check for the PAGA system to ensure that all speakers are healthy, Also perform loop check.
+
+	•	Servicing & Maintenance of ACS Systems ,Workstations, Checking and calibration of Field door contact, Electric lock, Badge reader. Printing access cards and maintaining  log, Also assigning  authorizations levels individually as per the management permission, Creating cards validating, monitoring, assigning access, Blocking access.
+
+	•	Having good working experience in Bosch & CEM systems.
+
+	•	Good experience in installation and mounting of radio antenna's , repeaters  and cable terminations, Perform radio signal strength survey.
+
+	•	Configuring and assembling of all Motorola UHF Radio's Fixed, Vehicle, Portable radios using Motorola tetra cps plus software.
+
+	•	Commissioning and Installation of  Tetra repeater in “GASCO SULPHUR GRANULATION PLANT”
+
+	•	Good knowledge in Fiber optic splicing&Testing ,Connectors and cable identifications , Cable routing  & safety guidelines as a fiber optic technician.
+
+	•	Commissioning of 2G, 3G and 4G coverage up gradation in “GASCO Ruwais New Admin and New Main Control Room Project’’
+
+	•	Conducted  Factory Acceptance Test (FAT) & Site Acceptance Test (SAT)   for all Telecom systems in RSHT-2 as a enduser witness (GASCO, Ruwais sulphur Handling Terminal-2).Vendor :Techint, AJES, ABB, Hexa.
+
+	•	Knowledge of relevant Oil and gas HSE regulations,H2S awareness and competency test cleared along with PTW post, Have enough knowledge in working with Maximo.
+
+	•	Good experience in Maximo work order Tracking, Creating , planning & closing
+
+	•	Perform functional testing, including the interface to process control and shutdown systems, Read and interpret Instrumentation Telecom and F&G detection system drawings.
+
+	•	Participated as a Telecom system handling technician in REFMAC  Safety Exercise conducted at Ruwais sulphur handling terminal -2(RSHT-2) also got appreciated for the performance from the safety officer.
+
+	•	Familiar with Oil & Gas production, processing & refining and functions of technical / commissioning / start-up operation / maintenance in onshore areas, In depth knowledge of  Telecom varied field instrumentation ,and Fire & Gas systems.
+
+PROFESSIONAL EXPERIENCE IN INDIA
+
+Previous Employer:	
+
+Indus Towers Ltd, Ekkaduthangal Chennai(Contracted by Powerlinks Pvt Ltd India)  from 2012 to 2014(NOV.) as a Surveillance Engineer. Operation &maintenance(O&M).
+
+My Responsibilities:
+	•	Projects handled in INDUS in 2G&3G RF Drive Test of Network for Chennai Region, Monitor Critical or BSC sites status. Solve the Field level issues i.e analysis the site down.
+
+	•	Coordinate the site Technician and BTS technician. Maintaining the Outages and Preventive maintenance of each and every site individually in Excel sheet.
+
+	•	Daily and monthly uptime signoff with customers.
+
+	•	Energy and KPI signoff.
+
+	•	Liaison with local and EB authorities.
+
+	•	Target and achievement oriented with an ability to take  up challenge and perform in changing work environs.
+	•	Hands on experience in supervising construction, installation & commissioning of telecom equipments and electrification jobs in Indus towers.
+
+	•	Operation and maintenance of various AC and DC panel.
+
+	•	Operation and maintenance of various Diesel Generator DG's, Air conditioners Ac's, PIU, Battery Bank.
+
+	•	Enough knowledge about BTS antenna's and Microwave antenna's.
+
+	•	Performed non-stop continuous alarm monitoring for 24 hours during 2012 Nilam cyclone in Chennai.
+
+	•	Knowledge about Technical evaluation & commercial evaluation.
+
+Attended seminars on safety courses also additional Training courses:
+	•	Personal Survival & safety, Industrial safety and social responsibilities at Gasco Ruwais.
+	•	Fire Prevention, Fire Fighting and elementary first aid at Gasco Ruwais.
+	•	Technical refreshment training regarding maintenance of Telecom Equipments in Indus towers Chennai.
+	•	H2S, BA.
+	•	Vesda by extralis and Simplex panel 4100U.
+	•	PICWS, Permit system, First Aid, Basic and Advance Fire Fighting etc.
+	•	Hernis  System, Bosch System,  Etisalat NEC IP Phones Installation and Configuration, Hernis 500 system and TYCO Head Counting System.
+
+Additional Qualifications:
+	•	Attended certified training in Pro safe RS Engineering Safety PLC at Yokogawa Bangalore.
+	•	Attended certified training in Fiber Optics Communication Engineering course at BSNL Chennai.
+	•	Attended certified training in Man lift operator training course at T.S.C Abu Dhabi.    
+                                            
+WORK SUMMARY
+I have total 7  years work experience in India and abroad .I have good knowledge and practical experience in Installation, construction & commissioning maintenance, calibration and repair of process control measuring equipment. Including but not limited to the following.
+
+Working in Very High Standards of HSE and Permit to Work System observed in ON shore Oil and Gas Industry, Good knowledge about Permit to work systems (PTWS) and several kinds of permits like Cold work permit, hot work permit & Open Flame permits.
+
+TECHNICAL SKILLS:
+
+Computer	Hardware assembling, Windows and Drive Installation and trouble shooting, Micro Soft Office Package, Word, Excel, Power Point.
+Technical			4 Years Engineering in Electronics and communication.	
+Industry Required			PTW, H2S, First Aid, Basic and Advance Fire Fighting etc.
+Tools &Packages                    i-Navigator, Maximo 7.5 & Maximo 6.2
+Operating system                    DOS,Win-XP,vista,7,8,10,2000,2003.
+Web technologies                    Outlook Express.
+
+OTHER EXPERIENCES:
+
+FIRE & GAS SYSTEM:
+	•	Inspection and testing of field instruments. Involved in day-to-day preventive maintenance for field instruments, individually and team wise.
+	•	Testing all type of fire, heat detectors; break glass unit, gas detectors and UV/IR detectors.
+	•	Testing and troubleshooting of VESDA systems in substations, IER and Process buildings.
+	•	Testing the output from the fire systems for INERGEN gas release for life and equipment safety in substations, and control rooms.
+	•	Troubleshooting and calibration of Hydrocarbon, Hydrogen, Hydrogen di sulphur, sulphur di oxide and chlorine gas detectors in process areas.
+	•	Installing, servicing, Testing and troubleshooting of General monitor, Dragger, ultima, Honey well Gas detectors.
+	•	Maintenance and troubleshooting of INERGEN systems solenoid valves, directional valves, pressure gauge, pressure switches.
+	•	Testing and maintenance of deluge valves systems interfaced with fire alarm systems.
+
+
+PERSONAL DETAILS
+Date of Birth          
+05th November 1990.
+Sex
+Male
+Father’s Name
+Mr.D.S.Dhanasekaran.
+Mother’s Name
+Mrs. D.Shanthi.
+Nationality
+Indian
+Marital Status
+Single
+Languages Known
+English  , Hindi, Tamil, Telugu, Malayalam.
+Passport Details
+Passport No: 
+ K0030014
+
+Place of Issue:
+ Chennai, Tamilnadu.
+
+Date of Issue:
+ 11.01.2012
+Date of Expiry:
+ 11.01.2022
+DECLARATION
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+ 
+                                                                                                                 
+                                                                                                                    (VIGNESH.D)
+
+

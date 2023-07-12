@@ -1,0 +1,152 @@
+Karguvel Raja
+(Maintenance Engineer as 5 years ‘of experience) 
+E-MAIL:  karkuvelraja@gmail.com
+CELL: +966 570600877, +91 9500101873
+Karguvel Raja
+(Maintenance Engineer as 5 years ‘of experience) 
+E-MAIL:  karkuvelraja@gmail.com
+CELL: +966 570600877, +91 9500101873
+CAREER OBJECTIVE
+
+To continue exerting my passion in the field of Electrical while learning new engineering practices to obtain a key position in the electrical division of a major corporation, so as to use my skills, abilities, and experience to support the company’s mission and vision.
+
+
+PROFESSIONAL  SUMMARY
+
+	•	A focused and result oriented professional with over 5 years of experience in  Instrumentation and Electrical maintenance and  industrial Automation processing in latest machineries.
+	•	Proficient knowledge on Electrical, Electronic and PLC Based Control Systems.
+	•	Experience with Industry leading organization.
+	•	Experience in collection, analysis, documentation and presentation of operational data.
+	•	Good analytical, Interpersonal, Communication and presentation skills.
+	•	A quick learner, passionate, result oriented and an excellent team player.
+
+
+Professional Experience
+Almarai  (Poultry Processing Plant), Saudi Arabia                                                             05  Feb 2015 - Present
+
+Almarai Company was established for more than forty years and is the largest vertically integrated dairy and food processing company in the Middle East. Plant operating at very high yields using global techniques is the latest in European Union countries and the largest production lines worldwide(Certified by ISO 22000:2005, ISO 9001:2008, ISO 14001:2004, HACCP, AIBI and SASO)
+Working as: Maintenance Technician 
+
+Current Responsibilities
+
+	•	To ensure 100% committed reliability via leading given below practices.
+	•	Maintenance and troubleshooting PLC and relay logics control panels.
+	•	ISHIDA make Computer Combinational Check Weighing System (CCWs) backed by Mitsubishi PLC.                       
+	•	Digital Automatic Check Weigher System (DACS-ISHIDA) with embedded controls.
+	•	ISHIDA X-RAY inspection system machine for detecting the bones in the products and this are backed by embedded systems.
+	•	ISHIDA Tray Sealing machines QX 1100 & QX 300 Contain BeckHoff PLC and BATCHER System with Allen Bradley PLC.
+	•	GEA CFS Machines Twin Star9 LIFECYCLE PERFORMANCE Tray sealer backed by B&R PLC and Omron HMI.
+	•	Working and maintaining knowledge in CSB system with weigher and cab printer.
+	•	Machine used in value added processing like CFS Multiformer, CFS Auto grind, CFS Unimix, CFS Scan Brine, CFS Scan Mini, CFS Yield Jector, CFS Super chill, DTE Collar and GEA Smart packer SX400.
+	•	Maintenance and operation of Meyn IQF(Individual Quick Frozen) machine contains Omron PLC and HMI, GEA shrink pack machine, Meyn made poultry processing machineries, and CEIA Make metal detectors, bizerba, metler toledo weighing scales, TTO printers including Thermal Transfer(Markem Image) and inkjet printers(Hitachi, Videojet), Fully Automatic strapping machine etc...
+	•	Responsible to maintain various plc based control systems like Allen Bradley Compact Logix, Omron Sysmac and Siemens S7-300/s7-1200 PLCs etc...
+	•	Calibrating automated machines and weighing scales equipment.
+	•	Troubleshooting and configuration of VFDs like Emerson Commander SK, Danfoss VLT FC300, Installation and maintenance of Omron Servo Drives.
+	•	Installation and maintenance of various types of sensors like temperature, level, pressure, flow, proximity, pH, turbidity, tacho, inductive, pulse and Gas Analyzers. 
+	•	Working and Troubleshooting on Industrial communication Protocols.
+	•	Working on SCADA system with software Factory Talk view (Site Edition) and WinCC flexible 2008.
+	•	Working knowledge and experience in Water Treatment Plant like PET, STP, ETP, RO plant.
+	•	Responsible to maximize plant efficiency by reducing breakdown.
+	•	Using computerized maintenance management systems to find and rectify faults.
+	•	Maintaining different monitoring sheets of daily and weekly preventive maintenance, breakdown, and history of equipment’s and preparing daily shift maintenance report.
+	•	Understanding of Electrical and P&ID drawings.
+	•	Planning and perform daily, weekly and monthly relevant maintenance PM’s.
+	•	Ensures daily activities report distributed to the Engineering Management team.
+	•	Operate hand tools and small power tools and understand their use and functions.
+	•	Provides operational management information by collecting, analyzing, and summarizing operating and engineering data and trends.
+
+Sterlite Industries India Ltd , Tuticorin- INDIA                                                                               Sep 2011 – Sep 2013
+          
+Sterlite Industries (India) Limited, the operating company of Vedanta in copper smelter and refinery in India and operates one of the largest continuous cast copper rod plant. Sterlite’s copper operation includes 400000 tons per annum smelter, refinery, sulphuric and phosphoric acid plants and copper rod plant at Tuticorin in Southern India. 
+Working as: Maintenance Engineer.    
+Job  Responsibilities
+	•	Implementing a camera’s in casting area for monitoring the process by using DVR technique..
+	•	Maintenance & Operation
+ Implementing the Moisture Analyzer in conveyor ‘5’ for measuring moisture in Online.
+	•	Working and maintaining knowledge in STAR DELTA and DOL Starter.
+	•	Operation Changing ASCO SOV for all header valves during shutdown time on Aug 2011.
+	•	Fixing new proportional valve in Twin Casting area for Anode take off machine and Stacker.
+	•	Encoder fixing and Alignment done in alone for Twin Caster Intermediate ladle pouring section.
+	•	Fixing New Idle Sensor in Conveyor’5 ‘for avoiding continuous running without material.  
+	•	Installing New LPG Detector in all LPG yard to avoid LPG leakage in critical area in the month of July 2012.
+	•	Fixing New YOKOGAWA Magnetic Flow Transmitter in Scrubber for measuring bleed flow in lime line.
+	•	Implementing the APM 3D level scanner for measuring the bin level in the month of January 2012.
+	•	Fixing New Belts sway and Pull chord in silica conveyor.
+	•	Fixing New Raytek Pyrometer in convertor ‘4’.
+	•	Reducing Down time in the critical Situation at blower area.
+	•	Preparing scheduling and coordinating assigned productive and preventive maintenance services.
+	•	Implementation of best engineering practices and tools for project management& execution.
+Compilation of maintenance schedules, O&M manuals and spare parts list. 
+4C IT Services India Pvt Ltd, INDIA                                                                                             Jan  2013 –  Jan 2015
+            
+ 4c It Services Private Limited is a Private incorporated on 27 February 2012. The era of innovation where business world is striving towards excellence experience and adoptive practices undergone this passion test for year and built of boundless energy to enable success to our clients grooming leadership and innovation among the team members towards created industries oriented process culture and technology ,Chennai. 
+Working as: Network Technician       
+Job  Responsibilities
+
+	•	System hardware:- windows NT workstation and server, windows(95,98), Routers-Switches –Hubs(cisco,Networks), PBX switches, Cisco, Seagate Barracuda Hard drives, Backups
+	•	Networking:- DNS, DHCP, HOSTS, TCP/IP,VPN, FTP, SMTP, SNMP,  
+	•	Oversaw Budgeting and procurement of network equipment supervised 2 technicians. 
+	•	Developed solution to provide regular weekly backups of over ½ terabyte of data, Evaluated, designed and Upgraded workstations and printers to 100mbps, which significantly improved desktop connectivity,  
+	•	Resolved multiple issues to network systems to increase business functionality, 
+	•	Initiated network enhancements that reduced network downtime from 30% to nearly 0%,
+	•	Interfaced with hardware software engineers to provide permanent  solutions to recurring issues, 
+	•	Created flawless print server application to streamline printing of large plots.
+
+
+COMPUTER SKILLS
+
+	•	Good knowledge in MS office programs such as word Excel and Power point.
+	•	Different operating systems like Win XP, Win7, and Win8.1.
+	•	Basics of Computer hardware, Networking(CCNA) & SAP
+
+
+MANAGEMENT AND TECHNICAL TRAINING
+
+	•	SSHE (Safety, Security, Health & Environment) & ISO-standards training Almarai KSA
+	•	Height work permit Training Held at Almarai PPP-2 Plant in July 2015 
+	•	Hygiene Engineering &Food Safety training organized by Almarai KSA 
+QUALIFICATION
+Academic & Professional Background
+
+                  2011
+B.E in Electrical and Electronics Engineering
+Anna University, Trichy, Tamilnadu, India
+
+                   2007
+HSC State Board of Tamilnadu
+Seventh Day Adventist Matriculation Higher Secondary School, Tamilnadu, India
+
+                   2005
+SSLC State Board of Tamilnadu
+Seventh Day Adventist Matriculation Higher Secondary School, Tamilnadu, India
+
+PERSONAL
+Father’s Name
+R. Senthur Pandi
+Permanent Address
+30, Gandhiji Street, Jaihindpuram 2nd main road, Madurai-11.
+Marital Status
+Unmarried
+Passport No
+K8968565
+Driving License No
+TN75 20100003547
+D.O.B
+29-01-1989       
+Language  Known
+Tamil, English, Hindi
+Nationality
+Indian
+
+DECLARATION
+
+I accept all the particulars furnished by me are legitimate and correct to the best of my knowledge and belief.
+
+
+
+
+
+PLACE:                                                                                                                                                                  
+
+DATE:										KARGUVEL RAJA
+

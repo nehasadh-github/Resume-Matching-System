@@ -1,0 +1,115 @@
+MD AJAZ KHAN
+Bihar, India : 847337
+Passport No.: L3004828
+Contact No.: +91 7848003405
+Email address: ajaz_mak28@outlook.com
+
+
+
+
+
+
+
+
+
+
+
+OBJECTIVE: 
+Looking to obtain a Software developer position with highly-esteemed company in which to help company reach goals while enhancing my career in the process.
+
+WORK EXPERIENCE: 
++2 Years of Professional Experience 
+Software developer Virgosys Software Private Limited, Jun  2016 to till Present 
+Environment & Platform
+	•	Web Application & Windows  Application
+Database
+	•	MS SQL Server , MySql  (RDBMS)
+Duties & Responsibilities 
+	•	Study of the AS-IS system, understanding and defining the requirements of the To-Be system 
+	•	Detail design of the database and preparing the prototype of the system 
+	•	Involved in developing majority of modules 
+	•	Preparing test cases & involved customer for testing the application. Key contributor to get User acceptance from customer.
+	•	Hosting the Website 
+	•	Client Support on the products delivered 
+Technical Skills
+Languages: C#.Net, ASP.Net, Asp.Net MVC, Ado.Net, MS SQL, MySql, JavaScript, Jquery, Ajax, Json, HTML, CSS, Bootstrap Design, Win form, Web Services,WebAPI, WCF,WPF, Enityframework, LINQ framework,                                                                           
+Computer Proficiency: Microsoft Excel, MS Word, PowerPoint
+Projects
+	•	Web page development for Schookee Management System
+	•	Windows based Application development for Circulation System and Automated Drop box System
+	•	Web page development for Assets Tracking System
+EDUCATIONAL BACKGROUND
+MCA  (Sambhram  Institute  Of  Technology, Karnataka, India)
+Bsc-IT  (NIIT, Bihar, India)
+Languages:
+	•	English : Fluent in speaking and writing
+	•	Hindi: Fluent in speaking and writing
+	•	Urdu : Fluent in speaking
+PERSONAL INFORMATION
+Full Name: Md Ajaz Khan Nationality: Indian Marital Status: Unmarried Date o f Birth:  Jan 05, 1990 Place of Birth: Bihar, India
+Project Details
+	•	Web based Application Design for a Schookee Management system  Firm 
+URL
+http://www.schookee.com/login.aspx
+Team Size
+5
+Database
+SQL Server 2012 (RDBMS)
+Language
+C#, ASP.Net, ADO.Net, SQL Server,  Java script,  HTML, CSS, Bootstrap
+Duration
+10  Months
+Description
+This is a web application for a school management to help them manage their internal processes like
+
+ A user-friendly multilingual web application which completely deals with school management solution that caters to the needs of both small and midsize organizations as well as large enterprises. This school management software helps organizations manage classes, after school programs, events and camps, along with offering online registration. SCHOOKEE helps the organization to links the five important entities of school management software namely Staffs, Students, Library and Parents and increases the relationship between them. Along with this, it provides the complete Library management which is linked with the students, staffs.
+
+
+
+	•	Web based Application Design for a Circulation System and Automated Drop box System firm
+URL
+Not available
+Team Size
+1
+Database
+Mysql (RDBMS)
+Language
+C# ,Win forms, Mysql, Excel Report
+Duration
+8  Months
+Description
+This is a windows based application for a College and University to help them manage their internal processes like
+
+	•	Home and logout buttons on every page to go back to main page
+	•	In case of any network issue, one should be able to come back to main page
+	•	 In case user leaves the screen in between anywhere, after timeout of 1 min, he would be logged out main page will come
+	•	Once user confirms, motor pulls  down the flap and all book goes down
+	•	Print slip is generated after 2 sec
+	•	Motor pulls up the flap to its the original position
+	•	Book Counter counts the book returned
+	•	RFID Library Management Solution helps to create a state of art library by streamlining and automating all library processes thereby enhancing patron experience.
+
+	•	Web based Application Design for an Asset Tracking System firm
+URL
+http://110.172.174.236/RFID/login.aspx
+Team Size
+2
+Database
+SQL Server 2012 (RDBMS)
+Language
+C#, ASP. Net MVC, ADO. Net, SQL Server, JQuery,  HTML, CSS, Bootstrap
+Duration
+7  Months
+Description
+This is a Web based Application for a Club  and office to help them manage their internal processes like
+
+	•	Assets registration
+	•	Location  registration 
+	•	Sub- Location  registration 
+	•	RFID Mapping
+	•	Location Mapping
+	•	Asset Tracking Solution system is very helpful in searching any misplaced asset, quick & regular audit of assets & controlling unauthorized assets movement.
+Declaration:
+I hereby declare that the particulars are true to the best of my knowledge and belief.                                                                                                            
+Md Ajaz Khan
+

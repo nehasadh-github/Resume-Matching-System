@@ -1,0 +1,107 @@
+Ujjwal Kumar	05002041
+Electrical Engineering	Dual Degree (B.Tech+M.Tech.)
+Indian Institute of Technology, Bombay	Male Specialization: Communication & Signal Processing	DOB: 20/11/1986
+
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+IIT Bombay
+IIT Bombay
+2009
+8.71
+Intermediate/+2
+CBSE
+St. Michael's High School, Patna
+2004
+82.40
+Matriculation
+CBSE
+Loyola High School, Patna
+2002
+93.20
+SCHOLASTIC ACHIEVEMENTS
+	•	Ranked 5th in my specialization and 9th  amongst 45 students in EE Dual Degree batch	(2009)
+	•	Department rank 1 out of 84 students after 1st  year and hence awarded a branch change	(2006)
+	•	Fellowship recipient from Tata Teleservices IITB Centre of Excellence in Telecommunications	(2009)
+	•	Council for Scientific and Industrial Research (CSIR) “Leadership in Science” awardee	(2003)
+OLYMPIADS
+	•	Represented state of Bihar in Indian National Mathematics Olympiad (INMO)
+
+(2003)
+	•	Secured 3rd rank in state in Regional Mathematics Olympiad (RMO)
+
+(2002)
+	•	Secured 33rd rank in National Science Olympiad from amongst 25000 students
+
+(2002)
+	•	Received merit certificate in National Mathematics Olympiad, awarded to top 1%
+students
+(2001)
+
+INTERNSHIPS
+E.P.F.L. (Swiss Federal Institute of Technology), Switzerland	May-July ‘08
+“Algorithm Development for Computational Systems Biology”
+	•	Designed an object-oriented toolbox in MATLAB (partially in C++ using MEX), for dynamical analysis of bio-molecular reaction networks
+	•	Implemented analysis and simulation algorithms for various deterministic and stochastic models of reaction networks, leading to important results in an award winning publication
+	•	Felicitated by lab for timely attainment of goals and pleasant and efficient conduct
+TCS Innovation Labs, Mumbai	Dec ‘07
+“Real-time Speaker Identification”
+	•	Benchmarked various identification methods and suggested use of MFCC’s for speech modeling and 2nd order Gaussian Likelihood Measures for identification
+	•	Developed an optimized C++ program to achieve at least 10-fold improvement in processing time
+KEY ACADEMIC PROJECTS
+Joint Data Compression and Security, Dual Degree Project	Jan ’09-present
+	•	Carried out an exhaustive survey and presented a seminar on existing schemes based on arithmetic coding and wavelet sub-band decomposition
+	•	Classified the various existing methods in an unified way based on standard parameters
+	•	Quantified the possibility of adding information to zero-tree based compression techniques
+	•	Currently working on quantifying additional choice presented by hybrid wavelet transforms
+Image Super Resolution, Undergraduate Research Opportunity (UROP), IIT Bombay	Jan-May ‘07
+	•	Explored the possibility of using Papoulis-Gerchberg method for image super resolution and method  of Total Variations for de-noising
+	•	Implemented it on MATLAB and also did a comparative study of various existing techniques
+Digital Cards Game, Digital Circuits Course Project	Mar-Apr ‘07
+	•	Successfully completed the given problem of simulating a two player card game on bread boards, using sequential and combinational logic circuits over digital devices
+	•	Further improved the design to increase user-friendliness and reduce the circuit dimensions
+
+Dispersion for Graded Index Fiber, Fiber Optic Communications Course Project	Mar ‘08
+	•	Calculated dispersion for a general graded index fiber, which follows µ-law variation in refractive index along the radial direction
+	•	Used MATLAB GUI to demonstrate ray-movement and dispersion values dynamically
+
+New Routing Protocol on Network Simulator-2, Summer Project	May-June ‘07
+	•	Worked on implementation of a new routing protocol on NS-2 using C++, after studying various existing
+Link-state routing protocols such as OSPF. TECHNICAL SKILLS
+	•	Languages: C++, PHP, HTML, 8085/8051 assembly language
+	•	Packages: MATLAB, MS Office, LATEX, Eagle Layout Editor, Keil, Network Simulator-2
+	•	Operating Systems: Windows, Linux
+
+INITIATIVE
+
+Conceptualized, organized and systematically executed an Inter School Quiz Competition (Brain of Patna) working with a team of seven IIT students
+	•	Planned a shoe string budget of Rs. 1.5 lacs with sponsorship from corporate houses & clubs of Patna
+	•	Successfully convinced 25 leading schools of the city attracting a participation of at least 10000 students
+	•	Garnered media attention through 23 articles in national dailies and coverage from local channels
+	•	The event has grown into an annual state level affair and has been appreciated by the Governor
+POSITIONS OF RESPONSIBILITY
+Institute Cultural Web Nominee, IIT Bombay	Dec ’07-Apr ‘08
+	•	Created and maintained the institute cultural website and initiated an open discussion forum
+	•	Introduced and implemented the idea of making separate websites for various cultural clubs
+	•	Promoted the website as a reliable and centralized information source of in-campus cultural events
+Senior Student Mentor, Department of Electrical Engineering, IIT Bombay	Aug ’07-present
+	•	Part of a 20 member team selected by faculty, on the basis of academic performance and sincerity
+	•	Assisted in identifying underperforming students and acting as a liaison between students and faculty
+	•	Responsible for guiding 25 students in managing their academic and extra-curricular workload
+Teaching Assistant, Probability and Random Processes	Aug ’09-present
+	•	Assisting the faculty in a course for 80 students by conducting tutorials and grading answer-scripts
+	•	Conducting sessions outside the classroom for students who are facing difficulties in the course
+EXTRA-CURRICULAR ACTIVITIES WEB
+	•	Worked with latest web related technologies viz. AJAX, JAVASCRIPT, HTML, CSS and PHP and
+Content Management System such as JOOMLA
+	•	Voluntarily developed websites for Institute Counseling Services and the campus newsletter Insight
+	•	Used web server package XAMPP which includes HTTP server and MYSQL Database
+MISCELLANEOUS
+	•	Conducted state-level counseling and training workshop for engineering aspirants	(2004, 2005)
+	•	Member of hostel hockey team: Won bronze in General Championship, IIT Bombay	(2007)
+	•	Member of silver winning team in hostel football league.	(2008)
+	•	Attended French classes at EPFL and cleared the beginner level with highest marks	(2008)
+	•	Won 1st  prize in district inter-school science quiz	(2002)

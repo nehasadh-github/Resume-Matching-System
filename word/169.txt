@@ -1,0 +1,85 @@
+Deepak Saini
+E-mail: sainideepak142@gmail.com
+Phone: +91-8901025242
+
+
+Career Objective:
+
+To be associated with an organization that provides career development opportunities as a Software Developer and an environment to enable me to contribute in its growth.
+
+Key Skills:
+
+Familiar with the following programming languages, concepts and technologies:
+
+	•	Programming Languages : C, C++, CORE JAVA, J2EE
+
+	•	Web Technologies : HTML, CSS, JAVASCRIPT
+
+	•	IDE : Netbeans IDE 7.1, Eclipse SDK 2.2
+
+	•	Database : MySQL, MS ACCESS
+
+	•	Operating Systems : Windows 7/8 , XP, 2000
+
+	•	Mobile Technology :   ANDROID - Android fundamentals
+
+Strengths:
+
+	•	Good verbal and written communication skills.
+	•	Eager to learn new technologies
+	•	Active team player and a self-starter.
+	•	Intelligent, punctual , hard working , responsible
+	•	Distinction of being adaptable with an ability to work well under pressure.
+
+Certifications:
+
+	•	Completed certification course in Core Java from TCIL-IT,CHANDIGARH.
+
+	•	Completed certification course in Advance Java from VANDANA IT         SOLUTIONS, CHANDIGARH.
+
+Educational Qualifications:
+
+	•	B.TECH(Computer Science) from  U.I.E.T, KURUKSHETRA  University, securing 63% till 7th sem.
+	•	12th from U.S.S.M. SCHOOL, C.B.S.E. Board, securing 69%
+Projects:
+
+Title : ONLINE CHATTING PORTAL
+Environment: Netbeans IDE 7.1, Core Java
+Description:
+Online chatting portal is a simple app developed for desktop use for chatting. It is portal Where you can find your ture friends around the world. Make new friends and chat with them totally free. Here you get online friends, meet with new people, text them, share photos.
+
+Title : Marital Portal
+Environment: Eclipse SDK 2.2, J2EE
+Description:
+The objective of the project was to provide a superior matchmaking experience by expanding the opportunities available to meet potential life partners. Understand the needs and concerns of singles all over the world through tireless research and analysis. Provide a pleasant, satisfying, and superior matchmaking experience to our customers while zealously protecting their privacy and security.
+
+Title : Way TO Help
+Environment: Microsoft Visual Studio 2010, asp.net
+Description:
+The main aim of the project is to provide a total solution to the blood bank. The main modules in this project are login, Main form, Blood details, Blood donor details. Login checks the username and password and takes us to the main form. The blood details form contains the links to add, remove, and delete blood details.
+
+Extra Curricular Activities:
+
+-  Worked as a volunteer, Junoir Co-ordinator, Head Co-ordinator in many college fests and annual fest.
+-  Won Commeneded position two times in inter college youth fests.
+-  Won 2rd prize in Inter School Debate Competition.
+
+Personal Details:
+
+- Date Of Birth: 10 april, 1993
+- Languages Known: English, Hindi, Punjabi
+- Address: House No.: E-17, N.I.T. Campus, Kurukshetra
+Haryana, Pin Code: 136119
+
+DECLARATION:
+
+I hereby declare that the above information provided by me is true to the best of my knowledge and I will responsible for any discrepancy.
+
+Place: Kurukshetra  				DEEPAK SAINI
+Date:
+
+
+
+
+
+

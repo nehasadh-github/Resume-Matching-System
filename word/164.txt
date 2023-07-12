@@ -1,0 +1,101 @@
+Objective:
+
+To obtain a meaningful and challenging position that enables me to use and enhance my technical and analytical knowledge for advancement in software solutions / products.
+
+
+Educational Details:
+Qualification
+College/University
+Percentage
+Year of Passing
+MCA
+Saraswati College Shegaow,amravati University
+65%
+2015
+BCA
+S.P.College Amravati University
+70 %
+2013
+HSC
+Maharashtra state board
+60%
+2010
+SSC
+Maharashtra state board
+78 %
+2008
+
+
+Software Skills:
+Web Design
+PHP, MySQL, HTML,CSS,Javascript.
+Language Skill
+C-Language,C++
+
+
+Mini Project Details:
+Project 
+Image Phylogeny
+Role
+Software developer
+Project Details
+Image Phylogeny  developed by VB.Net 2008 from front end and Microsoft office used as a back end.project contain modules like near duplicate image detection and sub image retival is an important prolem.it is used only image detection and it is most imp in hospital to check diff types of kidney stone. 
+Activities
+Requirement Analysis and design
+Designed Test cases, Bug report Test data and Issue register.
+Team Size
+3
+
+
+Software training:
+Currently doing Internship program on PHP & MySQL at "StartPoint Technologies"
+
+
+
+
+
+
+
+
+Internship Project Details:
+Project 
+Big Shop
+Role
+Software developer
+Project Details
+Web based application developed for client Nirmaan Properties to Big Shop.front end with Php, Javascript,Css & HTML. MySQL Server  used as a back end. Project contains modules like Transaction, Reporting, Customer order & product etc.
+Activities
+Requirement Analysis and design
+Developed customer module using Php
+Designed Test cases, Bug report Test data and Issue register.
+Team Size
+2
+
+
+Personal Details:
+Full Name
+Puja Shriniwas Deshmukh
+Date of Birth
+12th April 1992
+Marital Status 
+Single 
+Contact Address
+Samartha Society Bibawewadi Pune
+Languages Known
+English,  Hindi, Marathi. 
+Contact Number
+8007042632,8862003386
+Email
+deshmukhpooja007@gmail.com
+Hobbies	
+Traveling, Playing Badmintan, Writing
+Strengths
+Confidence, Good Communication skill, Excellent Grasping Power
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Place:  pune                                                                     
+Date:   31-7-2015                                                                               
+
+							(Puja S. Deshmukh)
+

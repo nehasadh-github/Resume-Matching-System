@@ -1,0 +1,1017 @@
+
+Comparative anatomy of core-complex development in the northeastern Great Basin, U.S.A.
+Walter A. Sullivan* and Arthur W. Snoke
+Department of Geology and Geophysics, Dept. 3006, 1000 East University Avenue, University of Wyoming, Laramie, WY 82071, U.S.A.
+*Correspondence should be addressed to: wasulliv@uwyo.edu
+ABSTRACT
+
+Three metamorphic core complexes, Ruby Mountains-East Humboldt Range (R-EH), Albion Mountains- Raft River Mountains-Grouse Creek Mountains (A-RR-GC), and Snake Range (SR) are exposed in the northeastern Great Basin (Nevada, Utah, and Idaho). Their structural, magmatic, and metamorphic histories are synthesized and compared to evaluate fundamental tectonic processes in this area in which large-magni- tude crustal contraction was followed by large-magnitude crustal extension. Throughout the region, contrac- tion and magmatism began in the Late Jurassic, and in the R-EH and SR areas culminated at ~80–90 Ma. The A-RR-GC core complex experienced multiple episodes of Late Cretaceous tectonic denudation beginning at ~105 Ma, and it records no Mesozoic magmatism, apparently due to an infertile lower crust. The R-EH core complex also underwent tectonic denudation in latest Cretaceous/early Tertiary time. This illustrates the importance of syncontractional adjustments to thickened orogenic wedges and that these adjustments need not occur simultaneously throughout an orogen. Syncontractional extension and denudation in the A-RR-GC and R-EH areas also limited the amount, extent, and distribution of subsequent Tertiary extension.
+Eocene magmatism was immediately followed by an intense pulse of crustal extension in all three areas.
+However, late Oligocene and early Miocene extension throughout the region was diachronous and was not always coincident with a widespread mid-Oligocene magmatic event, suggesting that Oligocene magmatism and extension are not entirely linked. The magnitude of tectonic denudation in the R-EH and SR core com- plexes varies along the strike of the core complex. In the R-EH area, this variation may be due to the restric- tion of Late Cretaceous(?) and middle Eocene episodes of extension to the northern part of the core complex. In the SR core complex this variation may be the result of a lateral ramp in the structural surface of the Snake Range décollement. These intra-core complex variations in tectonic denudation appear to be partly accom- modated by solid-state flow of the lower crust into regions of high mid- to upper-crustal extension, and they require a complex, three-dimensional pattern of lower-crustal redistribution and magmatism. Oppositely ver- gent extensional fault systems in the A-RR-GC metamorphic core complex may have developed because the rigid Archean lower crust in this area could not flow into highly extended domains.
+KEY WORDS: metamorphic core complex, crustal contraction and extension, hinterland, Sevier orogenic belt, Albion Mountains, East Humboldt Range, Grouse Creek Mountains, Raft River Mountains, Ruby Mountains, Northern Snake Range, Southern Snake Range, Great Basin, Basin and Range province.
+
+
+INTRODUCTION
+
+Metamorphic core complexes occur in oce- anic and continental settings and are found in oro- genic belts around the world (e.g., Crittenden et al., 1980; Lister et al., 1984; Dalziel and Brown, 1989; Doblas and Oyarzun, 1989; Tucholke et al., 1998; Ranero and Reston, 1999; Whitney et al., 2004).
+ These terranes provide geoscientists with important opportunities to examine exposures of middle and lower crustal rocks within areas that have undergone large-magnitude extension commonly preceded by large-magnitude contraction in continental settings. Metamorphic core complexes are exposed through- out the North American Cordillera (Crittenden et al., 1980; Armstrong, 1982). In the northeastern
+
+Great Basin (Nevada, Utah, and Idaho), they provide unique opportunities to examine middle and lower crustal rocks from the hinterland of the Sevier oro- genic belt (Armstrong, 1968a; DeCelles, 2004) as well as the axis of the Basin and Range extensional province (Dickinson, 2002, 2007). In this area, three broad tracts of metamorphic and associated intrusive plutonic rocks have long been recognized as classic examples of Cordilleran metamorphic core complexes (Coney, 1979, 1980; Armstrong, 1982). These are the Ruby Mountains-East Humboldt Range (R-EH), Albion Mountains-Raft River Mountains-Grouse Creek Mountains (A-RR-GC), and Snake Range (SR) metamorphic core complexes (Fig. 1). These ter- ranes are the product of a complex history involving:
+(1)  Mesozoic  crustal  shortening,  magmatism, and
+42o
+Idaho
+A-RR-GC
+R-EH
+SR
+8
+o 	Nevada  Utah	
+115o
+Wyoming
+
+
+
+
+
+
+
+
+
+
+
+86 = 0.70
+
+
+Figure 1. Map showing locations of the Ruby Mountains- East Humboldt Range (R-EH), Albion Mountains-Raft River Mountains-Grouse Creek Mountains (A-RR-GC), and Snake Range (SR) metamorphic core complexes and Sevier fold-and- thrust belt. Adapted from Coney (1980).
+
+Numerousdetailedstudieshavehelpedunravelthe structural, metamorphic, and geochronologic/ther- mochronologic histories of these core complexes (e.g., R-EH: Howard, 1971, 1980; Snoke, 1980; Snoke et
+ al., 1990, 1997; McGrew and Snee, 1994; MacCready et al., 1997; McGrew et al., 2000; Howard, 2003; A- RR-CG: Armstrong, 1968b; Compton et al., 1977; Miller, 1980, Todd, 1980; Wells, 1997, 2001; Hoisch et al., 2002; SR: Miller et al., 1983, 1988, 1999a; Lee et al., 1987; Lee and Sutter, 1991; Lee, 1995; Lewis et al., 1999). However, no detailed, comparative analysis of these three core complexes has been published. The publication of considerable new data, especially ther- mobarometric and  geochronological/thermochro- nological data, suggests that a comparative study is appropriate and should indicate important directions for future research. In this paper we have attempted to provide such a “comparative anatomy” of these core complexes by compiling detailed tectonic maps and time lines for each core complex and by systematically comparing their structural, magmatic, metamorphic, and  geochronological/thermochronological histories.
+Previously, Snoke and Miller (1988) and Miller et al. (1988) provided concise summaries of the struc- tural, metamorphic, and magmatic histories of the R-EH and A-RR-GC metamorphic core complexes and SR metamorphic core complex, respectively. These summaries outline a basic tectonic model that involves the formation of a thick tectonic wedge during the Late Jurassic and Early Cretaceous fol- lowed by mid-Tertiary crustal-scale extension. This basic tectonic model is still viable. However, during the past two decades numerous studies have added to and refined our understanding of these metamor- phic core complexes. These refinements include: (1) new isotopic ages that further constrain the timing of deformational, magmatic, and metamorphic events; (2) abundant thermobarometric data that better define the pressure-temperature evolution of these complexes; (3) the recognition of a multiphase Precambrian history; (4) improvements in our under- standing of the style, geometry, and significance of Cenozoic extensional structural features; (5) the rec- ognition of Cretaceous episodes of extension; and
+(6) new, detailed geologic mapping. Therefore, the goals of this paper are: (1) to provide an up-to-date, detailed synthesis of the structural, magmatic, and metamorphic evolution of the R-EH, A-RR-GC, and SR metamorphic core complexes; (2) to integrate the new data and interpretations of these core complexes that have appeared in the past two decades; and (3) to use these data to develop new interpretations concern- ing the nature and timing of tectonothermal events in
+
+the region. Our results allow us to correlate tectonic events both along and across strike in the hinterland of the Sevier orogenic belt, Basin and Range province, and, presumably, the Neoproterozoic rifted continen- tal margin of North America. This regional history also allows us to make important inferences about the nature of the Sevier orogenic wedge and mechanisms operating during the collapse of this wedge and the initial development of the Basin and Range exten- sional province.
+RUBY MOUNTAINS-EAST HUMBOLDT RANGE, NEVADA
+Introduction
+The Ruby Mountains-East Humboldt Range (R-EH) metamorphic core complex encompasses the Ruby Mountains and East Humboldt Range in northeastern Nevada (Figs. 1, 2) and exposes rocks ranging in age from Archean to Tertiary (Howard, 1966, 1971, 1980; Howard et al., 1979; Snoke, 1980;
+Snoke et al., 1990, 1997; Hudec, 1992; McGrew and Snee, 1994; McGrew et al., 2000). Snoke et al. (1990) recognized two basic structural tiers within the R-EH core complex (Figs. 2, 3A; Table 1). These tiers are delineated by Tertiary extensional architec- ture, but each displays different aspects of Mesozoic deformational, metamorphic, and magmatic history. The structurally highest level, the upper tier, consists of a nonmetamorphosed to weakly metamorphosed, brittlely attenuated Lower Triassic to mid-Miocene stratified rocks that lie above the frictional/brittle, range-scale, west-rooted, normal-sense Ruby-East Humboldt detachment fault system. Throughout most of the R-EH core complex, the Ruby-East Humboldt detachment fault system is underlain by a km-thick, west-rooted, Tertiary mylonitic shear zone, which yields a top-to-the-west-northwest sense- of-shear. In the northern Ruby Mountains and East Humboldt Range, the lowerstructuraltierbeneaththe Tertiary mylonitic zone consists of Archean through mid-Paleozoic high-grade, migmatitic metasedimen- tary rocks (Howard, 1971) that have been extensively intruded by Mesozoic and Tertiary dikes, sheets, and small plutons (Fig. 3A). Throughout the literature, the migmatitic metasedimentary rocks and associ- ated intrusive igneous rocks of this lower structural tier are commonly referred to as the “metamorphic infrastructure” (Armstrong  and Hansen, 1966). In
+ sharp contrast, in the southern Ruby Mountains, the lower structural tier consists of nonmetamorphosed to weakly metamorphosed Cambrian to Carboniferous rocks of the Cordilleran miogeocline (Sharp, 1942; Willden and Kistler, 1969, 1979). This basic struc- tural outline serves as the framework for the struc- tural, metamorphic, and magmatic events described in geochronological order below.
+Precambrian Through Paleozoic History
+A fragmentary Precambrian history is recorded in rocks of the lower tier of the R-EH core complex. The westernmost exposure of Archean basement rocks in the United States, potentially part of the Wyoming province (Lush et al., 1988), lies in the core of the Winchell Lake fold-nappe in the north- ern East Humboldt Range (Fig. 2). The Archean rocks consist of a mappable body of migmatitic orthogneiss and associated rocks (paragneiss and amphibolite) with a minimum igneous crystalli- zation age of ~2520 Ma (based on U-Pb zircon). A distinctive sequence of Paleoproterozoic(?) metasedimentary rocks is closely associated with the gneissic rocks, interpreted as the original cover for the Archean rocks (Lush et al., 1988; McGrew, 1992; Snoke, 1992). These field relationships sug- gest a history of Late Archean granitic magmatism and subsequent deposition of a Paleoproterozoic(?) continental-margin sequence. Sr, Nd, and Pb isoto- pic data reported by Wright and Snoke (1993) sug- gested to those authors that the boundary between the southwestern margin of the Archean Wyoming province and Proterozoic Mojave province (Bennett and DePaolo, 1987) lies near the intersection of the East Humboldt Range and Ruby Mountains (Fig. 2). However, recent geochronological and isotopic data from the southwestern portion of the Wyoming province indicate a mixed terrane, including both Archean and Proterozoic rocks (Mueller and Frost, 2006). Consequently, the boundary delineated by Wright and Snoke (1993) is problematic. The Neoproterozoic rifting of the western margin of North America and subsequent formation of a passive continental margin, which existed from Neoproterozoic to mid-Paleozoic time (Stewart and Poole, 1974), is recorded by the depo- sition of the Cordilleran miogeoclinal sequence, although the base of this ~10-km-thick sequence is not exposed.
+
+
+
+
+
+
+
+
+
+115o 15'
+115o 45'
+N
+ 
+
+
+Winchell Lake nappe
+ Wood Hills
+
+
+
+
+
+
+Inferred southern boundary of the Archean
+Wyoming province
+
+
+40o 45'
+
+
+
+
+
+0	5	10	15
+Kilometers
+
+
+
+
+
+
+
+40o 30'
+ 
+Key
+
+Structural Symbols
+Normal fault Low-angle
+detachment fault
+
+Normal-sense mylonitic fabric
+
+Trend and direction of plunge of major fold
+
+Contour of mica cooling ages in millions of years
+ Rock Units
+Hanging wall
+Tertiary sedimentary and volcanic rocks
+Paleozoic to Triassic sedimentary rocks
+
+
+Foot wall
+~36 Ma Harrison Pass pluton
+Igneous and high-grade metamorphic rocks
+Mixed Jurassic and Cretaceous granites
+
+Additional Units, Figure 3A
+Cretaceous intrusive rocks
+115o
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40o 15'
+
+
+
+
+
+
+
+Figure 2. Geologic map of the Ruby Mountains-East Humboldt Range metamorphic core complex showing major structures, intrusive bodies, contours of biotite-cooling ages, and the inferred southern boundary of the Archean Wyoming province. Adapted and compiled from Howard et al. (1979), Hudec (1992), Wright and Snoke (1993), McGrew and Snee (1994), and Camilleri and Chamberlain (1997).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B.
+Albion, Grouse Creek
+and Middle Mountain
+ Raft River Mountains
+
+
+Autochthon
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. A, Tectonostratigraphic columns of the Ruby Mountains-East Humboldt Range core complex. See Figure 2 for key to rock types and structural symbols. B, Tectonostratigraphic columns of the Albion Mountains-Raft River Mountains-Grouse Creek Mountains core complex. See Figure 4 for key to rock types and structural symbols. C, Tectonostratigraphic columns of the Snake Range core complex. See Figure 5 for key to rock types and structural symbols.
+
+
+A.
+East Humboldt Range and northern Ruby Mountains
+C.		Northern Snake Range
+Central Ruby Mountains
+Southern Snake Range
+A complex sequence of Mesozoic deformational, metamorphic, and magmatic events affected the Archean through mid-Paleozoic rocks now exposed in the lower tier of the R-EH core complex. At least two distinct metamorphic episodes, numerous Jurassic and Cretaceous intrusions, and three pene-
+ trative deformation fabrics are recognized. The earli- est recognizable episode of Mesozoic(?) deformation involves thrust faulting inferred from an apparent duplication of strata in the lower tier of the north- ern Ruby Mountains (Howard, 1966, 1980; Smith and Howard, 1977; Howard, 2000; Howard and MacCready, 2004) and the tectonic emplacement of aninverted Neoproterozoictoearly Paleozoicmetased-
+
+
+
+Table 1. Correlation of tectonostratigraphic terminology used in this article with that used in the literature.
+Ruby-East Humboldt core complex
+Terminology used in this article		Terminology used in the literature Upper tier	Suprastructure (Snoke, 1980; Howard, 1980)
+Lower tier	Infrastructure (Snoke, 1980; Howard, 1980)
+
+Albion-Raft River-Grouse Creek core complex
+Terminology used in this article	Terminology used in the literature
+Upper allochthon in the Grouse Creek and Albion Mountains
+
+Allochthon
+ (Compton et al., 1977; Miller, 1980; Todd, 1980); all of the allochthonous sheets in the Raft River Mountains (Compton et al., 1977)
+
+Autochthon	Autochthon (Compton et al., 1977)
+
+Snake Range core complex
+Terminology used in this article	Terminology used in the literature Upper tier		Upper plate (Miller et al., 1983)
+Lower tier	Lower plate (Miller et al., 1983)
+
+
+imentary sequence on top of Paleoproterozoic(?) and Archean rocks in the northern East Humboldt Range and Clover Hill (Lush et al., 1988; McGrew, 1992; Snoke, 1992). These episodes of low-angle faulting are interpreted to have occurred before Late Jurassic/ Early Cretaceous metamorphism and folding and likely represent early shortening associated with the Sevier orogeny (DeCelles, 2004).
+Hudec (1992) recognized two episodes of Jurassic metamorphism and three episodes of Jurassic defor- mation roughly synchronous with intrusion of the
+~153-Ma (U-Th-Pb monazite) (Hudec and Wright, 1990) Dawley Canyon granite in the central Ruby Mountains (Fig. 2). This interpretation was refined by Jones (1999), who showed that the second phase of metamorphism was Late Cretaceous and rec- ognized two Jurassic deformation fabrics, an ini- tial vertical shortening and subsequent tight fold- ing, in the central Ruby Mountains. The tempera- ture and pressure of the mid-Jurassic metamorphic event are estimated at 425–575C and 2.6–3.7 kb, respectively. This metamorphism was closely associ- ated with intrusion of the Dawley Canyon granite (Hudec, 1992; Jones 1999). No definitive evidence for mid-Jurassic metamorphism or deformation has been recognized in the northern part of the core com- plex, although Dallmeyer et al. (1986) reported an
+ ~154-Ma muscovite granite porphyry (their sample I, 197-8) intruded into nonmetamorphosed upper Paleozoic cover rocks near Secret Valley, in the south- western East Humboldt Range. Furthermore, an epi- sode of kyanite growth documented in metapelitic rocks from the East Humboldt Range (McGrew, 1992; McGrew et al., 2000), Clover Hill (Snoke, 1992), and Wood Hills (Thorman, 1970) predates the widespread Late Cretaceous metamorphism. This moderately high-pressure metamorphism has been tentatively attributed to significant Late Jurassic and/or Early Cretaceous tectonic burial (Hodges et al., 1992; Snoke, 1992; Camilleri and Chamberlain, 1997; McGrew et al., 2000).
+The northern Ruby Mountains and East Humboldt Range are characterized by clockwise prograde pressure-temperature-time (P-T-t) paths beginning with Late Jurassic or Early Cretaceous tectonic burial (Hodges et al., 1992; Camilleri and Chamberlain, 1997; McGrewetal., 2000). Peakmeta- morphic conditions in the R-EH metamorphic core complex were reached during Late Cretaceous time and are associated with the development of map-scale recumbent fold-nappes (Fig. 2), extensive migmati- zation, and voluminous peraluminous magmatism (Snoke et al., 1979, 1992, 1997; Howard et al., 1979; Howard, 1980; Snoke and Miller, 1988; Hodges et
+
+al., 1992; McGrew, 1992; McGrew et al., 2000; Lee et al., 2003). In the northern East Humboldt Range, peak metamorphic conditions approached 800ºC and 9 kb in the lower structural tier of the parautochtho- nous core (McGrew, 1992; McGrew et al., 2000; Snoke, 1992). This metamorphism was accompanied by emplacement of the Winchell Lake fold-nappe (Lush et al., 1988; McGrew, 1992). A syntectonic leuco- granite sill within the Winchell Lake fold-nappe has been dated at 84.8±2.8 Ma (U-Pb zircon) (McGrew et al., 2000). Map-scale fold-nappes in the northern Ruby Mountains originated in the Late Cretaceous (Howard, 1966, 1980, 2000; Howard et al., 1979; Howard and MacCready, 2004), and a syntectonic, sillimanite-bearing leucogranite body associated with the Lamoille Canyon fold-nappe yielded an U-Pb (monazite) age of ~84 Ma (Wright and Snoke, 1993; Lee et al., 2003). Late Cretaceous deformation in this area is associated with upper amphibolite-facies meta- morphism and migmatization (Howard, 1980, 1987; Snoke, 1980; Snoke and Miller, 1988). To the south, in the central Ruby Mountains, Late Cretaceous met- amorphic assemblages record temperatures of 500– 550C and pressures of 4–4.5 kb, and are associated with upright tight to isoclinal folding and subsequent vertical shortening and subhorizontal simple shear- ing forming the recumbent King Peak fold-nappe (Hudec, 1992; Jones, 1999).
+Several workers have postulated that extensional deformation in the R-EH core complex began during the Late Cretaceous (Hodges et al., 1992; McGrew and Snee, 1994; Camilleri, 1994; Camilleri and Chamberlain, 1997; McGrew et al., 2000). This conclusion is based on thermobarometric/chrono- logic data from the East Humboldt Range and Wood Hills. In the East Humboldt Range, metamorphic assemblages record peak pressures near 9 kb and peak temperatures near 800C that are intimately associ- ated with emplacement of the Winchell Lake fold- nappe at ~84 Ma (Hodges et al., 1992; McGrew et al., 2000). By Eocene time, these rocks had cooled to ~630C and decompressed to ~5 kb (McGrew et al., 2000). Samples of hornblende from structur- ally higher levels of the core complex yield 40Ar/39Ar cooling ages ranging from 50–63 Ma (Dallmeyer et al., 1986; McGrew and Snee, 1994). This evidence indicates that tectonic denudation may have began during the Late Cretaceous. In the Wood Hills to the east, up to 10 km of crustal thinning occurred along
+ the Pequop fault (Camilleri, 1996), and this defor- mation is associated with ~75-Ma sphene cooling ages (~580ºC for grain size analyzed) (Camilleri and Chamberlain, 1997).
+Tertiary History
+A protracted history of Tertiary crustal-scale extension and magmatism is recorded in the tiers of the R-EH core complex. Tertiary plutonism within the core complex occurred in two discrete episodes (late Eocene and mid Oligocene). Plutons range in composition from quartz diorite to two-mica gran- ites with biotite monzogranitic dikes and sheets rep- resenting a significant intrusive component (Wright and Snoke, 1993). The initial plutonic pulse was emplaced between 40–36 Ma and includes the
+~36-Ma Harrison Pass pluton (Fig. 2) (Wright and Snoke, 1993; Barnes et al., 2001). This initial epi- sode of magmatic activity has also been related to mineralization in the adjacent Carlin gold district (Howard, 2003). The second episode occurred at ~29 Ma and is characterized by monzogranitic magmas (Wright and Snoke, 1993). Intrusive rocks from both magmatic episodes are extensively deformed in the mylonitic shear zone and are involved in syn- extensional deformation within the lower tier of the core complex (Wright and Snoke, 1993; MacCready et al., 1997; McGrew et al., 2000). Hurlow et al. (1991) and McGrew et al. (2000) reported synmy- lonitic mineral assemblages in the East Humboldt Range that equilibrated at temperatures of 580– 630C and pressures of 3–4 kb. These data indi- cate a major Tertiary episode of metamorphic min- eral growth accompanied exhumation. High-grade metamorphic conditions persisted in the R-EH core complex through the initiation of deforma- tion along the km-thick mylonitic shear zone that flanks the western side of the core complex. This assertion is supported by the existence of: (1) early Oligocene 40Ar/39Ar hornblende cooling ages in the East Humboldt Range and late Oligocene 40Ar/39Ar and K-Ar hornblende cooling ages in the northern Ruby Mountains (Dallmeyer et al., 1986; McGrew and Snee, 1994); (2) high-temperature quartz c- axis fabrics within the mylonite zone (MacCready, 1996; McGrew and Casey, 1998); and (3) high- temperature microstructures in 40–29-Ma orthog- neiss bodies in the East Humboldt Range (McGrew, 1992; McGrew and Snee, 1994).
+
+Thermochronologicdatafromthe East Humboldt Range suggest an episode of extension during the early to middle Eocene that likely involved the initial formation of the mylonitic shear zone (Mueller and Snoke, 1993; McGrew and Snee, 1994). Additionally,
+~43–39-Ma volcanic rocks are deposited unconform- ably across normal faults that tilted early Eocene lacus- trine deposits (Mueller and Snoke, 1993; Brooks et al., 1995). This relationship also indicates pre-late Eocene extension in northeastern Nevada. However, the bulk of 40Ar/39Ar and K-Ar cooling ages of hornblende, muscovite, and biotite show that significant tectonic denudation leading to core-complex development in the R-EH core complex began in mid-Oligocene time and continued through the late Oligocene (Kistler et al., 1981; Dallmeyer et al., 1986; McGrew and Snee, 1994). The bulk of Oligocene denudation was accomplished by the shallowly dipping, west-rooted, top-to-the-west-northwest, normal-sense detachment fault and associated mylonitic shear zone that flank the western side of the core complex (Fig. 2) (Howard et al., 1979; Howard, 1980; Snoke, 1980; Lister and Snoke, 1984; Snoke and Miller, 1988; Snoke et al., 1990; McGrew and Snee, 1994; MacCready et al., 1997; Snoke et al., 1997; McGrew et al., 2000). Mica 40Ar/39Ar and K-Ar cooling ages within the R-EH core complex range from ~33 Ma in the eastern part of the East Humboldt Range to ~21 Ma along the western edge of the core complex (Kistler et al., 1981; Dallmeyer et al., 1986; McGrew and Snee, 1994). McGrew and Snee (1994) have used these data to argue for a rolling-hinge type of normal-fault geom- etry (Wernicke and Axen, 1988) and east-to-west tec- tonic denudation of the core complex between 33–24 Ma, with the bulk of the exhumation occurring after emplacement of the ~29-Ma intrusive monzogranitic suite. Fission-track ages of sphene and apatite from the northern Ruby Mountains and East Humboldt Range are between 25.4 and 23.4 Ma. These ages are synchronous across the core complex and ages of the two minerals collected from the same localities are indistinguishable within error (Dokka et al., 1986). Apatite fission track and (U-Th)/He ages from the Harrison Pass pluton yield weighted-mean ages of 14.6±1.1 Ma and 14.8±1.5 Ma, respectively, and these ages also show no east-to-west change across the core complex (Colgan and Metcalf, 2006). All of these data indicate that final post-mylonitic exhumation of the R-EH core complex occurred very rapidly.
+ Based on the presence of stacked, oppositely vergent fold-nappes within the Ruby Mountains, Howard (1966) proposed that at least part of the intense folding in the metamorphic infrastructure of the R-EH core complex is extensional in origin. Subsequently, detailed geochronological and struc- tural studies have provided extensive evidence for reworking of Cretaceous fold-nappes during Tertiary extension (Howard, 1980; Wright and Snoke, 1993; MacCready et al., 1997; McGrew et al., 2000). MacCready et al. (1997) provided compelling evi- dence for north–south-oriented plastic flow of mate- rial in the lower tier into the area beneath the core- complex detachment system during extension. They also documented in detail the transition between dis- tributed pure-shear-dominated flow in the lower tier and localized simple shear in the mylonitic shear zone (Fig. 3A). Reconstructions of the Tertiary basins that flank the R-EH metamorphic core complex show that basin-fill sedimentary rocks do not reflect the amount of exhumation recorded in the core complex. This additional evidence argues in favor of lower-crustal flow into the area of concentrated extensional denu- dation (Satarugsa and Johnson, 2000). Therefore, it seems that the record of solid-state flow and volumi- nous Tertiary magmatism within the lower tier of the R-EH metamorphic core complex reflects a com- plex lower-crustal response to localized middle- and upper-crustal extension.
+ALBION-RAFT RIVER-GROUSE CREEK MOUNTAINS, UTAH AND IDAHO
+Introduction
+The Albion Mountains-Raft River Mountains- Grouse Creek Mountains (A-RR-GC) metamorphic core complex encompasses the Albion, Raft River and Grouse Creek Mountains in northwestern Utah and southern Idaho and exposes rocks ranging in age from Archean to Tertiary (Figs. 1, 4) (Armstrong, 1968b; Compton, 1972, 1975; Compton et al., 1977; Wells, 1996). Several workers have divided rocks within the A-RR-GC metamorphic core complex into a series of allochthonous sheets bounded by low-angle faults and overlying an autochthon (Armstrong, 1968b; Compton et al., 1977; Todd, 1980; Miller, 1980). However, given the current level of understanding, it is not possible to correlate most of the allochthonous sheets across the A-RR-GC metamorphic core com-
+
+plex. Therefore, for the purposes of this paper, we rec- ognize a two-tiered tectonostratigraphy consisting of a lower autochthon structurally overlain by a composite allochthon consisting of one or more fault-bounded sheets (Figs. 3B, 4; Table 1). Throughout the core complex, the structurally highest levels of the alloch- thon consist of nonmetamorphosed or weakly meta- morphosed structurally attenuated Pennsylvanian to Permian strata (Figs. 3B, 4). Two normal-sense, low-angle detachment faults and associated footwall shear zones separate the allochthon from the underly- ing autochthon (Sabisky, 1985; Malavieille, 1987b; Saltzer and Hodges, 1988; Wells et al., 2000; Wells, 2001). The lowest structural level of the autochthon is composed of Late Archean adamellite orthogneiss that intrudes an assemblage of metatrondhjemite, schist, and amphibolite (Green Creek complex of Armstrong, 1968b) and is unconformably overlain by the Paleo- or Neoproterozoic(?) Elba Quartzite (Figs. 3B, 4) (Armstrong, 1968b; Compton et al., 1977; Todd, 1980; Miller, 1980; Wells et al., 1998). Within the Albion and Grouse Creek Mountains, fault-bounded Neoproterozoic through Ordovician rocks lie beneath the range-bounding detachment fault and are thus part of the autochthon as it is defined here (Figs. 3B, 4) (Armstrong, 1968b; Todd, 1980; Miller, 1980, 1983; Saltzer and Hodges, 1988). In contrast, in the Raft River Mountains, the deepest structural levels of the allochthon are comprised of Neoproterozoic through Ordovician metasedimen- tary rocks separated from Pennsylvanian–Permian strata by low-angle, normal-sense faults (Figs. 3B, 4) (Compton et al., 1977; Wells, 1997). This basic struc- tural outline serves as the framework for the struc- tural, metamorphic, and magmatic events described in geochronological order below.
+Precambrian Through Paleozoic History
+An incomplete and poorly understood Precambrian history is recorded in the rocks exposed in the autochthon of the A-RR-GC core complex. The adamellite orthogneiss has been dated at 2510±170 Ma (Rb-Sr whole-rock minimum age) by Compton et al. (1977) and cores of zircons have yielded an upper intercept on concordia of ~2620 Ma (Egger et al., 2003). This plutonic unit intrudes a complex polyde- formed Archean assemblage of metatrondhjemite, metagabbro, mafic metavolcanic rocks, and metased- imentary rocks (Armstrong, 1968b; Compton, 1972,
+ 1975; Compton et al., 1977; W. A. Sullivan, unpub- lished data). These rocks record at least two episodes of Late Archean magmatism. If the Elba Quartzite is interpreted as Paleoproterozoic (Compton et al., 1977; Crittenden, 1979), then this unit may be cor- relative with Paleoproterozoic quartzites exposed in the Medicine Bow Mountains in southeastern Wyoming (Karlstrom et al., 1983). In such case, the Elba Quartzite exposed in the A-RR-GC core com- plex would record deposition of a Paleoproterozoic passive-margin sequence associated with rifting of the Archean craton. Finally, Neoproterozoic rifting of the western margin of North America and formation of a Neoproterozoic to mid-Paleozoic passive margin is recorded by the deposition of the Cordilleran mio- geoclinal sequence. Although, wherever the base of this sequence has been observed in the northeastern Great Basin, it is a fault rather than a surface of depo- sition (Compton et al., 1977; Todd, 1980; Miller, 1980; McGrew, 1992).
+Mesozoic History
+Due to a lack of Mesozoic igneous bodies, the exact timing of Mesozoic deformational and meta- morphic events in the A-RR-GC core complex is not completely understood. However, a complex sequence ofevents, includingalternating episodesofcontraction and extension, has been recognized throughout much of the core complex. Egger et al. (2003) have recently proposed an initial episode of Mesozoic deformation and metamorphism at ~160 Ma based on the presence of ~160-Ma rims overgrowing zircons in the Archean adamellite orthogneiss. Evidence for deformation associated with prograde metamorphism is extensive throughout the A-RR-GC core complex. In the Raft River Mountains, it is manifested by: (1) a subhor- izontal foliation and north-northeast- to northeast- trending elongation lineations associated with top- to-the-northeast simple shear and (2) a synchronous component of flattening strain related to thrust-nappe emplacement (Compton et al., 1977; Malavieille, 1987b; Wells and Allmendinger, 1990; Wells, 1997). Mesozoic fabrics in the Albion Mountains also trend northeast and associated folds are southeast vergent (Miller, 1980). In the Grouse Creek Mountains, an initial north–south-trending lineation and west- vergent folds are developed throughout the autoch- thon (Todd, 1980). Subsequently, Wells et al. (2000) obtained ~105 Ma 40Ar/39Ar ages from syndeforma-
+
+
+
+
+
+113o 45'
+Rock Units	Structural Symbols
+
+
+
+42o 15'
+
+
+
+
+
+
+
+
+
+AP
+ Tertiary intrusive rocks
+Mississippian to Permian rocks
+l
+Proterozoic metasedimentary rocks
+Archean	            
+Green Creek complex
+ Low-angle core complex
+detachment fault
+Low-angle normal? fault, pre-core complex
+Low-angle normal? fault, timing unknown
+Middle Mountian shear zone
+Raft River shear zone
+Hinge of major recumbent fold
+
+
+AP	Other Symbols
+le
+22 rounded to the nearest million years
+
+
+MMIC
+29
+ 
+Idaho	      
+Utah	   	  
+ 
+42o    
+
+VP	                             
+29	        
+
+
+               
+                                        
+        15
+
+                           	22	 17	      
+                             45           22	              	  
+47	         	                                         
+
+o
+
+Pluton Names
+
+N
+ Almo pluton Middle Mountain
+intrusive complex	 
+
+41o 45'
+ VP   Vipont pluton
+
+
+
+
+n
+ RBP IPP
+ Red Butte pluton
+Immigrant Pass pluton
+
+25	Ages rounded to the
+nearest million years
+
+
+0	5 Kilometers 15
+
+
+
+
+
+
+IPP
+ 41, 36
+113o 30'
+113o 15'
+
+
+
+
+Figure 4. Geologic map of the Albion Mountains-Raft River Mountains-Grouse Creek Mountains core complex showing major structures and intrusive bodies. Adapted and compiled from Compton (1972, 1975), Compton et al. (1977), Miller (1980), and Wells (1997, 2001).
+
+tional muscovite from some of these rocks and rein- terpreted the deformation as extensional.
+Garnet-rimthermobarometryand Gibbs’-method modeling of garnet growth coupled with in-situ mon- azite isotopic dating provide evidence for multiple episodes of thrust burial within the autochthon and allochthon of the A-RR-GC core complex (Hanson, 1997; Hoisch et al., 2002a; Harris, 2003; Kelly et al., 2003, 2004). Rapid episodes of garnet growth due to thrust burial beneath the Basin-Elba fault occurred at
+~144 Ma and ~120 Ma and generally coincide with pressure increases of up to ~2.7 kb (Hanson, 1997; Hoisch et al., 2002a; Harris and Hoisch, 2003; Kelly et al., 2003, 2004). Strickland et al. (2007) reported similar dates (120–140-Ma) for rims on detrital zir- cons collected from schist in the southern Albion Mountains and interpret them as direct dates of con- tractional deformation. Peak temperatures associated with these events are on the order of 575–635ºC. Estimates of absolute peak pressures are highly vari- able, despite the well-constrained relative pressure increases, ranging from 4.5–9.5 kb (Hanson, 1997; Hoisch et al., 2002a; Kelly et al., 2003). Therefore, we follow Hoisch et al. (2002a) and adopt an esti- mate of ~6.5 kb as the approximate peak pressure obtained during mid-Cretaceous thrust burial in the Albion and Grouse Creek Mountains. Archean mafic metavolcanic rocks and metagabbros exposed in the autochthon of the Raft River Mountains preserve an epidote-amphibolite facies metamorphic assemblage. The absence of garnet in these rocks limits peak met- amorphic pressures to ~6 kb or less (W. A. Sullivan, unpublished data). Wells et al. (2000) interpreted 40Ar/39Ar spectra from hornblendes collected from the Archean mafic metavolcanic rocks as indicating maximum cooling ages between 54.6–90.5 Ma, plac- ing a Late Cretaceous to early Tertiary upper limit on the age of epidote-amphibolite facies metamorphism in the Raft River Mountains.
+Numerous studies indicate an episode of Late Cretaceous or early Tertiary extension in the A-RR- GC core complex that followed peak metamorphism and thrust-nappe emplacement (Wells et al., 1990; Wells, 1997; Wolff, 1997; Wells et al., 1998). Wells et al. (1990) recognized ~82–90-Ma 40Ar/39Ar musco- vite cooling ages in the lower structural levels of the allochthon in the Raft River Mountains and inter- preted them to represent cooling during the final stagesoflayer-parallelextensionpostdatingpeakmeta-
+ morphism. Wells (1997), Wolff (1997), and Wells et al. (1998) have since shown that this extension was accommodated along a series of low-angle, top-to- the-west attenuation faults in the allochthon, and Wells et al. (2000) interpreted fabrics as old as ~105 Ma as extensional in origin. Additionally, Hodges and Walker (1992) have interpreted northwest-trend- ing lineations in the northern Albion Mountains (Miller, 1980) associated with top-to-the-west dis- placement (Malavieille, 1987b) and Late Cretaceous cooling ages (Armstrong, 1976) as evidence for Late Cretaceous extensional tectonics. Renewed contrac- tion followed Late Cretaceous extension through- out the A-RR-GC core complex. In the Raft River Mountains, this deformation is manifested by km- scale tight to isoclinal recumbent folds that deform the attenuation faults in the allochthon (Wells, 1997; Wells et al., 1998). Using Gibbs’-method modeling of garnet growth and in-situ monazite Th-Pb dating, Wells and Hoisch (2002) and Hoisch et al. (2002b) have documented a Late Cretaceous or early Tertiary pressure increase of ~0.9 kb in the Albion Mountains, and Harris (2003) related this episode of thrust load- ing to movement along the Basin-Elba fault. Hoisch and Wells (2004) have also proposed an episode of Late Cretaceous to early Tertiary prograde metamor- phism in the Grouse Creek Mountains.
+Tertiary History
+A protracted history of Tertiary crustal-scale extension centered about two major normal-sense mylonitic shear zones and associated frictional/brit- tle detachment faults that range in age from Eocene to late Miocene is recorded in the A-RR-GC core complex (Fig. 4) (Sabisky, 1985; Malavieille, 1987a, 1987b; Saltzer and Hodges, 1988; Wells, 1997, 2001; Wells et al., 2000). A 25–31-Ma suite of gra- nitic plutons was emplaced in the Grouse Creek and Albion Mountains during Tertiary extension (Fig. 4). Forrest and Miller (1994) dated the Almo pluton and Middle Mountain intrusive complex at ~29 Ma (U- Pb monazite), and Strickland et al. (2007) obtained an age of 30.5±1 Ma from the Almo pluton (U-Pb, zircon). The Vipont pluton has been dated at 27±2 Ma (U-Pb, Monazite) by Wells et al. (1997b), and Strickland et al. (2007) obtained a 29±0.3 Ma age (U-Pb, zircon) from part of the pluton cut by the Middle Mountain shear zone. Compton et al. (1977) dated the Red Butte pluton in the northern Grouse
+
+Creek Mountains at 24.9±0.6 Ma and Immigrant Pass pluton in the southern Grouse Creek Mountains at 38.2±2 Ma (Rb-Sr whole-rock minimum ages). Egger et al. (2003) have subsequently shown that the Immigrant Pass pluton was emplaced in three pulses (41.3±0.3 Ma, 36.1±0.2 Ma, and 34.3±0.3 Ma), and
+they provided an age of 25.3±0.5 Ma for the Red Butte pluton (U-Pb zircon) (Fig. 4). The oldest phase of the Immigrant Pass plutonic complex cuts apparent normal faults in the allochthon, requiring a pre-41- Ma age for the earliest extension in the Grouse Creek Mountains (Egger et al., 2003).
+Armstrong (1968b) proposed an episode of Tertiary metamorphism in the A-RR-GC core com- plex restricted to the southern Albion Mountains in the vicinity of the Almo pluton, and Saltzer and Hodges (1988) reported cooling ages of 38.2±0.8 Ma for hornblende that grew in amphibolite bodies within the autochthon during this episode of meta- morphism. In the southern Grouse Creek Mountains, pelitic schists within the autochthon record an epi- sode of Tertiary amphibolite-facies metamorphism synchronous with emplacement of the Red Butte pluton (Todd, 1973; Compton et al., 1977; Egger et al., 2003). A north–south-trending elongation lin- eation developed during this metamorphic event. At high structural levels, this lineation is overprinted by east–west-trending lineations associated with the extensional Middle Mountain shear zone (Todd, 1973; Egger et al., 2003).
+The A-RR-GC core complex is unusual among Cordilleran metamorphic core complexes in that it has been exhumed along two oppositely rooted, Tertiary, normal-sense shear zones and associated normal- sense detachment faults (Figs. 3B, 4). The west-rooted Middle Mountain shear zone and associated detach- ment fault lie along the west side of the complex in the Albion and Grouse Creek Mountains (Saltzer and Hodges, 1988; Wells et al., 1997a; Wells, 2001) and the east-rooted Raft River shear zone and associated detachment fault lie along the east side of the complex in the Raft River Mountains (Fig. 4) (Sabisky, 1985; Malavieille, 1987a; Wells, 2001). Shear-sense indica- tors from these two shear zones yield top-to-the-west- northwest, normal-sense displacement for the Middle Mountain shear zone and top-to-the-east, normal- sense displacement for the Raft River shear zone (Compton, 1980; Sabisky, 1985; Malavieille, 1987a, 1987b; Saltzer and Hodges, 1988; Wells, 2001).
+ Saltzer and Hodges (1988) recognized that upper greenschist- to amphibolite-facies deformation associ- ated with west-northwest-trending lineations within the Middle Mountain shear zone was in part syn- chronous with Tertiary metamorphism in the area and that the 29-Ma Middle Mountain intrusive com- plex was deformed by shear zone fabrics. Miller and Bedford (1999) documented stope-blocks of Middle Mountain shear zone mylonites within the 29-Ma Almo pluton. Subsequently, a number of workers have shown that the Red Butte pluton is deformed by the Middle Mountain shear zone (Sheely, 2001; Egger et al., 2003; Wells et al., 2004). Wells et al. (2000) reported cooling ages from the Middle Mountain shear zone of 37 and 42 Ma (40Ar/39Ar, muscovite). These data point to an early episode of high-tem- perature, west-northwest-directed, normal-sense dis- placement along the Middle Mountain shear zone. The resulting exhumation and cooling took place in the late Eocene to early Oligocene, prior to emplace- ment of the 25–31-Ma plutonic suite in the Albion and Grouse Creek Mountains. A second pulse of deformation along the Middle Mountain shear zone produced east–west-trending greenschist-facies fab- rics which deform plutons of the 25–31-Ma suite. These younger, lower-grade fabrics were recognized by Sheely (2001), Egger et al. (2003), and Wells et al. (2004). Cooling ages of rocks that contain these fabrics are ~20 Ma (40Ar/39Ar muscovite and biotite) (Sheely et al., 2001). Muscovite from the Raft River Mountains yields 40Ar/39Ar cooling ages that range from ~47 Ma in the westernmost part of the range to
+~15 Ma in the easternmost part (Fig. 4) (Wells et al., 2000). This pattern indicates that exhumation asso- ciated with Eocene displacement along the Middle Mountain shear zone allowed cooling of the western part of the Raft River Mountains to below the closure temperature of muscovite, whereas the eastern end of the range remained buried until middle Miocene time (Wells et al., 2000). These assertions are sup- ported by microstructural studies of strain and defor- mation mechanisms in the Raft River shear zone (Wells et al., 2000; Wells, 2001). Apatite fission-track ages from the west side of the A-RR-GC core complex record final unroofing accomplished by frictional/ brittle range-bounding faults at ~13.5 Ma (Egger et al., 2003), whereas apatite fission-track ages from the Raft River Mountains record protracted, progressive west-to-east unroofing along the Raft River detach-
+
+ment fault between 13.5–7.4 Ma (Wells et al., 2000). The thermochronologic and microstructural data presented by Wells et al. (2000) and Wells (2001) argue for a rolling hinge (Wernicke and Axen, 1988) geometry for the Raft River shear zone.
+In summary, the A-RR-GC metamorphic core complex was partially exhumed during the late Eocene along the west-rooted, normal-sense Middle Mountain shear zone (Saltzer and Hodges, 1988; Wells et al., 2000; Wells, 2001; Egger et al., 2003). After a brief hiatus, exhumation resumed in the late Oligocene or early Miocene and was accommodated along the Middle Mountain shear zone, the east- rooted, normal-sense Raft River shear zone, and their associated detachment faults.
+SNAKE RANGE, NEVADA AND UTAH
+Introduction
+The SR metamorphic core complex encompasses the northern and southern parts of the Snake Range in east-central Nevada and can be extended to include the Kern Mountains and Deep Creek Range to the north(Figs. 1, 5) (Miller et al., 1999a). It includes rocks that range in age from Neoproterozoic to Tertiary (Gans et al., 1999a, 1999b; Lee et al., 1999a, 1999b, 1999c; Miller et al., 1994, 1999b; Miller and Gans, 1999; McGrew and Miller, 1995; Miller and Grier, 1995). Two basic structural elements are typically rec- ognized in the SR core complex: (1) an upper tier of sedimentary and volcanic rocks, and (2) a lower tier of metamorphic and plutonic rocks (Figs. 3C, 5; Table
+	•	(Miller et al., 1983, 1999a; McGrew, 1993). The upper tier consists of brittlely attenuated nonmeta- morphosed Cambrian through Permian sedimentary rocks and Tertiary volcanic and sedimentary rocks. It is separated from the lower tier by an east-rooted, frictional/brittle, normal-sense detachment fault (Misch, 1960; Miller et al., 1983; McGrew, 1993). Within the northern Snake Range and locally in the Kern Mountains and southern Snake Range, the fric- tional/brittle detachment fault is underlain by an east- rooted mylonite zone (Figs. 3C, 5) (Miller et al., 1983, 1999a; Bartley and Wernicke, 1984; McGrew, 1986, 1993; Gans, 1987; Lee et al., 1987). Elsewhere, the detachment fault is underlain by variably deformed plutonic and metasedimentary rocks that have expe- rienced little or no post-Cretaceous penetrative deformation or metamorphism (Figs. 3C, 5)  (Gans,
+ 1987; Rodgers, 1987; Miller et al., 1988, 1999a). The mylonitic, metamorphic and plutonic rocks beneath the detachment fault collectively comprise the lower tier of this core complex. This basic structural outline serves as the framework for the structural, metamor- phic, and magmatic events described in geochrono- logical order below.
+Mesozoic History
+The complex Mesozoic deformational, meta- morphic and magmatic history imposed upon Neoproterozoic through Ordovician metasedimentary rocks exposed in the lower tier of the SR metamorphic core complex includes two distinct episodes of meta- morphism, numerous Jurassic and Cretaceous intru- sions, and the development of at least two penetrative deformational fabrics. During the Jurassic, a suite of plutons all dated at ~160 Ma (U-Pb zircon) intruded the southern Snake Range and southernmost portion of the northern Snake Range (Fig. 5) (Miller et al., 1988). A highly variable subgreenschist- to amphibo- lite-facies metamorphic event that increases in grade both structurally downwards and nearer to pluton margins is associated with these plutons (Misch and Hazzard, 1962; McGrew, 1986, 1993; Miller et al., 1988). The presence of andalusite in metapelitic rocks in the amphibolite-facies contact aureoles of these plu- tons indicates emplacement at relatively shallow depths (Miller et al., 1988). Jurassic penetrative deformation has been widely recognized in the southern Snake Range and to the west in the Schell Creek Range. This deformation is manifested by a north–south-striking, east-dipping cleavage that forms an intersection lin- eation with bedding (Miller et al., 1988). This epi- sode of cleavage development overlaps temporally with metamorphism associated with the Jurassic plutons in the southern Snake Range and has been interpreted by Miller et al. (1988) to have developed in response to top-to-the-west, layer-parallel simple shear. Cross- section reconstructions of the upper tier of the south- ern Snake Range indicate pre-Tertiary development of a west-vergent ramp anticline in the frictional/brittle upper crust of this area, although such a structure does not appear on published sections (McGrew, 1993). However, throughout most of east-central Nevada, there is little angular discordance across the Paleozoic- Tertiary unconformity, suggesting little Mesozoic deformation of the upper crust (Armstrong, 1968a, 1972; Gans and Miller, 1983).
+
+
+
+
+39
+
+39o 45'
+
+75
+
+40
+
+36
+
+
+
+
+N	39o 30'
+
+Rock Units
+
+
+
+
+
+
+82
+
+100
+ 
+
+
+
+Key
+
+ake
+
+Normal fault
+
+Snake Range decollement
+
+Normal-sense mylonitic fabric
+
+Contour of mica cooling ages in millions of years
+ 
+Rotated Tertiary sedimentary rocks
+Tertiary intrusive rocks, ages noted
+Cretaceous intrusive rocks, ages noted
+Jurassic intrusive rocks,
+~160 Ma
+Cambrian to Permian sedimentary rocks
+Neoproterozoic to Cambrian
+sedimentary rocks
+Metamorphosed in the Cretaceous
+
+Metamorphosed in the Jurassic
+ 
+
+
+
+
+
+
+
+
+
+39o 15'
+
+
+0	Kilometers	20
+
+39o   
+36
+o
+ge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+113o 45'
+114o
+Utah Nevada
+114º 15'
+
+Because of the wide variety of structural levels exposed in the lower tier of the SR metamorphic core complex, the record of Cretaceous deformation, meta- morphism, and magmatism is highly variable. In the southern Snake Range, a weak cleavage that dips west relative to bedding and crenulates the older Jurassic cleavage is locally developed (Miller et al., 1988). Miller et al. (1988) correlated this cleavage with a similar one in the Schell Creek Range to the west and inferred a Cretaceous age for both. They interpreted this younger cleavage to have developed in response to top-to-the-east simple shear. Cretaceous metamor- phism in the southern Snake Range is restricted to the contact aureoles of a few small Late Cretaceous two- mica granitic plutons (Lee et al., 1986; Miller et al., 1988). Available K-Ar muscovite data for these plutons indicate that they cooled below ~300ºC within a few million years of their emplacement (Lee et al., 1970, 1981, 1986). This, coupled with their narrow contact aureoles, indicates emplacement at relatively shallow depths. A similar history of shallow Late Cretaceous plutonism and localized metamorphism, largely cen- tered about the 75±9 Ma (U-Pb zircon) Tungstonia granite, is recorded in the Kern Mountains (Fig. 5) (Lee et al., 1986; Gans, 1987; Miller et al., 1988).
+Mostofthelowertierofthenorthern Snake Range experienced pervasive Barrovian metamorphism and penetrative deformation during the Late Cretaceous (Lee and Fischer, 1985; Geving and Holdaway, 1986; Geving, 1987; Miller et al., 1988; Miller and Gans, 1989; Huggins and Wright, 1989; Huggins, 1989; Gans et al., 1993; Lewis et al., 1999; Conrad and Colberg, 2005). Tertiary penetrative deformation has largely overprinted earlier deformation fabrics in the northern Snake Range, and Cretaceous defor- mation fabrics are now preserved only in the north- west part of the range and as inclusion trails within porphyroblasts (Huggins, 1989; Lewis et al., 1999). A 100±8-Ma (U-Pb, zircon) granitic to tonalitic plutonic complex affected by Late Cretaceous meta- morphism is exposed in the lowest structural levels throughout the central part of the northern Snake Range (Fig.  5)  (Miller et al., 1988). A swarm of
+~82-Ma (U-Pb monazite) granitic pegmatite dikes intrudes both the plutonic rocks and surrounding metamorphic rocks (Fig. 5) (Miller et al., 1988; Miller and Gans, 1989; Huggins and Wright, 1989; Huggins, 1989). Igneous zircons and metamorphic monazite from the northern Snake Range give direct
+ U-Pb dates of metamorphism that all cluster around 78 Ma (Lee and Fischer, 1985; Huggins and Wright, 1989; Huggins, 1989). Thermobarometric stud- ies have been carried out in several locations in the lower tier in the southern part of the northern Snake Range (Geving and Holdaway, 1986; Geving, 1987; Huggins and Wright, 1989; Huggins, 1989; Lewis et al., 1999; Conrad and Colberg, 2005). Estimates of peak metamorphic temperatures are fairly consistent and range from 500–560ºC in the south, increasing to 600ºC or higher closer to the Cretaceous plutons exposed in the center of the range. Estimates of peak metamorphic pressures are highly variable, how- ever, ranging from ~3.8 to 8.0–9.5 kb. By integrat- ing data from three independent thermobarometers coupled with detailed petrographic studies, Lewis et al. (1999) estimated that a peak pressure of 8.1±0.7 kb was reached during Late Cretaceous metamor- phism.
+The depth and mechanism(s) of burial of the lower tier of the northern Snake Range have been a subject of much debate (Miller et al., 1983; Bartley and Wernicke, 1984; Gans et al., 1985; Gans and Miller, 1985; Wernicke and Bartley, 1985; Lewis et al., 1999). Miller et al. (1983) originally proposed that the rocks of the lower tier of the SR metamor- phic core complex never reached depths greater than the stratigraphic depth of the lowest exposed units or 9–12 km. However, a growing body of petrologic and thermobarometric data indicates that the lowest structural levels of the northern Snake Range reached depths of ~30 km or more during the Cretaceous (Huggins, 1989; Lewis et al., 1999; Conrad and Colberg, 2005). This is in stark contrast to the south- ern Snake Range and Kern Mountains that indeed appear to have never reached depths much greater than the depth of stratigraphic burial (9–12 km) (McGrew, 1986; 1993; Miller et al., 1988). In the northwestern part of the northern Snake Range Lee et al. (1999a, 1999b) have documented a km-scale, east- vergent, recumbent, tight-to-isoclinal synform and some small east-vergent thrust faults and associated folds that they assign a Late Cretaceous age. Lewis et al. (1999) proposed a loosely constrained model that involves tectonic burial via a thick-skinned, west- vergent thrust system. Beyond this, however, little is known or understood about the mechanisms accom- modating the apparent deep burial of the lowermost tier of the northern Snake Range. Finally, there is
+
+limited evidence for an episode of Late Cretaceous tectonic exhumation in the area of the SR core com- plex (Gans et al., 1993).
+Tertiary History
+A protracted history of Tertiary crustal-scale extension is recorded in the lower tier and fric- tional/brittle upper tier of the SR core complex. As with the extent of Mesozoic tectonic burial, the nature of this extensional deformation and the amount of tectonic exhumation have been a subject of much debate. Miller et al. (1983) and Gans and Miller (1985) originally interpreted the mylonitic shear zone and frictional/brittle detachment fault in the northern Snake Range as an exhumed, “fossil” plastic-to-frictional/brittle transition zone wherein the mylonite zone records pure-shear stretching of the plastic middle and lower crust. Subsequently, Bartley and Wernicke (1984) and Wernicke and Bartley (1985) interpreted these structures as large-displacement, low-angle normal faults. Microstructural and quartz c-axis fabric analyses from the footwall shear zones of the SR core complex indicate that the eastern two-thirds of these structures are characterized by large com- ponents of noncoaxial deformation accommodat- ing top-to-the-east, normal-sense displacement. Mylonites in the westernmost part of the northern Snake Range experienced a more coaxial defor- mation history (McGrew, 1986; 1993; Lee et al., 1987). Within the northern Snake Range, a ret- rograde metamorphic event accompanied Tertiary penetrative deformation, growing new chlorite at structurally high levels and new biotite and local staurolite at structurally low levels (Geving, 1987; Huggins, 1989; McGrew, 1993; Lewis et al., 1999; Conrad and Colberg, 2005). Elsewhere in the SR core complex, Tertiary metamorphism is largely restricted to the narrow contact aureoles of ~39– 36-Ma plutons that intrude the southern Snake Range and Kern Mountains (Fig. 5) (Miller et al., 1988). Tertiary intrusive bodies are notably absent from the northern Snake Range. The ~39–36-Ma plutonic episode also overlaps temporally with an extensive episode of intermediate to felsic volca- nism dated at 36–35 Ma (Gans et al., 1989). A second less voluminous period of episodic volca- nism with no known plutonic equivalent occurred between 29–23 Ma (Gans et al., 1989).
+ A progressive west-to-east decrease in K-Ar and 40Ar/39Ar mica cooling ages has long been recognized in the lower tier of the SR metamorphic core com- plex (Fig. 5) (Lee et al., 1970, 1980, 1986; Miller et al., 1988, 1999a; Lee and Sutter, 1991). The far west- ern side of the northern Snake range cooled below
+~300ºC by 50 million years ago, whereas the west- ern edge of the southern Snake Range cooled below
+~300ºC soon after the emplacement of the Jurassic plutons (Fig. 5). Modeling of 40Ar/39Ar spectra obtained from K-feldspars collected across the north- ern Snake Range indicates that the SR core complex experienced three episodes of rapid cooling during the Tertiary (Lee, 1995). The first of these took place in the middle Eocene (48–41 Ma) and is recognized only in the western part of the northern Snake Range (Lee, 1995). This cooling phase is probably related to initial formation of the low-angle, frictional/brittle Snake Range décollement and the apparent coaxial deformation recognized in the underlying mylonite zone in this part of the northern Snake Range (Lee et al., 1987; Lee, 1995). The second rapid cooling phase took place during the Oligocene (30–26 Ma) (Lee, 1995). This cooling phase corresponds to a well-doc- umented episode of extension in the upper tier of the SR core complex, with high-angle normal faults cut- ting ~36-Ma volcanic rocks (Rowles, 1982; Miller et al., 1983; Miller et al., 1988; Gans et al., 1989). Final tectonic exhumation of the SR core complex along the Snake Range décollement occurred during the Miocene (~17 Ma) (Lee, 1995; Miller et al., 1999a). This phase of tectonic exhumation apparently took place very rapidly, as apatite fission-track cooling ages are indistinguishable (within error) across strike within most of the lower tier of the southern Snake Range and all of the northern Snake Range (Miller et al., 1999a). Noncoaxial deformation in the mylonite zones beneath the Snake Range décollement in the eastern half of the SR core complex may have taken place during both the Oligocene and, in the far east- ern part of the range, Miocene episodes of extensional deformation and tectonic exhumation (Lee, 1995; Miller et al., 1999a). The mica and K-feldspar cool- ing data from the SR core complex argue strongly in favor of a rolling-hinge geometry for the Snake Range décollement (Wernicke and Axen, 1988; Lee, 1995); however, the last stage of tectonic exhumation apparently took place synchronously across most of the core complex (Miller et al., 1999a).
+
+SYNTHESIS AND DISCUSSION
+Introduction
+
+The data and interpretations outlined in the pre- vious sections show that the rocks exposed in the R-EH, A-RR-GC, and SR metamorphic core com- plexes record similar tectonic histories. A widely rec- ognized three-part, first-order subdivision of the tec- tonic events recorded in the core complexes includes:
+(1) a Precambrian history involving Late Archean magmatism, development of a Paleoproterozoic pas- sive margin, and Neoproterozoic rifting along the western margin of North America that resulted in a second passive margin; (2) initiation of contractional deformation, magmatism, and metamorphism in the Late Jurassic leading to significant crustal thicken- ing during Cretaceous time and possibly an episode of Late Cretaceous to early Tertiary tectonic exhu- mation; and (3) a protracted and episodic history of mid-Tertiary crustal-scale tectonic denudation and variable magmatism. These events are summarized graphically in Figure 6. Below this first-order synthe- sis, however, several important differences exist among the three core complexes. These differences allow for significant conclusions to be drawn concerning the nature of tectonic events in the region and the pro- cesses operating in the hinterland of the Sevier oro- genic wedge. Hence, what follows is an analysis and discussion of the structural, magmatic, and metamor- phic histories of the R-EH, A-RR-GC, and SR core complexes as they relate to the Mesozoic and Tertiary tectonic history of the region and the processes that operated during the collapse of the Sevier orogenic wedge and the initial development of the Basin and Range extensional province.
+Timing and Style of Mesozoic Crustal Thickening
+The timing of the Mesozoic deformational, mag- matic, and metamorphic events is fairly well con- strained in both the R-EH and SR metamorphic core complexes. Moreover, information from recent geochronologic studies of metamorphic rocks in the A-RR-GC core complex coupled with thermo- chronologic data allow for a broad reconstruction of Mesozoic events in this region. In all three areas, the initiation of Mesozoic plastic contractional deforma- tion and magmatism is loosely constrained to the
+ Late Jurassic (Fig. 6). After the initial pulse of Late Jurassic magmatism and deformation, both the R-EH and SR core complexes underwent protracted con- tractional deformation throughout the Cretaceous (Fig. 6). Peak metamorphic conditions in these two areas were reached at ~84 Ma, and this metamor- phism appears to be intimately related to an exten- sive pulse of peraluminous granitic magmatism. The A-RR-GC core complex also records protracted epi- sodic deformation, thrust burial, and metamorphic mineral growth throughout much of the Cretaceous. However, contractional deformation stalled by ~105 Ma and the A-RR-GC core complex underwent mul- tiple periods of significant extensional exhumation punctuated by renewed contraction and thrust burial, while the other two areas were experiencing crustal thickening, extensive magmatism, and high-grade metamorphism (Fig. 6). The cause of this regional variation in the style and timing of Late Cretaceous deformation remains unclear, but it is interesting to note that this upper-crustal extension was not associ- ated with magmatic activity. This observation illus- trates that extension and magmatism need not always be linked. There also appears to be spatial variation in the style of Mesozoic contractional deformation and related metamorphism and magmatism. The SR and A-RR-GC core complexes lie along strike within the hinterland of the Sevier orogenic belt (Fig. 1); not surprisingly, they record similar peak metamorphic temperatures at similar depths of burial. The style of Mesozoic contractional deformation in these areas is also similar, consisting of penetrative fabric devel- opment, localized folding, low-angle faulting, and evidence for top-to-the-east movement. In contrast, the R-EH core complex records much higher peak metamorphic temperatures and is characterized by extensive migmatization and large-scale fold-nappe emplacement within the lower tier. These observa- tions record a fundamental change in the style of con- tractional deformation in the hinterland of the Sevier orogenic belt where higher metamorphic tempera- tures and associated partial melting have facilitated greater plastic flow of the lower crust.
+We attribute the apparent lack of syncontrac- tional magmatism in the A-RR-GC core complex to the composition of the lower crust in this area. Most of the core complex is underlain by relatively dry adamellite, metatrondhjemite, and metagabbro with only local domains of metapelitic rocks. Compared to
+
+
+
+
+
+Time scale	Ruby-East Humboldt
+ Albion-Raft River-Grouse Cr.
+ Snake Range
+
+
+Ma
+5	Pliocene
+ Magmatism
+ Deformation and Metamorphism
+ Magmatism
+ Deformation and Metamorphism
+ Magmatism
+ Deformation and Metamorphism
+
+
+
+
+
+
+Miocene
+Late
+
+
+
+
+
+
+
+
+
+
+
+aniti
+aniti
+
+Oligocene
+
+
+Core complex exhumation
+Plutonism and extensive volcanism
+Voluminous dike emplacement
+ 
+
+
+
+Middle
+MMSZ and Middle Mountain detachment
+ West to East core complex exhumation along
+RRSZ and Raft River detachment
+ 
+
+
+
+
+
+
+
+
+
+
+pis
+dic
+anis
+Extension and exhumation,
+Initial development of mylonitic
+
+Eocene
+Tertiary
+Early
+ 
+
+
+
+
+
+
+
+Core complex exhumation along Snake Range decollement and high-angle normal faulting
+
+
+
+
+
+
+
+Late
+Paleocene
+
+
+
+
+
+
+
+Cretaceous
+ 
+
+
+
+
+
+
+
+
+
+
+Migmatization and leucogranite emplacement
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ctio
+atio
+hic
+enin
+ovia
+phis
+nditi
+
+Early
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCoonnttrraactionnaall ddeeffoorrmmationn,, crustal tthickkeningg and BBaarrrroviann mmeettaammoorrphismm;; peak ccoonditioonnss
+~800 oC and 9 Kb
+
+phic
+ultin
+ EEmigrraanntt Pass pplluuttonic complex
+ 
+
+mig
+shear zone
+
+
+
+
+
+ldin
+phis
+in Wood Hills
+
+Extension and exhumation
+
+Extensional faulting
+
+
+
+pis
+dic
+ctio
+atio
+hic
+enin
+phis
+nditi
+o
+and 6.5 Kb
+ 
+
+
+onic
+
+
+
+Pluton and dike emplacement
+
+
+
+
+
+Late Cretaceous plutonic complex
+
+
+
+Late Jurassic plutonic suite
+ 
+
+
+Initial development of Snake Range decollement
+
+
+
+
+
+
+
+phis
+in
+> 600 C and 8.1 Kb
+
+
+?
+
+
+
+Top-to-W contractional deformation and variable prograde metamorphism associated with plutons
+
+250
+
+
+1000
+ Permian
+
+
+
+Proterozoic
+ 
+Tertiary igneous rocks
+Cretaceous igneous rocks
+Jurassic igneous rocks
+ Key
+ 
+
+Contractional deformation
+
+Extensional deformation
+
+
+Inferred equivalent Cheyenne belt deformation
+ 
+Boundaries dashed where uncertain, faded where highly uncertain
+
+
+
+
+
+
+2500
+
+3000
+ Early
+
+
+Archean
+ 
+
+
+
+
+Minimum intrusive age for Archean orthogneiss
+ 
+
+Inferred rifting of Archean Wyoming craton
+ 
+
+
+
+
+Adamelite; also earlier trondhjemite
+ 
+
+Inferred rifting of Archean Wyoming craton
+
+
+
+
+
+Figure 6. Diagram illustrating the major deformational, magmatic, and metamorphic events recorded in the Ruby Mountains- East Humboldt Range, Albion Mountains-Raft River Mountains-Grouse Creek Mountains, and Snake Range core complexes as discussed in the text. Logarithmic time scale in Ma.
+
+the Neoproterozoic passive-margin pelites that must structurally underlie much of the R-EH and SR met- amorphic core complexes, these Archean rocks pro- vided a relatively infertile source for melt generation. These observations serve to illustrate the importance of the composition of the lower crust in controlling the distribution of magmatism within orogenic sys- tems.
+Timing and Style of Tertiary Extension
+In all three areas, significant crustal-scale exten- sion began in the middle to late Eocene and was closely followed by a ~42–36-Ma episode of magma- tism (Fig. 6). Late Eocene extensional deformation fabrics yield: (1) a top-to-the-west-northwest sense of displacement along the Middle Mountain shear zone in the A-RR-GC metamorphic core complex; (2) an east-southeast–west-northwest pure-shear-dominated elongation direction in the SR metamorphic core complex; and (3) an inferred top-to-the-west-north- west sense of motion in the Wood Hills and R-EH core complex. These observations indicate a region- ally homogeneous stress field throughout the north- eastern Great Basin at this time. In all three areas, the initial phase of extensional deformation seems to have stalled in the late Eocene (Fig. 6). Crustal-scale, west-northwest-directed extension and magmatism resumed in the mid-Oligocene in the R-EH and SR core complexes, leading to final exhumation of the northern and central parts of the R-EH core com- plex by the late Oligocene and final exhumation of the SR core complex by late early Miocene time (Fig. 6). The A-RR-GC core complex also experienced a mid-Oligocene episode of magmatism. However, extension leading to core-complex exhumation in the A-RR-GC core complex did not resume until the end of the Oligocene and continued through- out most of the Miocene (Fig. 6). This later pulse of extension was east–west-directed and largely accom- modated along the top-to-the-east Raft River shear zone. Contemporaneous extension in the SR meta- morphic core complex is west-northwest–east-south- east directed. These data indicate that the regional stress field was somewhat inhomogeneous during the Miocene, in contrast to the regionally homogenous stress field present during the Eocene pulse of exten- sional deformation. To summarize, both pulses of extension occurred slightly earlier in the R-EH core complex than in the SR and A-RR-GC core complexes
+ to the east. The final stages of extension in the A-RR- GC core complex were east–west-directed, indicating a change in the regional stress field. The timing of magmatism remains relatively constant throughout the region. However, the timing of extensional defor- mation varies between the three core complexes, indi- cating that late Oligocene magmatism and extension may not be entirely temporally linked in the north- ern Basin and Range province. Finally, the last stages of exhumation in the R-EH and SR core complexes and the western half of the A-RR-GC metamorphic core complex took place nearly synchronously across the north–south-trending ranges. The Raft River Mountains, on the other hand, record progressive west-to-east unroofing along the frictional/brittle Raft River detachment fault.
+The data presented above show that the meta- morphic rocks exposed in the R-EH, A-RR-GC, and SR core complexes record a wide variety of peak metamorphic pressures. Since all of these rocks cur- rently lie at the same structural level (plus or minus a km of current topography), the observed variations in peak-metamorphic pressures must represent different amounts of exhumation during Late Cretaceous(?) and Tertiary extension. In the R-EH core com- plex, peak metamorphic pressures developed during Cretaceous tectonic burial range from 4–4.5 kb in the central Ruby Mountains to ~9 kb in the northern East Humboldt Range. This indicates a ~15-km dif- ference in the amount of tectonic exhumation over a horizontal distance of ~80 km. Thermochronologic and petrologic data from the East Humboldt Range show that this area had decompressed to 3–4 kb by the Oligocene. Therefore, the along-strike variation in the amount of tectonic exhumation within the R-EH core complex may be due to localized pre-Oligocene extension in the northern part of the core complex (see Snoke and Mueller, 1993).
+Three possibilities arise from this along-strike variation in the amount of exhumation: (1) the crust beneath the northern East Humboldt Range is now significantly thinner than that beneath the central Ruby Mountains; (2) the crust in the northern East Humboldt Range was significantly thicker than the crust in the central Ruby Mountains during the Late Cretaceous (Howard, 2003); and (3) some form of deep-crustal flow has allowed for significantly more mid-crustal exhumation in the northern part of the R-EH core complex. Seismic data indicate that the
+
+current thickness of the crust beneath the northeast- ern Great Basin is relatively uniform, and that the R- EH metamorphic core complex is underlain by the thickest crust in the region (Allenby and Schnetzler, 1983; Das and Nolet, 1998). Consequently, a large variation in the present-day crustal thickness result- ing from differential exhumation seems unlikely. Evidence presented by MacCready et al. (1997) sup- ports the notion of northward flow of the lower crust synchronous with extension along the mylonitic shear zone of the R-EH core complex. This is consistent with the hypothesis that some form of deep-crustal flow allowed for variations in the amount of tectonic exhumation during the Tertiary by redistributing the lower crust to areas of large-magnitude crustal exten- sion. Comparisons of the fill in adjacent Tertiary basins with the amount of exhumation in the core complex also supports this hypothesis (Satarugsa and Johnson, 2000). A similar model proposed by Gans (1987) for the eastern Great Basin at the latitude of the SR core complex utilized east–west-directed lower- crustal flow and mantle-derived magmatic additions to explain extreme transport-parallel variations in the amount of middle- and upper-crustal extension and the flat Moho in the region. Alternatively, the evidence for decompression predating exhumation associated with the Tertiary mylonite zone in the northern East Humboldt Range and Wood Hills may indicate significantly thicker crust in that immediate area during the Late Cretaceous. In all likelihood, the exposure of deeper crustal levels in the northern part of the R-EH core complex is a result of both variations in Mesozoic crustal thickening and subsequent varia- tions in Tertiary extension that appear to be partially accommodated by plastic redistribution of the lower crust.
+A similar variation in Late Cretaceous meta- morphic conditions is also recorded in the SR core complex with peak pressures ranging from 3–4 kb in the southern Snake Range and Kern Mountains to >8 kb in the northern Snake Range in the center of the core complex. However, unlike the gradational variations recorded in the R-EH metamorphic core complex, this 12–15-km difference in the amount of tectonic exhumation is abrupt, taking place over a horizontal distance of 20–25 km across complexly faulted and poorly exposed rocks in topographically low areas separating different parts of the core com- plex (Fig. 5). As with the R-EH core complex, varia-
+ tions in the amount of tectonic exhumation recorded in the SR core complex could also be explained if the initial mid-Eocene phase of tectonic exhumation was restricted to the northern Snake Range. However, this hypothesis is not supported by structural studies of the upper tier. These studies indicate that all of the extensional faults in the region are intimately tied to the Snake Range décollement, which is exposed in the northern and southern Snake Range (Miller et al., 1983, 1999a). Therefore, we feel that the abrupt variations in the amount of tectonic exhumation in the SR core complex require some form of lateral ramp or transverse fault system in the Snake Range décollement to localize an additional 12 km or more of exhumation in the vicinity of the northern Snake Range. These structures may now lie in the poorly exposed regions separating different parts of the SR metamorphic core complex. As with the R-EH core complex, some form of north–south-directed, syn- extensional lower-crustal redistribution of material and/or magmatic additions to the crust are needed to maintain a relatively constant crustal thickness. Gans (1987) pointed out that extension-parallel (east–west-directed) redistribution of the lower crust is needed in order to maintain a relatively flat Moho in the northeastern Great Basin. The evidence for abrupt, large-magnitude, extension-perpendicular (north–south) variations in the amount of exhuma- tion outlined above emphasizes the additional need for north–south-directed lower-crustal flow into highly extended domains in order to maintain a con- stant crustal thickness in this region. These combined observations require a complex, three-dimensional pattern of lower crustal flow and magmatic additions throughout the northeastern Great Basin, a conclu- sion which should be applicable to many other exten- sional provinces as well. The very localized (variations over 10s of kms) and complex nature of lower crustal redistribution and magmatic additions required by these observations should be taken into consideration in the processing and interpretation of land-based seismic-reflection lines that commonly incorporate off-line receivers and therefore sample a three-dimen- sional volume of crust.
+From examination of the data presented above, it is also apparent that the R-EH and SR core com- plexes expose deeper structural levels than the A-RR- GC core complex, which records peak metamorphic pressures of ~6.5 kb in the Grouse Creek Mountains.
+
+Three possibilities arise to explain the variation in the amount of exhumation recorded in the three terranes:
+(1) the crust beneath the R-EH and SR core com- plexes is now thinner than the crust beneath the A- RR-GC core complex; (2) crustal thickening during the Late Cretaceous in the R-EH and SR areas was greater than that in A-RR-GC area; and (3) the syn- contractional episodes of extension recorded in the A-RR-GC core complex maintained a thinner crust during Mesozoic contraction. As previously noted, large-scale variations in present-day crustal thickness seem unlikely, and the R-EH core complex is under- lain by the thickest crust in the region (Allenby and Schnetzler, 1983; Das and Nolet, 1998). The volumi- nous Mesozoic plutonism recorded in the R-EH and SR core complexes and the complete lack of Mesozoic magmatism exposed in the A-RR-GC metamorphic core complex indicate greater crustal thickening in the first two areas. However, it may be that signifi- cant Mesozoic intrusions were emplaced beneath the A-RR-GC core complex and are simply not exposed at the current level of erosion. Additionally, the dry Archean intrusive rocks that make up much of the basement of the A-RR-GC core complex would be relatively difficult to melt during orogenesis. In such a case, the earlier syncontractional extensional defor- mation would have to account for the variations in Tertiary exhumation. Structural and metamorphic data indicate as much as 2 kb of tectonic decompres- sion between thrust-loading episodes during contrac- tional deformation in the A-RR-GC core complex (Wells et al., 1990, 1998; Hoisch et al., 2002a). This would account for the difference in Tertiary exhuma- tion among the three core complexes while maintain- ing a similar level of total Mesozoic thrust loading. Consequently, it would appear that the lower amount of Tertiary exhumation in the A-RR-GC core com- plex is likely a result of syncontractional extension that maintained the overall crustal thickness in the region at a lower level than what was achieved in the R-EH and SR areas.
+The development of oppositely vergent, diachro- nous shear zones within Cordilleran metamorphic core complexes is unique to the A-RR-GC metamor- phic core complex. This geometry may have arisen in response to the apparent late Oligocene/Early Miocene change in the regional stress field outlined above. Alternatively, the opposing diachronous exten- sional shear zones in the A-RR-GC core complex may
+ have developed because continued strain accumu- lation along the older Middle Mountain shear zone became unfavorable due to an inability to transport lower-crustal material (by either magmatic additions or solid-state flow) into domains of localized intense mid-crustal extensional strain. This would result in the extensional strain being redistributed into adjacent domains of thick crust. The latter of these hypotheses is supported by a lack of evidence for Tertiary mobili- zation of the autochthon of the A-RR-GC core com- plex and by the absence of a regional metamorphic event accompanying Tertiary extension.
+The preceding synthesis illustrates how far our understanding of the R-EH, A-RR-GC, and SR core complexes and surrounding areas has progressed. However, many important questions remain unan- swered. For instance, the SR core complex has been the center of much debate concerning the nature of metamorphic core complex detachment faults and their associated footwall shear zones (Miller et al., 1983; Bartley and Wernicke, 1984; Gans et al., 1985; Gans and Miller, 1985; Wernicke and Bartley, 1985; Lee, 1995; Lewis et al., 1999). Advances in the analysis of flow in plastically deformed rocks present opportunities to test each of the end-member models (pure-shearthinningvs. large-magnitudesimple-shear translation) for the footwall shear zone in the north- ern Snake Range. Recent advances in geochronology have also helped to develop a first-order understand- ing of the timing of Mesozoic deformation and meta- morphism in the A-RR-GC core complex, but the exact nature and extent of these processes within this area are still poorly understood. A better understand- ing of their nature and distribution will also help to unravel the cryptic Archean history in this area. Five distinct episodes of peraluminous granite magmatism during both extensional and contractional deforma- tion have been recognized in the R-EH core complex, but the source of this voluminous granite melt has not yet been determined. Finally, as our understand- ing of the timing and significance of the large-scale features in each of these core complexes is refined, we can begin to unravel their fine-scale heterogeneities. A more precise understanding of the timing and nature of deformation, magmatism, and metamorphism in these terranes will help us to better understand the apparently episodic patterns of contraction and exhu- mation recorded in the hinterland of the Sevier oro- genic belt and orogenic wedges in general.
+
+CONCLUSIONS
+
+The data and interpretations summarized in this paper demonstrate that rocks exposed in the R-EH, A- RR-GC, and SR metamorphic core complexes record similar tectonic histories (Fig. 6). Widely recognized tectonic events recorded in these rocks include: (1) Late Archean magmatism and the development of two passive margins; (2) significant protracted Mesozoic crustal thickening beginning in the Late Jurassic and culminating in the Late Cretaceous; and
+(3) significant protracted but episodic Tertiary exten- sion and magmatism. Furthermore, an examination of variations in the style, timing, and distribution of deformation, metamorphism, and magmatism in the three core complexes leads to several important con- clusions concerning the tectonic history of the region and nature of accommodation of crustal thickening and subsequent tectonic denudation in the Sevier oro- genic wedge.
+Mesozoic tectonism began in the Late Jurassic in all three areas. Protracted episodic contractional defor- mation and crustal thickening continued throughout much of the Cretaceous, culminating in extensive magmatism and peak metamorphism at ~84 Ma in the R-EH and SR core complexes. The A-RR-GC core complex, on the other hand, experienced an episode of extensional deformation at this time. This serves as an example of the importance of extensional denu- dation in making syncontractional adjustments to orogenic wedges but also indicates that these adjust- ments need not occur throughout the entire hinter- land of an orogen. Additionally, the apparent effect of these syncontractional adjustments on the amount of later Tertiary crustal extension and exhumation that developed in the A-RR-GC area as compared to the R-EH and SR areas indicates that syncontractional processes may help to control the extent and distribu- tion of subsequent crustal-scale extension. A paucity of Mesozoic magmatic activity in the A-RR-GC core complex is likely caused by the relatively dry, infertile Archean basement beneath this area compared to the thick Neoproterozoic passive-margin pelites that we believe must structurally underlie much of the R-EH and SR core complexes.
+Each of the three core complexes experienced an initial middle Eocene pulse of extensional deforma- tion closely followed by a late Eocene episode of mag- matism. A second magmatic episode occurred during
+ mid-Oligocenetimeinallthreeareas. However, exten- sional deformation leading to core-complex develop- ment is diachronous throughout the region, ranging from mid-Oligocene to middle to late Miocene. This indicates that Oligocene extension and magmatism may not be totally linked in the northern Basin and Range province. The amount of Late Cretaceous(?) and Tertiary tectonic denudation experienced within the R-EH and SR core complexes is highly variable. In the R-EH area, this variation likely resulted from restriction of Late Cretaceous(?) and middle Eocene pulses of extension to the northern part of the core complex. Variations intectonicexhumationwithinthe SR core complex likely resulted from a lateral ramp in the Snake Range décollement. These intra-core, com- plex variations in extensional exhumation appear to be partly accommodated by solid-state flow of the lower crust into regions of high mid- to upper-crustal exten- sion. This lower-crustal redistribution must include both extension-parallel and subordinate extension- perpendicular components in addition to heteroge- neous magmatic additions to the lower crust. These observations require the lower crust in this region to be heterogeneous, and the potential for abrupt exten- sion-perpendicular compositional variations should be considered in processing and interpreting geophys- ical data. Moreover, one plausible explanation for the development of the Raft River shear zone in the A- RR-GC metamorphic core complex is that slip on the Middle Mountain shear zone was impeded by the inability of the more rigid Archean lower crust to flow into an area of large-magnitude mid-crustal exten- sion. These interpretations concerning the lower crust call attention to the potential importance of lower- crustal flow in localizing extreme extensional strains in the mid-crust by helping to maintain a constant crustal thickness throughout an extending region.
+
+ACKNOWLEDGMENTS
+
+This compilation would not have been possi- ble without the scientific contributions of all of the authors listed in the “References Cited” section. We especially acknowledge  early geologic  mapping of
+K. A. Howard, R. R. Compton, and the late R. L. Armstrong. Subsequent detailed geologic maps pub- lished by P. B. Gans, J. Lee, A. J. McGrew, E. L. Miller,
+M. L. Wells, and many other geologists also served as valuable resources in this compilation and synthesis.
+
+B. R. Frost, B. E. John, and R. D. Law provided help- ful informal reviews of this manuscript, and it has been substantially improved by formal reviews from
+M. L. Wells and J. Lee, but any errors of omission or interpretation are our own.
+REFERENCES CITED
+
+Allenby, R. J., and Schnetzler, C. C., 1983, United States crustal thickness: Tectonophysics, v. 93, p. 13–31.
+Armstrong, R. L., 1968a, The Sevier orogenic belt in Nevada and Utah: Geological Society of America Bulletin, v. 79, p. 429–458.
+____1968b, Mantled gneiss domes in the Albion Mountains, southern Idaho: Geological Society of America Bulletin, v. 79, p. 1295–1314.
+____1972, Low angle (denudation) faults, hinterland of the Sevier orogenic belt, eastern Nevada and western Utah: Geological Society of America Bulletin, v. 83, p. 1729– 1754.
+____1976, The geochronology of Idaho (Part 2): Isochron/ West, no. 15, p. 1–33.
+____1982, Cordilleran metamorphic core complexes—from Arizona to southern Canada: Annual Reviews of Earth and Planetary Sciences, v. 10, p. 129–154.
+Armstrong, R. L., and Hansen, E., 1966, Cordilleran infra- structure in the eastern Great Basin: American Journal of Science, v. 264, p. 112–127.
+Barnes, C. G., Burton, B. R., Burling, T. C., Wright, J. E., and Karlsson, H. R., 2001, Petrology and geochemistry of the late Eocene Harrison Pass pluton, Ruby Mountains core complex, northeastern Nevada: Journal of Petrology, v. 42, p. 901–929.
+Bartley, J. M., and Wernicke, B. P., 1984, The Snake Range décollement interpreted as a major extensional shear zone: Tectonics, v. 3. p. 647–657.
+Bennett, V. C., and DePaolo, D. J., 1987, Proterozoic crustal history of the western United States as determined by neo- dymium isotopic mapping: Geological Society of America Bulletin, v. 99, p. 674–685.
+Brooks, W. E., Thorman, C. H., and Snee, L. W., 1995, The 40Ar/39Ar ages and tectonic setting of the middle Eocene northeast Nevada volcanic field: Journal of Geophysical Research, v. 100, p. 10,403–10,416.
+Camilleri, P. A., 1994, Mesozoic and Cenozoic tectonic and metamorphic evolution of the Wood Hills and Pequop Mountains, Elko County, Nevada [Ph.D. dissert.]: Laramie, University of Wyoming, 196 p.
+____1996, Evidence for late Cretaceous-early Tertiary(?) exten- sion in the Pequop Mountains, Nevada: Implications for the nature of the early Tertiary unconformity, in Taylor,
+ W. J., and Langrock, H., eds., Cenozoic structure and stratigraphy of central Nevada: Reno, Nevada Petroleum Society, 1996 Field Conference Volume, p. 19–28.
+Camilleri, P. A., and Chamberlain, K. R., 1997, Mesozoic tec- tonics and metamorphism in the Pequop Mountains and Wood Hills region, northeast Nevada: Implications for the architecture and evolution of the Sevier orogen: Geological Society of America Bulletin, v. 109, p. 74–94.
+Colgan, J. P., and Metcalf, J. R., 2006, Rapid Miocene unroof- ing of the southern Ruby Mountains, Nevada: Geological Society of America Abstracts with Programs, v. 38, no. 7, p. 417.
+Compton, R. R., 1972, Geologic map of the Yost quadrangle, Box Elder County, Utah and Cassia County, Idaho: U.S. Geologic Survey Miscellaneous Investigation Map I-672, scale 1:31,680, 2 sheets and 7 page pamphlet.
+____1975, Geologic map of the Park Valley quadrangle, Box Elder County, Utah and Cassia County, Idaho: U.S. Geologic Survey Miscellaneous Investigation Map I-873, scale 1:31,680, 1 sheets and 6 page pamphlet.
+____1980, Fabrics and strains in quartzites of a metamorphic core complex, Raft River Mountains, Utah, in Crittenden,
+M. D., Coney, P. J., and Davis, G. H., eds., Cordilleran metamorphiccorecomplexes:Boulder,Colorado,Geological Society of America Memoir 153, p. 271–279.
+Compton, R. R., Todd, V. R., Zartman, R. E., and Naeser, C. W., 1977, Oligocene and Miocene metamorphism, fold- ing, and low angle faulting in northwest Utah: Geological Society of America Bulletin, v. 88, p. 1237–1250.
+Coney, P. J., 1979, Tertiary evolution of Cordilleran metamor- phic core complexes, in Armentrout, J. M., Cole, M. R., and TerBest, H., Jr., eds., Cenozoic paleogeography of the western United States–Pacific Coast Paleogeography Symposium 3: Los Angeles, California, Society of Economic Paleontologists and Mineralogists, The Pacific Section, p. 15–28.
+____1980, Cordilleran metamorphic core complexes: An over- view, in Crittenden, M. D., Coney, P. J., and Davis, G. H., eds., Cordilleran metamorphic core complexes: Boulder, Colorado, Geological Society of America Memoir 153, p. 7–31.
+Conrad, R., and Colberg, M., 2005, A fresh look at core com- plex development in the northern Snake Range, Nevada: Insights from metamorphism: Geological Society of America Abstracts with Programs, v. 37, no. 7, p. 71.
+Crittenden, M. D., 1979, Oligocene and Miocene metamor- phism, folding and low-angle faulting in northwest Utah: Geological Society of America Bulletin, Discussion, v. 90, p. 305–306.
+Crittenden, M. D., Coney, P. J., and Davis, G. H., eds., 1980, Cordilleranmetamorphiccorecomplexes:Boulder,Colorado, Geological Society of America Memoir 153, 490 p.
+
+Dallmeyer, R. D., Snoke, A. W., and McKee, E. H., 1986, The Mesozoic–Cenozoic tectonothermal evolution of the Ruby Mountains, East Humboldt Range, Nevada: A Cordilleran metamorphic core complex: Tectonics, v. 5, p. 931–954.
+Dalziel, I. W. D., and Brown, R. L., 1989, Tectonic denudation of the Darwin metamorphic core complex in the Andes of Tierra del Fuego, southernmost Chile; implications for Cordilleran orogenesis, Geology, v. 17, p. 699–703.
+Das, T., and Nolet, G., 1998, Crustal thickness map of the western United States by partitioned waveform inver- sion: Journal of Geophysical Research, v. 103, p. 30,021– 30,038.
+DeCelles, P. G., 2004, Late Jurassic to Eocene evolution of the Cordilleran thrust belt and foreland basin system, western U.S.A.: American Journal of Science, v. 304, p. 105–168.
+Dickinson, W. R., 2002, The Basin and Range province as a composite extensional domain: International Geology Review, v. 44, p. 1–38.
+____2007, Geotectonic evolution of the Great Basin: Geosphere, v. 2, no. 7, p. 353–368.
+Doblas, M., and Oyarzun, R., 1989, “Mantle core complexes” and Neogene extensional detachment tectonics in the west- ern Betic Cordilleras, Spain; an alternative model for the emplacement of the Ronda Peridotite: Earth and Planetary Science Letters, v. 93, p. 76–84.
+Dokka, R. K., Mahaffie, M. J., and Snoke, A. W., 1986, Thermochronologic evidence of major tectonic denuda- tion associated with detachment faulting, northern Ruby Mountains-East Humboldt Range, Nevada: Tectonics, v. 5, p. 995–1006.
+Egger, A. E., Dumitru, T. A., Miller, E. L., Savage, C. F. I., and Wooden, J. L., 2003, Timing and nature of Tertiary plutonism and extension in the Grouse Creek Mountains, Utah: International Geology Review, v. 45, p. 497–532.
+Forrest, S. E., and Miller, E. L., 1994, Oligocene plutonism and associated crustal thinning in the southern Albion Mountains, Idaho: Geological Society of America Abstracts with Programs, v. 26, no. 7, p. 192.
+Gans, P. B., 1987, Cenozoic extension and magmatism in the eastern Great Basin [Ph.D. dissert.]: Stanford, California, Stanford University, 174 p.
+Gans, P. B., and Miller, E. L., 1983, Style of mid-Tertiary extension in east-central Nevada, in Gurgel, K. D., ed., Geologic excursions in the overthrust belt and metamor- phic core complexes of the intermountain region, Nevada: Geological Society of America Field Trip Guidebook, Utah Geological and Mineral Survey Special Studies 59, p. 107–160.
+____1985, Comment on “The Snake Range décollement inter- preted as a major extensional shear zone” by John M. Bartley and Brian P. Wernicke: Tectonics, v. 4, p. 411–415.
+ Gans, P. B., Mahood, G. A., and Schermer, E., 1989, Synextensional magmatism in the Basin and Range prov- ince; A case study from the eastern Great Basin: Geological Society of America Special Paper 233, 53 p.
+Gans, P. B., Miller, E. L., and Lee, J., 1993, The Mesozoic– Cenozoic tectonic evolution of the eastern Great Basin: A revised history: Eos, Transactions, American Geophysical Union, v. 74, no. 43, p. 608.
+____1999a, Preliminary geology map of the Spring Mountain quadrangle, Nevada and Utah: Field Studies Map 18, Nevada Bureau of Mines and Geology, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+Gans, P. B. , Miller, E. L., Huggins, C. C., and Lee, J., 1999b, Preliminary geologic map of the Little Horse Canyon quadrangle, Nevada and Utah: Field Studies Map 20, Nevada Bureau of Mines and Geology, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+Gans, P. B., Miller, E. L., McCarthy, J., and Ouldcott, M. L., 1985, Tertiary extensional faulting and evolving ductile- brittle transition zones in the northern Snake Range and vicinity: New insights from seismic data: Geology, v. 13, p. 189–193.
+Geving, R. L., 1987, A study of metamorphic petrology of the northern Snake Range, east-central Nevada [M.S. thesis]: Dallas, Texas, Southern Methodist University, 85 p.
+Geving, R. L., and Holdaway M. J., 1986, Metamorphism of the Hendry’s Creek area, northern Snake Range, Nevada: Geological Society of America Abstracts with Programs, v. 18, no. 6, p. 612.
+Hanson, L. M., 1997, Metamorphic petrology of pelitic schist from the Raft River and Grouse Creek Mountains, north- west Utah [M.S. thesis]: Flagstaff, Arizona, Northern Arizona University, 238 p.
+Harris, C. R., 2003, A pressure-temperature path record of repeated thrusting and exhumation in Sevier hinterland, Albion Mountains, Idaho [M.S. thesis]: Flagstaff, Arizona, Northern Arizona University, 207 p.
+Harris, C. R., and Hoisch, T. D., 2003, A record of repeated thrusting and exhumation in footwall rocks of the Basin- Elba fault, southern Idaho, Sevier hinterland: Geological Society of America Abstracts with Programs, v. 35, no. 6, p. 224.
+Hodges, K. V., and Walker, J. D., 1992, Extension in the Cretaceous Sevier orogen, North American Cordillera: Geological Society of America Bulletin, v. 104, p. 560– 569.
+Hodges, K. V., Snoke, A. W., and Hurlow, H. A., 1992, Thermal evolution of a portion of the Sevier hinterland: The north- ern Ruby Mountains-East Humboldt Range and Wood Hills, northeastern Nevada: Tectonics, v. 11 p. 154–164.
+Hoisch, T. D., and Wells, M. L., 2004, Correlation between Th-Pb ion microprobe ages of monazite inclusions in
+
+garnet and garnet growth zoning from upper amphibolite facies schist: Implications for garnet dating: Geological Society of America Abstracts with Programs, v. 36, no. 5, p. 134.
+Hoisch, T. D., Wells, M. L., and Hanson, L. M., 2002, Pressure-temperature paths from garnet-zoning: Evidence for multiple episodes of thrust burial in the hinterland of the Sevier orogenic belt: American Mineralogist, v. 87, p. 115–131.
+Hoisch, T. D., Wells, M. L., Grove, M., Bailey, T., Harris, C., and Kelly, E., 2002, Dating of garnet growth in upper amphibolite facies schist by thorium-lead ion micro- probe dating of monazite inclusions: Geological Society of America Abstracts with Programs, v. 34, no. 6, p. 311– 312.
+Howard, K. A., 1966, Structure of the metamorphic rocks of the northern Ruby Mountains, Nevada [Ph.D. dissert.]: New Haven, Connecticut, Yale University, 170 p.
+____1971, Paleozoic metasediments in the northern Ruby Mountains, Nevada: Geological Society of America Bulletin, v. 82, p. 259–264.
+____1980, Metamorphic infrastructure in the northern Ruby Mountains, Nevada, in Crittenden, M. D., Coney, P. J., and Davis, G. H., eds., Cordilleran metamorphic core complexes: Boulder, Colorado, Geological Society of America Memoir 153, p. 335–347.
+____1987, Lamoille Canyon nappe in the Ruby Mountains metamorphic core complex, Nevada, in Hill, M. L., ed., Cordilleran Section of the Geological Society of America: Geological Society of America Centennial Field Guide, v. 1, p. 95–100.
+____2000, Geologic map of the Lamoille quadrangle, Elko County, Nevada: Nevada Bureau of Mines and Geology Map 125, scale: 1:24,000, 1 sheet and 4 page pamphlet.
+____2003, Crustal structure in the Elko-Carlin region, Nevada, during Eocene gold mineralization: Ruby-East Humboldt metamorphic core complex as a guide to the deep crust: Economic Geology, v. 98, p. 249–268.
+Howard, K. A., and MacCready, T., 2004, Geologic map of the Verdi Peak quadrangle, Elko County, Nevada: Nevada Bureau of Mines and Geology Map 147, scale: 1:24,000, 1 sheet and 4 page pamphlet.
+Howard, K. A., Kistler, R. W., Snoke, A. W., and Willden, R., 1979, Geologic map of the Ruby Mountains, Nevada:
+U.S. Geological Survey Miscellaneous Investigation Map I-1136, scale 1:125,000, 1 sheet.
+Hudec, M. R., 1992, Mesozoic structural and metamorphic history of the central Ruby Mountains metamorphic core complex, Nevada: Geological Society of America Bulletin, v. 104, p. 1086–1100.
+Hudec, M. R., and Wright, J. E., 1990, Mesozoic history of the central part of the Ruby Mountains–East Humboldt
+ Range metamorphic core complex, Nevada: Geological Society of America Abstracts with Programs, v. 22, no. 3, p. 30.
+Huggins, C. C., 1989, Nature and timing of metamorphism in the Smith Creek area, northern Snake Range, Nevada [M.S. thesis]: Stanford, California, Stanford University, 92 p.
+Huggins, C. C., and Wright, J. E., 1989, Superimposed Cretaceous and Tertiary metamorphism in the northern Snake Range, Nevada: Geological Society of America Abstracts with Programs, v. 21, no. 5, p. 95–96.
+Hurlow, H. A., Snoke, A. W., and Hodges, K. V., 1991, Temperature and pressure of mylonitization in a Tertiary extensional shear zone, Ruby Mountains–East Humboldt Range, Nevada: Tectonic implications: Geology, v. 19, p. 82–86.
+Jones, J. V., III, 1999, Deformational, magmatic, and metamor- phic history of the central Ruby Mountains, Elko County, Nevada [M.S. thesis]: Laramie, University of Wyoming, 272 p.
+Karlstrom, K. E., Flurkey, A. J., and Houston, R. S., 1983, Stratigraphy and depositional setting of Proterozoic metasedimentary rocks in southeastern Wyoming: Record of an Early Proterozoic Atlantic-type cratonic margin: Geological Society of America Bulletin, v. 94, p. 1257– 1294.
+Kelly, E. D., Hoisch, T. D., and Wells, M. L., 2003, Pressure- Temperature paths and thorium-lead monazite dating in the hanging wall of a major thrust in the hinterland of the Sevier orogenic belt, Albion Mountains, south-cen- tral Idaho: Geological Society of America Abstracts with Programs, v. 35, no. 6, p. 632.
+____2004, Metamorphic pressure-temperature paths and iso- topic dating in the hanging wall of a major thrust, Sevier hinterland, south-central Idaho: Geological Society of America Abstracts with Programs, v. 36, no. 4, p. 9.
+Kistler, R. W., Ghent, E. D., and O’Neill, J. R., 1981, Petrogenesis of garnet two-mica granites in the Ruby Mountains, Nevada: Journal of Geophysical Research, v. 86, p. 10,591–10,606.
+Lee, D. E., and Fischer, L. B., 1985, Cretaceous metamorphism in the northern Snake Range, Nevada, a metamorphic core complex: Isochron/West, v. 42, p. 3–7.
+Lee, D. E., Marvin, R. F., and Mehnert, H. H., 1980, A radio- metric age study of Mesozoic-Cenozoic metamorphism in eastern White Pine County, Nevada, and nearby Utah: U.S. Geologic Survey Professional Paper 1158–C, p. 17–28.
+Lee, D. E., Stacey, J. S., and Fischer, L. B., 1986, Muscovite-phe- nochrystic two-mica granites of northeastern Nevada are Late Cretaceous in age, in Peterman, Z. E., and Schnabel,
+D. C., eds., Shorter contributions to isotope research: U.S. Geological Survey Bulletin 1622, p. 31–39.
+
+Lee, D. E., Stern, T. W., and Marvin, R. F., 1981, Uranium- thorium-lead isotopic ages for metamorphic monazite from the northern Snake Range, Nevada: Isochron/West, no. 31, p. 23.
+Lee, D. E., Marvin, R. F., Stern, T. W., and Peterman, Z. E., 1970, Modification of potassium-argon ages by Tertiary thrusting in the Snake Range, White Pine County, Nevada: U.S. Geological Survey Professional Paper 700- D, p. 92–102.
+Lee, J., 1995, Rapid uplift and rotation of mylonitic rocks from beneath a detachment fault: Insights from potassium feld- spar 40Ar/39Ar thermochronology, northern Snake Range, Nevada: Tectonics, v. 14, p. 54–77.
+Lee, J., and Sutter, J. F., 1991, Incremental 40Ar/39Ar thermo- chronology of mylonitic rocks from the northern Snake Range, Nevada: Tectonics, v. 10, p. 77–100.
+Lee, J., Gans, P. B., and Miller, E. L., 1999a, Preliminary geo- logic map of the Third Butte East quadrangle, Nevada: Field Studies Map 16, Nevada Bureau of Mines and Geology Report 16, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+____1999b, Preliminary geologic map of the Mormon Jack Pass quadrangle, Nevada: Field Studies Map 17, Nevada Bureau of Mines and Geology, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+Lee, J., Miller, E. L., and Sutter, J. F., 1987, Ductile strain and metamorphism in an extensional tectonic setting: A case study from the northern Snake Range Nevada, USA, in Coward, M. P., Dewey, J. F., and Hancock, P. L., eds., Continental extensional tectonics: London, Geological Society of London Special Publication 28, p. 267–298.
+Lee, J., Miller, E. L., Gans, P. B., and Huggins, C. C., 1999, Preliminary geologic map of the Mount Moriah quad- rangle, Nevada: Field Studies Map 19, Nevada Bureau of Mines and Geology, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+Lee, S. Y., Barnes, C. G, Snoke, A. W., Howard, K. A., and Frost, C. D., 2003, Petrogenesisof Mesozoic, peraluminous granites in the Lamoille Canyon area, Ruby Mountains, Nevada, USA: Journal of Petrology, v. 44, p. 713–732.
+Lewis, C. J., Wernicke, B. P., Selverstone, J., and Bartley, J. M., 1999, Deep burial of the footwall of the northern Snake Range décollement, Nevada: Geological Society of America Bulletin, v. 111, p. 39–51.
+Lister, G. S., and Snoke, A. W., 1984, S-C mylonites: Journal of Structural Geology, v. 6, p. 617–638.
+Lister, G. S., Banga, G., and Feenstra, A., 1984, Metamorphic core complexes of Cordilleran type in the Cyclades, Aegean Sea, Greece: Geology, v. 12, p. 221–225.
+Lush, A. P., McGrew, A. J., Snoke, A. W., and Wright, J. E., 1988, Allochthonous Archean basement in the northern East Humboldt Range, Nevada: Geology, v. 16, p. 349–353.
+ MacCready, T., 1996, Misalignment of quartz c-axis fabrics and lineations due to oblique final strain increments in the Ruby Mountains core complex, Nevada: Journal of Structural Geology, v. 18, p. 765–776.
+MacCready, T., Snoke, A. W., Wright, J. E., and Howard, K. A., 1997, Mid-crustal flow during Tertiary extension in the Ruby Mountains core complex, Nevada: Geological Society of America Bulletin, v. 109, p. 1576–1594.
+Malavieille, J., 1987a, Extensional shearing deformation and kilometer-scale “a”-type folds in a Cordilleran metamor- phic core complex (Raft River Mountains, northwest Utah): Tectonics, v. 6, p. 423–448.
+____1987b, Kinematics of compressional and extensional duc- tile shearing deformation in a metamorphic core complex of the northeastern Basin and Range: Journal of Structural Geology, v. 9, p. 541–554.
+McGrew, A. J., 1986, Deformational history of the south- ern Snake Range, Nevada, and the origin of the south- ern Snake Range décollement [M.S. thesis]: Stanford, California, Stanford University, 46 p.
+____1992, Tectonic evolution of the northern East Humboldt Range, White Pine County, Nevada [Ph.D. dissert.]: Laramie, Wyoming, University of Wyoming, 191 p.
+____1993, The origin and evolution of the southern Snake Range décollement, east central Nevada: Tectonics, v. 12, p. 21–34.
+McGrew, A. J., and Casey, M., 1998, Quartzite fabric tran- sition in a Cordilleran metamorphic core complex, in Snoke, A. W., Tullis, J. A., and Todd, V. R., eds., Fault- related rocks—A photographic atlas: Princeton, New Jersey, Princeton University Press, p. 484–489.
+McGrew, A. J., and Miller, E. L., 1995, Geologic map of Kious Spring and Garrison 7.5’ quadrangles, White Pine and Millard counties, Nevada and Utah: U.S. Geological Survey Open File Report OF95-10, scale, 1:24,000, 1 sheet.
+McGrew, A. J., and Snee, L. W., 1994, 40Ar/39Ar thermochro- nologic constraints on the tectonothermal evolution of the northern East Humboldt Range metamorphic core com- plex, Nevada: Tectonophysics, v. 238, p. 425–450.
+McGrew, A. J., Peters, M. T., and Wright, J. E., 2000, Thermobarometric constraints on the tectonothermal evolution of the East Humboldt Range metamorphic core complex, Nevada: Geological Society of America Bulletin, v. 112, p. 45–60.
+Miller, D. M., 1980, Structural geology of the northern Albion Mountains, south-central Idaho, in Crittenden, M. D., Coney, P. J., and Davis, G. H., eds., Cordilleran meta- morphic core complexes: Boulder, Colorado, Geological Society of America Memoir 153, p. 399–423.
+____1983, Strain on a gneiss dome in the Albion Mountains metamorphic core complex, Idaho: American Journal of Science, v. 283, p. 605–632.
+
+Miller, D. M, and Bedford, D. R., 1999, Pluton intrusion styles, roof subsidence and stoping, and timing of extensional shear zones in the City of Rocks National Reserve, Albion Mountains, southern Idaho, in Spangler, L. E., and Allen,
+C. J., eds., Geology of northern Utah and vicinity: Salt Lake City, Utah Geological Association Publication 27, p. 11–25.
+Miller, E. L., and Gans, P. B., 1989, Cretaceous crustal structure and metamorphism in the hinterland of the Sevier thrust belt, western U.S. Cordillera: Geology, v. 17, p. 59–62.
+____1999, Geologic map of the Cove quadrangle, Nevada and Utah: Field Studies Map 22, Nevada Bureau of Mines and Geology, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+Miller, E. L., and Grier, S. P., 1995, Geologic map of Lehman Caves 7.5’ quadrangle, White Pine County, Nevada: U.S. Geological Survey Map GQ-1758, scale, 1:24,000, 1 sheet.
+Miller, E. L., Gans, P. B., and Garing, J., 1983, The Snake Range décollement: An exhumed mid-Tertiary ductile– brittle transition: Tectonics, v. 2, p. 239–263.
+Miller, E. L., Gans, P. B., and Grier, S. P., 1994, Geologic map of Windy Peak 7.5’ quadrangle, White Pine County, Nevada: U.S. Geological Survey Open File Report OF94- 687, scale, 1:24,000, 1 sheet.
+Miller, E. L., Gans, P. B., and Wright, J. E., 1988, Metamorphic history of the east-central Basin and Range province: Tectonic setting and relationship to magmatism, in Ernst,
+W. G., ed., Metamorphism and crustal evolution of the western United States: Englewood Cliffs, New Jersey Prentice-Hall Inc., p. 650–682.
+Miller, E. L., Dumitru, T. A., Brown, R. W., and Gans, P. B., 1999a, Rapid Miocene slip on the Snake Range–Deep Creek Range fault system, east-central Nevada: Geological Society of America Bulletin, v. 111, p. 886–905.
+Miller, E. L., Gans, P. B., Grier, S. P., Huggins, C. C., and Lee, J., 1999b, Preliminary geologic map of the Old Mans Canyon quadrangle, Nevada: Field Studies Map 21, Nevada Bureau of Mines and Geology, scale, 1:24,000, 1 sheet and 12 page pamphlet.
+Misch, P., 1960, Regional structural reconnaissance in central- northeast Nevada and some adjacent areas—Observations and interpretations: Intermountain Association of Petroleum Geologists 11th Annual Field Conference Guidebook, p. 17–42.
+Misch, P., and Hazzard, J. C., 1962, Stratigraphy and meta- morphism of the Late Precambrian rocks in central north- eastern Nevada and adjacent Utah: American Association of Petroleum Geologists Bulletin, v. 46, p. 289–343.
+Mueller, K. J., and Snoke, A. W., 1993, Progressive overprinting of normal fault systems and their role in Tertiary exhuma- tion of the East Humboldt Range-Wood Hills metamor- phic core complex northeast Nevada: Tectonics, v. 12, p. 361–373.
+ Mueller, P. A., and Frost, C. D., 2006, The Wyoming prov- ince: A distinctive Archean craton in Laurentian North America: Canadian Journal of Earth Sciences, v. 43, p. 1391–1397.
+Ranero, C. R., and Reston, T. J., 1999, Detachment faulting at oceanic core complexes: Geology, v. 27, p. 983–986.
+Rodgers, D. W., 1987, Thermal and structural evolution of the southern Deep Creek Range, west-central Utah and east-central Nevada [Ph.D. dissert.]: Stanford, California, Stanford University, 149 p.
+Rowles, L. D., 1982, Deformational history of the Hampton Creek Canyon area, northern Snake Range, Nevada [M.S. thesis]: Stanford, California, Stanford University, 79 p.
+Sabisky, M. A., 1985, Finite strain, plastic flow, and folding in the central Raft River Mountains, northwest Utah [M.S. thesis]: Salt Lake City, University of Utah, 79 p.
+Saltzer, S. D., and Hodges, K. V., 1988, The Middle Mountain shear zone, southern Idaho: Kinematic analysis of an early Tertiary high-temperature detachment: Geological Society of America Bulletin, v. 100, p. 96–103.
+Satarugsa, P., and Johnson, R. A., 2000, Cenozoic tectonic evolution of the Ruby Mountains metamorphic core com- plex and adjacent valleys, northeastern Nevada: Rocky Mountain Geology, v. 35, p. 205–230.
+Sharp, R. P., 1942, Stratigraphy and structure of the southern Ruby Mountains, Nevada: Geological Society of America Bulletin, v. 53, p. 647–690.
+Sheely, J., 2001, Kinematics and timing of normal faulting in a metamorphic core complex, Grouse Creek Mountains, Utah [M.S. thesis]: Las Vegas, University of Nevada, 146 p.
+Sheely, J. C., Wells, M. L., and Spell, T., 2001, Timing and kinematics of an Eocene-Miocene shear zone: Grouse Creek Mountains, Utah: Geological Society of America Abstracts with Programs, v. 33, no. 6, p. 148.
+Smith, J. F., Jr., and Howard, K. A., 1977, Geologic map of the Lee 15-minute quadrangle, Elko County, Nevada:
+U.S. Geologic Survey Quadrangle Map GQ-1393, scale 1:62,500, 1 sheet.
+Snoke, A. W., 1980, Transition from infrastructure to supra- structure in the northern Ruby Mountains, Nevada, in Crittenden, M. D., Coney, P. J., and Davis, G. H., eds., Cordilleran metamorphic core complexes: Boulder, Colorado, Geological Society of America Memoir 153, p. 287–333.
+____1992, Clover Hill, Nevada: Structural link between the Wood Hills and East Humboldt Range, in Wilson,
+J. R., ed., Field guide to geologic excursions in Utah and adjacent areas of Nevada, Idaho, and Wyoming: Miscellaneous Publication 92-3, Utah Geological Survey, p. 107–122.
+Snoke, A. W., and Miller, D. M., 1988, Metamorphic and tec- tonic history of the northeastern Great Basin, in Ernst, W.
+
+G., ed., Metamorphism and crustal evolution of the west- ern United States: Englewood Cliffs, New Jersey, Prentice- Hall Inc., p. 606–648.
+Snoke, A. W., McKee, E. H., and Stern, T. W., 1979, Plutonic, metamorphic and structural chronology in the north- ern Ruby Mountains, Nevada: A preliminary report: Geological Society of America Abstracts with Programs, v. 11, no. 7, p. 520–521.
+Snoke, A. W., McGrew, A. J., Valasek, P. A., and Smithson, S. B., 1990, A crustal cross-section for a terrain of superim- posed shortening and extension: Ruby Mountains-East Humboldt Range metamorphic core complex, Nevada, in Salisbury, M. H., and Fountain, D. M., eds., Exposed cross-sections of the continental crust, NATO Advanced Studies Institute: Dordrech, The Netherlands, Kluwer Academic Publishers, p. 103–135.
+Snoke, A. W., Wright, J. E., Hudec, M. R., and McGrew, A. J., 1992, Mesozoic magmatic–metamorphic–deformational history of the Ruby Mountains–East Humboldt Range, Nevada: Geological Society of America Abstracts with Programs, v. 24, no. 6, p. 63.
+Snoke, A. W., Howard, K. A., McGrew, A. J., Burton, B. R., Barnes, C. G., Peters, M. T., Wright, J. E., 1997, The grand tour of the Ruby–East Humboldt metamorphic core com- plex, northeastern Nevada: Brigham Young University Geology Studies, v. 42, p. 225–296.
+Stewart, J. H., and Poole, F. G., 1974, Lower Paleozoic and uppermost Precambrian Cordilleran miogeocline, Great Basin, western United States, in Dickinson, W. R., ed., Tectonics and sedimentation: Society of Economic Paleontologists and Mineralogists Special Publication 22, p. 28–57.
+Strickland, A., Miller, E., and Wooden, J., 2007, Timing of ductile deformation in the Albion-Raft River-Grouse Creek (ARG) metamorphic core complex: Preliminary U-Pb SHRIMP results: Geological Society of America Abstracts with Programs, v. 39, no. 4, p. 5.
+Thorman, C. H., 1970, Metamorphosed and nonmetamor- phosed Paleozoic rocks in the Wood Hills and Pequop Mountains, northeast Nevada: Geological Society of America Bulletin, v. 81, p. 2417–2448.
+Tucholke, B. E., Lin, J., and Kleinrock, M. C., 1998, Megamullions and mullion structure defining oceanic core complexes on the Mid-Atlantic Ridge: Journal of Geophysical Research, v. 103, p. 9857–9866.
+Todd, V. R., 1973, Structure and petrology of metamor- phosed rocks in central Grouse Creek Mountains, Box Elder County, Utah [Ph.D. dissert.]: Stanford, California, Stanford University, 316 p.
+____1980, Structure and petrology of a Tertiary gneiss com- plex in northwestern Utah, in Crittenden, M. D., Coney,
+P. J., and Davis, G. H., eds., Cordilleran metamorphic
+ core complexes: Boulder, Colorado, Geological Society of America Memoir 153, p. 349–383.
+Wells, M. L., 1996, Interim geologic map of the Kelton Pass 7.5’ quadrangle, Box Elder County, Utah, Cassia County, Idaho: Utah Geological Survey Open File Report 96-342, 72 p., scale 1:12,000 and 1:24,000, 2 sheets.
+____1997, Alternating contraction and extension in the hin- terlands of orogenic belts: An example from the Raft River Mountains, Utah: Geological Society of America Bulletin,
+v. 109, p. 107–126.
+____2001, Rheological control on the initial geometry of the Raft River detachment fault and shear zone, western United States: Tectonics, v. 20, p. 435–457.
+Wells, M. L., and Allmendinger, R. W., 1990, An early history of pure shear in the upper plate of the Raft River meta- morphic core complex: Black Pine Mountains, southern Idaho: Journal of Structural Geology, v. 12, p. 851–867.
+Wells, M. L., and Hoisch, T. D., 2002, Latest Cretaceous to early Eocene renewed shortening in the interior of the Sevier- Laramide orogen: In situ Th-Pb ion microprobe dating of monazite: Geological Society of America Abstracts with Programs, v. 34, no. 6, p. 510.
+Wells, M. L., Dallmeyer, R. D., and Allmendinger, R. W., 1990, Late Cretaceous extension in the hinterland of the Sevier thrust belt, northwest Utah and southern Idaho: Geology, v. 18, p. 929–933.
+Wells, M. L., Snee, L. W., and Blythe, A. E., 2000, Dating of major normal fault systems using thermochronology: An example from the Raft River detachment, Basin and Range, western United States: Journal of Geophysical Research, v. 105, p. 16,303–16,327.
+Wells, M. L., Spell, T. L., and Zanetti, K., 2000, Laserprobe argon dating of strain fringes; Albian orogen-parallel extension in the hinterland of the Sevier orogen: Geological Society of America Abstracts with Programs, v. 32, no. 2, p. 106–107.
+Wells, M. L., Hoisch, T. D., Hanson, L. M., Wolff, E. D., and Struthers, J. R., 1997, Large magnitude crustal thickening and repeated extensional exhumation in the Raft River, Grouse Creek, and Albion Mountains: Brigham Young University Geology Studies, v. 42, p. 325–340.
+Wells, M. L., Hoisch, T. D., Peters, M. T., Miller, D. M., Wolff,
+E. D., and Hanson, L. M., 1998, The Mahogany Peaks fault, a Late Cretaceous-Paleocene(?) normal fault in the hinterland of the Sevier orogen: Journal of Geology, v. 106, p. 623–634.
+Wells, M. L., Sheeley, J. C., Spell, T. L., Kelly, E. D., and Hoisch, T. D., 2004, Eocene extension in northwestern Utah-southern Idaho: Early motion on the polyphase Middle Mountain shear zone: Geological Society of America Abstracts with Programs, v. 36, no. 4, p. 73.
+
+
+
+Wells, M. L., Struthers, J. S., Snee, L. W., Walker, J. D., Blythe,
+A. E., and Miller, D. M., 1997b, Miocene extensional reactivation of an Eocene extensional shear zone, Grouse Creek Mountains, Utah: Geological Society of America Abstracts with Programs, v. 29, no. 6, p. 162.
+Wernicke, B., and Axen, G. J., 1988, On the role of isostasy in the evolution of normal fault systems: Geology, v. 16, p. 848–851.
+Wernicke, B. P., and Bartley, J. M., 1985, Reply to “Comment on ‘The Snake Range décollement interpreted as a major extensional shear zone” by John M. Bartley and Brian P. Wernicke: Tectonics, v. 4, p. 417–419.
+Whitney, D. L., Teyssier, C., and Vanderhaeghe, O., 2004, Gneiss domes and crustal flow, in Whitney, D. L., Teyssier, C., and Siddoway, C. S., eds., Gneiss domes and orogeny: Geological Society of America Special Paper 380, p. 15– 33.
+Willden, R., and Kistler, R. W., 1969, Geologic map of the Jiggs quadrangle, Elko County, Nevada: U.S. Geological Survey Map GQ-859, scale 1:62,500, 1 sheet.
+____1979, Precambrian and Paleozoic stratigraphy in central Ruby Mountains, Elko County, Nevada, in Newman, G. W., and Goode, H. D., eds., Basin and Range symposium and Great Basin field conference: Denver, Colorado, Rocky Mountain Association of Geologists–Utah Geological Association, p. 221–243.
+Wolff, E. D., 1997, Geothermometry and thermal evolution of the Raft River Mountains, Utah [M.S. thesis]: Flagstaff, Northern Arizona University, 156 p.
+Wright, J. E., and Snoke, A. W., 1993, Tertiary magmatism and mylonitization in the Ruby–East Humboldt metamorphic core complex, northeastern Nevada: U-Pb geochronology and Sr, Nd and Pb isotope geochemistry: Geological Society of America Bulletin, v. 105, p. 935–952.
+MANUSCRIPT SUBMITTED APRIL 1, 2007
+REVISED MANUSCRIPT SUBMITTED JUNE 6, 2007
+MANUSCRIPT ACCEPTED JUNE 11, 2007

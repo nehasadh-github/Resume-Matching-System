@@ -1,0 +1,137 @@
+
+CURRICULAM VITAE
+                                       
+Name: KHUSTER RAZA                                                   
+
+Date of Birth: 08/08/1992 
+E-mail Id: khusterkhan1992@gmail.com
+Mobile: 91-9891505392
+ CARREER OBJECTIVES
+To obtain challenging and rewarding full time position in Network Administrator with growth and learning opportunities in supportive, challenging work environment that would take advantage of my job experience.
+   EDUCATIONAL QUALIFICATION
+Degree
+University / Boards
+Exam Passed
+Institution
+Passing Year
+Bachelor of computer Application
+M.M.H.A & P UNIVERSITY
+M.M.H.A & P UNIVERSITY
+2013
+Intermediate
+B.S.E.B
+MIRZA GALIB COLLEGE
+2009
+Matriculation
+B.S.E.B 
+A.N.S.H.SCHOOL
+2007
+
+ TECHNICAL QUALIFICATION
+
+	•	CCNA-  Cisco Certified Network Associate (Cisco Id- CSCO12955323)
+	•	MCSE- Microsoft Certified System Engineer 
+	•	DCA-  Diploma in Computer Application
+
+ WORK EXPIRIENCE
+
+
+	•	Company Name: Vertex Costumer India Solution Private Ltd.
+	•	Experience : 4th Aug,2015 to 30th March,2017
+	•	Job Profile :  Network Administrator
+
+
+	•	Company Name : Microchip Info Tech System Private Limited
+	•	Experience         : 6th May,2013 to 4th July,2015 
+	•	Job Profile          :  Network Engineer 
+
+KEY DUTIES AND RESPONSIBILITIES
+
+	•	Troubleshooting of complex LAN/WAN infrastructure, including routing protocols EIGRP, OSPF & BGP.
+	•	Working on troubleshooting of complex LAN/WAN infrastructure.
+	•	Designed and deployed networks using dynamic routing protocol (EIGRP, OSPF and BGP).
+	•	Working on troubleshooting of complex LAN/WAN infrastructure.
+	•	IP addressing and sub netting, Routing concepts
+	•	Security administration port security on switch and IP security on Router via Access list
+	•	Upgrading and backups of Cisco router configuration files.
+	•	Installation & Troubleshooting of Software’s & Hardware Devices
+	•	Installation & Troubleshooting of  Operating System
+	•	Configuration of Domain & Workgroup
+	•	Configuration of ADS, DNS, Wins, DHCP, IIS, Profiles, Group Policy
+	•	Configuration of Exchange Server, Users & Groups, OU, Cluster nodes
+	•	Installation & Configuration of Router, Switch, Modem 
+	•	Configuration of  VLAN, VPN, Nat , RRAS , Sites etc.
+	•	Installation & Configuration of Wireless Access Point, Bluetooth,
+and layout techniques when designing project.
+	•	Administering & designing LANs, WANs internet/intranet, and voice networks.
+	•	Network connectivity troubleshooting, ping, tracers, telnet.
+	•	Investigating, diagnosing and resolve all network problems.
+	•	Maintaining pre-packaged software applications on the LAN.
+ TECHNICAL SKILLS
+
+
+
+
+
+
+
+	•	Operating system   :  MS DOS, Windows XP/2007/2008/2010
+	•	Language                 :  C , HTML
+	•	Database                  :  MS Access , oracle 10g
+	•	Office Suits              :  MS office 2003/2007/2010
+	•	Routing Protocol     :  RIP, EIGRP , OSPF , BGP
+	•	Switching                 :  VLAN , VTP , STP , Ether Channel 
+	•	Security                    :  Port Security , ACL , NAT
+                             
+
+ SUMMER TRAINNING
+
+	•	Project Topic : LOAN AND RECOVERY MANAGEMENT SYSTEM
+	•	Organization : MEGASOFT SOLUTION
+	•	Duration : 6 month
+	•	Platform :  java, oracle
+
+
+	•	Project Category: My Project Bank is based on Relational Data Base Management System (RDBMS) and Object Programming approach. I use Java as Front-end of my Project because it is very powerful object Oriented Language. It gives totally User friendly environment to the user’s and give freedom to developing Software on it. It gives the feasibility to create new table and linked to other tables.
+
+
+
+
+AREA OF INTREST
+
+
+	•	Networking.
+	•	Web Designing
+ PASSPORT DETAILS
+
+	•	Passport  No : L1321315
+	•	Date of Issue : 01/04/2013
+	•	Date of Expire: 31/03/2023
+	•	Place of Issue : PATNA
+ HOBBIES
+
+
+	•	Net surfing.
+	•	Watching Movie
+	•	Making Friend
+ PERMANENT ADDRESS
+
+
+	•	Vill	:   Sihuli
+	•	Po	:   Darioura
+	•	Ps	:   Aamas
+	•	Dist	:   Gaya
+	•	State	:   Bihar
+	•	Pin	:   824211																	
+ PERSONAL DETAILS
+
+	•	Father Name   :  Kalam Khan
+	•	Sex                   :  Male
+	•	Marital Status  : Unmarried
+	•	Language         : Hindi, English, Urdu
+	•	Nationality       : Indian
+Date                                                                                                       KHUSTER RAZA
+
+
+
+

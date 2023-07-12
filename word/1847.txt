@@ -1,0 +1,109 @@
+
+Ramya. M
+E-mail: m.ramya19@yahoo.in Mobile: 9710100160
+A44, Sudha Avenue Flat, Saibaba block, 5th cross st, Nanganallur,
+Chennai – 600 061.
+
+
+Objective:
+To build upon and enhance my professional skills in a reputed and dynamic organization that gives me the opportunity to evolve in a professional manner.
+
+
+Academic Profile:	
+
+
+DEGREE
+NAME OF THE INSTITUTION
+BOARD	OF EXAMINATION
+YEAR
+PERCENTAGE
+MSC	(5	YEAR) INTEGRATED
+Information technology
+COLLEGE OF ENGINEERING GUINDY
+ANNA UNIVERSITY
+2016
+CGPA-8.44/10
+HSC
+PRINCE MATRICULATION H.S.SCHOOL
+STATE BOARD
+2011
+95.5%
+SSLC
+THE HINDU COLONY CHELLAMMAL VIDYALAYA
+CBSE
+2009
+88.8%
+
+Technical Skills:	
+
+Languages	-	C, C++, C#, Java, PHP, R, Matlab
+Database	-	MySQL, Oracle Operating System          -	Windows XP/ 7 Web Designing Tools    -	HTML, CSS
+
+Experience:	
+Cognizant Technology Solutions
+1 year 5 months: Aug 2016 to Current
+Working on Handwriting Recognition Project where the handwritten contents are extracted from forms using Image Processing and a model is built using machine learning to recognize the characters.
+	•	OMR Recognition System using machine learning.
+
+Internship:	
+
+	•	Ventuno Technologies, Chennai
+6-month internship: June’14 – Nov’14
+
+Developed Venmonit – alerts and monitoring system that automates monitoring of routine activities and alerts the administrators and clients through E-mail on a regular basis using PHP and MySQL.
+
+	•	Cognizant Technology Solutions, Chennai
+	•	month internship: January ’16 – July’16
+
+Developed Customer Behavior Modeling using Semi-Supervised Learning. The model identifies the parameters which impacts the policy renewal rates in customers using R analytical software.
+
+
+Areas of Interest:	
+
+	•	Database Management Systems
+	•	Object Oriented Programming
+	•	Machine Learning
+
+
+Academic Projects:	
+	•	Resume Builder using Java and MySQL.
+	•	Your Health Just a Click Away using C#.Net.
+	•	Knowledge Score using PHP.
+
+
+Responsibilities Undertaken:	
+
+	•	Organized the event “code breakers and math sketching”, inter college symposium, Department of Mathematics, CEG, Guindy (2011-2013).
+	•	Coordinated the informal events in Techofes’12, Inter college cultural fest.
+	•	Organized workshop on “Network security” conducted by Department of Computer Science, CEG
+	•	Active member of NSS and involved in various social activities.
+
+
+Non – Technical Talents:	
+
+	•	Good at taking Seminars and lectures.
+	•	Capable of presenting the contents to the audience.
+	•	Art works
+	•	Active participant in sports events at school level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yours faithfully,
+
+
+(Ramya. M)

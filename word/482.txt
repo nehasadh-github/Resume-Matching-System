@@ -1,0 +1,93 @@
+
+
+
+                                                                                               
+
+TAMILSELVAN.R                                                                                                              
+No, 17/9, Shasthri nagar, Adayar, Chennai - 600020 Tamil Nadu, India
+Contact: 9894488746: Email: ccallmelimat@gmail.com, chatam1426@gmail.com; Date of Birth: 26th Aug 1983 
+
+SYSTEM ADMINISTRATOR  
+Offering over 9 years of experience, seeking an across IT/ Manufacturing industry 
+
+	•	A MCP certified professional with an experience in providing Technical Support, currently spearheading as Team Leader (Senior Engineer) with Future net Technologies (India) Pvt Ltd., Chennai. 
+	•	Extensive exposure of handling administration, installation, maintenance of LAN/WAN and support of client/server hardware, software, peripherals, and networked systems for Windows 2008/2003/2000/NT environment and VM Ware .
+	•	Expertise in system and network administration; installation and configuration of IT networks, maintenance, troubleshooting and user management with expertise in installation, upgradation, configuration, and support of Software/ Hardware and other network devices. 
+	•	Proficient in TCP/IP, DNS, DHCP, DFS, FTP, Routing & Switching, Configuration & Installations of equipments like Switches, Routers. 
+	•	Acknowledged trouble shooter and a key decision maker with well-honed skill set in collaborating with cross-functional teams and deploying technology to build successful solutions.
+
+Technical Skills
+Server OS:
+Windows 2003 and 2008 Server
+
+	•	Install windows 2008 and 2012 server and promoting to Domain.
+	•	Configure and manage the Active Directory Site and Service.
+	•	Configure and monitor Active Directory replication, DNS, DHCP, DFS, FTP and Internet Configuration.
+	•	Implement client mail access, Group Policy, Software deployment, Software restriction, Folder Redirection, Backup and Restore using Microsoft Backup Utility, RIS, Offline Files and Shadow Copy.
+	•	Implement and configure Remote Desktops.
+	•	Manage and maintain FSMO Roles in Active Directory forest.
+	•	Configure Network Printing, IIS in Windows 2008.
+	•	Troubleshooting in 2008 and 2012 server and client OS.	
+	•	Configure Trusts in Windows 2008
+Networking Technology
+	•	Routing Protocols and Routed Protocols 
+	•	TCP/IP like IP Addressing, Sub netting, and VLAN and ACL’s
+Other OS
+	•	Cyberoam firewall, PF Sense Firewall, Endian firewall
+	•	AMI storage NAS and SAN configuration
+	•	Installed VMware ESX server 4.1/5.0 and created virtual machines on ESX Servers. Created standard templates and deployed virtual machines from these templates
+	•	Importing physical or virtual machines using the VMWare VCenter Agent Deployment
+	•	Configured & Deployed VMware ESX/ESXi server in Corporate production environment
+	•	Cyberoam firewall installation and configuration and troubleshooting
+	•	Experience In Monitoring Tool Zabbix, Open NMS.
+	•	Citrix installation and configuration.
+
+
+
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Futurenet Technologies (INDIA) PVT LTD., CHENNAI 				                                                            Since Dec 2007 
+Team Leader (Senior Engineer)
+
+Clients: 
+Census of India, Chennai Newgen Imaging Pvt ltd, Chennai  Vasan Publications,(Vikadan Groups),Chennai  Ganadhipathy Tulsi,s Engineering College, Vellore  VA Tech Wabag Limited, Chennai  Wheels India Limited  Axles India Limited  TVS Lucas  BNT Connections  AIOCD Awacs Pharmasofttech Ltd
+
+	•	Install O.S. Handle the Operating Systems like Windows 2003, 2008 and 2012 Server’s Linux file server and Mail Servers. Accountable for problem cause analysis, resolution of routine customer problems and complexity resolution.
+	•	Responsibilities include troubleshooting Hardware and OS Problems, as well as work with user groups. Participated in the implementation of backup/recovery strategy as well as disaster recovery and high availability. Can assist in backup and recovery, daily database maintenance, performance tuning and support for backend applications.
+	•	Accountable for overall security of network & complete system back-up including data & application for all users
+	•	Maintain Inventory Management System for Desktop Computers, Servers, Generating reports/list for audit purpose and records.
+	•	Provide resources to Project, mainly Computer & Printers as per project requirement while handling installation of required software, OS, Anti-virus and Network connectivity. 
+	•	Analysis of customers LAN/WAN s to determine network performance problems. Provided solutions, and documentation.
+	•	Plan, design, install, configure, upgrade and maintain LAN, as per organizational requirements, governed by communication protocols. 
+	•	Manage computer installations along with all related accessories and networking to ensure hassle free functioning of systems. Updated users on maintenance tips for prolonged service life of machines.
+	•	Responsible for handling Installation, configuration, implementation and maintenance of the following: 
+	•	Server monitoring status 
+	•	Antivirus Monitoring status..
+	•	Network Monitoring tool OpenNMS, Zabbix.
+
+EDUCATIONAL CREDENTIALS
+
+
+B. Sc (CS) 2004 
+Adhiparasakthi College of Arts and Science College; 60%
+
+Higher Secondary 2001
+Voorhees Higher Secondary School; 57%
+
+Senior Secondary 1999
+N.K.M.Higher Secondary School; 69.6%
+
+Certification
+	•	CCNA (Cisco Certificate Network Associate)
+	•	MCITP (Windows server 2008 ) 
+	•	Cyberoam Certified Network & Security Professional.
+
+
+Languages Known: English, Telugu and Tamil 
+References: Available on Request

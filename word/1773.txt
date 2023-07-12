@@ -1,0 +1,24 @@
+What is electroplating?
+Electroplating is widely used in various industries for coating metal objects with a thin layer of a different metal. The layer of metal deposited has some desired property, which the metal of the object lacks.
+Why Electroplating?
+Electroplating is known as electro deposition because the process involves depositing a thin layer of metal onto the surface of a work piece, which is referred to as the substrate. An electric current is used to cause the desired reaction.
+Process of Electroplating?
+A coating is a covering that is applied to the surface of an object, usually referred to as the substrate. The purpose of applying the coating may be decorative, functional, or both. The coating itself may be an all-over coating, completely covering the substrate, or it may only cover parts of the substrate.
+
+
+Factors that impact the final plating result include:
+
+	•	the chemical composition and temperature of the bath
+	•	the voltage level of the electric current
+	•	the distance between the anode and the cathode
+	•	the electrical current application's length of time
+
+Benefits of Electroplating:
+	•	Many metals posses conductive properties. Conductive metals are incredibly helpful in making the electronics, aeronautic, automobile, and communications industries.
+	•	Many types of industrial electroplating create a barrier on the substrate that protects it against atmospheric conditions such as corrosion,
+	•	Ever metal has its purposes, as a result using metals for their hardness, others for their ductility, or their resistance to corrosion is normal.
+	•	Electroplating is sometimes used to make brittle materials stronger and more durable.
+	•	Plating with these metals protect engine parts and components from damage caused by extreme temperatures, which can increase their lifespan
+	•	Plated surfaces are less susceptible to damage when struck or dropped, which can increase their lifespan.
+	•	It is a cost-effective and efficient conductivity solution
+	•	Damage caused by arcing and shorts in electrical parts and components due to whiskers breaking away from materials can be significantly reduced

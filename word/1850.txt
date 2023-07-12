@@ -1,0 +1,90 @@
+ANURADHA K
+: anuradha.krishnan@live.com
++91-9486136548
+CAREER OBJECTIVE 	
+
+AWS and DevOps engineer around 2 years of experience with configuration management Build, Release, deploy management
+
+WORK EXPERIENCE 	
+
+	•	Working as a Project Engineer at Wipro Technologies from February 2015 till date.
+
+EDUCATIONAL SUMMARY 	
+
+	•	Master of Computer Applications in SONA College of Technology, Salem with 91%
+
+TECHNICAL EXPOSURE 	
+
+Skills	Tools/Technologies used
+
+Technical Skills Third Party Tools Database Operating System
+ RADIA/DevOps/HTML/UNIX/Amazon Web Services RADIA/GIT, Jenkins,Docker
+MySql
+Windows 2007/Windows 8, Linux
+
+
+
+
+PROJECT DETAILS 	
+
+Project1: Banking 
+Project Engineer, (June 2015 – Oct 2017)
+Wipro Technologies, Chennai 
+
+	•	Worked in End User Computation (EUC) domain to build severs using AWS EC2 and client side configuration End user life cycle Monitoring tool for automating routine client management task such as deployment, patch management.
+	•	As part of the role of Infrastructure Analyst, I have taken the responsibility of Maintaining servers, Proxies and client machines to get the updates of patches/applications up to date to the client machines.
+	•	As a part of Environment and Incident management teams, worked in various new environment setup and decommission activities and fixed many issues within DevOps from lower environment to higher environment till production.
+	•	Cloud storage management done with AWS S3 Continuous lifecycle management and worked in application deployment and ongoing software release,software removal and retirement.
+
+    Project2: Telecommunication
+    DevOps Engineer, (Oct 2017-Present)
+    Wipro Technologies, Chennai 
+
+	•	Worked as s DevOps Engineer to automate the tasks and having extensive knowledge in implementation and administration of version Controlling tools like Git and GitLab. Exposed to build tools like Maven.
+
+	•	Worked with infrastructure provisioning using Docker. Containerize Application with Docker. Setup local test environments using Docker
+	•	Gained experience in deploying applications on to their respective environments using Elastic Beanstalk. 
+	•	Acquired practical exposure with Continuous Integration/Continuous Delivery tools like Jenkins, installation and merge development with testing through pipelines. 
+	•	Possess good knowledge in creating and launching EC2 instances and created IAM roles for creating roles, users, groups and also implemented MFA to provide additional security to AWS account and its resources.
+	•	Maintained S3 storage.
+	•	Created vm and configured in oracle VM box for test environment
+	•	Experienced in Build, Deploy and Release Automations
+
+Achievements:
+	•	Appreciations from Clients on Incident handling, Critical Release handling and major Project implementation.
+	•	Appreciation notes from Project Lead and Management for Business Operation Skills and demonstrating Professionalism.
+	•	Got Luminous Award from CITI Services, Wipro Technologies.
+Certifications:
+
+	•	Certified in DevOps Professional Program in Wipro Technologies
+	•	Successfully completed Internship at Wipro Technologies in the period of February, 2015 to May 2015.
+
+PERSONAL DETAILS 	
+
+Father’s Name
+S.Krishnan 
+Gender
+Female
+Marital status
+Married
+Date of Birth
+27/05/1992
+Residential Address
+T3 Priya Ramya Apartment,48 Ram Nagar 3rd main road,Nanganallur,Chennai
+Hobbies
+Drawing, Playing shuttle, Singing
+Languages Known
+Tamil, English, 
+
+
+Declaration:
+
+I hereby declare that the information furnished above is correct to the best of my knowledge.
+
+
+
+
+
+
+Place	: Chennai										Warm Regards,
+[Anuradha K]

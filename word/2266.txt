@@ -1,0 +1,40 @@
+1/13/2014
+
+
+
+
+Personal
+Born in South Korea. Citizen of South Korea. Eligible for OPT after graduation. Interest in machine learning, statistical application, and database management. Looking for full-time position after May 2014.
+Education
+2013.8 – 2014.5	Rice University, Houston, TX, USA
+(Expected)	M.Stat Degree Candidate (Professional Masters Program)
+Specialization in Statistical Computing and Data Mining
+
+2007.9 – 2013.5	Rice University, Houston, TX, USA
+BA Statistics.
+Coursework focus on Machine Learning and Statistical Computing
+2008.9 - 2008.12	Fudan University, Shanghai, China
+Study Abroad Student, Emphasis on Chinese Economics (Program)
+2007.3 - 2007.7	South China Normal University, Guangzhou, China
+Chinese Language Student
+
+Work
+2014.1 -	Rice University, Houston, TX, USA
+Teaching Assistant for Statistics 606, SAS Statistical Computing
+
+2014.1 -	Rice University, Houston, TX, USA
+Head Teaching Assistant for Statistics 385, Methods of Data Analysis
+
+2012.9 -	Rice University, Houston, TX, USA
+Lab Instructor for Statistics 280, Excel and R for 5 semsters
+2011.5 - 2011.8	Valtech Consulting Korea, Seoul, South Korea
+Research Assistant for IT Consulting Project
+IT Consulting project for Korea Ministry of Labor
+2009.3 - 2011.1	Republic of Korea Army, Seoul, South Korea
+Translation and Office Service for Army (mandatory service)
+Skills
+R Programming (Statistical software) : Expert / Use of different packages for machine learning and multivariate analysis. Able to code new algoriths and designs (have done research projects)
+Python (General Programming) : Intermediate / Able to perform statistical operations. Basic programming and skills in NumPy and SciPy
+SAS Programming (Statistical software) : Intermediate / Data management and manipulation / SQL Matlab Programming (Engineering software) : Intermediate / Machine learning, basic linear algebra Korean (Language) : Native Speaker, Read, Write, Speak
+English (Language) : Second Language, Read, Write, Speak Chinese (Language) : Intermediate, Read, Speak
+further reference / information will be available upon request

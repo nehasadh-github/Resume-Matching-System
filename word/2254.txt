@@ -1,0 +1,144 @@
+PINKA ABRAHAM
+
+
+
+
+e-mail:
+pinkaabraham.c@gmail.com
+
+Phone : +91- 9633247469
+
+
+Address
+Chemmanam (H),
+Chelad P.O, 
+Kothamangalam, 
+Ernakulam, Kerala,
+ India
+PIN: 686681
+
+Personal Data
+Date of Birth  : 11th  March 1991
+Sex                  :Female
+Nationality     : Indian
+Marital Status : Single
+Religion          : Christian
+
+Hobbies
+	•	Travelling
+	•	Video making
+	•	Photo editing
+
+
+Key Skills
+	•	Good Communication Skills.
+	•	Good analytical skills
+	•	Leadership & organizing skills
+	•	Punctuality
+	•	Flexibility
+	•	Commitment
+
+
+
+
+
+
+
+Languages Known
+	•	English
+	•	Malayalam
+
+Objective
+
+Seeking a position as Software QA Analyst Engineer/ Tester in the competitive information technology industry, to utilize my skills and abilities that offer professional growth while being resourceful, innovative, and flexible.
+
+Academia
+COURSE
+SCHOOL\ COLLEGE
+(BOARD\ UNIVERSITY)
+YEAR
+MARKS
+(% / CGPA)
+M. Tech
+(VLSI and Embedded Systems)
+College of Engineering Munnar, (CUSAT)
+
+
+2015
+
+8.25
+B. Tech 
+( Electronics and Communication Engineering)
+Ilahia College of Engineering and Technology, Muvattupuzha. (M.G) 
+
+  2013
+66%
+Class 12th
+St. Stephens Higher Secondary School, Keerampara(State Board)
+
+2009
+81.5%
+Class 10th
+
+Sobhana English Medium High School, Kothamangalam (State Board)
+2007
+85%
+Software Testing Skills
+	•	Completed Software Testing Training from ISTP, Ernakulam, Kerala.
+	•	Manual Testing -Very Good knowledge of Software Development life Cycle (SDLC), and Software Testing Life Cycle (STLC). -Good Knowledge of white box testing and Black box testing.  -Functional testing on each and every component of an application.   -Usability testing whether application is user friendliness or not. -Proficient in writing Test cases by using test case design technique. -Very Good in Test Execution Process, Defect Life Cycle, and Test Plan. Detecting bugs & classifying them based on severity, priority.
+
+Automation Testing
+	•	QTP -Good knowledge on automation tool HP QTP. -Well versed in using checkpoints, Synchronization points. -Worked on Parameterization, Data Driven test. -Strong knowledge on Object Repository. 
+	•	SELENIUM -Good knowledge in Automation Tool like Selenium IDE & Web Driver 
+-Well versed in Building Test cases, Running Test cases, 
+-Strong in Selenium Commands, Locator -Knowledge in creating scripts in Web driver by using Java.
+
+	•	LoadRunner -Well  knowledge in performance testing tool, Load Runner, 
+-Worked on Load Runner protocols Web (HTTP/HTML). 
+-Well versed with Load Runner components and Testing process.
+-Good knowledge in creating test approach, work plan, and designing the test scenarios, Test cases for performance test requirements.
+-Knowledge in analyzing result.
+
+Technical Skills Profile
+	•	OS -  Ubuntu, Windows ( 20xx, XP,7,8)  
+	•	CAD-Tools Used  
+	•	Cadence
+	•	Xilinx – Xilinx ISE  
+	•	MATLAB  
+	•	Programming Languages Known  
+	•	Hardware Description    : VHDL
+	•	Software  		    :  C
+	•	Hardware: 
+	•	Microprocessor 8085, Microcontroller AT89C51.
+List of Publications
+	•	Pinka Abraham, Jayakrishnan K.R and Shahana T.K. Article: “Comparator Design for Delta Sigma Modulator”. IJCA Proceedings on International Conference on Emerging Trends in Technology and Applied Sciences ICETTAS 2015(3):16-20, September 2015.
+http://research.ijcaonline.org/icettas2015/number3/icettas2592.pdf
+	•	Pinka Abraham, “A CMOS MEMS Audio Transducer”, National Conference on Advanced Trends in Computing and Communication (NATCCOM 2K14) organized by Christ Knowledge City, March 2014.
+Training Attented
+	•	Participated in six day training program at All India Radio Station, Kakkanad
+	•	Participated in workshop on Mobile Controlled Autonomous Robotics conducted by Ilahia College of engineering and Technology, Muvattupuzha in association with Emanagineer India
+	•	Participated in two week technical training program in basic 8051 microcontroller at IEEE 4 Students Cochin.
+	•	Completed course in advanced C and Data Structures using C from Emergers Technologies, Bangalore in 2015.
+Academic Projects 
+	•	M.Tech Project:
+         Project Title: A Comparator Design for Continuous Time Delta Sigma          Modulator    for Mobile    Communication Applications
+         Software Used  :  Cadence
+
+	•	M.Tech Mini Project:
+        Project Title: Transmitting  Data with Parity Bit
+         Software Used  :  Xilinx ISE  
+	•	B.Tech Main project-
+         Project Title : Autonomous metal detector robot with monitoring system               
+         Software Used          :  Keil
+	•	B.TechMinor Project- 
+         Project Title : Crack sensing robot for pipelines
+         Software Used        : Keil
+
+References
+	•	Dr. Ramesh P., Associate Professor and Head, Department of ECE,College of Engineering Munnar, Kerala. ( Phone:9496370467)
+
+Declaration
+	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+
+Place: ERNAKULAM                                                     PINKA ABRAHAM
+

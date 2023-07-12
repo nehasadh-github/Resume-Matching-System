@@ -1,0 +1,99 @@
+
+
+
+24 January 2015 Mr. Gary Hill
+The Robot Company 1250 N. Bellflower Blvd. Long Beach, CA 90840
+ Robyn Goss
+Address. Phone Number Email address
+
+
+Dear Mr. Hill,
+After exploring current projects that The Robot Company is undertaking, I am interested in applying for the position of Project Manager for the ATeChToP project.
+My understanding of ATeChToP is that The Robot Company seeks to enable children to play and socialize where otherwise their medical condition could not allow the risk. I hope that my passion for the project can help to make this objective an established reality.
+My interest in Biomedical Engineering began as a high school student with obscure interest in the field, and as one who vaguely understood that BME encompassed both mathematics and the medical field. During my undergraduate career at California State University Long Beach not only has my knowledge of the field grown, but so has my excitement. Adding Electrical Engineering as an additional degree has strengthened my technical capabilities as an engineer which can be integrated into the medical field.
+I feel that my experimental work while at California State University Long Beach will prove beneficial to the project: I have had practice constructing a rudimentary ECG amplifier, and have also had practice recording and analyzing my own heart sounds and EEG signals using MATLAB and CleveMed BioRadio software. Throughout my coursework, I have added considerable experience with microcontroller programming environments such as Atmel AVR for the Arduino Uno, and experience working with FPGA design through ISE Design Suite. My familiarity working with circuit simulation through OrCAD PSpice and NI Multisim might also prove useful.
+My internships for the company Raytheon as well as for Ametek Aerospace and Defense have given me invaluable experience communicating efficiently as a growing engineer. My involvement in creating simulation environments using Matlab and Simulink through Xilinx software, gave me the task of bridging software engineering teams with working project design teams to limit confusion and cultivate clarity.
+While at Ametek, I would oftentimes interface with customers to avouch that their requirements were being met in terms of quality management.
+Attached you will find my resume which better details my experiences. I hope to prove myself a valuable asset to The Robot Company. I would appreciate the opportunity to discuss the position and its requirements, as well as speak with you personally about my qualifications in an interview. In the event any questions arise, please do not hesitate to contact me through the information provided above.
+Thank you for your time and consideration. Sincerely,
+Robyn Goss
+
+Contact Information	Robyn Victoria Goss
+
+
+
+Summary	A diligent professional seeking the position of Project Manager for the ATeChToP program at The Robot Company where her tenacity and creativity may be best utilized.
+	•	Proficient knowledge in Microsoft Office tools, MATLAB, Simulink, ORCAD PSpice, Multisim
+	•	Experience working with Eclipse, Assembly, PBasic, ISE Design Suite, and Modelsim
+Education	B.S. Electrical Engineering, B.S. Biomedical Engineering
+California State University Long Beach
+Estimated Graduation: May 2015
+	•	Cumulative GPA 3.68
+	•	California State University Long Beach President’s Scholar: 1 of 30 students selected from greater than 500 applicants to be a part of CSULB’s Presidential Scholarship Program which offers 4 year full-paid tuition and housing contingent upon continual academic success.
+	•	President’s List: Fall 2010, Spring 2012, Spring 2013, Spring 2014,
+	•	Dean’s List: Fall 2011, Fall 2012, Fall 2013, Fall 2014
+Diploma – Graduated with Honors
+Savanna High School – Anaheim, CA
+	•	Valedictorian
+	•	2010 Student of the Year
+Career History
+Electronics Center Electrical Engineering Intern – Raytheon
+	•	Generate project simulation environments using Matlab and Simulink through the Xilinx System Generator.
+	•	Present progress and ideas to engineering software teams in order to bridge to multiple working teams.
+	•	Aid DSP and FPGA design.
+	•	Provide feedback and corrections for numerous technical documents.
+	•	Participate in FPGA hardware verification.
+Quality Engineer Intern – Ametek Aerospace and Defense
+	•	Aid Sr. Inspector with quality control and shipment of products.
+	•	Interface with customers and company representatives to ensure customers that requirements are being met.
+Biomedical Engineering Teacher’s Assistant – Cal State Long Beach
+	•	Assist professor in organizing lesson plans, class assignments, projects, and examinations.
+	•	Led assessment of student assignments and examinations.
+	•	Conduct classroom lectures upon request of the professor.
+	•	Engage in staff meetings, acquainting staff with perceived needs of students.
+Completed Major Coursework
+Digital Logic Design	Electromagnetic Fields	Electric and Electronic Circuits Signals and Systems	Control Systems	Fractals in Engineering Analog Electronic Circuits	Communication Systems	Electricity and Magnetism Energy Conversion Principles	Digital Signal Processing	Applied Modern Physics
+ 
+
+
+
+
+
+
+2010-
+present
+
+
+
+
+
+2010
+
+
+
+May 2014-
+Aug 2014
+
+
+
+
+Aug 2013-
+Jan 2014
+
+
+Jun 2012-
+Aug 2012
+
+Computer Methods in Engineering
+Leadership Experience
+ Probability, Statistics and Stochastic Modeling
+ Microprocessor Principles and Applications
+
+Electrical Engineering Department Tutor
+Microprocessor Principles and Applications Classroom Lab Assistant Junior High AVID Program Tutor and Chaperone
+Marie Callendar’s Restaurant Certified Trainer
+Involvement/Activities
+Drop-in Homeless Shelter Volunteer – First Congregational Church Greyhound Rehabilitation Center Volunteer
+IEEE member
+Channel 3 Committee (Organizes events for residents of CSULB) Intervarsity Outreach
+CSULB Women’s Lacrosse Team

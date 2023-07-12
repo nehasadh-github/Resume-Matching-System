@@ -1,0 +1,111 @@
+RESUME
+
+Name:	SONY AVARACHAN
+Phone: 9947737613
+Email: sonyavarachan00@gmail.com
+
+Career Objective   
+
+To be an excellent professional and to be a part of an organization which provides constant learning of latest technological upgrades, provides career growth.                                             
+
+
+Education   
+
+No
+Course
+Branch/Subject
+College/ School
+Board /University
+Passing Year
+(Aggregate %)
+1.
+B-Tech
+ECE
+ Indira Gandhi Institute of Engineering and Technology, Nellikuzhi
+Mahatma Gandhi
+2016
+CGPA 6.74/10
+2.
+HSE
+Computer Science
+GBHSS, Aluva
+State
+2012
+80
+3.
+SSLC
+
+Holy Family HS, Angamaly
+State
+2010
+98
+
+
+Summary
+
+Doing Testing Course at SPYROSYS, Kaloor (July 2016- August 2016)
+
+
+
+
+
+
+
+
+
+
+
+
+Manual Testing Proficiency:
+
+	•	Strong in SDLC, STLC and Defect Life Cycle.
+	•	Knowledge on Test Plan, Traceability Matrix.
+	•	Knowledge of writing, reviewing and executing Test Cases.
+	•	Knowledge of writing, reviewing Bug Reports.
+	•	Knowledge on Functional, Integration, and System Testing.
+	•	Knowledge on Smoke, Regression, Compatibility  and various other types of Testing
+
+
+
+
+Automation Testing (QTP) Proficiency:
+
+	•	Knowledge on Recording options in QTP such as Checkpoint, Output values.
+	•	Strong knowledge on Object Repository.
+	•	Strong knowledge on Parameterization through MS Excel, Data tables, 
+
+Software Language: Basics of C and C++ Programming.
+
+TESTING PROJECTS
+
+    Manual Testing
+    
+        The project involved testing of a software application used for Banking. By using this system it provides better convenience to management. 
+
+Automation Testing using QTP
+
+        The project involved testing of a software application used for Receipt Tracking. By using this system it provides better convenience to management. 
+
+                    		
+Achievements
+
+	•	Member of Red Cross in school level.
+	•	Event organizer in school and college annual day functions and other technical events.
+Strengths
+
+	•	Team Worker
+	•	System and Operational Analysis
+	•	Good Communication Skills
+	•	Active learning and critical thinking
+
+Personal Details
+Name		: Sony Avarachan
+Father’s Name	: M V Avarachan
+Gender		: Female
+Date of Birth	: 12/01/1995
+Contact Address	: Moozhayil H, Vappalassery P O 
+                               Akaparambu, Pin: 683572
+                               Ernakulam
+
+I hereby declare that all the information mentioned above are true and correct to the best of my knowledge.
+                                                                                                                                 Sony Avarachan

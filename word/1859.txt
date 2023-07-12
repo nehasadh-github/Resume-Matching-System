@@ -1,0 +1,189 @@
+
+Akila Palanimuthu
+ Senior Software Engineer, 6/3100 Thiru Narayana Nagar, No: 1 Tolgate, Trichy, akila.mca2009@gmail.com
++91- 9994355909
+
+
+PROFILE SUMMARY
+	•	6 years of software development experience using Microsoft Technologies (C#, Asp.net, VB.Net and SQL Server)
+	•	Specialized in development using Microsoft.Net technologies with SQL Server as Database.
+	•	Experienced in the development of ASMX/WCF web service.
+	•	Hands on experience in client side scripting languages.
+	•	Capable of writing Unit Test cases using Nunit.
+	•	Experienced in complete life cycle application development including client requirements capturing, analysis, development, testing and implementation.
+	•	Experienced in website maintenance for clients.
+	•	Capable to interact efficiently with internal and external clients.
+	•	Experienced in working with external US clients in Pureminutes.com, microsolutionTech.com development and deployment activities.
+	•	Experienced in working with Tortoise SVN and Git Repositories.
+	•	Good in communication and interpersonal skill in resolving software issues.
+	•	Knowldege on Access control System domain.
+
+
+RELEVENT EXPERIENCE
+Honeywell Technology Solutions Lab Madurai, India	Sep, 2014 – Present
+
+Senior Software Engineer
+
+	•	Worked extensively in the development and release of the MaxPro Cloud 4.0 application which is an integrated, cloud- based video and access management system that enables organizations to significantly streamline multi-site.
+	•	Involved in the development of schedule, People, Holiday management.
+	•	Performed extensive work on the WCF API creation for the Schedule/People/Holiday Modules.
+	•	Involved in the bug fix in all level of modules including UI, Client side binding, Services projects, stored procedure.
+	•	Working on project named Eagle, which is integrated platform for security domain.
+	•	Working in the agile methodology. Involve actively in the scrum planning, story/task identification with proper estimation using poker planning.
+	•	Handling WebUI development using Dot net Technologies including design and troubleshooting of applications, conducting gap analysis including validations of needs in conjunction with other external scrum teams.
+	•	Performing web development process on login, Account, Badges, Device Modules using various technologies like Html5,ClientSide binding,MVC,WCF, Database and Unit Testing.
+	•	Designing and developing the user interface as per the requirement with proper coordination with PO and other External Teams.
+	•	Completing the story development as per requirements, schedules& activities, contributing to team meetings, handling troubleshooting, development problems across multiple environment
+
+Trinay Technology Solutions, Trichy, India	Aug, 2010 – Sep 2014
+
+Software Developer
+
+	•	extensively worked for Pureminutes which is an US client project which enable the user to make low international calls with user-friendly environment.
+	•	Integrated the Authorize.net CIM to manage the users and Credit Card Information
+	•	Integrated the SMS API for the recharge/Speed Dial Updates and also broadcast the pureminutes new features.
+	•	Implemented the Agent/Customer Credit card Recharge functionality using Authorize.net. Involved in the Database design and implementation.
+	•	Implemented the speed dial feature and Refer and Earn credit.
+	•	Improved the reporting using SSRS.
+	•	Created a schedule to deliver the weekly/daily Transaction Reports.
+	•	Integrated the international Top up feature into Pureminutes Agents portal.
+
+
+TECHNICAL SKILLS
+
+
+Languages	: C#.net, VB.net
+Client Side Languages	: HTML, CSS, JavaScript, JQuery, Knockout
+Tools and Libraries	: Visual Studio, Infragistics, Authorize.net payment Gateway
+Operating Systems	: Windows
+Multimedia	: Adobe Photoshop, CorelDraw
+Methodology	: Waterfall, Agile Version control system	: Tortoise SVN, GIT Web services	: Asmx, WCF
+Unit Testing	: Nunit, Moq
+
+
+EDUCATIONAL QUALIFICATIONS
+
+Master of Computer Applications (Percentage – 85%)
+Holy Cross College, Bharathidasan University
+Bachelor of Computer Science (Percentage – 88.5 %)
+SeethaLakshmi Ramaswami College, Bharathidasan University
+
+
+PROJECTS
+
+	•	Pureminutes:
+
+Role	: Coding, Development, Implementation.
+Skills Used	: Vb.net, API integration, DB communication
+
+Description:
+
+www.pureminutes.com site enables the user to make international call much easier with low rates. This site enable the Guest user to get registered with www.pureminutes.com .Enable them to make recharge. Allow the registered user to avail extra feature of speed dial feature and Refer and Earn credit. The Auto recharge process facility make to user to enjoy services without disconnection.
+
+Responsibilities:
+
+	•	User Creation with Pin generation and with needed security access
+	•	SMS API integration
+	•	Credit Card Payment through Authorize.net CIM
+	•	Speed dial with Logic of getting nearest access number allocation
+	•	Report creation using SSRS
+
+	•	PaymentGateway Integration:
+
+Role	: Development, Implementation and Manual Testing.
+Skills Used	: Authorize.net CIM API, ASMX web service call
+
+Description:
+
+This web service allows the guest users of pure minute’s website to make recharge through the Mobile Applications. Authorize.net CIM integration helps to manage the users and Credit Card Information .This Web service Provides ability of their account/payment information management.
+
+Responsibilities
+
+	•	Credit Card Payment through Authorize.net CIM
+	•	SMS API integration for the each recharge status with the updated balance information to the customer.
+
+	•	Pureminutes : Agent portal:
+
+Role	: Development, Implementation and Manual Testing.
+Skills Used	: Asp.net (VB.net), SqlServer 2005, Html, XML Web services, JavaScript, Jquery,
+
+Description:
+
+Pureminutes agent portal is the site for Agent. Agents can recharge their users in dollar. This site is integrated with International Top up Recharge with different carrier, and also integrated with SMS provider’s software to deliver the sms about the Agent/User balance and activity.
+
+Responsibilities:
+
+	•	Involved in the Database design.
+	•	Implemented the functionality of User registration, Profile Management.
+	•	Integration of the API for the Card payment integration for customer account recharge.
+	•	Created the Report to view sales activity.
+
+	•	Schedular for QtTalk:
+
+Role	: Development, Implementation and Manual Testing.
+Skills Used	: Console Application, Jobs in schedule
+
+Description:
+
+Schedule process has been created using sql jobs and in windows scheduler. Console application developed for the User/Agent Auto recharge functionality.Autorecharge schedulers will be enabled once in 15 minutes to fill account which falls below $3 will be recharged with specified amount using Credit card payment.
+SQL jobs have been implemented with appropriate stored procedures which calculate Invoice and Weekly statement of branches under their company.
+
+Responsibilities:
+
+	•	Created the console application that can handle the automatic recharge.
+	•	Created a schedule in windows scheduler and in SQLJOBS
+
+	•	MaxproCloud:
+
+Role	: Development, Implementation and Manual Testing. Skills Used	: ASP.net, MVC , C#, WCF,JS,, SQL Server 2012
+
+Description:
+MaxPro Cloud 4.0 application which is an integrated, cloud-based video and access management system that enables organizations to significantly streamline multi-site.
+
+Responsibilities:
+
+	•	Responsible for bug fixing, coding for new feature enhancements and unit testing.
+	•	Supported for the UI integration.
+	•	Worked under Agile methodology.
+	•	Coordinated with the Testing team on environment setup, and also for on time delivery.
+	•	Worked in the implementations of card management functionality and scheduler.
+
+	•	Eagle:
+
+Role	: Development, Implementation and Manual Testing. Skills Used	: ASP.net, MVC, C#, WCF, JS, SQL Server 2012, Nunit, Moq
+
+Responsibilities:
+
+	•	Working under Agile Methodology.
+	•	Involved in the development of the login, account management, people management and Devicecontroller management.
+	•	Implemented the api integration for the above management.
+	•	Constructed the unit testing using Nunit and Moq.
+	•	Supported external teams on the environment setup and integrations.
+	•	Coordinated with the Testing team on environment setup, and also for on time delivery.
+	•	Responsible for bug fixing, coding for new feature enhancements and unit testing
+●
+
+ACHIEVEMENTS & PARTICIPATION
+
+
+	•	Diploma in Junior Software Programming with Grade A.
+
+	•	Won Proficiency Award in B.Sc.Computer Science.
+
+	•	Awarded Star award for the commitment towards issue fixes and card functionality implementation.
+
+	•	Created POC on the Microsoft cognitive services API to detect the facial expression, image insights.
+
+	•	Involved in the POC on the Internationalizations tool creation.
+
+	•	Completed the training on six sigma and received green belt certification on six sigma.
+
+
+DECLARATIONS
+
+
+I hereby declare all above stated information are true to best of my knowledge
+
+
+
+Place: Trichy	(Akila Palanimuthu)

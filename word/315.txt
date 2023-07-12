@@ -1,0 +1,147 @@
+
+RESUME
+
+
+NAZMA KHATOON                                                            		
+Primary # 8147846041                                              							                                                                                                                                                         
+Email: nazmakhtn@gmail.com                                          	 
+
+CAREER OBJECTIVE:
+To seek an opportunity to work in an organization as a as a Software Quality engineer where I can utilize my skills and upgrade my knowledge on new and emerging trends in this field.
+
+.EXPERIENCE SUMMARY:
+	•	2.4 years of experience as QA Engineer.
+	•	Good experience in Analyzing testing requirements, Test execution and completion for the assigned module. 
+	•	Good experience in preparing test scenarios, test cases and Reporting Defects.
+	•	Test plan and Test case design, Prioritization of Test Defects.
+	•	Hands on experience in using test management and defect tracking tools such as JIRA, Redmine.
+	•	A good understanding of various SDLC methodologies like Waterfall, V-Model.
+	•	Involved in various test methodologies like Functional testing, usability testing, smoke testing and Compatibility testing, Sanity testing, Website testing . 
+	•	Executing Test Cases in Specified Test Environment.
+	•	Understanding Software Requirements
+	•	Good and proven team player.
+	•	Reporting Defects using Defects Tracking System(such as JIRA, Redmine and Agile methodologies).
+ 	
+
+TECHNICAL SKILLS AND COMPETENCIES:
+
+	•	Manual Testing (Quality assurance and quality control).
+	•	Automation Testing (QTP and quality center).
+	•	SQL Quaries.
+
+
+WORK EXPERIENCE:
+
+	•	Worked as a “Test Engineer” with STC “Third eye Technology Private Ltd”, Bangalore and having 5 month of experience, since from “25th JANUARY 2014” to “25TH MAY 2014” .
+
+	•	Working in “ChitrChatr communication pvt ltd“as “QA Engineer” in Bangalore from “Oct 2014 to April 2016”.
+
+
+
+
+
+
+
+
+PROJECTS:
+
+Mobile & Desktop Application Testing :
+
+PROJECT 1:  Chitrchatr 
+Testing Environment :  Manual.
+Team Size :  12
+Tools use :  Redmine, JIRA.
+Platform Testing:  Windows, Macbook Pro& Linux(Ubuntu).
+Mobile Device Under Test:  Android, Ipad, Iphone & Windows mobiles.
+
+Project Description:
+The ChitrChatr Platform consolidates all your communications into one Application. Users can make and receive Voice Calls, send and receive Text, Fax, Instant Messages, Emails and integrates with all your online Social Networks. This project provides Comprehensive and Unified free Messenger for everyone. User can make Audio & Video Calls for free after login. User can be able to Chat with other ChitChatr contacts and among Internal ChitrChatr Groups, User can share files, send Audio &Video files, Can Access &Post Social networking (Facebook & Twitter) within Application, Can Sync Email (Gmail, Yahoo & Hotmail) into ChitrChatr, Send SMS& FAX, Can Buy Number of any country. With ChitrChatr you can create your own Email account and Send email messages across any domain.
+
+Roles & Responsibility:
+	•	Understanding the Flow and Functionality of the application.
+	•	Preparing the test cases using available functional documents.
+	•	Reviewing and updating the test cases based on impact analysis made on changes in application over releases.
+	•	Performed Smoke testing, Functional, Usability, security and regression testing,UI testing, Sanity testing, web testing, Application testing.
+	•	Tracking the defects using Defect Tracking Tool (Redmine, Jira).
+	•	Reporting Bugs to Developers and consulting individual developer on the same issue.
+	•	After Bug is fixed, verifying the issues till it get fixed for all different environment (Production & Alpha/ local).
+	•	Added 50+ more new features & ideas to the application for making it more convenient & user friendly.
+	•	Communicate within my team & developers on application & general issues.
+	•	Leading for Chat modules within my team & do planning for my team on how to proceed for testing.
+	•	Complete the task assigned, encouraging other team mates. 
+	•	Working for more hours during release time.
+	•	Punctual in completion of task assigned to me.
+	•	Code optimization testing on developers local machine for better UI/UX.
+	•	Preparing Test Reports based on accurate testing results and raise bug against failures.
+.
+.
+
+
+
+
+
+
+
+
+
+
+Web site Testing
+PROJECT 1:  Genpact.
+Testing Environment: Manual.
+Team Size : 10
+Tools use : Redmine, .
+Platform Testing: Windows Desktop.
+
+Project Description:
+GENPACT is a global leader in transforming and running business processes and operations, including those  that are complex and industry-specific. Genpact stands for – “Generating Impact”. Which means visible in tighter cost management as well as better management of risk, regulations, and growth for hundreds of long-term clients, Genpact applied this same industrial engineering ethos to business processes operations for the first time.
+
+Roles & Responsibility: 
+	•	Understanding software Requirements.
+	•	Understanding the Flow and Functionality of the application.
+	•	Understanding Test planning, Test Strategy and Test Scope..
+	•	Performed Smoke Testing, Functionality testing, Usability, UI testing and regression testing.
+	•	Compatibility testing with different browser (Google chrome, Firefox, IE).
+	•	Bug Reporting and Tracking of defects by using Bug tracking system..
+	•	Preparing Test Reports based on accurate testing results and raise bug reports against failures.
+
+
+PROJECT 2: Funckypiegion
+Testing Environment: Manual.
+Team Size : 10
+Tools use : Redmine, .
+Platform Testing: Windows Desktop.
+
+Project Description:
+Funckypiegion is an creating a Personalized greetings cards & gifts at funckypiegion.com. Personalize your greetings card by personalizing the name, text and the inside of your greetings card. Add a photo to any of our Photo Cards; it consists of different Cards like Birthday Cards, Christmas Cards, Photo Cards, Anniversary Cards, Thank You Cards, Wedding Cards, Love Cards, Christening Cards, and Kids Cards
+Roles & Responsibility: 
+	•	Understanding software Requirements.
+	•	Understanding the Flow and Functionality of the application.
+	•	Understanding Test planning, Test Strategy and Test Scope..
+	•	Performed Smoke Testing, Functionality testing, Usability, UI testing and regression testing.
+	•	Compatibility testing with different browser (Google chrome, Firefox, IE).
+	•	Bug Reporting and Tracking of defects by using Bug tracking system..
+	•	Preparing Test Reports based on accurate testing results and raise bug reports against failures.
+
+
+ACADEMIC PROJECT
+
+	•	Project Title - Working Model On “SIGNAL TRANSMISSION AND SIGNAL ACCESSING” by Using Dual Tone Multiple Frequency (DTMF)”.
+
+Team Size: 2
+Our project mainly concerned with the control of electronic devices/appliances using mobile handset. By the use of mobile devices control, we can control the operation of our home/office appliances. This project mainly consists of the devices like Mobile phone, Microcontrollers, DTMF decoder, Voltage regulator, Transformer, Relays & LED’s. The system consists of two subsystems. One is the remote control system and other one is the phone monitoring system. It consists a circuit that enables switching ‘ON’ and ‘OFF’ of appliances through Mobile phone. It can be used to switch appliances from   any distance. 
+
+EDUCATIONAL QUALIFICATION
+
+B.Tech (IT) from Kanpur Institute of Technology with 76% graduated in the year 2012.
+
+PERSONAL PROFILE 
+	•	Date of Birth      : 18-Dec-1989
+	•	Gender              : Female
+	•	Nationality         : Indian
+	•	Marital Status    : Single
+	•	Fathers Name    : A M Ansari.
+	•	Languages        : English, Hindi.
+	•	Hobbies 	       : Listening music, Hangouts with friends and watching movies.
+	
+
+                                                                                                 Nazma khatoon

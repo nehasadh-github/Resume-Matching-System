@@ -1,0 +1,217 @@
+CURRICULUM VITAE
+
+ABDUL RAHMAN M Mobile: +91 9677342495
+Email: abdulraz555@gmail.com
+
+
+CAREER OBJECTIVE:
+Want to involve myself in a challenging environment offering scope for Growth & Development and an opportunity to apply my learning to effectively contribute towards the achievement of the organizational objective.
+
+
+WORK EXPERIENCE:
+Designation	:	Control Room Operating engineer
+Company	:	Valuthur Gas Turbine Power Station(VGTPS),Ramnad, India.
+Period	:	July 2016 to Till Now
+
+
+PROFESSIONAL EXPERIENCE:
+
+110KV SWITCH YARD:
+	•	11/110KV Switch Yard operation.
+	•	4 Generation Breakers and 5 Outgoing Feeders.
+
+While working in Water Treatment Plant (VGTPS):
+	•	Understanding the Requirement Specifications of RO and DM plant.
+	•	Controls Treatment Plant machines and equipment to purify and clarify water for human consumption and for industrial use.
+	•	Operates and controls electric motors, pumps, and valves through SCADA to regulate flow of raw water into treating plant.
+	•	Involved in back wash and regeneration of filters and ion exchangers.
+	•	Proper maintenance of daily and monthly reports.
+
+While working in Power Station(VGTPS):
+	•	Monitoring the entire operation of 92.2-MW Combined Cycle Gas Turbine and its auxiliaries through Distributed Control System (DCS)
+
+	•	Operation of 58.5 MW V64.3a Ansaldo EnergiaGas Turbine andits auxiliaries.
+	•	Monitoring of Alstom Heat Recovery Steam Generator(HRSG) and its auxiliaries.
+	•	Operation of 33.7 MW Qingdo Jieneng Steam Turbine and its auxiliaries.
+	•	Operation and control of Instrument air / Process air (IA/PA) compressor.
+	•	Operation and control of 2.5 MW Gas Boost Compressor (GBC)
+	•	Air Cooled Condenser fans (ACC)& Air Cooled Heat Exchanger (ACHE) fans control and operation through DCS.
+	•	Enormous knowledge of the operation of high-pressure boilers and related mechanical equipment.
+	•	Strong ability to work with high voltage equipments (such as racking out of HT and LT breakers) for making proper electrical isolation.
+	•	Having experience in online water wash and offline water wash.
+	•	Daily and Monthly report submittal.
+	•	Having knowledge in HVAC works like A.H.U, Package Units & DX Split Units
+
+GAS TURBINE:
+	•	Make	: ANSALDO ENERGIA.
+	•	Model Numb	: V64.3A.
+	•	Lube Oil System	: MOP, AOP, LOP, EOP.
+	•	Static Frequency Converter.
+	•	Hydraulic Supply Pump.
+	•	Pneumatic Compressor.
+	•	IA/PA Compressor.
+
+ Heat Recovery Steam Generator (HRSG)	
+	•	Make	: ALSTOM.
+	•	Type	: Horizontal, Unfired Finned tube, Triple Pressure.
+	•	Circulation	: Natural.
+	•	Boiler Capacity in Kg/s (HP, IP, LP) : 26.67 Kg/s, 3.11Kg/s, 1.53Kg/s.
+	•	Steam Temperature (HP, IP, LP)	: 542 C, 260 C, 200 C
+	•	Steam Flow in TPH (HP, IP, LP)	: 96 TPH, 11.2 TPH, 5.5 TPH.
+	•	HP, IP/LP Boiler Feed Pumps.
+	•	Maintaining the Deaerator Level.
+	•	Maintaining the HP, IP, LP Drum Level -Operation through DCS.
+
+STEAM TURBINE:
+	•	Make	: QINGDO JIENENG.
+	•	Mode	: BBN32.4-103/27/5.5.
+	•	Rated Power	: 32.4 MW.
+
+	•	Pressure in Kg/cm (HP, IP, LP)	: 103 Kg/s, 27 Kg/s, 5.5 Kg/s
+	•	Temperature (HP, IP, LP)	: 540 C, 258 C, 198 C.
+	•	Lube Oil System	: MOP, SOP, JOP, LOP, EOP.
+	•	Gland Seal System.
+	•	Air Cooled Condenser (ACC).
+	•	Closed Cooling Water (CCW) System and Vacuum System.
+
+CONTROL MECHANISM:
+
+	•	Gas Turbine	: ABB-Symphony Harmony DCS, Power Generation Portal (PGP) Software
+	•	Steam Turbine: Siemens-SPPAT1000 DCS.
+
+INTERNSHIP EXPERINCE:
+
+	•	Designation	:	Junior Switch Yard Operator.
+	•	Company	:	Substation at 230 KV/ 110 KV,Trichirapalli, India.
+	•	Period	:	Nov 2015 to Feb 2016 (4 Month).
+
+
+ACADEMIC QUALIFICATION:
+	•	Qualification : B.E Electrical and Electronics Engineering
+	•	Year	: 2012-2016
+	•	College	:Pavendar Bharathidasan College of Engineering and Technology,
+	•	University	: Anna University
+	•	Location	: Tiruchyrappalli, Tamilnadu.
+
+AREA OF EXPERTISE:
+	•	Presented paper on “Induction Motor” in Inter College symposium.
+
+	•	Presented Paper on “Micro Grid” in Inter College Symposium
+
+ACADEMIC PROJECT (UG) :
+	•	PROJECT TOPIC	: A ISOLATED FLYBACK DC-DC CONVERTER
+
+	•	DURATION	: 6 Months
+
+	•	BRIEF DESCRIPTION	: We designed a hardware that streamlines all sources present in an organization. We designed specifically for our college.
+
+INDUSTRIAL TRAINING (UG) :
+
+	•	COMPANY NAME	:	Gas Turbine & Steam Power Plant (VGTPS).
+	•	TRAINING	:	An overall study about the organization and current field transaction.
+	•	DURATION	:	1 month
+	•	PLACE	:	Ramanathapuram.
+
+	•	COMPANY NAME	:	Tamilnadu Electrical Board (TNEB)
+	•	TRAINING	:	An overall study about the organization and field
+.	transaction & Transformer, maintenance and testing.
+	•	DURATION	:	1 months
+	•	PLACE	:	Tiruchyrappalli.
+
+
+
+
+ EDUCATIONAL QUALIFICATION:
+
+
+B.E (EEE)
+Pavendar
+Bharathidasan
+
+2012-2016
+
+Anna university
+
+61.3 %
+
+College of Eng. and Technology
+
+
+
+HSC
+Syed Ammal Higher Secondary
+
+2011-2012
+
+State Board
+
+58.8 %
+
+School
+
+
+
+
+SSLC
+Syed Ammal Higher Secondary
+
+2009-2010
+
+State Board
+
+75.6 %
+
+School
+
+
+
+
+
+AREA OF INTEREST :
+	•	Generation and Automation
+
+	•	Production / Maintenance Service
+
+COMPUTER PROFICENCY :
+	•	OPERATING SYSTEMS KNOW	:SCADA, Windows XP, 7, 8, 8.1
+
+	•	APPLICATION SOFTWARE	: MS Office ,C&C++
+
+PERSONAL DETAIL:
+Father Name	:	Mohamed Ibrahim
+Date of Birth	:	22-01-1995
+Sex	:	Male
+Language	:	English,Tamil
+Marital Status	:	Single
+Permanent Address	:	93,Pallivasal Street,
+Thoruvalour-Post,
+Ramanathapuram (DT), Tamilanadu, INDIA.
+Passport Details
+Passport No	:	M6502127
+Date of Expiry	:	18-02-2025
+
+
+DECLARATION:
+I hereby declare that the information furnished above is correct and true to the best of my knowledge and belief.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yours sincerely
+
+ABDUL RAHMAN M

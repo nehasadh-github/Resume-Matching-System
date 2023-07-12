@@ -1,0 +1,96 @@
+
+
+
+
+M. MOHAMED MAHADHIR
+
+Email: mohamedmahathir861@gmail.com Mobile: +91-8675842994
+
+
+CAREER OBJECTIVE
+
+Seeking a challenging position which will enable me to continuously learn, create, innovate and simultaneously contribute to the short and long term goals of the organization effectively using technological and managerial skills.
+PERSONAL COMPETENCY
+	•	Excellent team worker with good Interpersonal and communication skills
+	•	Strive to learn new concepts from experienced people
+EDUCATIONAL QUALIFICATION
+
+COURSE
+INSTITUTION
+UNIVERSITY
+/BOARD
+YEAR OF PASSING
+AGGREGATE
+B.TECH
+(Electrical & Electronics Engineering)
+Ponnaiyah Ramajayam Institute of Science and Technology, Vallam,
+Thanjavur.
+PRIST
+University, Thanjavur.
+
+2012-2016
+
+7.5 CGPA
+
+HSC
+Veludayar Higher Secondary School,
+Thiruvarur.
+State Board of Tamil Nadu
+
+2012
+
+53%
+
+SSLC
+Veludayar Higher Secondary School,
+Thiruvarur.
+State Board of Tamil Nadu
+
+2010
+
+72%
+ACADEMIC PROJECT
+
+PROJECT TITLE : UNDER GROUND CABLE FAULT DISTANCE LOCATOR
+DESCRIPTION :
+ The aim of this project is to determine the fault location of underground cable from base station by using microcontroller.
+
+ This project uses the simple concept of OHM’s law. When any fault like short circuit occurs, voltage drop will vary depending on the length of fault in cable, since the current varies.
+ we detect the exact location of short circuit fault in the underground cable from feeder end in kilometers by using microcontroller 8051. So, it can be easily detected and repaired.
+COMPUTER SKILLS
+Languages	:	basics of C, C++
+Packages	:	MS office
+Designing Tools	:	Matlab,
+Operating Systems	:	Windows XP, 07, 08
+PROFICIENCY IN LANGUAGE
+
+Language
+Speak
+Read
+Write
+English
+
+
+
+
+
+
+Tamil
+
+
+
+
+
+
+PERSONAL DETAILS
+
+Father’s Name	:	Mr. A. Mohamed Ajmudeen Date of Birth	:	24/12/1993
+Gender	:	Male
+Nationality	:	Indian
+Mother tongue	:	Tamil
+Hobbies	:	Playing cricket, hearing music
+Address	:	3/493, Manarkeni street, adiyakkamangalam, Tiruvarur – 610001, Tamil nadu.
+DECLARATION
+I hereby declare that the above particulars furnished by me are true to the best of my knowledge and belief.
+Date : Place :
+(M. MOHAMED MAHADHIR)

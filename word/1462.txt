@@ -1,0 +1,140 @@
+USAMA M.SAYEED SHAIKH         
+A/503, National Complex, Sector-6, Near MTNL Building, New Panvel-410206.                   
+Contact: +919820243853 (India)                                          Email: usamashaikh82@gmail.com
+                  +966594346620 (Saudi Arabia)                           Skype Id: usshaikh92
+
+
+Seeking a position in an organization that provides me ample opportunity to explore & excel while carving out the niche for personal, professional as well as organizational goals
+
+SUMMARY OF SKILLS
+
+	•	Qualified individual with B.E. in Electronics & Communication Engineering from Everest Educational Society, College of Engineering, Aurangabad, and Diploma in (Electronics & Telecommunications) from Babasaheb Gawde Institute of Technology, Mumbai; determined to carve a niche in the industry. 
+	•	Possess knowledge & experience in Installation & Commissioning of Electrical Panel for High Storey   buildings i.e. PCC & MCC Panel and Industrial panels i.e. LT, HT and Main Hoist Panel.
+	•	Possess knowledge & experience in Designing of Electrical Distribution panel using Auto Cad (v.2014) & E-plan software.
+	•	Possess knowledge in understanding Electrical Drawings & Layout of all Services i.e. Fire Fighting, HVAC systems, Security System etc. 
+	•	Experienced in Electrical Designing, Load Calculation & Commissioning in Construction field (MEP project)
+	•	Possess knowledge of Programmable Logic Controller in (Allen Bradley, Siemens, Ge Fanuc) SCADA system ( Wonderware ver 9.5)
+	•	Possess knowledge of Electrical Maintenance of Telecom Exchanges in Telecom Sector.
+	•	Possess knowledge of Installation in CCTV i.e. (PTZ, Dome), IP Camera, NVR, DVR’s & Wireless Access point system.
+	•	Understanding of all aspects governing operational activities & up to date knowledge of latest technological advancements in the field of Electrical, Electronics & Communication.
+	•	Well-developed communication and presentation skills with the ability to perform above expectations. 
+
+
+
+Technical Skills 
+
+	•	PLC Programming       Allen Bradley (SLC 5/03) – RS Logix 500,
+                                                  Siemens S7 300 – Simatic Manager version 5.4, 
+                                                  Ge Fanuc – Proficy Machine Edition (PME) version 5.90,
+                                                  Modicon - Unity Proxl version 5.0.
+	•	Programming tool        (LADDER, FBD, STL) & Electrical Drawings using EPLAN & AutoCAD.
+	•	Electrical Drawing        AutoCAD 2014 & AutoCAD 3D.
+	•	SCADA                              Intouch Wonderware Ver. 9.5
+	•	DCS                                   Delta V (FBD & SFC programming).
+	•	HMI                                  Allen Bradley PV Micro 300 – Panel Builder 32.
+	•	Networks (Ethernet as well as wireless Networking).
+	•	Different Communication Protocols & Field bus.
+
+
+
+
+WORK EXPERIENCE
+
+SEDER ENGINEERING, (SEDER GROUP OF COMPANIES)
+SAUDI ARABIA (RIYADH)
+
+Electrical Engineer, October 2014 – Till date
+
+Role:
+	•	Working as an Electrical Engineer for Saudi Telecom Company (STC) and Responsible for Operation & Maintenance of Electro-Mechanical equipment of 44 Telecom Buildings within Riyadh city.
+	•	Responsible for Designing & Commissioning of Electrical Low voltage panels in Industrial & Commercial buildings.
+	•	Responsible for keeping the Exchanges live which is having load more than 2500KVA and having Stand by Generator (each 1000 KVA) to avoid power failure , so that to provide uninterrupted network for the customers.
+	•	And maintaining Rectifier to provide DC power to the Telecom equipment having load (ranges 2000 Amp – 6000 Amp)
+	•	Responsible for Maintenance of Electro-Mechanical equipment like MIDB, ATS, Stand- by Generator, UPS, Rectifiers, Inverter, Backup Battery, Chillers, Package Unit & Split A/C, Fire alarm system.
+	•	Responsible for Monthly preventive maintenance of all sites and submitting report to our Client and carrying out Corrective maintenance if any equipment not working properly.
+	•	Need to stay alert 24/7 to attend any emergency alarm related to Electro mechanical issues. And clearing the issue depending on the Severity level (within time) to avoid Penalty.
+	•	 Exchanges are completely monitored through Alarm switches which is maintained by HUAWEI and on the bases of alarm the ticket are generated through NOC and referred to the concerned O&M team.
+	•	Responsible for doing Monthly Alarm testing which includes Generator testing, UPS & Inverter testing with load to ensure the capability of Backup Power.
+	•	Most importantly to deal & coordinate with the Client for many things like weekly progress report, spare parts availability, to satisfy our client to produce 100 % payments on quarterly basis. 
+	•	And to deal with one of the toughest client in Saudi Arabia (Saudi Telecom Company, STC) and to maintain the Work graph by managing the team consisting of 40 technical people.
+	•	Attending weekly meeting with STC Central Director to discuss and solve the High severity issues and expressing to provide the required support from the STC side also.
+	•	And to provide technical report from the Manufacturer to Client if any of the Electro Mechanical equipment is Obsolete ( ATS, Chillers, Generator) and requesting them to replace it ASAP to prevent from future trouble.   
+
+
+
+Major Activities carried out:
+Below mentioned are one of the many activities performed with prior Planning & Organizing and keeping also the safety measures, with the Approved MDT or TCN from our     Client: SAUDI TELECOM COMPANY (STC)
+
+	•	Under Seasonal Maintenance, Successfully executed the Replacing of Power Cables of 630mm (XLPE cable, 3phase + Neutral) from the secondary side of SCECO Transformer of 1000KVA rating, performing this activity within Maintenance down Time (MDT).
+	•	Successfully Installed & Replacing of 2 nos. UPS of 120 KVA which is connected in parallel and transferring all the load on the Bypass Supply of UPS to avoid network outages & power interruption.
+	•	Replacing the old ATS with new ASCO ATS of 2600 Amps within 8 hours and transferring all the load to another MDB Panel using Tie Breaker.
+	•	Designing & Commissioning of MCC & PCC panel for 200 tons of Carrier Chiller.
+	•	Carrying out Calibration & repairing of VFD (Variable frequency drive) connected to AHU supply Fan Motor for the chillers of Main exchanges to avoid High Temperature issue.
+	•	Replacing of 3 strings of Rectifier Backup Battery rating of each cell 3000AH and each String consists of 12 battery cells.
+
+
+
+
+Projects carried out:
+
+	•	Our company constructed a Data Center for one the leading Client in which my role was to do Load Calculation as per IEC standards, Electrical designing, Cost Estimation, BOM & Commissioning of all electrical equipment (Transformer, ATS, MDB panels, UPS, Fire Alarm sys.)
+	•	Responsible to manage all the electrical material required onsite on daily basis and to take daily reports and inspection of the site.
+	•	To prepare & present Weekly progress report of the project to the Client.
+
+
+
+
+LKP SYSTEM ENGINEERS PVT LTD
+Mumbai, INDIA
+Electrical Engineer, July 2013 – September 2014.
+
+Role:
+	•	Responsible for Testing of Electrical panels such as LT, HT Panels, Main hoist and Protection Circuit panel, Star/Delta/DOL and Fault finding & troubleshooting the issues.
+	•	 Responsible for drawings (Eplan & AutoCAD), schematics, PLC/VFD software and technical documents.
+	•	Preparing of BOQ & Cost estimation of materials required for Installation.
+	•	Deals with circuit breaker, relays, contactors, Switchgears, MCB, RCB, 3-Phase induction Motor and switchgear products i.e. PCC, MCC.
+	•	Responsible for onsite Commissioning and Troubleshooting of projects which are:
+	•	Hardware as well as software installation & programming of PLC based system projects using “Schneider” PLC or any other.
+	•	Commissioning of ABB’s AC/DC drives, VFD in electrical panel.
+	•	Railway Electrical panels projects & Fire Fighting Panels in Building.
+	•	Crane’s LT, CT, MH panels.
+	•	Done other duties related to Electrical Engineer.
+
+
+
+
+Projects carried out:
+
+	•	Successfully installed and commissioned the MCC & PCC Panel using PLC logic (Schneider) to monitor using BMS system provided for one of the reputed Hospital in Mumbai.
+	•	And also designed & installed 8 nos. VFD controlled panel for the AHU system (Air handling units) providing various application to control the speed of the Motor rating 40 HP using “ABB VFD” (ACS 550)  
+
+
+EDUCATIONAL CREDENTIALS
+
+Certified in Post Graduate Diploma in Industrial Automation (PGDIA), 2013
+Prolific Systems & Technology Pvt. Ltd, Mumbai.
+
+B.E (Electronics & Communication), 2013
+Everest Educational Society, College of Engineering, Aurangabad; 75.13%
+
+Diploma (Electronics & Telecommunications), 2010
+Babasaheb Gawde Institute of Technology, Mumbai; 79.45%
+
+X (SSC), 2007
+Dr. Antonio Da Silva High School, Mumbai; 68.00%
+
+
+
+
+Extracurricular Accolades
+	•	Prepared and practically performed “Solar power auto irrigation system” project in the final year of B.E.
+	•	President of Electronics & communication Students Association Committee (ECSA) 
+	•	Participated in a State Level Technical Event Paper Presentation 
+
+Date of Birth: 29th May, 1992
+Languages Known: English, Hindi & Marathi
+Passport no: H9266846
+References: Available on Request
+
+
+

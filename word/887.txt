@@ -1,0 +1,76 @@
+CURRICULAM VITAE
+
+
+
+
+REESHI CHAUHAN
+Address:	H. No. D-340
+J.J. Colony, Bawana	ELECTRONICS TECHNICIAN
+New Delhi-110039
+Phone:	8447287329
+Email ID:	rschauhan637@gmail.com
+
+OBJECTIVE
+To utilize my technical skills for achieving the target and developing the best performance in the organization. I would like to implement my innovative ideas, skills, and creativity for accomplishing the projects.
+EDUCATIONAL QUALIFICATION
+
+	•	HSC from UP Board (2006-2008)
+	•	Diploma in Electronics & Communication Engg. From Punjab State Board Of Technical Education & Industrial Training, Chandigarh, Punjab (2008-2011).
+
+AUTOMATION EXPOSURE AT SOFTCON INDIA PVT. LTD.
+
+	•	PLCs: Allen Bradley (Micrologix1000, SLC 5/03), Siemens (S7-200, S7-300), Modicon (TSX Micro 3705) & Mitsubishi (FX-series)
+Ladder & Logic Development Wiring & Troubleshooting.
+	•	SCADA: Wonder ware’s In touch, RS View, Application & Development.
+	•	Process	Instrumentation:	RTDS,	Thermocouples,	Level	Sensor,	Flow	sensor, Proximity Sensors, Relays, Contactors, Thermal overload relays.
+	•	Motors/ Starters/ Control Circuits: Induction Motors, Torque/ Speed characteristics, Star Delta Starters, DOL Starters, Reversing starters, interlocking circuits, Wiring. Knowledge of PLC wiring, source & sink concepts.
+	•	Variable Speed Drive: Knowledge of Programming, its Variable speed & Torque Characteristics, Energy saving concepts.
+	•	HMI (panel View 300 Micro): Creating Applications, Downloading / Uploading Program, Communication with PLC.
+	•	DCS: Flexlogix, Introduction to DCS Hardware, Application and hands on practical on DCS.
+	•	Panel Designing: Contactor sizing and Bus bar sizing, Load calculation and Panel protections etc.
+
+PROJECT TRAINEE 
+
+	•	Home Security System.
+	•	One month trainee in BSNL
+WORK EXPERIENCES
+
+ORGANISATION
+INDUSTRY
+ROLE
+YEAR
+Signals & Systems(I) Pvt. ltd.
+Power & utility
+Technician
+MAY’13-Till present
+PROFESSIONAL SKILLS
+	•	Troubleshooting of Meter Reading, GPS and Display Devices.
+	•	Operation and maintenance of GPS Time synchronization equipements in electrical power substations.
+	•	Familiar with Synchronizations of Siemens, ABB, Toshiba, Schneider, Easun Reyrolle relays etc.
+	•	cable installation, cable termination, substation, electrical
+Commissioning, underground cable installation and substation commissioning.
+	•	Possess ability to analyze the electronics circuits & diagnose the faults.
+	•	Familiar with problem solving of complex equipments.
+	•	Ability to work under pressure.
+	•	Good Presentation & Analytical skills.
+	•	A practical & systematic approach towards work.
+	•	Initiate and support continues improvement activity within the team.
+
+PERSONAL DETAILS
+	•	Date of Birth	: 15/01/1990
+	•	Nationality	: Indian
+	•	Sex	: Male
+	•	Status	: Married
+	•	Language	: English & Hindi
+
+PASSPORT DETAIL
+	•	Passport No.	: J0937499
+	•	Place of Issue	: Delhi [INDIA]
+	•	Date of Issue	: 15 July 2010
+	•	Date of Expiry	: 14 July 2020
+
+DECLARATION
+I hereby declare that the above-furnished details are true to the best of my knowledge and belief.
+
+
+(Reeshi Chauhan)

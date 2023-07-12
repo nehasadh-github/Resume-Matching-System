@@ -1,0 +1,121 @@
+	                   		CURRICULUM VITAE
+
+
+ADDRESS	   							         CONTACT 
+THILEEPANKUMARAPPA.N.T
+3/112 NO.24 veerapandipudur,                                     thileepankumarappa@gmail.com  
+Chinathadagam road,
+Coimbatore-641108.                                                                  +91 9952553575                                   
+	                      
+
+--------------------------------------OBJECTIVE-------------------------------------
+
+             To succeed in an environment of growth and excellence and earn a job which provides me job Satisfaction and self development and help me achieve personal as well as organization goals in the field of INFORMATION TECHNOLOGY.
+
+---------------------------------AREAS OF PROFICIENCY-----------------------
+
+	•	Providing support on Red Hat Enterprise Linux, Windows Server 2003 and Windows 2000 server,XP,8.
+	•	Installation Upgradation and Implementation
+	•	System Administration
+	•	Networking & Network Administration
+	•	Performance Tuning
+	•	Troubleshooting
+
+---------------------------PROFESSIONAL QUALIFICATION-----------------------
+
+	•	Worked as a “SYSTEM ADMIN” in “UNIVERSAL IT  RESOURCES”  for 15 months (APR/2013-30/06/2014)
+
+-------------HIGHLIGHTS OF SPECIALIZED IT SKILLS--------------
+
+Red Hat Enterprise Linux
+
+ System Administration Level
+
+	•	Installation / upgradation of Red Hat Enterprise Linux Operating Systems
+	•	File system Management:
+	•	Networking with TCP/IP
+	•	 Troubleshooting Network Configuration
+	•	RPM Management
+	•	Installation, Upgradation, Deleting.
+	•	User and Group Administration: - Users, Groups, and    Permissions
+	•	Linux Quota System: - User Quota, Group Quota.
+	•	Troubleshooting of Hardware Problem.
+	•	Network Services and Security Administration Level
+	•	Configuring DNS severs 
+	•	Configuring DHCP Server.
+	•	FTP AND SAMBA Configuration
+	•	Proxy Server 
+	•	Telnet-server
+
+WINDOWS
+
+	•	WINDOWS Client OS Installation (win2000, winxp)
+	•	WINDOWS SERVER OS Installation (winNt, windows2000, windows2003)
+	•	Windows Troubleshooting in both client & server operating systems.
+	•	Managing and Maintaining users, computers and groups in windows2003.
+	•	Implementing and Configuring DNS Servers and Clients.
+	•	Configuring DHCP Servers and Clients.
+	•	Configuration of ADS, GROUP POLICY 
+	•	Taking backup with  third party backup software
+	•	Well –versed in LAN connectivity and client configuration
+	•	Networking with TCP/IP
+Hardware level troubleshooting in desktops and Servers (Intel, AMD)
+
+-------------------------------EDUCATION & TRAINING--------------------------
+
+	•	BACHELOR OF ENGINEERING IN COMPUTER SCIENCE AND ENGINEERING  (B.E-CSE) WITH AN AGGREGATE OF  63% FROM SNS COLLEGE OF TECHNOLOGY (2006-2010)
+
+	•	SECONDARY SCHOOL EDUCATION (2005-2006) WITH AN AGGREGATE OF  70% FROM  ST PAUL’S METRIC & HR SEC SCHOOL
+	•	ADVANCED DIPLOMA IN IT INFRA STRUCTURE
+	•	CISCO CERTIFIED NETWORK ASSOCIATE (CCNA)
+Platform known
+Operating System     :  WINDOWS XP,  7,8,2003,2008, Linux-RHEL,UBUNTU
+Basic                         : A+, N+
+Networking              :  CCNA (Cisco Certified Network Associate)
+Languages                : JAVA,JAVASCRIPT,MYSQL,XHTML,HTML5,PHP
+
+
+
+
+
+
+
+Personal Details
+
+Full Name				  : THILEEPAN KUMARAPPA.N.T
+	
+Father’s Name				  : M.NATARAJAN
+
+Mother’s Name                                           :V.PARAMESHWARI
+
+Contact No				  : 9952553575
+
+Date of Birth		          		  : 30-01-1989
+
+Marital Status				  : Single
+
+Address for communication 	               : 3/112 No.24-Veerapandi pudur
+                                                                      No-24-Veerapandi (Po)
+                                                                      Coimbatore 
+     Pin code -641108
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration:
+
+	        I hereby declare that the above given information’s are true to the best of my   knowledge and belief.
+
+      Yours faithfully,
+        
+    
+                                                                                   (THILEEPAN KUMARAPPA.N.T) 

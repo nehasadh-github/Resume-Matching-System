@@ -1,0 +1,138 @@
+
+SURESH.S
+                                  
+Mob :+91 8940051688
+Email:sureshkan123@gmail.com
+
+
+Objective:
+To work in a challenging environment, harnessing my full potential and contribute to the sustained growth of organization with impressive performance,
+Professional Experience :
+	•	Worked as a production and  service  engineer(circuit design)  with(2011-2013)&(2015-2017) 4 year of experience at Sertel Electronics pvt ltd.
+Academic Qualification:
+	•	SSLC (10TH) Government High School at Dhalavoi with 91% from 2003-2004 
+	•	12th Government Higher Secondary School Sendurai with 82% from 2006-2007
+	•	B.E (Bachelor of Engineering in Electronics and Communication )with 75% from 2007–2011 Dhanalakshmi Srinivasan Engineering College,Perambalur
+	•	M.E (Master of Engineering in Applied Electronices) with 74% from 2013–2015 JJ college of Engineering and Technology Trichy .
+
+
+.Working Experience:  
+	•	Developing the products like Processor based  Central and  Satellite  Clocks.
+	•	GPS Receiver, IRIGB Time Code Generator.
+	•	Outstanding working knowledge of time synchronization outputs like NTP, IRIG-B, RS-232, RS485, PFC, TCP/IP and digital telecommunication lines.
+	•	Large size Digital Displays, Satellite Based Standards for Time and Frequency standards. 
+	•	Line drivers, Line receivers, Boosters, Decoders,semiconductors,power supply board
+	•	Disciplined Crystal Oscillator, Diode ORing, Power Supplies and Clock Panels manufacturing and testing the same and distributing through various channels in India
+	•	Working in PLC /SCADA in clock panel.
+	•	Circuit design for power supply board and  c programming for clock  panel
+Project 1: Electronices Engineer                                                                                                 2011- 2012
+Project Name		:	
+ABB at Bangalore – Demonstration of IRIG-B Slave clocks, Synchronization and Service.
+	•	Key Responsibility	:	Testing and Service Engineer in Production field also CIRUIT Board assembling and Testing the power supply Board
+	•	Client Company	:	NTPC,MSEB,BHEL,ABB,TATA POWER, RELIANCE,AREVA,  
+                                               ALSTOM, HAIL, EASUN, EMERSON, SIEMENS, YOKOGAWA, etc., 
+	•	
+	•	Description	              : The above client equipments such as RELAYS,DCS,RTU are synchronized through various time sync input like NTP,SNTP,TCP-IP,IRIG-B,PFC,RS-232,RS-485,etc.,
+
+Project 2: Electronices engineer                                                                                 2012-2013
+Project Name	
+YIL (Yokogawa India Limited) at Bangalore - Demonstration of GPS Roof Top System, Commissioning and Service.
+	•	Key Responsibility	:	Testing and Service Engineer in Production field also Assembling the power supply board and panel and electrical wiring for the panel
+	•	Client Company	:	NTPC,MSEB,BHEL,ABB,TATA POWER, RELIANCE,AREVA,  
+                                               ALSTOM, HAIL, EASUN, EMERSON, SIEMENS, YOKOGAWA, etc., 
+
+	•	Description	              : The above client equipments such as RELAYS,DCS,RTU are synchronized through various time sync input like NTP,SNTP,TCP-IP,IRIG-B,PFC,RS-232,RS-485,etc.,
+
+Project 3:Electronices Engineer                                                                                2015-2016
+Project Name	
+IBPL (Ind Bharath Thermal Power LTD) at Tuticorin – Panel Commissioning of GPS time synchronization system
+	•	Key Responsibility	:	Testing and Service Engineer in Production field and also  assemble the power supply Board and panel and wiring to the entire panel
+	•	Client Company	:	NTPC,MSEB,BHEL,ABB,TATA POWER, RELIANCE,AREVA,  
+                                               ALSTOM, HAIL, EASUN, EMERSON, SIEMENS, YOKOGAWA, etc., 
+	•	Description	              : The above client equipments such as RELAYS,DCS,RTU are synchronized through various time sync input like NTP,SNTP,TCP-IP,IRIG-B,PFC,RS-232,RS-485,etc.,
+
+Project 5:Electronices engineer                                                                                     2016-2017
+   ERL (Easun Reyrolle Ltd) at Hosur – Panel and GPS  Timer  clock  production and     testing Service of GPS time synchronization system.
+	•	Key Responsibility	:	Testing and Service Engineer in Production field also power supply board assembling and testing AND PLC/SCADA
+	•	Client Company	:	NTPC,MSEB,BHEL,ABB,TATA POWER, RELIANCE,AREVA,  
+                                               ALSTOM, HAIL, EASUN, EMERSON, SIEMENS, YOKOGAWA, etc., 
+	•	Description	              : The above client equipments such as RELAYS,DCS,RTU are synchronized through various time sync input like NTP,SNTP,TCP-IP,IRIG-B,PFC,RS-232,RS-485,etc.,
+Acadamic Project 
+          Post Graduate       
+	•	Tittle	                  :  Performance Analysis of Scalable Bandwidth-Efficient Hybride Adaptive                                                                    
+                                                   Discovery Protocol for Vehicular Networks
+	•	Software			NS2,VMWARE
+	•	Description	:	I present the performance Analysis of Scalable Bandwidth-Effiecient Hybride Adaptive Discovery Protocal;
+ Roles and Responsibilities in project works:                                                                                   
+	•	Worked in Design and Construction of coding for the system.                                                   
+	•	Involved in Unit Testing.
+
+AREA OF INTEREST:
+	•	Electronics Devices And Circuits.
+	•	Computer Network
+	•	Microcontroller and microprocessor
+	•	Digital electronices
+
+Skill sets:
+ Languages           	 :C, C++.
+Tools Worked      	:MATLAB,, CITRIX,ITSM,,VMWARE ,NS2,XILINX,PLC /SCADA
+Operating Systems	: Windows 2000/XP,7,8
+
+Credentials additonal qualifications:
+	•	I have  CCNA 4 month networking course Certificate at ACCEL IT ACADEMY
+
+
+Confernce Attended:
+	•	Attended the Conference Adavance information computation for the training topics is Performance Analysis of scalable Hybrid Adaptive discovery protocol at selvam engineering college
+	•	Attended the Conference International Conference On Engineering Trends And Science and humanities for the training topic is  Scalable Bandwidth Efficient Performance Analysis of  Hybrid Adaptive discovery protocol at Imayam Engineering College
+Achievements: 
+	•	Secured valuable scores in TANCET and GATE in 2013.
+	•	Won  400 mtr Runing 3rd place College Level
+	•	Won 4* 100 meter Relay 1st  place College Level
+Personal strengths:
+	•	Quick learner with good analytical cum problem solving skills, 
+	•	An energetic and focused team player with leadership ability to build cohesive, productive teams with desire to tackle challenging issues.
+	•	Strong interpersonal and communication skills to achieve effective working relationships.
+	•	Goal oriented person with self motivated to get the things too be done on time. 
+
+Personal particulars:
+
+
+Father’s name
+:
+Sri Selvarasu.c
+Date of Birth
+:
+25-05-1986
+Nationality
+:
+Indian
+Gender
+:
+Male
+Marital Status
+:
+Single
+Linguistic
+:
+Tamil,English
+Passport
+:
+Available
+Permanent Address
+
+
+
+:
+
+
+
+20/7 East Street, thalavoi,
+Thalavai-post,
+Sendurai Tk
+Ariyalur-Dis,621730
+Tamil Nadu
+I hereby declare that the above particulars given by me are true to my knowledge.
+Place:
+Chennai									                   Signature
+

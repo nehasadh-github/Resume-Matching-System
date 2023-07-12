@@ -1,0 +1,43 @@
+
+
+
+
+EDUCATION
+Rice University, Houston, Texas	Dec, 2014
+Master  of Science, Statistics	Cumulative  GPA: 3.70
+	•	Expected Coursework: Advanced Statistical Method, Financial Time Series, Data Analysis &Machine Learning
+	•	GRE: Quantitative: 800/800, Verbal: 720/800
+
+University of Illinois at Urbana Champaign, Urbana, Illinois	May, 2012
+Bachelor of Science, Natural Resource & Environmental Sciences	Major GPA: 3.50
+	•	Coursework: Applied Statistical Methods, Natural Resource Economics, GIS in Natural Resource Management
+	•	SAT: Math: 800/800, Writing: 590/800, Verbal: 620/800
+
+Experience & Course
+Rice University, Houston, TX	Fall, 2013
+Quantitative Financial Analytics
+	•	Conducted extensive research and analysis on financial statements available in SEC filings such as 10-K, 10-Q
+	•	Devised and compared various portfolio selection strategies through fundamental analysis with 30 years historical data from WRDS, with the best strategy outperforming the benchmark by 50 percent based on CAGR.
+
+Rice University, Houston, TX	Summer, 2013
+Research Assistant
+	•	Prepared and analyzed population census data using SAS, R and Excel and performed Poisson Regression analyses on the prevalence rate of Hepatitis C with respect to age, sex, ethnicity and liver cancer incidents rate.
+	•	Conducted hypothesis testing on heavy metal pollution data gathered in Houston Ship Channel and presented findings to the City of Houston Environmental Council
+
+Ministry of Environment, Satellite Environment Center, Beijing, China	Summer, 2012
+GIS Data Analyst
+	•	Utilized ArcGIS and Excel to analyze geographical data and created individual maps and reports using both ground census data and satellite image data over the past 4 years on the 335 National Nature Reserves
+	•	Maintained and updated Natural Nature Reserve database information for improved accuracy and efficiency using SQL and Excel
+	•	Assisted with the translation of the book “The State of the Nations Ecosystems, 2008” into Chinese, which contained over 400,000 words.
+
+Course Hero, Champaign, IL	Summer, 2011
+Campus Ambassador
+	•	Oversaw a campaign that resulted in over 1,100 uploads to the Course Hero study platform and a donation of 110 Books for Africa through the Course Hero's Knowledge Drive movement.
+	•	Leveraged viral marketing and social media to facilitate significant increases in active user traffic, and initiated and established partnership with on-campus organization and professors.
+	•	Earned the Course Hero Honor Roll during the month of October for outstanding performance and highest number of books donated.
+
+Skills, Activities & Interests
+
+Technical Skills: ArcGIS, Bloomberg, JMP, Matlab, Python, R, SAS, SQL
+Language: Fluent in Mandarin & English
+Activities/interests: Swimming, Cooking, Video Gaming, Poker

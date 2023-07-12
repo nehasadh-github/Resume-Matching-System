@@ -1,0 +1,50 @@
+
+OBJECTIVE
+
+Seeking employment as an applied statistician in data driven industry or research.
+
+EDUCATION
+
+Rice University, Master in Statistics	August 2012 – May 2014 (Graduate in May) Overall GPA: 3.85/4.00, GRE: 1490/1600
+Core courses: Data Mining and Statistical Learning, Bayesian Data Analysis, Time Series, Regression, Data Base System, SAS programming, Statistical Computing and Graphics, Quantitative Finance, Energy Economics
+University of Arizona, B.S in Mathematics, Second Major in Economics	August 2009 - June 2012 Overall GPA: 3.68, Major GPA: 3.88
+Core courses: Econometrics, Real Analysis, Linear/Abstract Algebra, Probability Theory, Stochastic Process, O/PDEs
+
+SKILLS
+
+Computer Languages	Proficient in R, SAS, MySQL, Python and MATLAB, Experience in C++ and Unix shell
+Professional Platforms	Microsoft VBA, Access, Bloomberg, FactSet, Wharton Data Research Services (WDRS)
+
+INTERNSHIP EXPERIENCE
+
+Syndicated Loan Data Analyst, Virtus Partners, Houston	10 June – 15 August, 2013
+	•	Created algorithms for data reconciliation across 5 major data vendors, speeded up the reconciliation by 150%.
+	•	Administrated large volumes of daily loan transactions, proactively communicated with agents, clients and colleagues.
+Quantitative Analyst, China Investment Corporation (CIC), Beijing	22 May – 27 July, 2012
+	•	Created investment theses on “Global Factory Automation Industry” by fundamental research in private equity team.
+	•	Immersed the whole process of capital evaluation from analyzing data to writing pitch book.
+	•	Completed the CIC analyst curriculum, coordinated with the buy side and the sell side teams successfully.
+Research Assistant, Math Department, University of Arizona, Tucson	August 2010 to December 2011
+	•	Developed a faster algorithm for winding number computing in C++ with Dr. Tomas Kennedy.
+	•	Verified Duplantier-Saluer result with 0.5 Billion Monte Carlo simulations by statistical analysis.
+
+RECENT PROJECTS
+
+Big Data Competition, Rice University	September 2013 - December 2013
+	•	Won the contest by building a recommendation system which well predicted 19.2 million Netflix movie ratings.
+	•	Implemented and improved the existing Collaborative Filtering models and Ensemble Learning methods.
+Statistical Software Development, Rice University	August 2013 - November 2013
+	•	Developed and maintained the data analyzing software "Bus Transport Monitor 1.1"
+	•	Integrated data collection, lubrication, calculation and visualization in a graphical user interface by R toolkit.
+SAS Research Project, Rice University	March - April 2013
+	•	Verified Efficient Market Hypothesis by noise elimination and hypothesis testing on 1.1 billion simulations.
+	•	Programmed a macro in SAS which merged various large data frames and performed the firm matching process.
+
+HONORS AND AWARDS
+
+1st Prize in Netflix Movie Recommendation Competition, Rice University		December 2013 National Science Foundation Scholarship for Undergraduate Research	August 2010 – May 2012 Graduation with Cum Laude, University of Arizona			May 2012
+2nd Prize in International Mathematical Contest of Modeling	May 2009
+
+ACTIVITIES AND SERVICES
+
+Teaching Assistant at UA and Rice U; Math Tutor Volunteer at Tucson High School; Study Abroad at Korean Second Place at Mathcat Ping Pong Tournament; Wining team in Eller College of Business Debate contest Membership: ASA (American Statistical Association), SPE (Society of Petroleum Engineers)

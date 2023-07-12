@@ -1,0 +1,227 @@
+
+BG SUMIT
+
+Name: Mr. SUMIT BHAGWANSING GIRASE                           Passport No: N4374525
+Mail id: sumit.g9890@gmail.com	                                           PAN No: BKHPG0247F
+Mobile no: +91- 9890950911				                 Aadhar No: 4632 7913 4314
+
+CAREER OBJECTIVES:
+To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self-development and help me achieve personal as well as organizational goals.
+CAREER SUMMARY:
+	•	An innovative thinker, initiative taker and multi-dimensional professional with exceptional logical and analytical skills possesses 5+ experience as a computer science engineer.
+	•	Experience in designing, developing, implementing and testing computer-based hardware and software.
+	•	Expert in dealing with components that are found inside computer equipment, as well as the actual devices that contain the computers and the software that runs on those machines.
+	•	Proficient in design networks that connect computer systems.
+	•	Expert in working on integrating software programs with computer hardware.
+	
+PERSONAL QUALITIES:
+	•	Excellent logical, analytical and computational skills.
+	•	Strong motivational and leadership skills.
+	•	Ability to work under pressure.
+	•	Ability to work individual as well as in team.
+
+EDUCATIONAL QUALIFICATIONS:
+
+
+EXAM PASSED
+
+NAME OF THE BOARD/UNIVERSITY
+
+DEGREE/SUBJECT/STREAM
+
+DATE OF  PASSING    
+
+% OF MARKS
+
+CLASS/GRADE
+
+M-TECH
+
+
+      SHRIDHAR  
+     UNIVERSITY
+
+COMPUTER SCIENCE
+
+4 SEP 2015
+
+8.9 CGPA
+
+B
+
+B.SC
+
+
+   CMJ UNIVERSITY
+
+COMPUTER SCIENCE
+
+ 25 MAR2013
+
+63
+
+FIRST
+
+HSC
+
+
+MAHARASTRA STATE     
+        BORAD
+
+COMPUTER SCIENCE
+
+4 JUNE 2009
+
+58.67
+
+SECOND
+
+SSC
+
+
+MAHARASTRA STATE    
+        BOARD
+
+TECHNICAL
+
+26 JUNE 2007
+
+68.61
+
+FIRST
+
+ACADEMIC SEMINAR:
+Title         	: Wireless Sensor Network Software Architecture Design Issues. 
+EXPERIENCE: 
+
+	•	Company Name		:    Artin Technologies. 
+	•	Location		:    Shirpur, Tal-: Shirpur, Dist-: Dhule.
+	•	Role			:    Support Service Engineer & Business Development Officer.
+	•	Job Time Period		:    10th April 2013  To 28th July 2015 
+	•	Job Responsibilities 	:
+
+1.  Responsible for developing executing the business development plan.
+2. Developed different new Clint and maintained our client database.
+3. Installing and configuring computer hardware, software, systems, networks, printers and scanners.
+4. Talking to clients and computer users to determine the nature of any problems they encounter.
+5. Planning and undertaking scheduled maintenance upgrades.
+6. Playing a very active role as a “Support Service Engineer”.
+
+	•	Company Name		:    StegnoCloud Technologies. 
+	•	Location		:    Dhule, Tal-: Dhule, Dist-: Dhule.
+	•	Role			:    Business Development Executive.
+	•	Job Time Period		:    4th Aug 2015  To  4th Feb 2016
+	•	Job Responsibilities 	:
+	•	Responsible for developing executing the business development plan.
+2.   Act as a key member of sales team.
+3.  Work closely with assigned partner to define the top business development priorities     
+Objectives.
+4.  Create customer-focused programs to achieve desired sales results.
+5.  Establish the measurement system to quantify the effectiveness of investments.
+6.  Develop the annual business development plan that reflects the right balance.
+S S R
+
+ 
+     
+    
+
+	•	Company Name		:    Galaxy Computer. 
+	•	Location		:    New Delhi.
+	•	Role			:    Support Service Engineer & Software Engineer.
+	•	Job Time Period		:    10th Feb 2016  To 20th June 2016
+	•	Job Responsibilities 	:
+
+1.  Working with customers/employees to identify computer problems and advising on the 
+Solution.
+2. Logging and keeping records of customer/employee queries.
+3. Analyzing call logs so you can spot common trends and underlying problems.
+4. Working with field engineers to visit customers/employees if the problem is more serious.
+5. To Provide Training to Client’s Employee about BCS ERP.
+6. Testing and fixing faulty equipment.
+7. Handle Client issue, regarding ERP & Provide Proper Support.	
+
+	•	Company Name		:    Tata Consultancy Services. 
+	•	Location		:    Pune.
+	•	Role			:    Transformation Manager.
+	•	Job Time Period		:    5th July 2016  To 30th September 2016
+	•	Project Name		:   TCS ION (ERP Manufacturing)
+	•	Job Responsibilities 	:
+
+1. Visited Client’s Factory Location & Understand Client’s Manufacturing Process.   
+2. Developed different new Clint and maintained our client database.
+3. To Provide Training to Client’s Employee about ION ERP.
+4. Responsible for optimizing the system for easy use, and training employees in its functions.
+5. Handle Client issue, regarding ION ERP & Provide Proper Support.
+6. Responsible for meeting directly with customers and clients to find out their ERP-related needs.
+7.Coordinate with other branches of the company to ensure their needs are met in any upgrades of the system.	
+
+	•	Company Name		:    Talexcell Information Systems Limited. 
+	•	Location		:    Pune.
+	•	Role			:    Project Engineer.
+	•	Job Time Period		:    2ed January 2017  To  27th  June 2018
+	•	Job Responsibilities 	:
+
+1. Handle Client (IGR GOVT OFFICES in all over Maharashtra) issue, regarding Wireless, Modem & LAN Connectivity. And Provide a Proper Support & Solution.
+2. Establish the measurement system to quantify the effectiveness of investments.
+3. Work closely with Software development team to establish rock-solid measurement      System for all major business development efforts. 
+4. Developed different new Clint and maintained our client database.
+5. Interacting daily with the clients to interpret their needs and requirements and representing them in the field.
+6. Assign responsibilities and mentor project team.
+7. Perform overall quality control of the work (budget, schedule, plans, and personnel’s performance) and report regularly on project status.
+8. Playing a very active role as a “Support Engineer”.
+
+PROFESSIONAL SKILLS:
+
+
+Operating Systems
+
+Windows XP, Windows 7,Windows 8
+
+Concepts
+Data Structures, Computer Networks, Database Management & Operating Systems.
+
+Languages
+C, C++, BASIC OF HTML 
+Web Technologies
+HTML
+
+PROJECTS:
+
+	•	Title		:    Internet Programming.
+	•	Description	: In the course of Internet Programming is Presentation of  the state-of-the-art
+of internet technologies, with emphasis to the structure and operation of TCP/IP protocol as well as data-grams socket oriented communications *--Structure attributes of the HTTP communications protocol, including HTML programming language on the web, programming of HTTP servers, HTML-based applications development of dynamic web pages CGI scripts coded in PERL language.*--state-of-the-art-INTERNET Applications, with emphasis to security issue and the future of internet.*--Introduction in Java covers differences between Java and C++, Advantages of Java language, Java Structures, programming Java in Unix environments *--Object oriented programming: classes, objects, massages, methods, construction, access control and overloading .basic classes and packages, Vectors, hash Table, inheritance, polymorphism, variables and methods, Abstract basic classes.*--object oriented programming code and interfaces design covers execution type recognition, class object, nested class, packages, exception, error handling, threads, concurrency, synchronization. Input/output and net class, sockets, streams, tokenizing, client/server, URl. Abstract window toolkit (AWT), component/container, graphics, applets, fonts, colors, widgets, layout, text, even handling, windows, images, beans.
+
+PROFESSIONAL TRAINING & CERTIFICATION:
+	•	C-Programming Completed with (Grade A)
+	•	DTP Govt. Course completed with (Grade A+)
+	•	Computer Artist Course completed with (Grade A)
+	•	Attended workshop on ‘Light Painting’ at Faculty of Technology, M.S.University, Baroda.
+
+EXTRA CURRICULUM ACTIVITIES:
+	•	Participated in 'Kampeniya’at College.
+	•	Head coordinator of 'Food, Land Gaming zone'. 
+	•	Volunteer of 'Art Of Living'. 
+	•	Participated in 'junkyard 'at college.  
+	•	Co-ordinator for fishpond collection at college level functions.
+	•	Doing an Anchoring at the time of college gathering.  
+
+
+STRENGTHS:
+	•	Optimistic.
+	•	Leadership.
+	•	Fast Decision making.
+	•	Persistence. 
+
+PERSONAL DETAILS:
+
+Father’s Name		:  BHAGWANSING CHATURSING GIRASE.
+Permanent Address	:  32, Guru Datta Colony, Nimzari Naka Shirpur.Tal-shirpur, Dist-Dhule (MH)
+Date of birth		:  2 July 1991.
+Languages Known	:  English, Hindi, and Marathi.
+Hobbies		:  Dance, Visiting New Places, Playing video Games, Watching Movies.
+
+
+
+Place:
+Date:			
+							     Sign									                   (Mr. SUMIT BHAGWANSING GIRASE)

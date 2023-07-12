@@ -1,0 +1,51 @@
+Md. Kamal Hossain
+AREAS OF EXPERTISE		PERSONAL SUMMARY	
+
+Network Administration System administration Server Configuration IT & Desktop support
+Network Services Support and Management
+VMware Virtualization Citrix Virtualization
+Linux Server Administration Wi-Fi Network Administration FTTH Technology
+MikroTik Network Configuration CCTV Operation Control and Configuration
+
+PROFESSIONAL CERTIFICATION AND TECHNICAL TRAINING
+CCNA, ID: CSCO11646074
+Academic CCNA - One Year Course in Shahjalal University of Science & Technology (SUST)
+RHCE, Course Complete
+A+ Certification- Course Complete MCSA, Course Complete
+ACHIEVEMENTS AND PARTICIPATION
+Participated 2nd National Cisco Skills Competition lunched by CISCO.
+IT Industrial Tanning Programming Contest Gamming Contest
+University IT Festival Management
+PERSONAL SKILLS	
+Technically minded, Pro-active Analytical, self-motivated Ability to work under pressure
+PERSONAL DETAILS	
+Md. Kamal Hossain Currently UAE on Visit Visa Visa expires on 13-01-2019 M: +971588338216
+E: hossain.unix@gmail.com DOB: 09/12/1986
+Nationality: Bangladeshi
+ Possessing a proven ability to administer and control the operation, configuration, maintenance and administration of Network, System, Server Configuration, IT and Desktop support as well as having  an eye for detail and able to multi-task under pressure. An excellent communicator can relate well with people at all levels and has the flexibility of working well as part of a team and on my own.
+WORK EXPERIENCE	
+Sub. Asst. Engineer IT November 2012 – September 2018 Leading University – Bangladesh
+Duties and Responsibility:
+	•	Building, configuration and troubleshooting of server, and desktop hardware. Providing advice on the selection and purchase of IT equipment.
+	•	Maintaining maximum availability of supported services for users.
+	•	Ensuring that support calls are logged and handled effectively and efficiently.
+	•	Ensure adequate antivirus protection & solutions are maintained, and updated.
+	•	Troubleshooting and solving networking issues - TCP/IP, DNS, DHCP, Layer 2/3 network devices. Troubleshooting hardware and Software problems.
+	•	Installation, Configuration and Administration of DNS Server, DHCP Server and NAT Server etc.
+	•	Install, upgrade, support and troubleshoot Windows OS, Linux OS, authorized desktop applications, hardware, and peripheral equipment.
+	•	Coordinate and execute preventative maintenance and remedial repairs on computers, laptops, printers, and peripherals.
+	•	Monitor, operate, manage, troubleshoot, and restore service to terminal service clients, PCs, or laptops.
+KEY SKILLS AND COMPETENCIES
+	•	Good understanding of Server Hardware Technology, UNIX, WINDOWS, SQL, LANs, WANs.
+	•	Experience in VMware, Citrix, Windows, Linux, Active Directory Group Policies, TCP/IP, DNS, HDCP, NAT, and Apache HTTP Server.
+	•	Programming Skills: C/C++/Java, HTML, CSS, MySQL, and MATLAB.
+	•	Network and System Security (Hands on Experience): Manual SQL Injection, No redirect Exploit, DDOS attack, Shell Upload (XSS), Nessus Vulnerability Scanner, Acunetix Security Testing Tool.
+	•	Hands of experience on Backtrack Linux. Install and configure various switches, router, and other networking devises.
+	•	Tools: Cisco Packet Tracer, MikroTik, Winbox, Microsoft Office Suite, Office 360 and Microsoft Visual Studio etc.
+ACADEMIC QUALIFICATIONS	
+Masters in Computer Science and Engineering
+Shahjalal University of Science & Technology (SUST), Course Complete Thesis Ongoing.
+BSc (Hons) in Computer Science and Engineering
+Leading University Sylhet, Bangladesh 2008 – 2012
+Four (04) Years Polytechnic Diploma in Computer Technology
+Sylhet Polytechnic Institute 2002 - 2006.

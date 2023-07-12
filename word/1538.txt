@@ -1,0 +1,120 @@
+MANISH KUMAR SHARMA
+
+Mobile: +91-9582049123
+E-Mail:- manishsharma171@gmail.com
+
+
+Profile Briefs:
+
+	•	Discipline: Instrumentation & Telecom
+	•	Total Experience: 5 years 8 months (Engg. & Const)
+	•	Qualification: BE (Electronics & Communication)
+	•	Present Employer: Dodsal Engg. & Const Pvt. Ltd, Dubai ,UAE
+
+
+Total Experience: 5 years 8 months
+
+	•	Ansaldo-STS India: 2 years 3 months
+	•	Honeywell Automation: 1 year 5 months
+	•	Dynamic Engineers: 6 months training
+
+Present Employer: Dodsal Engg. & Const Pvt. Ltd
+
+	•	Designation: Engineer
+	•	Discipline: Instrumentation
+	•	Employed since: September 2014
+
+Key Areas of Competencies:
+
+	•	Preparation of Data Sheets
+	•	Preparation of Material Requisition
+	•	Technical Bid Evaluation of Vendor Offers
+	•	Vendor Clarification Meetings
+	•	Vendor Documents and Drawing Review
+	•	Simulation and FAT tests
+	•	Assistance in Installation
+	•	Assistance in Commissioning
+
+	Worked on onshore Oil and Gas project for Construction of New Gathering Centre, GC-31 in North Kuwait for client KOC, a subsidiary of Kuwait Petroleum Corporation.
+	•	Design & Engineering including Preparation/Review of Detail Engineering Drawings/ Documents (Deliverables) viz., Instrument Index, Layout Drawings, Cable Routing Diagrams, Cable Schedules, Logic Diagram, Panel GA Drawings, Instrument Hook-Up Drawings etc.
+	•	Procurement activity including Preparation of RFQ/MR consisting of Technical Specification/Data Sheets, Issue of Bid Documents to various Approved Vendors, Scrutiny of Bids and issue of TBA for various items like PSV, Control Valve, LEL Gas Detection Instruments - Point Gas Detectors etc.
+	•	Technical Coordination & Interaction with Client, Vendors and Site Engineers.
+
+
+
+
+Worked in Ansaldo-STS as Engineer (Automation & Telecom) from June 2012 to Aug 2014
+	Worked as Engineer (Automation & Telecom) in KFW project of Ansaldo-STS (on payroll of SVP Services) for the last two years. A Railway project based on modern signalling of SSI (Solid State Interlocking) with monitored Hot-Hot-Hot standby architecture including dual detected Automatic Block Section.
+	•	Responsible for working with the SSI (Microlok-II), TCS (Train Control System) in Indian Railway, System configuration design, simulation tests, FAT tests, field tests and installation activities. Installation such as Single and Multiple Section Digital Axle Counter, DC Track Circuits, Audio Frequency Track Circuits (UM71), IRS Point Machines, LED Signals, etc.
+	•	Attended On Job training on UM71 (AFTC a product of Ansaldo-STS) and passed the exam during the training course by Ansaldo-STS India.
+	•	Responsible for Installation Supervision work of telecommunication for CTC (Centralized Traffic Control) in Tundla- Etawah section of North Central Railway (NCR) and planning of EPABX, GSMR and telecom infrastructure required for signaling as well as telecom.
+	•	Attended another On Job training course on SSU 2000 Product Overview by Symmetricom, Inc an USA based MNC that develops, manufactures and supplies timekeeping technology to customers in industry and government worldwide that require extremely precise synchronization. Symmetricom products support today’s precise timing standards, including GPS-based timing.
+
+
+
+Worked in Honeywell as Commissioning Engineer from Jan 2011 to May 2012
+	Worked as ‘Commissioning Engineer’ in ‘Honeywell Automation India Ltd.’ from Jan 2011 to May 2012. Job entrusted on the project of Automation on Retail Outlet (Phase II) for our client M/s Indian Oil Corporation Ltd. Main purpose of this project was to automate the sales and integrate all the IOCL fuel vendor stations with the IOCL CMS Server. In this project my assignments includes server automation, software installation, LAN establishment and support, IT infrastructure support and troubleshooting etc
+	•	Trained at DIAC (Dynamic Engineers Pvt. Ltd, Noida) on Industrial Automation from June 2010 to Dec 2010. DIAC works as a system house for Rockwell Automation.
+	•	Training Curriculum includes PLC, SCADA, HMI, DRIVES, MOTORS, NETWORKING, and SWITCHGEAR & PANEL DESIGN.
+
+
+
+PLC
+Allen Bradley Products:- Micrologix 1000, Micrologix 1100, Micrologix 1200 Programming Software:- RS Logix 500
+Siemens :- S7 200
+Programming Software:- Microwin Delta :- DVP-SS
+Programming Software:- WPL Soft
+(Selection, Architecture, Programming, Wiring, Commissioning of PLC).
+SCADA
+RS View-32 , (Creating new applications, animation, communication with PLC )
+
+HMI
+Allen Bradley Panel View Micro, Panel View Component (Creating new applications, animation, communication with PLC).
+
+Drives
+Allen Bradley (Power Flex 4, 40), Siemens (Sinamics 110) (Selection criteria, Working, Controlling, Programming parameters).
+Instrumentation
+Proximity sensors, RTD, Thermocouple, Flow transmitter etc.
+
+Motors
+Starting methods, Braking, Speed control.
+
+Networking
+Industrial Networks RS-232, DH485, Ethernet, Device net, Control net, Profibus, Modbus (Selection, Working, Specifications)
+Switchgear
+Knowledge of Relay, Contactor, MCB, MPCB, ELCB, Breakers.
+Panel Design
+Star Delta, DOL, Current Transformer, Potential Transformer, Wiring etc.
+
+
+Academia
+
+2009:	B.E. (ECE) from Ranchi University (Jharkhand) secured 72.88%marks.
+
+
+Summer Internship
+
+	•	Organisation: BSNL (Dhanbad)
+	•	Duration:15days
+	•	The project involved exclusive training on electronic switching exchange E10B and OCB-283 and in other related Sections, e.g. microwave and optical transmission, power supply, mobile section, main distribution frame.
+Academic Project
+
+Title: Estimation of electromagnetic interference in power line.
+The project emphasised development of a theoretical model (a closed form approximation) for the Electromagnetic Interference from Power lines in the near field. The project involved power- line as communication channel & discuss existing problems associated with it.
+Notable Attainments
+
+Recipient of First prize in science exhibition for preparing model on traffic controlled environment.
+The project involved a model of traffic controller using 555 timers operating as an a stable multi vibrator circuit, which continuously oscillates from one state to the other and thus control the traffic on road. Additionally, it also consists of a smoke sensor (or dark sensor) which is made using LDR.
+
+
+Technical Knowhow
+
+	•	Diploma in Computer Application (DCA) from CDAC, Ranchi. Knowledge of Programming Languages C and C++, Data Structure, Oracle & MS Office. Well versed with Internet Use.
+
+Personal Dossier
+
+	•	Date of Birth:	7th November 1984
+	•	Gender:	Male
+	•	Marital Status:	Married
+	•	Address:	House No: 147,Near Training School, Mahendru, Patna(Bihar),800006
+	•	Passport No:	L9601995

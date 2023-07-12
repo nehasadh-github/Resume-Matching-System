@@ -1,0 +1,129 @@
+POSITION:   RELAY TESTING ENGINEER
+
+Experience Highlights:  3years 5months
+OBJECTIVE:
+
+Looking for a position to utilize my skills and abilities in a professional organization that offers professional growth while being resourceful, innovative and flexible.
+
+AREAS OF EXPERTISE
+
+	•	Testing and commissioning of  Control & Relay Panels for Transformer Protection, Line Distance Protection, Line Differential Protection, Busbar Protection, Feeder Protection Numerical Relay testing.
+	•	Configuration as per schematic diagram & Testing of Protective Relays for various needs.
+	•	Testing of accessories relays such as Over Load Relays, Thermal Over Load Relays, Check Synchronizing Relay, Definite Time Relay, Under Voltage Relay, Over voltage relay, Timer Relay, TCS relay.
+	•	Inspection of Control and Relay Panel, preparation of Test Report for sub- station, Power plant, and Process plant.
+	•	Schematics - DC Logics Checking (ABB, SIEMENS, BHEL, GE, L&T, etc.) 
+	•	Ferrule verification and updating in As Built Drawing. 
+	•	Good understanding, analysis and interpretation skills on Protection. 
+
+PROFESSIONAL DETAILS:
+	•	B.E., Electrical and Electronics Engineering from Vins Christian college of Engineering with 7.23 CGPA(2010-2014).
+
+PROJECTS:
+	•	400/220kV NTPC TANDA THERMAL PP:
+	•	Testing & commissioning of 4 line bays, 2 Station transformers, 2 ICT, 2 Generating transformers with Bus bar protection.
+	•	PGCIL_220/132kV PURNEA SUBSTATION:
+	•	Testing and Commissioning of line bays in 132kV.
+	•	NTAMC Integration of 7 bays in 132kV.
+	•	BSPTCL_220/132kV PURNEA SUBSSTAION:
+	•	Testing and Commissioning of line bays in 132kV.
+	•	PGCIL_400/220kV MAITHON SUBSTATION:
+	•	NTAMC Integration of 3 bays in 400kV.
+	•	PGCIL_400/220kV MUZAFFARPUR SUBSTAION:
+	•	NTAMC Integration of 3 bays in 400kV.
+	•	NTAMC Integration of 2 bays in 220kV.
+	•	PGCIL_220/132kV SILIGURI SUBSTAION:
+	•	NTAMC Integration of 7 bays in 132kV.
+	•	PGCIL_400/220kV BARIPADA SUBSTATION:
+	•	NTAMC Integration of 6 bays in 400kV.
+
+	•	PGCIL_220/132kV BIRPARA SUBSTATION:
+	•	NTAMC Integration of 5 bays in 132kV.
+	•	PGCIL_400/220kV GAYA SUBSTATION:
+	•	NTAMC Integration of 2 bays in 220kV.
+	•	PGCIL_400/220kV KISHANGANJ SUBSTATION:
+	•	NTAMC Integration of 4 bays in 220kV.
+	•	SCADA signals configuration & Testing.
+
+Factory Testing in Siemens India Pvt.Ltd. Goa.
+	•	Scheme checking & Corrections.
+	•	Testing of Control & Relay Panels (Transformer,Line,TBC,BC,TIE) 6.6kV to 765kV Substation.
+	•	Bay Interlocks checking, SCADA Signals testing.
+	•	Megger Test, HV test upto 2kV.
+
+Software Handled
+ABB                -PCM600(UptoLatestversion2.8)
+SCHNEIDER -MicomS1 Studio
+ALSTOM       -Micom S1 Agile
+SIEMENS      -DIGSI 4, DIGSI 5,Reyrolle.
+	
+Experience with ABB
+REL670–Line Distance Protection
+RED670–Line Differential Protection
+
+Experience with Alstom
+P444 –Line Distance Protection
+P543–Line Differential Protection 
+
+Experience with SIEMENS
+
+	•	7SJ80X 		:      	Over Current Protection.
+	•	7VK6		: 	LBB relay.
+	•	7UT6X		:	Transformer Protection
+	•	7SA52		:	Line Protection
+	•	7SJ6X		: 	Multifunction Protection.
+	•	7SS52		:	Bus bar protection.
+	•	6MD86, 6MD85	:	Bay control unit.
+	•	7SD52		:	Cable differential Protection.
+	•	7UM85       	:	Generator protection.
+	•	7SRXX   		: 	Over current & Differential Protection.
+                
+Test Kit Handled
+OMICRON (CMC-256,CMC-356)
+DOBLE F6150  
+
+PRESENT& PREVIOUS EMPLOYER
+Period
+Designation
+Company Name
+NOV 2014- to NOV-2015
+Graduate Engineering Apprentices.
+Avalon Technology Pvt Ltd.,Chennai.
+
+JUNE 2016 TO Dec-2018
+Relay Testing Engineer
+Sun & Jay Engineering Pvt Ltd.,Chennai.
+
+CERTIFICATION:
+
+	•	Diploma in Electrical CADD.
+	•	AutoCAD Electrical, AutoCAD 2D.
+
+
+PERSONAL INFORMATION:
+NAME					:Senthilkumar.
+DATE OF BIRTH			:10.05.1993.
+GENDER				:Male.
+LANGUAGES KNOWN                  :Tamil and English.
+ADDRESS				:C12/7, TNHB Colony,
+					 Maharajanagar.
+					 Tirunelveli.-627 011.
+
+
+
+
+
+
+
+
+
+
+
+
+DECLARATION:
+
+	I hereby declare that all the particulars furnished above are true and correct to the best of my knowledge and belief.
+
+Place: 								          		   Yours Faithfully,	
+
+Date:                                           	 					(SENTHILKUMAR)
+

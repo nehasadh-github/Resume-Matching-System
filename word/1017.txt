@@ -1,0 +1,190 @@
+
+
+
+
+
+Shahid 				    
+
+e-mail: mca20sep@gmail.com  	    				Contact No: +91 9891916117
+	
+Having around 6 years of experience and working as Software engineer in design, development and implementation of applications using Core Java, CQ5(AEM 6.0), JSP, Servlet, Spring, Hibernate, J2EE, Tomcat, Mule, Oracle, Web services.
+
+Profile	
+	•	Total 6 years of experience in software development with the core skill of Java and J2EE including AEM 6.0
+	•	1.8 years of experience in AEM.
+	•	Dynamic Software Engineer and Team Member with rich, cross-functional exposure to the entire spectrum of SDLC functions for diverse range of processes, products / services.
+	•	Worked on Hibernate, spring and Web services.
+	•	An effective communicator with exceptional relationship management skills with the ability to relate working with customers, projects managers and technical teams.
+	•	Highly motivated, quick learner, positive and goal-oriented, with demonstrated professionalism, attention to detail as well as the ability to be a good team member.
+
+Technical Expertise
+
+Technologies			:	Core Java, Servlet, JSP, JDBC, Java beans
+CMS				:	CQ5 (AEM 6.0)
+Frameworks 			:	Hibernate 3 x, spring, Struts
+Web services			: 	WSDL & XSD, XML beans
+RDBMS and DBMS		:	PostGre SQL Server, Oracle
+Server				: 	Tomcat, Mule Esb Server
+Methodologies			:	OOPS, Design patterns
+Development Tools		:	IBM Rational, Eclipse IDE, Maven
+Operating System		:	Windows xp, Linux
+Utilities				:            Soap UI, Putty, WinSCP
+Versioning & Bug tracking	:            SVN, Quality Center (QC)
+
+Professional Experiences
+
+	•	Lead Engineer, HCL Technologies Noida, October 2013 to present.
+	•	Software Engineer, InterGlobe Technologies Gurgaon, from Nov'10 to Oct'13
+
+Projects: T-Mobile
+
+CMS:			CQ5 (AEM 6.0)
+Language:		Core Java
+Framework                     Spring, Hibernate   
+Tools:			Eclipse,
+Subversion:		Accurev
+Operating System:	Windows
+Team Size		10
+
+
+
+
+
+
+
+
+
+
+
+T-Mobile is a leading mobile service provider in US. It also deals in the mobile phones along with the preselected service plans on easy down payments.
+
+As T-Mobile has a very dynamic and ever-changing data of offers and plans, it needs a dynamic CMS which can support its ever changing requirement of the display of data on the web store and can also manage its data easily. So T-Mobile chose to have the Adobe CQ5 WCMS for its web content management.
+
+Following are the implementations which we are currently working on for T-Mobile:-
+	•	Adobe CQ5 CMS (AEM 6.0):- Used AEM (Adobe CQ5) to implement the dynamic Content Management System for the B2C stores.
+	•	Mobile and Tablet Friendly Application: - We are implementing the application in a way so that it can support all mobile, desktop and tablet views and we can manage all these stores from a single back-end.
+
+Project Name:		RCH(Rail Content Hub)
+Tool:			Core Java, Hibernate, Spring (IOC), Maven, Web Services, XML Beans
+Database:		Oracle
+Server			Tomcat 
+Operating System:	Windows
+Team Size		6
+
+Description: 
+RCH provides corporate middleware rail booking by normalizing web services access to a range of rail distributors.RCH exposes high-level services such as Shop, Book and Cancel. These services are invoked by a client such as Travelport’s Universal API and Traversa. In turn, RCH invokes services provided by rail distributors and provides a normalized response to the client. RCH services may result in purchase, refund or modification of tickets for rail travel and ancillary products (e.g. accommodation on trains).
+
+
+Role and responsibilities
+	•	Involved in creation of shop services end to end.
+	•	Unit testing using SOAP UI.
+	•	Coding for newly introduced vendor services.
+	•	Update vendors to TCH DB
+
+
+Project Name:		GCS (Ground Content Hub) Travel Port
+Tool:			Core Java, Hibernate, Spring (IOC), Maven, Web Services, XML Beans
+Database:		Oracle
+Server			Tomcat 
+Operating System:	Windows
+Team Size		6
+
+Description: 
+Ground Content Hub (GCS) provides corporate middleware car booking services.GCS exposes high-level services such as Shop, Book for car services. GCS also provide lounge service for their customers. These services are invoked by Travelport’client. 
+
+
+Role and responsibilities
+	•	Involved in designing of WSDL and XSD 
+	•	Unit testing using SOAP UI.
+	•	Coding and services monitoring of vendors using dashboard.
+
+
+
+
+
+
+
+
+
+
+
+Project: ATOM
+
+Tool:			Java, J2EE, Hibernate, Spring (IOC), Maven
+Database:		Oracle
+Server			Tomcat 
+Operating System:	Windows
+Team Size		6
+
+           
+The Airline Training Operations Manager commonly referred to as ATOM is a tool used by the Flight Ops Training Schedulers to schedule all the classroom and simulator training that takes place in the Flight Ops Training Center. The purpose is to provide the Training schedulers the appropriate information on the qualifications required by trainings completed by each of the pilots.
+
+Role and responsibilities
+	•	Involved in implementing business logic using java beans.
+	•	Involved in writing the code for DAO
+	•	Unit testing for module. 
+	•	Involved in enhance system functionality
+
+
+Project Name:		MSHOP
+Tool:			Java, Servlet, JSP, Struts 1.2, Hibernate 3.0, Spring (IOC) 
+Server			Tomcat Server 5.0 
+Database:		Oracle 
+Operating System:	Windows
+Team Size		8
+
+Description: 
+MSHOP is a  value added services (VAS) based Application. It’s a kind of Application which let the register new merchant of the Application to providing the services to the customer (end users).
+
+Services like airline ticket, rail ticket can book from the mobile phones.
+Shop is a mobile application; provide most common service like payment and ticket booking using credit card and bank accounts from your mobile. This application has integrated with a number of third parties.
+
+
+Role and responsibilities
+	•	Project Analysis and Development of the Application. 
+	•	Technical discussion with QA and other party teams.
+	•	Conducting Code Review, Unit testing adhering to the quality standards. 
+	•	Provide the support to any ongoing issue in application
+
+
+Project Name:		Visible-Assets 
+Tool:			Java, Servlet, JSP
+Server			Tomcat Server 5.0 
+Database:		PostGre SQL Server 8.0
+Operating System:	Windows, Linux
+Team Size		5
+
+Description 
+
+Visible Assets EDI (Electronic Data Interchange): This application is used to transact information between Hospital and Manufacture for placing order to purchase the drugs. HL7 massage format is used for getting patient information. 
+
+Role and responsibilities
+	•	Involve in full life cycle implementation of the project
+	•	Writing the View components for the module using Struts
+	•	Writing the Data Access objects for the module
+	•	Involve in writing entire business logic.
+	•	Involve in of the project the development using java, Servlet, JSP, Struts..
+	•	Configure and use the debugger to troubleshoot the mappings.
+
+
+
+
+
+
+
+Teaching and Training Experiences:
+
+      Got training on Java/J2EE from July 2006 to July 2007.
+      Worked as a faculty from August 2007 to Ocober 2010 at IACM in Siwan
+
+Professional Qualification
+
+	•	MCA (Master of Computer Application) 
+
+	•	BCA (Bachelor in Computer Application) 
+Personal details
+	•	Nationality:       Indian
+	•	Marital status:  Married
+
+
+SHAHID 

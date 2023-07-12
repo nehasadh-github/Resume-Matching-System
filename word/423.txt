@@ -1,0 +1,153 @@
+PRakash B. Jadhav
+SAS DEVELOPER (ETL , REPORTING)
+
+
+sas.prakash.jadhav@gmail.com
+9619398964
+301Aviraj chs. Kharghar Navi Mumbai
+
+
+
+
+
+
+Summary
+
+
+Company Designation
+ EXPERIENCE
+Developed ETL and Reports for Banking , Retail and Insurance Domain
+
+Sas India (Jul 2017 -  Current) TCS India (May 2014 - July 2017)
+
+Sas Developer
+
+
+
+Post Graduation
+ EDUCATION
+Master of Computer application North Maharashtra University 2014
+
+
+
+Graduation
+
+
+
+
+
+
+CONTACT
+sas.prakash.jadhav
+@gmail.com 9619398964
+ Bachelor of computer science Tilak Maharashtra University 2010
+TOOLS
+SAS DI SAS BI SAS VA
+SAS Base Sas
+Management Console Shell
+ 
+
+OS
+Linux Unix Windows
+
+Project Title:
+Client: Industry:
+Role:
+Technology/Tools:
+Roles and Responsibilities:
+
+PROJECTS
+SAS ETL SUPPORT
+
+IDFC Bank Banking Consultant
+
+SAS Data integration studio, SAS Management console, Oracle 11g, Linux, SAS Metadata server on UNIX etc.
+
+Involved into banking data preparation using SAS EG . Inolved into Automating notifications . Execution flow and reports.
+Involed in replan the ADF project. Optimization of the multiple projects .
+Performance tests and automating the test cases. Extensively used combination of ShellScripts and sas in combination to achieve optimization.
+Respond to ad hoc requests by various departments; interact with various business users to clarify their need to view the data. Performs other tasks required as necessary to meet the needs of the business.
+Accessing the oracle data using SQL Procedure Pass- Through Facility.
+Involved in creating SAS datasets from excel data by using libname and Proc import techniques, as per requirement.
+Creating SAS datasets – by combining many tables as per business logic.
+Deliver business reports to end users using SAS Output delivery system (ODS).
+Manual execution of each SAS program was automated by using UNIX shell scripts which	runs the SAS programs in the correct order.
+
+Project Title:
+Client: Industry:
+Role:
+Technology/Tools:
+Project Description:
+Roles and Responsibilities:
+
+Banking DDS Implementation
+
+Australia and New Zealand Banking Group (ANZ) Banking
+DI/ETL Developer
+
+SAS Data integration studio, SAS Management console, Oracle 11g,
+Windows 7, SAS Metadata server on UNIX etc.
+
+Responsible for Data generation and  developing DDL’s for Banking DDS. DDS is a  large and complex arrangement of fields and tables,Once  installed  and used it makes implementation of subsequent solutions much easier and faster. Project involves populating data in Banking DDS form Core Banking systems, Data was loaded every month for Customer analytics solutions.
+
+
+
+Worked as SAS DI Developer responsible to develop ETL jobs using SAS Data integration studio
+Involved in development of ETL Job, Extracting data from the multiple sources (PSV, Oracle10g) using SAS/Access, SAS SQL  procedures  and  creation  of SAS data sets, Transforming them according to the business requirements and loading of data in to the appropriate data sets using various DI Transformations.
+Used parametrised file reader transformation of read the data from files of different cycle dates, also use Splitter, SQL join, Table loader, Data validation, Lookup, SCD type 2, Surrogate  key  generator, Extract, Loop, user written transformations.
+Deploying, Scheduling of jobs, developed job flows using management console.
+Responsible for registering source and target libraries, created project repositories in development, involved in moving metadata from development environment to QA environment using
+.spk files.
+
+Project Title:
+Client: Industry:
+Role:
+Technology/Tools :
+Project Description:
+Roles and Responsibilities:
+IN ORDER TO IMPROVE PERFORMANCE OF JOB USED DIFFERENT TYPES OF TECHNIQUES LIKE USED OF VIEWS, INDEXES, LOOK UP TRANSFORMATION OVER SQL JOIN,  USE OF LOOP TRANSFORMATION, RUNNING JOBS IN PARALLEL, USED PASS THROUGH QUERIES, INCREASED BUFFER SIZE ETC.
+CREATED PROPER DOCUMENTATION OF WORK.
+
+Data Loading for Price comparison Solution
+
+Aéropostale. Retail
+VA Developer SAS VA 7.2
+Aéropostale Inc. is one of the American shopping mall- based specially retailer of casual apparel and accessories. Aero want to proactively know their customers. Aero chooses SAS VA to developed dashboard which shows all these customer information by geographically, by time wise and across different distribution centrers and stores. Aero wants to know about customer sentiment, behaviour, merchandise analysis etc using SAS VA reports.
+
+Worked as SAS Visual analytics Developer.
+Developed different reports for outstanding payments, payment methods, and outstanding payment amount, by region, age type, category, business segment, payment behaviour etc.
+Used interactivity between reports, used prompts, section filters, used interactivity with external links. Included stored process in VA application, used web report interactivity with SAS Visual analytics.
+Used different type of Graph objects in Visual analytics designer.
+Created aggregated measure and calculated measures. Used in reports.
+Responsible for testing reports with Business requirement document.
+Responsible for providing day by day status of work via email and over a phone in meeting.
+
+Project Title:
+Client: Industry:
+Role:
+Technology/Tools:
+Project Description:
+Roles and Responsibilities:
+CONTACT
+sas.prakash.jadhav
+@gmail.com 9619398964
+
+
+
+
+Data loading for Insurance Company
+
+Aegon. Insurance
+SAS Programmer
+
+SAS BASE, macros, SQL, Linux, oracle 10g.
+
+Project was enhancement in existing system of Aegon which was loading data on weekly basis of claims, denials, adjustments etc. This enhancement was due to Merrill Lynch's life insurance companies, Aegon has acquired few units of this company.
+
+I worked As SAS Programmer responsible for developing ETL jobs.
+Created formats, used index, used techniques to improve performance.
+Used data _null_, different types of data manipulation techniques like concatenating, interleaving, one to  one reading, Joins using data step.
+Use feature of bulk upload to write in oracle database. Extracting data from the database using SAS/Access, SAS SQL procedures and created SAS data sets.
+Used SAS auto call Library, Parallel processing, used Macros, Proc SQL.
+Developed macro programs defining the macro parameters using different debugging options like MPRINT, MLOGIC, and SYMBOLGEN.
+Reporting with different Output delivery system formats like PDF, RTF.ifferent Output delivery system formats like PDF, RTF.

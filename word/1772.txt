@@ -1,0 +1,59 @@
+	•	To Initiate a Dial :
+------------------------
+Parameter : PhoneNo - Phone number to be dialed
+URL	: http://ServerIp:Port/CallFunctions.xbc?DialoutThisNumber()&PhoneNo=VALUE Example		: http://192.168.11.99/CallFunctions.xbc?DialoutThisNumber()&PhoneNo=9876543210
+
+Returned XML :
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Call>
+<CampId>1</CampId>
+<RecId>1</RecId>
+<Status>1</Status>
+<Msg>Number added successfully.</Msg>
+</Call>
+
+Status :
+1 - SUCCESS
+0 - FAILED
+
+
+
+	•	To Check Status:
+--------------------
+
+Parameters : campid - Unique Id of the Process | Recid - Unique Id of the Record
+URL	: http://ServerIp:Port/CallFunctions.xbc?CheckStatus()&campid=VALUE&recid=VALUE Example		: http://192.168.11.99/CallFunctions.xbc?CheckStatus()&campid=1&recid=1
+
+Returned XML :
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Call>
+<CampId>1</CampId>
+<RecId>1</RecId>
+<Status>2</Status>
+<Msg>Success</Msg>
+</Call>
+
+Status:
+2 - SUCCESS
+1 - IN PROGRESS
+0 – PENDING
+-1 – FAILED
+-2 - INACTIVE (Lead Inactive)
+-3 - INACTIVE (Present in DND)
+
+	•	To Dispose the Call:
+----------------------
+Parameters : campid - Unique Id of the Process | recid - Unique Id of the Record
+URL	: http://ServerIp:Port/CallFunctions.xbc?DisposeTheCall()&campid=VALUE&recid=VALUE Example		: http://192.168.11.99/CallFunctions.xbc?DisposeTheCall()&campid=1&recid=1
+
+Returned XML :
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Call>
+<Status>1</Status>
+<Msg>The call disposition done successfully.
+</Msg>
+</Call>
+
+Status :
+1 - SUCCESS
+0 - FAILED

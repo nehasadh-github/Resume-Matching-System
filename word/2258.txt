@@ -1,0 +1,38 @@
+
+
+Education	
+Rice University	Houston, TX
+Professional Master in Statistics (Financial Statistics Track), GPA: 4.0	Expected May.2014
+Statistics: Applied Regression, Applied Time Series, Data Mining, Numerical Analysis, Statistical Computing and Graphics
+Finance: Quantitative Financial Risk Management, Asset Pricing Theory, Energy Derivatives, Financial Market
+Renmin University of China	Beijing, China
+Bachelor  of Science in Statistics  (Risk Management Track)	Sep.  2007-Jul. 2011
+Coursework: Statistical Simulation, Stochastic Process, Mathematical Finance, Investment, Accounting
+Work Experience	
+China International Capital Co., Ltd.,	Beijing, China
+Summer Quantitative Analyst in S&T Group	July. 2013-Aug. 2013
+	•	Quant Research Desk: Developed a multi-functioned option calculator which could calculate option price and greeks by Matlab. Improved estimation method for volatility based on China stock market. Implemented Non- Parametric Implied Binomial Tree and Heston Model to correct volatility smile and fat-tailed distribution of stock return.
+	•	Equity and Commodities Derivatives Trading Desk: Analyzed basis risk for gold options and fitted basis data by GARCH model. Tested arbitrage opportunity in China Financial Futures Exchange. Developed put call parity arbitrage strategy, short covered call arbitrage strategy and basis arbitrage strategy. Assisted in reporting and explaining PnL movement and mark-to market analysis.
+Owl Engine Ltd.	Houston, TX
+Cofounder	Jan. 2013 – May. 2013
+	•	Take charge of developing market strategy and implementation and financial analysis part of the business plan.
+	•	Improved more than 20% accuracy of stock price forecasting model by introducing time series based on machine learning.
+	•	Presented to Shell Group of Company and won the accelerator program with 3000 dollar initial funding.
+Guosen Securities Co., Ltd.	Beijing, China
+Intern in Investment Banking Division	Feb. 2010 – Mar. 2010
+	•	Structured the organization and governance model of a company IPO with a team of over 5 people.
+	•	Prepared and ensured the high quality of IPO files and financial statements of 1 decoration Company.
+Projects and Extracurricular Activities			 Time Series Models to investigate Crude Oil and Gasoline Price	Houston, TX Course Project		Nov. 2012
+	•	Built time series models to investigate the volatility of WTI crude oil prices and the volatility of conventional gasoline prices.
+	•	Introduced USDX (U.S Dollar Index) and GDP of Motor Vehicle Consumption into the original models and checked how these factors would affect the volatilities of the crude oil and gasoline prices.
+Designing and Pricing the Survivor Swaps	Beijing, China
+Research Paper	Sep. 2010
+	•	Created a new derivative called survivor swap based on the interest rate swaps methodology.
+	•	Designed the survival swaps’ product, discussed and analyzed its cash flow patterns.
+	•	Conducted the research of pricing and analyzing the cash flow and profitability.
+2008 Beijing Olympic Games	Beijing, China
+Volunteer  in  the National Indoor Stadium	Aug. 2008
+	•	Led a 25-volunteer team for the ushering and supervision of thousands of spectators.
+Skills	
+	•	Computer: Proficient in C, C++, Matlab, R, SAS, SQL, VBA, Python, Bloomberg, Factset.
+	•	Qualifications: Passed 4 Society of Actuaries (SOA) Exam subjects: P, FM, MLC and C.

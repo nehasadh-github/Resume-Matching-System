@@ -1,0 +1,46 @@
+DOUGLAS C. ROACH 
+195 Binney Street - Apt. 2315
+Cambridge, MA 02142
+(917) 868-6036
+e-mail: droach@mit.edu
+
+Education
+1999 - Present	MIT SLOAN SCHOOL OF MANAGEMENT	CAMBRIDGE, MA
+Candidate for MBA, June 2001 – Financial Engineering Track
+	•	Member of Finance, Investment Management and MediaTech Clubs.
+	•	Teaching Assistant for 15.401 - Finance Theory I
+	•	Currently conducting a study of portfolio credit risk models under Professor Dimitri Vayanos.
+
+1992-1995	GEORGETOWN UNIVERSITY	WASHINGTON, D.C
+BSBA in Accounting and Finance (double major)
+Graduated Summa Cum Laude; GPA 3.92/4; Ranked 7th in class of 307.
+	•	Activities:  Georgetown School of Business Admissions Committee, Volunteer Accounting and Finance Tutor, Transfer Student Advisor, Teaching Assistant
+	•	Awards:  Alpha Sigma Nu National Honor Society, Beta Gamma Sigma National Business Honor Society, Dean's Citation For Community Service, Accounting Recognition Award
+
+Experience
+Summer 2000	CREDITDIMENSIONS.COM	NEW YORK
+Intern, Portfolio Credit Risk Analytics 
+	•	Assessed various portfolio credit risk models including RiskMetrics’ CreditManager, KMV’s Portfolio Manager, and CSFB’s CreditRisk+ for inclusion within the CreditSource website.
+	•	Determined business requirements, user scenarios and use-cases for credit risk analytic models; served as the liaison between the business and programming teams.
+	•	Developed strategy for end-user education of credit risk models.
+
+1999-2000	PRICEWATERHOUSECOOPERS  – RISK MANAGEMENT CONSULTING	NEW YORK
+	•	Principal Consultant – Risk Analytics and Derivatives Valuation Services Group
+On-site project manager for the weekly revaluation of Salomon Swapco’s fixed income and equity derivatives portfolio.
+	•	Responsible for the weekly revaluation of a portfolio of over 6000 fixed income and equity derivatives including Interest Rate Swaps, Swaptions, Caps/Floors, Total Return Swaps and CMT/CMS Swaps and Options.
+	•	Analyzed new deal structures, market data requirements, and underlying financial theory of client models; conducted coordination meetings with traders, salespeople and research staff.
+	•	Resolved valuation differences with traders and trade support staff at local and international divisions.
+
+	•	1997-1999	Consultant, Risk Analytics and Derivatives Valuation Services Group
+	•	Re-engineered the Salomon Swapco derivatives valuation process by developing an automated reconciliation system written in Visual Basic/C++.
+	•	Maintained pricing models, including data feeds, enhancements/modifications/upgrades and implementation of new pricing systems.
+	•	Provided modeling/pricing support to Financial Risk Management consulting projects by marking/modeling client positions, building interest rate and volatility curves and developing Excel/Access tools for pricing financial instruments.
+
+1995-1997	PRICE WATERHOUSE LLP	NEW YORK
+	Consultant, Corporate Treasury Risk Management Consulting
+Consulted on a variety of domestic and international Corporate Treasury Risk Management issues- including exposure analysis, risk measurement methodology, risk management systems, risk management organization, policies and procedures and limit structures.
+
+Personal	Affiliations:  Global Association of Risk Professionals (GARP), Georgetown Club of New York, Georgetown University Wall Street Alliance, Georgetown University Alumni Interviewer
+	Awards:  PW Consultant’s Choice Award – Best Attitude 1998
+	Interests:  Golf, travel, skydiving, emerging internet technologies (XML, web appliances)
+Homepage:  http://web.mit.edu/~droach/www	

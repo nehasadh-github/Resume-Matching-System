@@ -1,0 +1,114 @@
+CURRICULUM VITAE (CV)
+
+NAME: NISHANTH K
+Email	: k3.nish@gmail.com Alternate email ID	: kallinganishanth@bsnl.in Mobile	: +91-8281314916
+POSITION: INSTRUMENTATION ENGINEER EDUCATION
+	•	Bachelor Degree in Electricals and Electronics Engineering -SNS College of technology, Coimbatore,
+Jun-2007 to May-2010
+	•	Diploma in Instrumentation & Control Engineering -Sri Ramakrishna Polytechnic College, Coimbatore,
+Jun-2004 to Apr-2007
+
+PROFESSIONAL SYNOPSIS
+	•	About 6 years of experience as an instrumentation and control systems engineer in detailed Construction, commissioning and development co-ordination of instruments and control systems in Power Plant, Desalination Plant, Distillery plant and Mixing Plant projects.
+	•	Commissioning of GAS Turbine,HRSG and Coal Fired Power Plant
+	•	Construction and Commissioning of AHP and CHP
+	•	Commissioning of Air Compressor System
+	•	Commissioning of Water treatment Plant
+	•	Commissioning of ESD System and BMS
+	•	Configuring and faults diagnosis of DCS, PLC, SCADA, RTU, Profibus Communication, Analysers and Control Loops.
+	•	DCS :	PCS7 v6.0 Siemens, Centum CS3000 Yokogawa , Ovation DCS Emerson and Max DNA Metso
+	•	PLC :	Siemens simatic S7 200,300,400 and GE Fanuc series 90-30
+	•	SCADA : WINCC/Siemens, ICONIX and IFIX/GE
+	•	Installation, calibration and loop checking of the field instruments ( Emerson Rosemount, ABB,  Endress & Hauser, Bently Nevada, Honeywell, Yokogawa, Vega, Polysonics,	)
+	•	Maintenance and calibration of the control valves ( Pneumatic, Part turn, MOV, NRV,	) of
+Weir Blackborough, Flowserv, Bray, Airtorque, Copes-Vulcan, Valtek, Masoneilan, Auma matic,......
+	•	Experienced in flowmeters configuring (electromagnetic, orifice plate, ultrasonic, turbine, variable area , Coriolisis) of ABB, Rosemount, Krohne,+GF+,Siemens.....
+	•	Designing, Implementing and Commissioning of new control loops as per site requirements.
+	•	Review of control philosophy, P&I diagrams, cause & effect diagrams, instruments list, flow chart
+	•	Familiar with engineering standards and Document Controlling
+	•	Preparing master data sheet for PM schedule; ensuring safe and efficient performing of CM
+	•	Calibration of Gas Chromatograph, Gas Detectors and Flame Scanners
+	•	Experienced in the field instruments and control systems procurement activities
+
+	•	Spares balance investigation and inventory control for all instruments’ spare parts
+
+PERIOD: Jul-2014 – Aug 2016
+COMPANY: HYUNDAI HEAVY INDUSTRIES
+POSITION: INSTRUMENTATION AND CONTROL ENGINEER
+PROJECTS:	Tihama cogeneration – Saudi Arabia,( 186 MW Gas power plant)  Shuqaiq Steam Power Plant –Saudi Arabia (2640MW Steam Power Plant)
+Job Responsibility
+
+	•	Shuqaiq Steam Power plant – Saudi Arabia (2640 MW Steam Power Plant) commissioning of instruments and control systems in power plant of 3*180 MW gas turbine and 2640 MW Steam Power Plant
+	•	Commissioning and Control room operation for FGD System Sea Water Type ( Damper & Sealing, Absorber, Aeration Systems)
+	•	Commissioning of I&C systems in 2640 MW steam power plant
+	•	Commissioning of Electro Chlorinaton Station
+	•	Planning and scheduling of E&I Activities
+	•	Commissioning activities in METSO (max DNA) DCS and Allen-Bradley PLC
+	•	Commissioning of Mark VI (GE HMI)
+	•	Calibration of ABB control valve and Rotork MOV
+	•	Commissioning of ESD System
+	•	Erection and Commissioning of BMS system
+	•	Maintenance of CEMS,Gas Chromatograph and sampling monitoring system
+	•	Calibration of Gas detector
+	•	Loop drawing and loop checking of instruments
+	•	Field Instrument Calibration
+	•	Commissioning of fire fighting system
+	•	Commissioning of HVAC system
+	•	Commission Documents Controlling
+	•	CCR operation knowledge for 90 TPH boiler and 180 MW gas turbine
+
+PERIOD: Apr-2012 to Jun-2014
+POSITION: CONTROL ROOM ENGINEER
+COMPANY: Thermax India ltd
+PROJECT: 2*145 MW Power Plant-Emerson Ovation DCS
+PROJECT SITE: Sesa Steralite ltd, Goa (Vedanta)-India
+
+
+Job Responsibility:
+	•	Pre-Commissioning, Commissioning and Maintenance of Power Plant
+	•	Line up and error correction the actuators, control valves (with MIL, SIEMENS, ABB and Yokogawa positioner) and field instruments
+	•	Line up and error correction of pneumatic dampers.
+	•	Commissioning of MOV and Control Valves
+	•	Commissioning of SWAS panel
+	•	Erection and Commissioning of Ash Handling plant and Coal Handling Plant
+	•	Servicing and calibration of pneumatic & electronic positioned and control valves
+	•	Maintenance and calibration of I/P convertors
+
+	•	Maintenance and calibration of field instruments like transmitter, switch, gas analyzer
+	•	Knowledge about electrical feeder like DOL and RDOL & drives.
+	•	Have experience on working in EMERSON-OVATION DCS. In DCS having knowledge about logic & graphics creation.
+	•	Knowledge about HART communicator(YOKOGAWA-YHE 4150X V2.0.6,Emersion 475)
+	•	Knowledge in programming various PLC brands like Allen Bradley, Siemens (S7-400, S-7 300), Keyence, Omron & Delta.
+	•	Having knowledge vibration monitoring system, temperature scanner, speed monitoring system.
+	•	DCS operation HRSG and BFG Combustor Burner Systems for the initial start up
+	•	Permit to open and close authorization for daily routine, preventive and corrective maintenance jobs.
+	•	Worked collaboratively with operation engineers
+
+PERIOD: From Jun-2010 to Apr-2012 POSITION: INSTRUMENTATION ENGINEER, COMPANY: ENMAS O&M SERVICES PVT. LTD
+
+PROJECTS:	Sri Ganesh Metallic, Rourkela-India
+145MW Coal Fired Power plant -METSO DCS
+
+Sri Shasta Biofuels, Kurnool (A.P)-India
+30 MW Power plant and 1500 klpd distillery-YOKOGAWA DCS
+
+Job Responsibility
+	•	Executed erection and maintenance activities of instrument systems as per schedule
+	•	Checking of instrument installation as per P&I drawing
+	•	Hands on experience in control valve calibration like Mil,fisher,ABB,Siemens
+	•	Commissioning and erection experience in Coal Handling System and Ash Handling System
+	•	Hands on experience in testing and troubleshooting RTD and Thermocouple
+	•	Handled the responsibilities of control system checkout, tuning and set-up Maintained and modified existing systems
+	•	Commissioning and trouble shooting of process instruments
+	•	Hands on Experience Loop checking and Functional testing of all Instruments
+	•	Testing, evaluating, modifying and calibrating products/instruments
+	•	Writing reports and documentation
+	•		Worked collaboratively with operation engineers, Electrical engineers and other internal staff for completing multiple projects
+
+Personal Details
+Profiles	: Male ,31 , Married , Indian , Hindu
+
+Address	: Kallingentavida Thuvakkunnu Kannur
+Kerala-India
+
+Passport No	: Z3005621 ( Date of Expiry 07/12/2026 )

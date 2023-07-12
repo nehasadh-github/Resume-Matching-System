@@ -1,0 +1,96 @@
+RESUME
+G.MANJULA
+Mobile: 9840943332
+ Email: manjulag.mca@gmail.com
+OBJECTIVE:
+      To be associated with a progressive association that gives scope to update my knowledge and skills in accordance with the latest trends.
+
+ 
+Educational Summary:
+	•	M.C.A., at Nehru Memorial College, Bharathidasan University, Trichy in 2002-2005 with 82.5%.
+	•	B.Ed., at ViswaBharathi College of Education, Sankari in 2009-2010 with 76%.
+	•	B.C.A., at Bharathiyar Arts and Science College for Women, Periyar University, Deviyakruchi in 1999-2002 with 75.4%.
+	•	HSC from State Board in 1997-1999 with 70.67%.
+	•	SSLC from State Board in1996-1997 with 65.6%.
+
+
+Technical Summary :
+
+	•	Web Technology 
+HTML and ASP
+	•	Languages                
+C,C++ and JAVA	
+	•	Platform                 
+Windows 
+	•	Database
+Oracle 8i and MS-Access
+
+Work Experience: 
+	•	Worked as a Teacher in Sairam Vidyalaya School, Madipakkam from June 2013 to April 2015.
+	•	Worked as a Teacher in Vels Vidyashram School, Pallavaram from June 2011 to April 2012.
+	•	Worked as a Faculty in Sun Computers, Pappireddippatti from April 2007 to May 2009. 
+	•	Worked as a Faculty in National Institute Of Computer Technology, Bangalore from September 2005 to December 2006. 
+
+
+Undertaken Training:
+	•	Training undertaken for 3 months in ASP with ORACLE at CST Systems Pvt. Ltd. Chennai.
+
+Academic Projects:
+Title
+Network Vulnerability Scanner with JAVA and ORACLE
+Description
+  This project is a tool design to automate the testing and discovery of known security problems.
+Role
+Design and developed a module.
+Team Size
+2
+Duration
+3 months
+
+Title
+Enrichment of E-Cards with ASP 3.0 and ORACLE
+Description
+  This project is used to provide personalization of greeting cards online, with text, image, background and sound notes.
+Role
+Document Preparation, Coding and Bug Fixing.
+Team Size
+1
+Duration
+3 months
+
+Title
+ Travels Booking with Visual Basic 6.0  and MS-Access
+Description
+  This project is used to reserve the tickets, booking the tickets for the current journey, cancellation of ticket and also day ledger for maintenance.
+Role
+Document Preparation and Coding 
+Team Size
+1
+Duration
+5 months
+
+Personal Details:
+
+Father Name
+K.Gopal
+Address
+No.6/44F,G2,Aiswaryam Flats,	 
+34th street, Thillai Ganga Nagar,
+Nanganallur, Chennai-600061.
+ 
+Marital Status
+Married
+Nationality 
+Indian
+Languages Known
+Tamil and English
+
+
+
+
+
+Declaration: 
+  I do hereby declare that all the details furnished above are true to the best of my knowledge.
+
+Yours sincerely,
+G.Manjula.

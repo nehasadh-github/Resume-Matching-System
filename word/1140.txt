@@ -1,0 +1,133 @@
+
+VINAY KUMAR 
+Delhi(110065)
+Contact No: (+91) 9910657393
+Email:  vinay.kumar490@gmail.com
+
+CAREER OBJECTIVE
+To seek a challenging position as an engineer in a progressive organization where Innovation and Excellence is the way of life, which gives me ample scope to apply my knowledge to achieve company’s objective as well as my goal
+WORK EXPERIENCE    
+	•	3+ Years of experience in Project Management and Engineering. Currently associated with Nocle System & Control Pvt. Ltd. as Project Engineer  from 10/1/2018 to till now.
+
+	•	2 Years work experience in I & B Automation and Controls Systems Noida as Project Engineer (Authorized System Integrator of Rockwell Automation) from 02/11/2015 to 20/12/2017.
+
+	•	1 Year work experience in projects of Reliance Industries Limited- Jamnagar as Graduate Engineer Trainee(GET) from 15/10/2014 to 1/10/2015.
+
+TECHNICAL  KNOWLADGE  
+Knowledge of Rockwell Automation Hardware & Software:-
+	•	Programming:- Studio5000,RSLOGIX5000, RSLOGIX500, RSLOGIX 5, DRIVE EXECUTIVE, CCW
+	•	Scada,HMI:- RSVIEW32, Factory Talk View Site/Machine Edition(version 6.1,7.0,8.1,9.0) Panel Builder
+	•	Automation Hardware:- ControlLogix, CompactLogix, MicroLogix, MicroController,  Flex IO ,Point IO,     Safety Relay CR30,Panel view plus, Power flex 750 series, Powerflex 525 and Power flex 700 etc.
+	•	Network:  Control Net, Ethernet, Device net.
+
+Knowledge of Process Instrumentation RTDS, Thermocouples, Level Sensor, Proximity Sensors, Relays, Contactors, Thermal overload relays.  Execution of Instrumentation work as per schedule, Calibration , Installation, continuity , loop checking of Instrumentation and their regular monitoring  for improving the reliability of plant instruments.    
+Knowledge of panel: testing & commissioning of various type of PLC panel, DRIVE Based  Control panels for various machines.   
+Knowledge of Motors/ Starters/Control Circuits:-Induction Motors, Torque/ Speed characteristics, Star Delta Starters, DOL Starters, Reversing starters, interlocking circuits, panel Wiring. 
+
+Understanding and troubleshooting problems pertaining to Allen Bradley Rockwell PLC System, Scada , HMI,   DRIVE, Process instruments.
+
+ KEY PROJECTS  HANDLED
+QRail(Doha Metro)
+	•	Project Name: Environment Control System.
+	•	Work: Testing & Commissioning of Redundancy PLC panel & DRIVE Based Control panels for various instrumentation. PLC Programing of Control Logix L-75, RSLogix 5000 ,SCADA Designing on FT View SE.
+Pepsico,Mahul&Aurangabad
+	•	Project Name: Safety Panel Upgradation.
+	•	Work: Overall responsibility of projects from application engineering, installation & commissioning.
+ Mondelez (cadbary),Induri
+	•	Project Name: Safety Panel Upgradation.
+	•	Work: Overall responsibility of projects from application engineering, installation & commissioning.
+Recron (Malaysia)
+	•	Project Name: PSF Spinning Inverter &Instrument System
+	•	Work: Detail Engineering, Development FAT of AB ControlLogix 1756-L73 Controller with Flex IO’s, on Ethernet Net and Power flex 525 AC Drives and Power flex 755 AC Drives.
+
+Recron (Malaysia)
+	•	Project Name: PSF Spinning Inverter &Instrument System
+	•	Work: Detail Engineering, Development FAT of AB ControlLogix 1756-L73 Controller with Flex IO’s, on Ethernet Net and Power flex 525 AC Drives and Power flex 755 AC Drives.
+
+Hindalco Industries Ltd, Renukoot
+	•	Project Name: Upgradation PLC-5 to Controllogix 1756-L61 on Cast House.
+	•	Work: Software development for FT View SE.Ethernet IP, Card configuration, communication establishment and programming of controller for data acquisition from field instruments.PLC & SCADA panel inspection and testing with Client.
+HPGCL,Haryana
+	•	Project Name: Prosoft Wireless Antenna On Stacker.
+Work: Software development for FT View SE.PLC programming Control Logix, RSLogix 5000.Ethernet IP, Card configuration, communication establishment and programming of controller for data acquisition from field instruments .PLC & SCADA panel inspection and testing
+ Khanna Papers Mill, Amritsar 
+	•	Project Name: Disperser Unit KPM2 .
+	•	Work:  Testing, HMI development, Installation & Commissioning.
+	•	Project Name: Kraft Plant.
+	•	Work:  Testing,development, Installation & Commissioning.
+	•	Project Name: Utility
+	•	Work:  Upgradation of scada from RSview to factory talk view development.
+	•	Project Name: Chemical Prepration
+	•	Work:  Upgradation of scada from RSview to factory talk view development.
+Wahid Sugar Mill,Punjab
+	•	Project Name: Centrifugal Pump.
+	•	Work:  Micrologix 1200 Installation & Commissioning.
+            
+INDUSTRIAL TRAINING
+	•	Industrial Automation (plc, scada, motion control, panel desining & autocad, hmi, dcs) from SOFCON India pvt.ltd in New-Delhi.
+
+	•	Underwent a 5 weeks (2013) training on C & S ELECTRIC at Noida
+
+EDUCATIONAL QUALIFICATION
+Qualification
+University/Board
+Name of the Institution
+Year of Passing
+Aggregate
+(%)
+B.Tech
+(Electrical & Electronic Engineering)
+
+U.P.T.U
+
+CET-IILM-AHL, Gr.Noida
+2014
+61.8%
+12th Standard
+C.B.S.E,DELHI
+G.B. Pant Sarvoday boys Senior.Secondary School
+2010
+64.7%
+10th Standard
+C.B.S.E,DELHI
+Vanasthali Public School
+2008
+59.4%
+
+
+TECHNICAL SKILLS
+Software Language		:    AUTOCAD, MatLab, Basic Knowledge on C.
+Other Software’s		:    MS Word, MS Excel, MS PowerPoint.
+ STRENGTHS
+	•	Excellent problem-solving skills & dedicated to work.
+	•	Ability to take risk and Capacity to work under pressure situations.
+PERSONAL PROFILE
+Father’s Name                
+Date of Birth                  
+Address
+Marital Status
+Languages Known
+Valid Passport No.
+:
+:
+:
+:
+:
+:                       
+
+
+Shri. Sudesh Singh
+19-10-1992
+Vill.+PO- Tatehal, Dist.- Kangra, Himachal Pardesh, (176103).
+Single
+Hindi and English.
+M3582206 (Date of Issue: 5/12/2014; Valid Up to: 4/12/2024)
+DECLARTION
+      I hereby declare that the above-mentioned information is correct up to my knowledge and I bear responsibility for the correctness of the above-mentioned particulars.
+Place   :
+Date    :
+                                                                                                  (Vinay Kumar)
+
+
+
+

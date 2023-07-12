@@ -1,0 +1,96 @@
+Ansari.V 			
+B.Tech., (Information Technology)
+Mail ID    :  ansariit15@gmail.com
+Mobile No : +917010087267
+
+
+
+Career Objective
+1.4 years of experience in Networking and Web Technologies. Looking forward to an opportunity for working in a dynamic and challenging environment where I can utilize my skills for developing my career as well as organization.
+Technical Skills
+Languages		:	MySQL Query
+Course Completed	:	A(+)Plus, N(+)Plus
+Operating System	: 	Windows
+Tools		:              Jasper Report, SQL Server 2008
+
+Professional Experience
+Company Name: Five Brain Software Technologies Pvt. Ltd
+Role: Junior Web Developer
+Project Title: ERP
+Team Member: 5
+Description: Whole ERP project is designed to get rid of total process of the industries. As per client requirement this project is developed and jasper tool is used to generate the report
+
+Technologies
+	•	Front End: Eclipse(Java)
+	•	Back End: My SQL
+
+Project Title: Project Management System
+
+Team Members: 5
+Description: Involved in developing web project for Client which consist of employee work details and dashboard which used to display employee performance by their outdoor client work
+
+
+Technologies
+	•	Front End: Codeigniter (PHP)
+	•	Back End: My SQL
+
+Company Name: Trojan Holding LLC(Al Ajban Chicken LLC)
+Role: IT Engineer
+Project Title : IT Maintenance/Networking
+Description: I Worked as an IT Engineer,  Where I have to produce report by retrieving data from database using SQL query and produce it in presentable manner using MS Excel and also worked as Network Engineer, Server maintenance, System maintenance, printer and HHD maintenance , 
+
+Responsibilities :
+
+	•	Operating, monitoring and maintaining efficiency of the computer systems, servers, software and networks
+	•	Programming an effective data extraction and mining system within the data management system
+	•	Maintaining efficiency of the system. Undertake program updates, debugging and troubleshooting as required
+	•	Maintaining backup of the recorded data and maintain it safely
+	•	Connection establishment
+	•	Responsible for equipment maintenance task such as managing and installing custom upgrades for customers, replacing cables components and accessories, maintaining records about the components 
+
+Education
+
+	•	B.Tech.,(Information Technology) Under Anna University With 6.7 (Grading System)
+
+	•	HSC (Computer Science Group) With 64% In State Public Exam
+
+	•	X (Matriculation) With 75.4% In State Public Board Exam
+
+
+
+
+
+Personal Profile
+Date of Birth		: 15th May 1992
+Language Known	: English, and Tamil
+Marital Status		: Single
+Nationality		: Indian
+Contact                	: +917010087267
+Passport No	: L4139993
+
+Declaration
+I hereby declare that all above given information are true to my knowledge, I confirm you that I will discharge all my duties to the best satisfaction to all if a chance is given to me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Place: 											(Signature)
+Date:											ANSARI.V

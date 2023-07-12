@@ -1,0 +1,136 @@
+ 	
+
+Abubacker
+E-mail: maiba.abu@gmail.com; maiba_abu@yahoo.com Phone: 9092319963 / 9487869943
+Address: Plot No. 3, Flat No: G1, ARS Homes, Thamarai Street, Sabari Nagar, Medavakkam, Chennai, Tamil Nadu, India, Pin Code – 600100
+
+M.Sc. Information Technology and Over 13+ years of Experience IT Industry and Project Management & Service delivery over 6+ Years
+
+
+Academic Qualification
+	•	Post-Graduation: M.Sc. Information Technology, Bharathidasan University, Trichy -2003
+	•	Graduation	: B.Sc. Computer Science, M.I.E.T. Arts College, Trichy - 2001
+Certificates
+	•	ITIL 2011 Foundation certified
+	•	Microsoft Certified Professional – MCP
+	•	Microsoft Certified System Administrator - MCSA: Messaging
+	•	Microsoft Certified System Administrator – MCSA
+	•	VMware Certified professional – VCP410
+	•	Level 1 Six Sigma Yellow Belt certification (Cognizant Internal)
+Work experience
+Cognizant Technology Solutions	Nov 2012 — Present Manager – Service Delivery
+	•	Lead 80 members of technical team and handling escalation
+	•	SO creation, Allocation and various ESA activities
+	•	SOW creating, amendment and CR’s
+	•	Budgeting and Revenue forecasting
+	•	Be single point of contact for delivery and be the advocate between Service Delivery and the Customer
+	•	Provide leadership and direction to Delivery teams
+	•	Handle Operational Issues related to delivery center
+	•	Participate in account plan / strategy
+
+	•	Lead Business reviews with Client
+	•	Manage relationship with internal stake-holders and functions
+	•	Review and analysis of periodic reports and metrics
+	•	Deliver services according to SLA - Day-to-day management of all service delivery activities
+	•	Drive the identification of operational cost & efficiency savings
+	•	Ensure timely response to all client inquires.
+	•	Monitor team performance against services being delivered and provide metrics to clients on service SLAs and projects.
+	•	Prepare for and conduct quarterly performance review meeting with Client Manager. Address any action items coming out of it.
+	•	Work with Client to adjust workload and associated SLAs
+	•	Responsible to handling various clients, incidents, Project delivery and IT Operations.
+	•	Bill & Invoices in a timely manner
+	•	Manage resource fulfillment & staffing
+	•	Employee Job Rotations
+	•	Working on Margin optimization
+	•	Create, Contribute and Implement best practices
+	•	Monitor the progress of all projects and deliverables
+	•	Motivate and inspire team member
+	•	Mentoring the team members and helping them in all technical aspects
+
+
+Wipro Technologies	Jan 2010 — Nov 2012 Specialist (Team Leader)
+	•	Lead 10 members team and handling escalation and acting as a SPOC between Onsite & offshore
+	•	Maintaining over 200+ ESX Box and 1000 Virtual Machines
+	•	Monitoring All Citrix servers and Handling all Citrix application and Citrix related application issues
+	•	Monitoring All ESX and VM’s, Handling all VMware related issues
+	•	Knowledge in installing Citrix servers, Publishing applications
+	•	VM creation, Deletion, Snapshot, Hardware provisioning
+	•	Handling Vendor coordination
+	•	Participating in DR Activities & Client meetings
+	•	Upgrade Citrix versions
+	•	Maintained around 300 Citrix servers (Citrix Presentation server 4.0, 4.5 and XenApp 6.0)
+	•	Worked in Various versions like Citrix Presentation server 4.0 and 4.5
+	•	Work towards achieving SLA defined and meet the client matrix.
+	•	Act promptly on feedback given in the customer Meetings which has impacted scorecards.
+	•	Contribution in Weekly Highlights , monthly report on key activities performed, concerns, learning’s
+
+	•	Mentoring the team members and helping them in all technical aspects
+	•	Act as a focal point for the immediate supervisor and provide feedback when required
+	•	Motivate and inspire team member
+	•	Mentoring the team members and helping them in all technical aspects
+
+
+
+
+
+Tata Consultancy Services	May 2009 — Jan 2010
+I.T. Analyst
+	•	Lead 5 members team and handling escalation and acting as a SPOC between Onsite & offshore
+	•	Monitoring All Citrix, Windows and VMware servers and Handling all application related issues
+	•	Maintained a Windows 2000 & 2003, VMware, Citrix and Novell NetWare servers
+	•	Managing over 1200 Physical and virtual servers across the globe
+	•	Creating/Updating Users and Groups in the Active Directory and Novell LDAP
+	•	Monitoring Antivirus updates
+	•	Installing Microsoft Software’s, Oracle client & other third party software’s
+
+
+Dexterity Business Analyst Pvt Ltd	Sep 2007 — Aug 2008 System Administrator
+	•	Maintained a Windows 2000 & 2003 LAN of 18 servers
+	•	Hardware troubleshooting and Software Installation for Desktops and Laptops
+	•	Configure Wireless router for Wireless LAN Access
+	•	Installation & configuration of Active Directory Services in 2000 & 2003 server
+	•	Creating/Updating Users and Groups in the Active Directory
+	•	Monitoring incoming and outgoing mails for delivery or delay
+	•	Establishing Rights and Permissions for authorized Users and Groups
+	•	Planning & Implementing user, Computer & Group Strategies
+	•	Deploying configuring and managing Microsoft clients
+	•	Planning & Implementing the ADS Backup
+	•	Monitoring Antivirus updates
+	•	Installing Microsoft Software’s, Oracle client & other third party software’s
+	•	Installing & Maintaining SMS 2003 Server (Systems Management Server)
+	•	Installation & supporting for network printers.
+	•	Implementing services like DHCP, DNS, IIS
+	•	Preventive Maintenance of Desktops and Laptops
+
+S K International	Feb 2005 — Aug 2007 Customer Support Engineer
+	•	Maintained a Windows 2000 & 2003 LAN of 30 servers
+	•	Installation & configuration of Active Directory Services in 2000 & 2003 server
+	•	Deploying configuring and managing Microsoft clients
+	•	Managing VERITAS net backup server
+	•	Planning & Implementing the ADS Backup
+	•	Installing configuring Microsoft Exchange 2000 & 2003 Server
+	•	Administered & maintained Microsoft Exchange 2000 & 2003 Server & mailboxes
+	•	Installing Microsoft Software’s, Oracle client & other third party software’s
+	•	Installation & supporting for network printers.
+	•	Implementing services like DHCP, DNS, IIS
+	•	Preventive Maintenance of Desktops and Laptops
+
+
+Raaja Computer Centre	Nov 2003 — Feb 2005 Hardware Engineer
+	•	Responsible for providing the solution to the customer in both hardware and network related problems.
+	•	Should monitor the AMC’s customer by providing monthly check-up.
+	•	Responsible for maintaining the customer’s database with feedback.
+	•	Maintaining Purchase.
+	•	Educating customers
+
+
+Personal Details
+D.O.B	: 03/04/1980
+Marital Status : Married Nationality	: Indian Passport No	: L7738305
+
+Declaration
+I hereby solemnly declare that the information furnished and the statements given in the curriculum vitae and the enclosures are true, correct and complete
+
+
+Place:
+Date:	(I.ABUBACKER)

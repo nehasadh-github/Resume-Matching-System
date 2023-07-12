@@ -1,0 +1,132 @@
+Aksar Ahamed
+SAP MM Procurement/Purchasing
+B.E[Mechanical Engineering] MOB: (+91)-8277308856
+Email: ahamedaksar7@gmail.com
+
+CAREER OBJECTIVE:
+Proactive, self-motivated and creative individual with an ability to work on own initiative and as a part of a team. Possess leadership qualities with effective communication and problem solving skills involving managing, developing and motivating teams to achieve organizational objectives. I am determined to make the most of my professional and educational skills in a challenging, Technical and creative working environment.
+
+
+EDUCATION:
+	•	B.E. (Mechanical Engineering) From H.K.B.K Engineering College, Bengalore, Karnataka.
+	•	Diploma (Mechanical Engineering) From Haunsabhavi, Haveri, Karnataka.
+
+
+CAREER SUMMARY:
+	•	Familiar with the operations in multi-national companies as well as the manufacturing portfolio of production, quality control, continues improvement, customer satisfaction and supplier interaction.
+	•	An inspiring team leader and driver for system, process and supplier quality development and Continuous improvement.
+	•	4+ years of Experience in procurement using SAP/CSL
+	•	Conceptual knowledge in SAP MM functional module.
+	•	Knowledge in configuring and customizing for MM Purchasing, Inventory Management
+	•	Capable of understanding the business processes and conversion of business processes into SAP solution
+	•	Ensure Smooth project progress and intervene to resolve any challenges or issues as needed
+	•	Actively promote the organization and services offered by the company within theindustry.
+	•	Good team player, Flexible, Hardworking and enthusiastic.
+PROFESSIONAL EXPERIENCE-SAP R/3:
+
+Client	: Capgemini Consulting Technology Outsourcing Position	: Senior Associate (Procurement/Purchase) Duration	: 03/06/2017 to 04/24/2018
+
+Roles and Responsibilities:
+
+	•	Based on material purchase request floating RFQ, preparation of price comparison, negotiation with supplier, preparation of purchase orders in SAP.
+	•	Material procurement & purchase planning, ensuring continuous supply at optimum costs.
+	•	Creating purchase orders (PO’s)/Stock transport order (STO’s)
+	•	Worked with different master data like material master, vendor mater, info record and source list.
+	•	Partial acceptance & setting of delivery completion indicator creation of outline agreement without reference to any document quotation maintenance.
+	•	Responsible for issuing sub-contractor material for various operations.
+	•	Preparation of supplier agreement based on material purchase request in using SAP MM module Follow up with vendor for the actual delivery status of back order materials.
+	•	Keeps and updates records of good received and issued. Periodic physical inventory verification done.
+	•	Ensure that all the billing documents are released to accounting.
+
+Aksar Ahamed
+SAP MM Procurement/Purchasing
+B.E[Mechanical Engineering] MOB: (+91)-8277308856
+Email: ahamedaksar7@gmail.com
+
+
+PROFESSIONAL EXPERIENCE-SAP R/3:
+
+Client	: Walvoil Fluid Power (India) PVT. LTD
+Payroll	: Infogrid Technologies Private Limited, Bangalore Position	: Senior Associate (Procurement/Purchase) Duration	: 01/06/2013 to 03/03/2017
+
+Walvoil Fluid Power is a leading global manufacturer of hydraulic valves and complete mechatronic systems designed for mobile equipment, agricultural machines, industrial vehicles, construction and earth moving machines, lifting and transport equipment.
+
+Roles and Responsibilities:
+	•	Procurement of materials, services and equipment required for research and development for all businesses.
+	•	Establish supplier selection criteria, evaluate alternative suppliers, manage the RFQ process, and drive final supplier selection in partnership with hardware engineering and supply base engineering.
+	•	Develop and implement strategies and goals for assigned commodities.
+	•	Develop and lead the process to create strategic commodity plans, consolidation strategy, and spend/supply assessments considering total product life cycle needs.
+	•	Participate in sourcing analysis and selection process, and performs cost analyses and make versus buy analyses.
+	•	Participate in development of contract strategy, negotiate, establishes, monitor and enforce supplier contracts and agreements.
+	•	Facilitate smooth order execution & handling entire business cycle from invitation of quotation to completion of the payment.
+	•	Develop negotiation strategy and lead supplier negotiations.
+	•	Utilize market trends to identify and implement appropriate cost controls and business strategy changes.
+	•	Formulate contingency plans to de-risk technical challenges, long lead time, single source, and any supply issue.
+	•	Maintain and report weekly KPI’s on a daily/weekly/quarterly basis. Status tracking on open order, follow-up and closure for each order.
+	•	Develop and maintain supplier relationships to review open action items, supplier’s performance, forecasting of future demand and future cost reduction.
+	•	Ensures that all PO’s terms comply with Company's purchasing policy. Create PO on SAP module and Capture savings in CSL.
+
+
+PROFESSIONAL EXPERIENCE-SAP R/3:
+
+Client	: Bharath Electronics Limited.
+Payroll	: Bharath Electronics Ambedkar co-operative Society Limited,Bangalore Position	: SAP Trainee (Procurement)
+Duration	: 09/02/2010 to 22/07/2010
+
+Aksar Ahamed
+SAP MM Procurement/Purchasing
+B.E[Mechanical Engineering] MOB: (+91)-8277308856
+Email: ahamedaksar7@gmail.com
+
+
+SAP R/3 Exposure details:
+
+	•	Creating organizational structure- plants, storage locations, purchase organizations & groups.
+	•	Master Data: Creating and maintaining Vendor master along with account groups, number ranges, partner functions and sub-ranges payment terms, material master with material types, groups, and number ranges, purchasing masters like Info records, source lists, outline agreements , RFQs.
+	•	Purchase order, and with different document types, assigning with different number range & screen layout at document level.
+	•	Fundamentals of pricing procedures. Creating pricing procedure for purchasing document.
+	•	Special procurement types/special stocks: Consignment, Subcontracting.
+	•	Releasing strategy / Procedure: Defining releasing procedure for purchase requisition, purchase order,etc.
+	•	Valuation & account assignment: Configuring split valuation and account determination, automating account postings.
+	•	Inventory management: Goods movement like goods receipts, goods issue, stock transfer, transfer posting, creating reservations and movement types.
+	•	Knowledge about data migration from legacy system using LSMW.
+
+Achievements:
+
+	•	I have done Six Sigma certificate.
+	•	Star raising award on the month of June-2017.
+	•	Good performer on the month of December-2017.
+
+Personal Details:
+
+
+Father’s Name
+: Nur Ahamed
+
+Sex
+: Male
+
+Nationality
+: Indian
+
+Languages Known
+: English, Hindi, Kannada,Tamil,Telgu,Urdu
+
+Contact Address
+: # 143,Basur(Vilg),Dyavanahalli (Po),Sorab(Tq)
+
+
+Shivamogga(Di),Karnataka-577419
+
+Contact number
+: +91-8277308856
+
+
+
+
+
+
+
+
+Signature (Aksar Ahamed)
+Place : Bangalore

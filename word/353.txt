@@ -1,0 +1,103 @@
+Santoosh Venkatram
+Mobile: +91 94800 02037 Email: santooshv@gmail.com
+
+
+To seek challenging assignments and deliver comprehensive business value working as a team player or as a productive individual contributor in IT in a reputed organisation with growth.
+
+ 	Profiles	
+
+	•	Degree in Bachelor of Engineering with 9 years of experience in IT consulting in the stream of and testing, application maintenance, Managed Business Services and Business Analysis
+	•	Scrum master and a Test lead managing 6 members supporting complex size projects simultaneously.
+	•	Develop test cases, regression testing, Smoke testing, Black box testing. Agile Test Management. Integration testing.
+	•	Domain expert for Smart Metering, Meter Data Management, Energy and utilities for NORDIC regions.
+	•	Domain experience in UK Tax and Data Analytics.
+	•	Specialised in consulting for smart metering and Smart Grid solutions for B2B and M2C.
+	•	Experience serving as Process Quality Lead for The Management Consulting practice in KPMG.
+	•	Excellent Analytical, Observational and Motivational skills with a good command over English.
+
+ 	Professional Experience	
+
+Assistant Manager at KPMG	[Nov2016-Current]
+Scrum master and Test lead for TechSolutions (Tax Workflow)
+
+Tax Workflow involves the Custom development and support of the tax filling solution implemented by KPMG UK.
+Tools: Sequence BI, Digita, Alpha-tax, Document Review Tool, SQL, VSTS, Service Now
+	•	Single handedly led the Transition of 4 projects from UK to Indian team, to manage testing and Support,
+	•	Key role in building and expansion of the team. Involved in Development, Test and Support of a suite of projects in the UK Tax Domain. Recruiting of resources for the projects that we would support.
+	•	Sprint planning, portal testing, regression testing, test management, project co-ordination between onshore and offshore
+	•	Interaction with the Product owner to get the requirements for the sprints, Creation of test cases, testing and showcasing the working solutions. Managing the VSTS and TFS for Sprints and test management.
+	•	Working with 1st and 2nd line Support to solve production issues and escalations. Calls with helpdesk to identify areas of improvements.
+
+Customer Compass- Australia, KPMG Capital	[Mar 2015 – Nov 2016] Test Manager
+Tools: JIRA, Zephyr, Confluence, Source, Qlikview
+
+	•	Working in an agile model as a Test Manager for Data analytics product testing, actively involved in working in- sync with product owners.
+	•	Creating Trend analysis for Customer Journeys, Visualizations , Charts and Journey Mapping
+	•	Sprint planning, creation of Stories, Test cases, Defect Management, Improvements. Mapping requirements to Test scenarios for each sprint and tracking them to closure.
+	•	Regression Testing, Smoke testing, System Testing. Generate weekly Status reports, Sprint Burn down charts.
+
+Senior Consultant at Capgemini Consulting Pvt Ltd	[Jan2010 - Aug2014] Test Manager
+
+Fortum is an energy provider operating in the Nordic region dealing with the power generation and distribution of energy. Fortum has about 1 Million Advanced Metering Infrastructure (AMI) and Automated meter reads (AMR)
+
+meters installed in Sweden. Capgemini manages the handling of Work Orders and Master Data of meters, terminals and Sim cards and Collect Hourly, Daily and Monthly meter data, Process and deliver the reads to Fortum.
+
+	•	Application development and maintenance with transition.
+	•	Handle a team size of 10-12 people for the application maintenance and delivery for 24/7 project.
+	•	Transition of 20 custom Java and .Net applications from Telenor Cinclus to Capgemini.
+	•	Review and correct the understanding AOD before the final sign-offs.
+	•	Closure of pending issues from the handover and tracking of existing ones.
+	•	Resolution of bottlenecks and performance issues and implement SIP as fixes every quarter.
+	•	Excel working in an Onshore-Offshore model keeping the operating costs low and providing better deliverables from offshore.
+	•	QA Lead - metrics generation and increase utilization and minimize idle time in the project.
+	•	Business Analyst
+	•	Client Interaction to analyze the requirements and provide a cost effective solutions.
+	•	Creation of use cases for the RFC and CR.
+	•	Better understanding of the technology limitations from developers and focus on alternate solutions.
+	•	Test Management
+	•	Follow Agile Methodology of Testing in a demanding IT environment.
+	•	As Test manager single handedly carried out 10 half yearly maintenance releases successfully..
+	•	Creation of test strategies, test plans, test cases for each specific release with regression testing.
+	•	Equipment and Integration testing of Smart meters in the Smart Meter lab to test the new firmware rolled out by the Vendors.
+	•	Supporting Ad-hoc tests when requested by the Clients and sub-contractors in the Capgemini’s Rightshore model.
+	•	Working with developers and Change and IT managers through the life cycle from the Requirement phases through to the Release.
+	•	Bug Tracking and Defect Management in JIRA, Team Forge and Test Link.
+
+Consultant at Capgemini Consulting Pvt Ltd	[Jun2008 - Dec2009] Client: TXU, USA
+
+EFH (Formerly TXU) manages a portfolio of competitive and regulated energy businesses. TXU Businesses consists of TXU Energy, TXU's competitive retail electric provider, TXU Power, the largest manufacturer of electricity in Texas, TXU Wholesale, focusing on keeping power costs as low as possible and TXU Electric Delivery, providing power to over 2.9 million electric delivery points.
+
+	•	Application maintenance specialist
+	•	Production support and maintenance of the applications
+	•	System Design of the assigned modules.
+	•	Integration and system testing of the entire application.
+	•	Production support and maintenance of the application
+
+ 	Skill Set & Certifications	
+
+Certified Scrum master ID 000674356
+Skills –Meter data Management, IoT, Manual testing, Test Management, Requirement Analysis, System Integration Testing, Black Box testing, Regression testing. UNIX, PL/SQL, XML, Web Logic, Active MQ,
+Tools: Confluence, Test Link, JIRA, Team Forge for Defect logging and tracking, Digita (Thomson Reuters), Sequence (PNM Soft), VSTS, TFS
+Meter Data Management – Tools from Itron, Connode, HM Power, Landis+Gyr and Capgemini’s SESP.
+
+Service Management – PQL for the account, ITIL V3 Certified, BMC Remedy ITSM, and Compliance to ISO 20000, CMMI Levels 5 trainings
+
+ 	Education	
+
+2008
+Bachelor’s degree in Electrical and Electronics, B. M. S Institute of Technology, Bangalore
+
+
+2003
+(Affiliated to Visvesvaraya Technological University)
+
+Intermediate - K.L.E’s P.U College. (Physics, Chemistry, Maths and Electronics), Bangalore
+2001
+SSLC – Presidency School, RT Nagar, Bangalore
+
+ 	Personal Details	
+
+Date of Birth: 7th February, 1985
+Marital Status: Married
+Passport Details: Number: G1218767.
+Languages: English, Hindi, Telugu, Tamil, Kannada

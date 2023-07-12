@@ -1,0 +1,101 @@
+
+
+                                                            
+                                                     
+                                                          
+Gaurav Kumar Jain                                                     Mobile :  +91-9479932577                                                                                                                                                                                                       Email  : gkjain0@gmail.com                                                                                                           8770105023
+Naya Bazar Lashkar
+Gwalior-474009
+                                                                                                                    	
+Career Objective
+
+Use of my experience in the areas of RF Engineering to achieve a Challenging and Progressive position in Telecom Industry. I would like to place myself in an organization where I gain an experience that would offer me greater roles in decision making and enhancing the company's reputation.
+
+PROFESSIONAL PROFILE
+
+Telecom field as RF Engineer   4.4 YRS  EXP.
+.
+WORK EXPERIENCE
+
+
+	•	Teleysia  Networks  Pvt. Ltd                                                                            Sep 2015  -  Till Date 
+
+              Client Project :  NSN 
+              Role                    :  Coordinator & Drive Test & Optimization Engg.
+              Operator          :  Vodafone 4G (Gujrat)
+              Tools                  :  TEMS 17.2.5 v , NEMO OUTDOOR 
+
+• I Have CBTHR 
+• Perform Drive Test for 4G (LTE) Services by using TEMS 18.1.6 v , NEMO OUTDOOR • Perform Special Testing for 4G (LTE) Services by using Samsung S5, A5, NOTE 4,s7,s6 • By using Samsung S5 A5,Note 4 we performed the following test. • CSFB Performance Test. • LTE IRAT Performance Test. • LTE Data Performance Test. • LTE Functional Test. • IBS ,TDD,FDD TESTING • Swap Check Test. • Speed Check Test. • Throughput Check Test. • Ping Test. • CSFB Test (call switch fall back) Call Origination, Call termination. • Inter RAT Test. • Handover Check Test. • Cell re selection Test. • Radio Parameters Check. • Coverage Check Test. • Attend customer complains. • Walk test of Metro and Malls. • Neighbor Deletion and keep monitoring of HO Performance.  • Check out the coverage problems and resolves the issues regarding to poor coverage.  
+
+
+
+
+
+	•	Nokia Solution And Networks                                                                         Dec 2015  -  Sep2016
+
+              Client Project :  NSN (off roll)
+              Role                    :  RNO 
+              Operator          :  Vodafone 4G (Kolkata)
+              
+
+
+	•	Ahead Industries Private Limited                                                               Dec 2014  -  Sep 2015
+
+              Client Project  : Reliance Jio Infocomm Ltd
+              Role                     : Drive Test & Optimization Engg.
+              Tools                    : XCal software version v4.09.492
+
+ Description: On 4G (LTE) project of Reliance Jio Infocomm Ltd.    • Drive test on XCal software version v4.09.492. • Field or Physical Optimization. • Customer Complaints.
+• SCFT 1800/2300 Band
+• Culster Drive 
+• Work on Sitefoce , check Report
+• ATP 11 B 1800 / 2300 Band
+• Net Velocity version 2.6.5
+• Network coverage optimization by analysis of RF parameters in drive test, GSM antenna tilts and        orientation changes. 
+• Rectifying customer complaints regarding coverage and quality and providing feedback to the operator.  
+	•	TERACOM  PVT  LTD                                                                                         May 2010  -   July 2012
+
+               Client Project : BSNL ( M.P. )
+               Time Period    : May 2010 to July 2012
+               Designation     : Electrical Enginer
+               Operator           : BSNL
+
+TOOLS Responsibility as RF Engineer
+
+• Performing drive test and optimization using TEMS 17.2,16.3.6 v, XCal ,NEMO OUTDOOR         software version v4.09.492. Studying log files and analyzing reasons for call drops, handover failure, detecting SWAP. • Performing physical optimization like changing Orientation depending upon the clutter, Tilt, and verifying SWAP and rectified it by manual tracing, • Preparing power point presentation plots for the radio parameter like Rx Level, Rx Quality, C/I, SQI, MNC. • Performing various types of drive test like SCFT ,IBS TESTING , Cluster Drive. • Can efficiently work on Company so as to perform operations like checking of the interference, Handover neighbor relations and planning site optimization. • Acceptance test of new site in Network. 
+
+
+
+
+
+
+
+TOOLS & INSTRUMENTS USED
+
+	•	Map-Info, 
+	•	NOTE OUTDOOR
+	•	XCal software version v4.09.492
+	•	TEMS-17.2,16.3.6, 8.1, 8.0, 
+	•	Net -Monitor.
+	•	GOOGLE EARTH.
+
+
+Academic Profile: -
+
+
+	•	Completed B. Tech in Electronics and Communication (2008 Batch) from GEC, situated at Gwalior (M.P)
+              Passed Intermediate from M.P. Board, Bhopal in year 2004.
+              Passed High School from M.P. Board, Bhopal in year 2002.
+
+
+References
+
+Referencce References available upo n reques t.
+
+Declaratios
+
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief                       
+
+
+                                                                                                                                                       Gaurav Kumar Jain

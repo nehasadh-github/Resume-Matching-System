@@ -1,0 +1,82 @@
+
+
+August 28th, 2015 Mr. Gary Hill
+The Robot Company 1250 Bellflower Blvd. Long Beach, CA 90840
+
+Dear Mr. Hill,
+ Lawrence Swift 1234 My Drive, Huntington Beach, CA 92646 (714) 555-7506 ∙ Lawrence.Swift@IEEE.org
+
+
+I am applying for the open position in the Mission Control Console Group, of the Mission Control and Computing Center (MC3) Section. I desire to further research and development in the field of machine vision and Simultaneous Localization and Mapping (SLAM).
+
+My journey into electrical engineering started when I was 12 years old and my uncle taught me how to solder so I could fix my guitar cable. When he saw my eagerness to learn he proceeded to make me a kit of various components and supply me with some basic project instructions. Ever since then I have been hooked. As a kid I would take apart electronic devices to see how they worked, build electronics kits from MarVac Electronics and experiment by circuit bending all types of battery powered toys.
+
+Over the summer I worked on a project for a promising up-and-coming company in product development. I took on the task of developing an Android Application for remote control, via Bluetooth, of a robotic toy. While I did not have prior experience in application development, I had taken on the challenge and sought out various resources to get the job done. I also had the chance to take on jobs outside the scope of electrical engineering.
+This includes troubleshooting construction and graphic design elements for the products exterior. The experience as a whole has piqued my interest in User Experience Design (UXD), and product development overall.
+
+In the near future I see myself working my way up to division manager. I feel that my interpersonal skills that I have developed while working as an Instructional Aide for the Severely Handicapped and Interpreter for the Deaf and Hard of Hearing are invaluable. I have extensive knowledge in working with large groups of people as well as facilitating communication between individuals of varying backgrounds and intellectual abilities. Also, given my work in the education field, I am well-versed in data collection and making recommendations that are backed-up with adequate information.
+
+Given the opportunity, I would enjoy the chance to develop my 3D modeling/printing and printed circuit board design/fabrication skills during my time at The Robot Company. I also look forward to the opportunity of attending any and all workshops offered to make myself a well-rounded engineer. I am a lifelong learner who is always looking to explore new fields of knowledge. I would also enjoy working with your experienced engineers Nicholas Lombardo and Nick Vuono.
+
+If you have any questions feel free to contact me. I look forward to hearing back from you about the opportunities at The Robot Company.
+
+
+Sincerely, Lawrence Swift
+
+Lawrence Swift
+1234 My Drive, Huntington Beach, CA 92646 ∙ (714) 555-7506 ∙ Lawrence.Swift.US@IEEE.org
+President of IEEE-Eta Kappa Nu, Epsilon Theta Chapter (2015-2016 Academic Year)
+Summary
+
+Seeking a position in the Mission Control Console Group to help research, develop and implement machine vision and SLAM technology for robotic applications.
+	•	Programming Languages: Assembly, C++, Java, VHDL
+	•	Software/Development Environments: Android Studio, AVR Studio, CadSoft Eagle PCB Design, Eclipse, ISE Design Suite, LTSpice, MATLAB, Microsoft Office, Simulink, Solidworks
+	•	Standard Lab Test Equipment: Function Generator, Mulitmeter, Oscilloscope, Power Supply
+Education
+
+Bachelor of Science in Electrical Engineering
+Expected Fall 2016
+California State University, Long Beach
+	•	3.75 GPA for EE courses, 3.36 GPA cumulative
+
+Associate in Science- Mathematics
+Fall 2012
+Orange Coast College, Costa Mesa, California
+
+Projects
+
+3D Printer BUILD Series
+Spring 2015
+RepRap Prusa i3 build workshop
+
+PaperBot
+May 2015 to Present
+Android Application development, toy construction and graphic design, SMD stencil documentation and layout
+
+Employment
+
+Instructional Aide- Severely Handicapped/Interpreter for the Deaf,
+Huntington Beach Union High School District, Huntington Beach, CA
+2007 to Present
+	•	Assist students in the set-up and use of speech-generating devices.
+	•	Observe and document progress of students to then confer with teachers.
+	•	Professionally communicate with parents, interdepartmental staff, and district office employees through written and verbal means.
+	•	Maintaining legal forms pertaining to students, staff, and school site issues.
+Co-manager, Digi-Photo, Huntington Beach, CA
+2005 to 2007
+	•	Develop professional relationships with customers to promote repeat sales.
+	•	Responsible for setting lab standards of quality, timeliness and efficiency.
+	•	Maintain clean, neat and organized work areas.
+
+Societies and Organizations
+
+IEEE, CSULB Student Chapter
+Fall 2013 to Present
+IEEE-Eta Kappa Nu (HKN), Epsilon Theta Chapter
+Corresponding Secretary: 2014-2015 Academic Year
+Fall 2013 to Present
+Tau Beta Pi, California Theta Chapter
+Chair of Recruitment: 2015 Spring Semester
+Fall 2014 to Present
+
+

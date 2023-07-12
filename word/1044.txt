@@ -1,0 +1,106 @@
+A.RAHMATHULLAH
+Email: rahmath.att@gmail.com Mobile : 00918124818137
+	•	About 10 years of experience in IT, includes hands-on and multi-tasking experience, adept at handling multiple system operations, including installation, upgrade, configuration, administration and maintenance of windows systems
+	•	I am currently looking for a new challenge where in my skills and expertise progress further with my portfolio of successes
+
+SUMMARY OF SKILLS AND EXPERIENCE
+
+	•	Installing, configuring and managing windows servers 2008/2012 R2/2016
+	•	Domain Name Server (DNS), Dynamic Host Configuration Protocol (DHCP) configuration and management
+	•	Active Directory, Group Policies in Domain Environment and System Based Policies Configuration and Management
+	•	Installing, Configuring & Managing Virtualized Servers through Microsoft Hyper-V and Managing Physical servers.
+	•	Configuring and Managing Share and Security permissions
+	•	Administrating and managing Microsoft office 365 users mailboxes including Service accounts diagnose
+	•	Installing, Configuring and Administering Windows XP, windows7, Windows 8 and Windows 10.
+	•	Manages the installation and configuration of PCs, laptop, surface, AccesPoint, modem and other devices.
+	•	Maintained security (Trend Micro) for servers and client PCs and Updating virus definitions, service packs and software patches in place of minimizing security incidents.
+	•	Knowledge of installing, configuring & managing Microsoft Forefront Treat Management gateway (TMG).
+	•	Strong documentation and record keeping skills, with extreme attention to following documented Standard Operating Procedures.
+	•	Undertaken the day to day operation of data backup and restoration of servers using Symantec Backup Exec.
+	•	MS SQL Server administration and users management, Database Backup and restore
+	•	Configured and maintained Avaya IP Phones
+	•	Managing LG Servers for IPTV configuration.
+	•	Software Distribution and Software Updates Deployments in SCCM 2012
+	•	Working with Proxy Servers, File Servers ,Application and Print Servers
+	•	Knowledge of systems and network principles and general systems administration best practices.
+	•	To coordinate the service maintenance and procurement of purchasing all IT related equipment..
+
+ACADAMIC QUALIFICATION
+
+Graduated As MCA (Master of Computer Application) from Adaikalamatha College, Thanjore, Bharadhidasan University, And Tamil Nadu, India.
+
+CERTIFICATION
+
+	•	Microsoft System Administrator (MCSA) – ID # 6171461.
+	•	Cisco Certified Network Associate (CCNA) – ID #CSCO11376898
+
+
+PROFESSIONAL EXPERIENCE
+
+	•	Position	:	System Administrator
+Company	:	Dutco Group (JA Resorts And Hotels )
+Duration	:	From Aug 2012 to June 20th 2018
+Job Description:
+	•	Installing, configuring and managing windows servers 2012 R2.
+	•	Configuration and management of Active Directory, DNS and DHCP
+	•	Restricting domain users from accessing critical services using AD and Group Policy
+	•	Managed group policy deployment, Active Directory users and group management.
+	•	Administering virtualized environments Hyper-V servers
+	•	Administrating Microsoft office 365 and managing 150 mailboxes including Service accounts Diagnose Hardware and Software problems, and replace defective components.
+	•	Installation of local and network printers and user access management in accessing these printers.
+	•	Documentation of Network layouts and constant update of Network infrastructure.
+	•	Configuration of Network routers, wireless Access Points(Juniper, Unifi).
+	•	Apply Operating System patches and upgrades on a regular basis.
+	•	Administrating Patch management for all the windows server and Workstation using WSUS
+	•	Managing LG Servers for IPTV configuration for the entire hotels.
+	•	Managing File server backup to LTO5. Configure the Network and local printers
+	•	MS SQL Server administration and users management, Database Backup and restore .
+	•	Troubleshooting day-to-day problems related LAN Networks & Printers.
+	•	Configuring and Managing Share and Security permissions
+	•	Configured and maintained Avaya IP TV & Phones. To Update the asset details to the Asset Management.
+	•	Effectively update the incidents and changes on the IT Service desk ticketing system.
+	•	Repair software issues and failures, Coordinate and communicate vendors if is in Warranty
+
+	•	Position	:	IT Support Executive
+Company	:	Arabia Taxi Transportation LLC,Abu Dhabi,UAE
+Duration	:	From Aug 2008 to july 2012
+
+
+	•	Position	:	IT Support Engineer
+Company	:	HIDADA LTD, JEDDAH, SAUDI ARABIA
+Duration	:	From Nov 2003– AUG 2007
+
+Job Description:
+	•	User Creation, Share folder creation and password policy management
+	•	DNS and DHCP configuration
+	•	Implementing group policy for domain users
+	•	Performing health checks and monitoring the Windows servers for any critical alerts like hardware
+	•	failures, critical events, disk space issues and dependency services that are running on the servers on daily basis
+	•	Managing Group policy, sharing, security, accessing files and folders
+	•	Installing and configuring of network Printers
+	•	Installing and configuring the network printer. Day to day user access support
+	•	Installing, configuring, maintaining and troubleshooting of Windows XP, Vista & windows7 operating system in domain environment. Administrating of print server and file servers.
+	•	Installing and Managing Symantec Endpoint protection Manager 12.0
+	•	Install and configure the necessary academic software’s CEOS and Orbit etc., as required by IT Management.
+	•	Undertaken the day to day operation of data backup and restoration of servers using Symantec Backup Exec.
+	•	Configured and maintained IP TV & Phones. Providing support to user mail clients (MS Outlook).
+
+PERSONAL DETAILS:
+
+Father Name	:	Abdul Rahman
+Date of Birth	:	02-03-1979
+Nationality	:	Indian
+Religion	:	Muslim
+Gender	:	Male
+Marital status	:	Married
+Languages Known	:	Arabic, English, Urdu, Tamil And Malayalam.
+
+
+
+DECLARATION
+
+I hereby declare that the above stated information is true to the best of my knowledge and faith.
+
+
+Place: India-Chennai Date:
+Rahmathullah.A

@@ -1,0 +1,78 @@
+Mashad Abbas
+30/17 Ashoka Road 						Contact No: +917875554648
+ShipraSunCity,
+Ghaziabad                     						Email:  mashad9@gmail.com   
+UP-201014                                                                                                                  
+Competitive 3.4 years work experience in analysis, design, development , implementation & Application development using Pl/SQL and  Informatica .Have worked on Live telecom projects and has ability to work on various technologies. Have good Analytical, User Interaction and Trouble shooting skills. Strong knowledge and experience on Informatica, Teradata Oracle, SQL, PL/SQL development on UNIX platform.
+
+Summary
+
+	•	Experienced in SQL, PL/SQL, SQL performance tuning, Function, Trigger, SQL*Loader, Indexing, UNIX Shell Scripting.
+	•	Knowledge of Amdocs billing system and BSCS
+	•	Extensively worked on data extraction, Transformation and loading data from various sources like Oracle, SQL Server and Flat files
+	•	Strong skills in Data Analysis, Data Requirement Analysis and Data Mapping for ETL processes
+	•	Experience in Rating and billing
+	•	Experience in MIS operations production support
+	•	Hands on experience in tuning mappings, identifying and resolving performance bottlenecks in various levels like sources, targets, mappings and sessions.
+	•	Strong knowledge of database schemas, tables, views and indexes.
+	•	Experience in writing shell scripts to load and extract data from oracle database.
+	•	Responsible for all activities related to the development, administration and implementation and support of ETL processes for large scale data warehouses using Informatica Power Center
+	•	Strong Data Warehousing ETL experience of using Informatica 9.5 PowerCenter Client tools - Mapping Designer, Repository manager, Workflow Manager/Monitor and Server tools – Informatica Server, Repository Server manager
+	•	Wrote several Teradata SQL Queries using Teradata SQL Assistant for Ad Hoc Data Pull request.
+
+Professional Experience
+
+	•	Working with Ericsson Global Services ,Noida as Solution Integrator since DEC2015 to till date
+	•	Had worked with ATOS India Pvt Ltd as S/W Engineer from SEP2013 to NOV2015
+
+Techincal Skills
+
+Data warehousing Tools: Informatica Power Center 9.5 Databases                         : Oracle 11g/10/9i/ 8i/ 8.0/ 7.x Programming GUI          : SQL, PL/SQL, SQL Plus and UNIX Shell Scripting                                   Tools/Utilities                   : TOAD,  PL/SQL developer, Teradata SQL Assistant Operating Systems           : Windows XP/NT/2003, UNIX
+Ticketing Tool                  : BMC Remedy , HPSM
+Education Qualification
+
+	•	Bachelor of technology(2008-2012) from UPTU,NIET Noida
+	•	CBSE class 12th (2008),SD Public School , Muzaffarnagar
+	•	 CBSE class 10th (2006),Holy Angels Convent School , Muzaffarnagar
+
+Project Details
+
+Project 1		:	Dubai Telecom
+Client			:	Du                        
+Technologies		:	Informatica 9.5 ,Teradata ,Oracle,PL/SQL,UNIX Shell Script
+Duration                  :         Dec 2015 to till date
+Description                :       du is the  mobile communication and  technology provider(mobile and internet provider) which deals in UAE .It has BSCS lX billing system having different modules with 8 Million subscribers
+
+Role/Responsibility	:
+
+  Responsible for error handling using Session Logs in the workflow monitor and also             logs generating in Unix path                 
+.       Responsible for requirement definition and analysis in support of Data Warehousing
+          Efforts
+	•	Monitoring of jobs scheduled in CRON
+	•	Maintaining server space and taking primitive action on alerts
+	•	Handling data loading from workflow monitor and provide L1 &l2 Support by monitoring chains and sessions 
+	•	Recovering and scheduling the workflows  as per the business requirement
+	•	Validating and providing CDR to business users using Teradata query
+       
+
+
+Project 2		:	Web Based Reporting Application 
+Client			:	Vodafone  Mobile services Ltd                        
+Technologies		:	Oracle PL/SQL, Toad, Java,UNIX Shell Script
+Duration                   :         Sep 2013 to NOV 2015
+
+Description		: 	Web Based Reporting Application is an application, which can generate different reports as per the business requirement .The primary goals of Web Based Reporting Application are, to support business decision and minimize load on the database. Project is related to Amdocs billing system, so Vodafone use this billing system for postpaid user.
+	•	
+	•	Role/Responsibility	:
+	•	Creation of database objects like packages, procedures, functions, Views to implement the business logic. 
+	•	Responsible for providing Month-End reports (PL/SQL Procedure) to business like Activation, Churn, Unbilled data and Aging Reports.
+	•	Taking care of all day-to-day operational issues of business regarding the reports fetched by the end user/business user.
+	•	Also fulfilling the Adhoc requirement of Data by the local circle IT team like legal CDR data, report related to check business growth in weekly or monthly basis according to business review.
+	•	Involved in Client interaction
+
+
+ 
+DECLARATION
+I confirm that the information provided by me is true to the best of my knowledge and belief.  
+Place :                                                                                             (Mashad Abbas)
+

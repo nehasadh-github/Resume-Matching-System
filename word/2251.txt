@@ -1,0 +1,31 @@
+
+Department of Computer Science and Engineering	814-865-9505
+College of Engineering	Fax: 814-865-3176
+
+The Pennsylvania State University
+111 Information Sciences and Technology Building University Park, PA 16802
+
+September 18, 2007
+
+Executive and Visiting Personnel Branch National Science Foundation
+4201 Wilson Blvd.
+Arlington, VA 22230
+
+Ref: Application for the NSF/CISE/CCF/Program Director (E20070091A-Rotator) Dear Selection Committee,
+I am applying for an IPA assignment for the above Program Director position in the CCF division. I believe that I have the required background to carry out the duties as outlined in the advertisement. A brief summary of my experience and vision for the above position is outlined below.
+
+I have 21 years of teaching and research experience at the Pennsylvania State University, where I am currently working as a Professor in the Department of Computer Science and Engineering. My main areas of research interests are in parallel and distributed computer architectures, cluster computing, interconnection networks, on-chip interconnects, multi-core/SoC architectures, mobile computing, Internet QoS, performance evaluation, and fault-tolerant computing. These areas cover most of the topics listed in the advertisement for the Computer System Architecture Program. I have published extensively in these areas in major international journals such as the IEEE Transactions on Computers (TC), IEEE Trans. on Parallel and Distributed Systems (TPDS), and Journal of Parallel and Distributed Computing (JPDC), and highly selective conference proceedings such as ISCA, HPCA, SIGMETRICS, MICRO, ICDCS, IPDPS, SPAA, and FTCS/DSN. I have served on the Program Committee of most of these conferences, and have served on the Editorial Boards of the IEEE TC and TPDS, the two premier journals in the architecture area. I was the Program Chair of the 12th HPCA, HPCA-2006.
+
+My research has been continuously supported by NSF, in particular the Architecture Program, since 1988. I have been funded by both the CCF and CNS divisions from four different programs (Architecture, Distributed Systems, Security, and Wireless Networks). In addition, I have an ongoing CISE/Research Infrastructure grant. I have participated in many CAREER and regular proposal review panels for almost 20 years and was a member of the Committee of Visitors for the CNS program in 2006. Thus, I have a broad background in many overlapping areas with architecture and I believe such a background is essential for steering the architecture research in the coming years.
+
+In addition to the current research themes as outlined in the job description, I envision to explore other new/challenging research areas in computer architecture such as nano-computing, bio-inspired computing, memory and I/O systems, and architecture-level support for virtualization and security. Specifically, I would like to expand the scope of the architecture research starting from the low-level micro-architecture/VLSI design to compiler, OS and applications. Since I am familiar with the relevant Programs in both the CCF and CNS divisions, I should be able to strengthen the Architecture Research Program during my tenure at NSF.
+
+I have enclosed a copy of my resume along with this letter. Please let me know if you need any additional information. Thank you for considering my application.
+Sincerely,
+
+
+Chita R. Das
+Professor, Department of Computer Science and Engineering.
+
+
+College of Engineering	An Equal Opportunity University

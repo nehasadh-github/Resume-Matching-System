@@ -1,0 +1,159 @@
+CURRICULUM VITAE
+
+M. ARUN VIJAY	Address:
+Mobile : +91 9940863052	Plot No.9, Kamarajar Street,
+arunvijay.m@rediffmail.com		Santhosapuram, Chennai - 600073.
+
+
+ OBJECTIVE:	
+To obtain a challenging job in the organization where I can utilize my technical skills and conceptual knowledge to contribute to the growth of organization.
+
+ PERSONAL SKILLS:	
+
+	•	Hardworking, Adaptability, Commitment to Teamwork.
+	•	Flexible, able to work effectively in a team environment or as an individual contributor.
+	•	Self-motivated, willing to learn quickly and adapt to new technologies, ready to mobile nature.
+	•	Excellent interpersonal and communication skills.
+ EDUCATIONAL QUALIFICATIONS:	
+
+	•	MCA – Master of Computer Applications with 68.6% in 2009 at SASTRA UNIVERSITY, Thanjavur.
+
+	•	BCA – Bachelor of Computer Applications with 72.24% in 2007 at Jawahar Science College, Neyveli.
+
+	•	HSC – Computer Science in 2004
+at S.D.A Mat. Hr. Sec. School, Neyveli.
+
+
+	•	SSLC – Matriculation in 2002
+at N.M.J Mat. School, Neyveli.
+
+
+Worked as an EDP (Electronic Data Processing) Executive in Mother Mira Industries Ltd, - Logistics Division, Associated concern of Mohan Breweries & Distilleries Ltd. From 2010 – September, 2015 in the role of Logistics software application and maintenance.
+	•	Utilized dynamic applications with enhanced user interfaces to provide reporting capabilities, data entry with business logic validation, user management with security profiling and application management capabilities.
+	•	Learning and following all Methodologies, Standards and Guidelines and Tools and Techniques.
+	•	Coordinating with the Fleet Management software vendor for the software License, Upgradation and Billing for the software.
+	•	Involved in preparing design document of the application.
+
+	•	Guided the team members in setting up local environment and knowledge transfer.
+
+	•	If any additional data is required, I used to communicate with respective teams like CSR (Corporate Social Responsibility), Production Support, database and design.
+	•	Assisted in the performance optimization of the application by utilizing code profiling techniques and database performance tuning.
+	•	Assisted in defect fixing and staging test support.
+
+	•	Integrated Web Entry Services (WES) with GUI component to support login authentication to access GUI components. Followed trial and error approach to perform code fix to support both WES and non-WES access to GUI component.
+	•	Used to analyze production related problems and take appropriate actions.
+
+MB & DL is having 5 Division in various Places in Tamilnadu, Pondicherry, Kerala & Andhra Pradesh. And they have Glass Plant, Power Generating Plant, Sugar Factory & Logistics Division.
+
+
+
+Worked as an Admin Executive - IT in Primrose Schools, Injambakkam, Chennai affiliated to CISCE Board for ICSE and Affiliated to Cambridge University for IGCSE. From October, 2015 – May, 2017 in the role of Technical Support Engineer.
+	•	IT Maintenance – Software License, Server Troubleshooting, OS installation, Hardware Troubleshooting, Network Troubleshooting and File Backup.
+	•	Groupware, Firewall and Proxy Server
+	•	Educational Software Server
+	•	Files and School Management Server
+	•	Smart Board (Touch Screen, Projector, CPU, Speakers), Network Maintenance in all classrooms.
+	•	School website maintenance – Updating and Editing website (Photos, News and Events, Time Table, etc…) using WordPress. Working on SEO (Search Engine Optimization) project for website page ranking.
+	•	Installation of licensed OS, Anti-virus, Software’s and Educational tools in computers.
+	•	Customizing the school management software includes Library Management, Admission, Attendance, Stock Maintenance and Student Database.
+	•	Reviewing the quotes for buying and installation of Smart Board, CCTV Surveillance Camera, Laptops, Computers, Internet Service Providers and Licensed Software.
+	•	Coordinating with Cambridge for IGCSE board requirements and member of IGCSE exam committee for the exam AS Level held on March 2017.
+	•	Report card Web Application Management (Reportbee - Super User) – User handling, Class creation, Mark Entry, Generation of Report card with chart, Mark analysis of each subject and grades for every Term with comparison.
+	•	File Server Management (Super User) – Creating separate login for Teachers, Level Incharge, Exam Committee and Students for using the files in the server.
+	•	Groupware Management (Super User) – Includes proxy checking for web content to be blocked, each user to be login in their user account to use the internet and the report of viewed pages of the user can be taken from server.
+
+	•	SMS Web Application Management (Super User) – Sending homework and general messages to parents, Students creation and modification by section wise.
+	•	Student Database Management.
+	•	Educational software (HCL Digischool & Extramarks – Super User) – User creation, Checking No. of License assigned for classrooms, Content updating according to syllabus and plugins installation.
+	•	Documenting and Maintaining records as per ISO 9001:2015 QMS (Quality Management System).
+	•	CCTV Surveillance Camera Maintenance, Remote Viewing and Taking Backup.
+	•	Souvenir (Year Book) 2015 – 2016: Book designer (includes content, images, design, and concept)
+	•	ASISC - TN Region (Literary Events) 2016 – 2017 Inter-school competition Organiser.
+	•	EMIS (Educational Management Information System) – Student Information Data Entry and Updation in the Government Portal for giving information to Department of Education about no. of students in the school by class wise.
+	•	UDISE form filling and coordinating with Department of Education for the information they needed about the school for updating in their records. And ordering Tamil books from Tamil Nadu Textbook portal.
+	•	Annual Diary content checking, Question paper format and alignment, Posters, Hoardings, Parentcircle ad designing.
+	•	Additional responsibilities: Skype class coordinator, Exam committee member, Internal Auditor, Transport and Infrastructure coordinator.
+
+Primrose Schools is a successfully growing, full program of pre-school, primary and higher secondary education, with main focus on a stress-free, happy learning environment in which children learns to love learning. The Primrose Educational Trust, Chennai, was established in 2006. It strives to utilize the same methods and achieve the same standards of excellence. Primrose Schools operates in its permanent campus at Injambakkam. It creates an environment for creative learning and experience the joy of learning.
+
+ CURRENT EXPERIENCE:	
+
+
+Working as an Officer - IT in D.A.V. Public School, Velachery, Chennai affiliated to Central Board of Secondary Education (CBSE), Delhi. From June, 2017 – Till Date in the role of Administrator - IT.
+	•	IT Maintenance
+	•	Software, Hardware and Network Troubleshooting.
+	•	Installation of licensed OS, Software, Antivirus and Educational Software Tools.
+	•	Server Troubleshooting and File Backup
+	•	License renewal for Smart Board Content, Antivirus, Firewall, Operating System, Office Tools and Educational software Tools.
+	•	School Website Maintenance
+	•	Posting School Events, Celebrations, Class Assemblies, Updating Notice Board News Events, Achievements and Alumni details in website on daily basis.
+	•	Student/Parent Login – Creating, Editing and Updating News Feeds in Parents Login regularly.
+	•	Smart Board Maintenance (HCL Digischool, Extramarks, Class Teacher)
+	•	Hardware - Touch Screen, Projector, CPU, Speakers, Network Maintenance in all classrooms.
+	•	Server - No. of Content License Maintenance, User Maintenance.
+	•	Software - Updating content according to syllabus and installing plugins.
+	•	Report card Web Application Management (Reportbee)
+	•	User Maintenance, Class creation, Student creation, Mark Entry, Generating Report card with chart, Mark analysis of each subject and grades for every Term with comparison.
+	•	Result Analysis for class wise as per the requirement.
+	•	Examination Coordinator for Online Exams (Online Olympiads, Vidyarthi Vigyan Manthan (VVM), Online Quiz, etc…)
+	•	Coordinator for applying School Awards & making albums (ICTACT, Swachh, etc..)
+	•	Following circulars from CBSE website regularly and sending reports to CBSE.
+	•	Vendor Management – Communicating with Smart Board, CCTV, SMS(Neverskip), Internet Service Providers, Software and Hardware vendors for any issues.
+
+	•	Online Registrations - All school related online registrations (NCERT Books, LOC- CBSE, CBSE Competitions and Events, School Awards, Infrastructure License.
+	•	Student database maintenance.
+	•	Exam coordinator – Allotting class for students and invigilators, question paper typing and maintenance, Time Table, Lesson Plan.
+	•	Event  coordinator  –  Annual  Day,  Sports  Day,   Interschool   Competitions, Teacher Workshops like Capacity Building Programme etc… Creating Google forms for online registrations. Making Presentations (PPT) for all the Events.
+	•	CCTV Surveillance Camera – Maintenance, Remote Viewing and Taking backup.
+	•	EMIS (Educational Management Information System) - Student Information - Creating, Updating, Admit, Transfer, etc… in the Government Portal.
+	•	Designing Application forms, Certificates, Invitations, Banners, Booklets and all School Albums.
+	•	Photograph taking and maintaining for all Class Assemblies, Celebrations and all School Events on daily basis.
+	•	Maintaining Reports of each Events and Celebrations conducted in  School.  Sending reports to press and magazines for publishing.
+D.A.V. Public School, Velachery, Chennai was founded in the year 1990. From a modest beginning, D.A.V.P.S Chennai enjoys a position of eminence among the city schools today. The school has strength of over 3500 students and nearly 180 teaching and non-teaching staff members. The school lays emphasis on the holistic development of the students by encouraging participation in extracurricular activities and application of information technology and multimedia in the 'Teaching - Learning process'.
+
+ TECHNICAL SKILLS:	
+
+	•	Productivity Tools	MS-Office Tools (Super user on Word, Excel and PowerPoint),
+Adobe Photoshop, Crystal Reports.
+	•	Databases	MYSQL, MS ACCESS.
+	•	Languages & Technologies C, C++, VB 6.0.
+	•	Operating System	Windows (all versions), Widows server 2008, Linux.
+	•	Web Technologies	HTML, Wordpress.
+
+ AREA OF INTEREST:	
+
+	•	Report generation and Analysis
+	•	Software Application and Web Technologies.
+	•	Object Oriented Programming Concepts.
+
+
+ ACTIVITIES:	
+
+	•	Active NSS Volunteer during Under Graduation.
+	•	An active sports person in school. Participated and won various prizes as a player of Khabaddi.
+
+	•	Regular blood donation in Blood Donation Camps.
+
+
+ PERSONAL DETAILS:	
+
+Name	:	M. Arun vijay
+Age & DOB	:	30 years, 30-07-1987
+Sex	:	Male
+Marital Status	:	Married
+Permanent Address	:	Plot No.9, Kamarajar Street, Santhosapuram, Chennai-73.
+Contact Number	:	9940863052
+Languages Known	:	English, Tamil
+Interest	:	Listening to Music, Playing Cricket, Internet Surfing.
+
+
+ DECLARATION	
+
+
+I hereby declare that the information and facts stated above are true to the best of my knowledge and belief.
+
+
+
+
+Place: Chennai.
+Date:	(M. ARUN VIJAY)

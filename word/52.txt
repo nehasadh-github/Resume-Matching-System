@@ -1,0 +1,79 @@
+
+Mobile: +91-9311903089
+E-mail ID: asikand97@gmail.com 
+
+ 
+CAREER OBJECTIVE:
+ To work in tandem with a team in a challenging and competitive environment where I could improve my knowledge, capabilities and put them to use to achieve personal as well as organizational goals.
+
+EDUCATIONAL QUALIFICATION:
+Qualification
+Board/University
+Year of Passing
+     Institution/School
+Percentage
+Pursuing B.Tech            ( ECE)
+UPTU
+2015
+Greater Noida Institute of Technology, Greater Noida
+67%
+ TILL VII SEM
+Intermediate
+CBSE
+2011
+Rani Laxmi Bai Memorial Senior Sec. School, Lucknow
+81.1%
+High School
+CBSE
+2009
+Study Hall, Lucknow
+88.2%
+
+PROJECTS UNDERTAKEN:
+Name of the Project: 			MEMORY DESIGNING
+Duration: 				3 months 
+Language/ Platform/ Databases Used:   VHDL (ModelSim SE6.2b)
+MEMORY DESIGNING includes designing of static ram with VHDL programming. SRAM exists primarily as general purpose products and integrated chips. The objective of this project is to present SRAM in general purpose parallel programming language.
+Name of the Project: 			WIRELESS ROBOT WITH FIRE ALARM
+Duration: 				3 months 
+Language/ Platform/ Databases Used:   μVision(C Programming)
+In my project I built a robot handled wirelessly with RF frequency of 433 MHz of Transmitter and Receiver. The robot consists of a camera which records audio visuals wirelessly in real-time scenario. It also consists of a fire alarm which buzzes if it detects any fire around which is also known as temperature sensor. This robot has great use in various industries where things are turning micro. Areas where human contact cannot be made this robot can be sent in substitute. It has its applications in water by making it an aqua robot and other myriad applications in many other fields of work.
+
+TRAININGS ATTENDED:
+Company: 		HINDUSTAN AERONAUTICS LIMITED, ACCESSORIES DIVISION,                     LUCKNOW
+Designation: 		Summer Trainee
+Duration: 		1st July 2014 – 1st August 2014
+Project Name: 		ELECTRONICS INVOLVED IN AIRCRAFT 
+
+IT/TECHNICAL SKILLS: Programming Languages :	C, VHDL,C++ Operating Systems: 		Windows 7,8, Windows XP
+ AWARDS/ACHIEVEMENTS/SKILLS/STRENGTHS:
+	•	Good communication and interpersonal skills  
+	•	Customer Service and Relations
+	•	Result Oriented, Meeting deadlines
+	•	Analytical and problem solving skills
+	•	Trouble-shooter
+                                                                                                                       
+EXTRA-CURICULAR ACTIVITIES:
+	•	Active member of NGO named ‘THE RISING CORNER’.
+	•	Adept in organising successful workshops as a co-ordinator in college.
+	•	Time Management and Team Work Skills
+	•	Creativity and Multitasking
+	•	Actively participated in Business presentation on ‘Harley Davidson’.
+	•	Participated various activities like elocution, dance, singing and other sports and won many awards.
+	•	Got selected in the second round in Computer Olympiad by CLF foundation and got second rank state level.
+PERSONAL INFORMATION:
+
+Fathers Name:			RANJAY SIKAND
+Permanent Address:		      Flat No.307 Kalyan Appartment,  Indira Nagar, Lucknow
+Date of Birth: 			14/06/1993  Languages Known: 		English, Hindi, Bengali and Punjabi.
+Gender:		             Female
+Hobbies & Interests:		Poetry writing, Singing, reading novels, social work
+
+
+I hereby declare that the above given particulars are true to the best of my knowledge and belief.
+
+
+(AVANTIKA SIKAND)
+
+Date: 16.6.2015
+Place: GREATER NOIDA

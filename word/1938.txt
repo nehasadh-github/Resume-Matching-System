@@ -1,0 +1,1477 @@
+KIRK D. BORNE
+(updated December 13, 2010)
+
+Department of Computational and Data Sciences	Phone: (703) 993-8402 College of Science	FAX: (703) 993-9300
+George Mason University	E-mail: kborne@gmu.edu
+MS 6A2, Fairfax, VA 22030	http://classweb.gmu.edu/kborne/
+Educational Background
+
+1983
+Ph.D., Astronomy, Caltech, Pasadena (Advisor: James E. Gunn)
+1980
+M.S., Astronomy, Caltech, Pasadena
+1975
+B.S., Physics, Summa Cum Laude (4.0 GPA), Louisiana State University
+Academic Honors
+2007	Phi Kappa Phi Faculty Mentor Award, UMUC
+2004–2007	Multiple student nominations for UMUC Teaching Excellence Award 1998	Raytheon Sabbatical Research Award
+1983–1985	Carnegie Fellowship, Carnegie Institution of Washington 1978	Outstanding Teaching Assistance, Caltech
+1975–1978	National Science Foundation Graduate Fellowship, Caltech 1975	LSU University Medal for Highest Academic Honors
+1975	LSU Sigma Xi Outstanding Student of Science
+1975	Keen-Morris Prize – Outstanding Student of Physics 1972	American Mathematical Society Achievement Award
+Service Awards
+2002
+Raytheon Service Award for Science Council Leadership
+2002
+Raytheon Service Award for Outstanding Contributions to the
+
+NASA Atmospheric Sciences Data Center program
+1994
+STScI Group Achievement Award for Hubble Space Telescope Data
+
+Archive and Distribution System (ST-DADS) Project
+1991
+NASA Goddard Space Flight Center Certificate of Recognition for
+
+Service to Hubble Space Telescope Project
+1989
+STScI Individual Achievement Award for Outstanding Service to
+
+Hubble Space Telescope Project
+Professional Affiliations
+AAS (American Astronomical Society)
+AAS DDA (Division on Dynamical Astronomy) AGU (American Geophysical Union)
+SIAM; IEEE Computer Society; ACM SIGKDD+SIGIR
+Elected Memberships
+IAU (International Astronomical Union)
+ISI (International Statistical Institute) AstroStatistics Executive Board
+Member Representative to the LSST (Large Synoptic Survey Telescope) Board of Directors Phi Kappa Phi National Honor Society
+Sigma Xi International Science Honor Society Sigma Pi Sigma National Physics Honor Society Pi Mu Epsilon National Math Honor Society
+
+
+Employment Experience
+2003–present     Associate Professor of Astrophysics and Computational Science, Department of Computational and Data Sciences, College of Science, GMU (formerly School of Computational Sciences) (2003–2005, 2008–present)
+2002–2007	Adjunct Associate Professor, UMUC Graduate School, Database Systems Technologies Program
+2006–2007	Program Manager, Perot Systems Corporation (formerly QSS Group Inc.), for the NASA/GSFC Space Science Data Operations Office (SSDOO) Project – in the National Space Science Data Center, the Solar System Exploration Data Services Office, and the Space Physics Data Facility
+2004–2005	Chief Scientist, QSS Group, Inc., consultant for NASA’s Living With a Star Metadata Library Project
+2002–2003	Founder and Space Sciences Director, Institute for Science & Technology at Raytheon (IST@R)
+1999	Sabbatical Visitor, Space Telescope Science Institute (STScI)
+1995–2002	Astrophysics Department Manager, Raytheon ITSS (formerly Hughes STX), in the NASA/GSFC Space Science Data Operations Office – for the ADF (Astrophysics Data Facility) and the ADC (Astronomical Data Center)
+1992–1995	NASA Project Scientist for ST-DADS (Hubble Space Telescope – Data Archive and Data Distribution System) , STScI (Hubble Space Telescope Science Institute)
+1992–1995	NASA Project Scientist for StarView (Hubble Space Telescope Data Archive Science User Interface), STScI
+1990–1995	Associate Scientist, STScI 1987–1990	Assistant Scientist, STScI 1985–1987	Research Associate, STScI
+1983–1985	Carnegie Fellow, DTM – Carnegie Institution of Washington 1981–1983	Teaching Fellow, Dept. of Astronomy, University of Michigan 1979–1980	Graduate Research Assistant, Caltech
+1978–1979	Graduate Teaching Assistant, Caltech
+1975–1978	National Science Foundation Graduate Fellow, Caltech (one of four NSF Fellows selected nationwide in Astronomy)
+
+Project Affiliations
+	•	Science Team Member, NASA’s Space Interferometry Mission (SIM) Dynamical Observations of Galaxies (SIMDOG) key project
+	•	National Virtual Observatory  (NVO) (us-vo.org):	Senior Science Personnel (2001- 2007)
+	•	International Virtual Observatory Alliance (ivoa.net):	Data Mining Group
+	•	The  Zooniverse Project (www.zooniverse.org):	co-Principal Investigator (GMU), Galaxy Merger Zoo (mergers.galaxyzoo.org)
+	•	Bridge Dataworks Executive Advisory Board
+	•	ARIES Scientific Board of Directors
+	•	Large Synoptic Survey Telescope  (LSST) (lsst.org):	Data Products Working Group, Education/Public Outreach (EPO) Team, Galaxies Research Collaboration
+Team, Informatics and Statistical Sciences Collaboration Team (Chair), GMU rep- resentative to LSST Board of Directors
+
+
+Research Introduction
+
+Research Interests 
+0	Dynamics and Evolution of Galaxies
+0	Groups and Clusters of Galaxies
+0	Interacting and Merging Galaxies
+0	Infrared-Luminous Galaxies
+0	Star Formation and Nuclear Activity in Galaxies
+0	Large Digital Sky Surveys: Design, Data Systems, Science, Education
+0	Data Science, Discovery Informatics, & Astroinformatics
+0	Scientific Data Mining
+0	Machine Learning Algorithms for Knowledge Discovery in Large Databases
+0	Correlation, Pattern, and Outlier Discovery in Large Databases
+0	Knowledge Representation and Semantic e-Science
+0	Machine Learning for Decision Support in Autonomous Science Systems
+0	Computational and Numerical Simulation Research
+0	Scientific Information Systems
+0	Applied Information Science Research
+0	Citizen Science and Human Computation
+0	Using Data in the Classroom for Engagement, Excitement, Exploration, & Education
+0	Innovative Learning Technologies for Science & Math Education
+Research Productivity (see following pages)
+	•	∼60 refereed publications.
+	•	∼100 invited talks at universities, agencies, and conferences.
+	•	∼200 additional conference presentations (published papers and abstracts).
+	•	Papers and links to papers are available at http://aurora.gmu.edu/~kborne/
+Statements
+	•	Research  Statement: http://aurora.gmu.edu/~kborne/gmu-kborne-research2010.pdf
+	•	Teaching  Statement: http://aurora.gmu.edu/~kborne/gmu-kborne-teaching2010.pdf
+
+Publications and Talks
+
+
+Refereed Journal Articles	p. 4
+Refereed Conference Proceedings	6
+Invited Refereed Book Chapters	8
+Peer-Reviewed Public Science Papers	8
+Edited Books	9
+Authorship on non-reviewed research papers	9
+Invited Talks	14
+Scientific, Technical,  & Education Abstracts	19
+Public Outreach Talks	26
+Public Information & Press Releases	27
+Sample Citation Counts	30
+
+Refereed Journal Articles
+
+	•	Borne, K. D., “Interacting Binary Galaxies. I. A Numerical Model and Preliminary Results”, Astrophysical Journal, 287, 503 (1984).
+	•	Hoessel, J. G., Borne, K. D., & Schneider, D. P., “The Dynamics of Four Multiple Nuclei Brightest Cluster Galaxies”, Astrophysical Journal, 293, 94 (1985).
+	•	Borne, K. D., “Interacting Binary Galaxies. II. Matching Models to Observations”, Astro- physical Journal, 330, 38 (1988).
+	•	Borne, K. D., & Hoessel, J. G., “Interacting Binary Galaxies. III. Observations of NGC 1587/1588 and NGC 7236/7237”, Astrophysical Journal, 330, 51 (1988).
+	•	Borne, K. D., “Interacting Binary Galaxies. IV. Simulations, Masses, and Spatial Orientations for NGC 1587/88 and NGC 7236/37”, Astrophysical Journal, 330, 61 (1988).
+	•	Borne, K. D., Balcells, M., Hoessel, J. G., “Interacting Binary Galaxies. V. NGC 4782/4783 (3C278): Unbound Colliders, not a Supermassive Pair”, Astrophysical Journal, 333, 567 (1988).
+	•	Balcells, M., Borne, K. D., & Hoessel, J. G., “Interacting Binary Galaxies. VI. The Fast Encounter of NGC 2672 and NGC 2673 (Karachentsev 175, Arp 167)”, Astrophysical Journal, 336, 655 (1989).
+	•	Balcells, M., Borne, K. D., & Hoessel, J. G., “Two High-Velocity Encounters of Elliptical Galaxies”, Astrophysics & Space Science, 156, 215 (1989).
+	•	Pence, W. D., Oegerle, W., & Borne, K. D., “A Remarkable Double Ring Galaxy in the Cluster Abell 2199”, Astronomical Journal, 100, 1766 (1990).
+	•	Borne, K. D., & Richstone, D. O., “A Merger Scenario for NGC 7252: A Tale of Two Tails”, Astrophysical Journal, 369, 111 (1991).
+	•	McGlynn, T. A., & Borne, K. D., “Angular Momentum and Stripping in Tidal Interactions”, Astrophysical Journal, 372, 31 (1991).
+
+
+	•	Borne, K. D., & Colina, L., “Activity in Colliding Galaxies”, Astrophysics & Space Science, 205, 217 (1993).
+	•	Whitmore, B. C., Schweizer, F.,  Leitherer,  C.,  Borne,  K.,  & Robert,  C.,  “HST Discovery of Candidate Young Globular Clusters in the Merger Remnant NGC 7252”, Astronomical Journal, 106, 1354 (1993).
+	•	Borne, K. D., & Colina, L., “Ballistic Models for Radio Jets in Colliding Galaxies: 3C 278 (NGC 4782/4783)”, Astrophysical Journal, 416, 157 (1993).
+	•	Borne, K. D., Balcells, M., Hoessel, J. G., & McMaster, M., “Interacting Binary Galaxies.
+VII. Kinematic Data for 12 Disturbed Ellipticals”, Astrophysical Journal, 435, 79 (1994).
+	•	Colina, L., & Borne, K. D., “The Unusual X-Ray Collision Morphology of NGC 4782/4783 (3C278)”, Astrophysical Journal, 454, L101 (1995).
+	•	Struck, C., Appleton, P.N.,  Borne, K.D., & Lucas, R.A., “Hubble Space Telescope Imaging   of Dust Lanes and Cometary Structures in the Inner Disk of the Cartwheel Ring Galaxy”, Astronomical Journal, 112, 1868 (1996).
+	•	Borne, K. D., Bushouse, H., Colina, L., Lucas, R. A., Baker, A., Clements, D., Lawrence, A., Oliver, S., & Rowan-Robinson, M., “A Morphological Classification Scheme for ULIRGs”, Astrophysics & Space Science, 266, 137 (1999).
+	•	Arribas, S., Colina, L., & Borne, K., “Two-dimensional Optical Spectroscopy of ULIRG’s: Comparison with HST Imaging”, Astrophysics & Space Science, 266, 143 (1999).
+	•	Borne, K. D., Colina, L., Bushouse, H., & Lucas, R.A., “HST Observations of the Serendip- itous X-ray Companion to Markarian 273: Cluster at z=0.46?”, Astrophysical Journal, 527,  554 (1999).
+	•	Colina, L., Arribas, S., & Borne, K. D., “Integral Field Spectroscopy of Mrk273: Mapping High-Velocity Gas Flows and an Off-Nucleus Sey 2 Nebula”, Astrophysical Journal, 527, L13 (1999).
+	•	Borne, K. D., Bushouse, H., Lucas, R.A., & Colina, L., “Evidence for Multiple Mergers among Ultraluminous Infrared Galaxies: Remnants of Compact Groups?”, Astrophysical  Journal, 529, L77 (2000).
+	•	Colina, L., Arribas, S., Borne, K. D., & Monreal, A., “Detection and Mapping of Decoupled Stellar and Ionized Gas Structures in the Ultraluminous Infrared Galaxy IRAS12112+0305”, Astrophysical Journal, 533, L9 (2000).
+	•	Arribas, S., Colina, L., & Borne, K. D., “Merging Process and Tidal-induced Star Formation  in the Ultraluminous Infrared Galaxy IRAS 08572+3915”, Astrophysical Journal, 545, 228 (2000).
+	•	Colina, L., Arribas, S., & Borne, K. D., “ULIRGs: Tidal-induced Star Formation and Impli- cations for SCUBA Sources”, Astrophysics & Space Science, 277, 413 (2001).
+	•	Farrah, D., Rowan-Robinson, M., Oliver, S., Serjeant, S., Borne, K., Lawrence, A., Lucas, R. A., Bushouse, H., & Colina, L., “HST/WFPC2 Imaging of the QDOT Ultraluminous Infrared Galaxy Sample”, Monthly Notices of the Royal Astronomical Society (MNRAS), 326, 1333 (2001).
+
+
+	•	Colina, L., Borne, K., Bushouse, H., Lucas, R., Rowan-Robinson, M., Lawrence, A., Clements, D., Baker, A., & Oliver, S., “Ultraluminous Infrared Galaxies: Mergers of Sub-L* Galaxies?”, Astrophysical Journal, 563, 546 (2001).
+	•	Bushouse, H., Borne,  K., Colina, L., Lucas, R., Robinson, M., Baker,  A. C.,  Clements, D.  L., Lawrence, A., & Oliver, S., “Ultraluminous Infrared Galaxies: Atlas of Near-Infrared Images”, Astrophysical Journal Supplement Series, 138, 1 (2002).
+	•	Clements,  D., McDowell, J. C., Shaked, S., Baker, A. C., Borne, K., Colina, L., Lamb, S.     A., & Mundell, C., “Chandra Observations of Arp 220: The Nuclear Source”, Astrophysical Journal, 581, 974 (2002).
+	•	McDowell, J.C., Clements, D. L., Lamb, S. A., Shaked, S., Hearn, N. C., Colina, L., Mundell, C., Borne, K., Baker, A. C., & Arribas, S., “Chandra Observations of Extended X-ray Emis- sion in Arp 220”, Astrophysical Journal, 591, 154 (2003).
+	•	Keel, W.C, & Borne, K.D., “Massive Star Clusters in Ongoing Galaxy Interactions: Clues to Cluster Formation”, Astronomical Journal, 126, 1257 (2003).
+	•	Arribas, S., Bushouse, H., Lucas, R., Colina, L., & Borne, K., “Optical Imaging of Very Lu- minous Infrared Galaxy Systems: Photometric Properties and Late Evolution”, Astronomical Journal, 127, 2522 (2004).
+	•	Eastman, T., Borne, K., Green, J., Grayzeck, E., McGuire, R., & Sawyer, D., “eScience and Archiving for Space Science”, Data Science Journal, 4, 67 (2005).
+	•	Patton, D., Grant, J., Simard, L., Pritchet,  C.,  Carlberg,  R.,  &  Borne,  K.,  “A  Hubble  Space Telescope Snapshot Survey of Dynamically Close Galaxy Pairs in the CNOC2 Redshift Survey”, Astronomical Journal, 130, 2043 (2005).
+	•	Giannella, C., Dutta, H., Borne,  K.,  Wolff,  R.,  &  Kargupta,  H.,  “Distributed  Data  Min- ing for Astronomy Catalogs,” Special Issue of Concurrency and Computation: Practice and Experience (2006, publication of special issue cancelled by publisher).
+	•	Olmedo, O., Zhang, J., Wechsler, H., Poland, A., & Borne, K., “Automatic Detection and Tracking of Coronal Mass Ejections (CMEs) in Coronagraph Time Series,” Solar Physics, 248, 485 (2008).
+	•	Borne, K., “A machine learning classification broker for the LSST transient database”, As- tronomische Nachrichten, 329, 255 (2008).
+	•	Borne, K., “Astroinformatics:  Data-Oriented Astronomy Research and Education,” Journal   of Earth Science Informatics, 3, 5-17 (2010).
+Refereed Conference Proceedings**
+
+	•	Borne, K., & Kimball, T., “WWW Access to the HST Data Archive,” Vistas in Astronomy, 39, 99 (1995).
+	•	Borne, K. D., “Distributed Data Mining in the National Virtual Observatory,” SPIE Data Mining and Knowledge Discovery: Theory, Tools, and Technology V, 5098, 211-218 (2003).
+
+
+	•	Giannella, C., Dutta, H., Borne, K.,  Wolff,  R.,  & Kargupta,  H.,  “Distributed Data Mining for Astronomy Catalogs,” SIAM Scientific Data Mining, online publication1 (2006).
+	•	Borne, K., “Data-Driven Discovery through e-Science Technologies,” IEEE International Con- ference on Space Mission Challenges for Information Technology, 251-256 (2006).
+	•	Borne, K., & Eastman, T., “Collaborative Knowledge-Sharing for E-Science,” AAAI Work- shop on the Semantic Web for Collaborative Knowledge Acquisition, 104-105 (2006).
+	•	J.Miller & K.Borne, “Automated Wildfire Detection through Artificial Neural Networks,” in Remote Sensing and Modeling Applications to Wildland Fires (Springer-Verlag and Tsinghua University Press), online publication2 (2007)
+	•	Dutta, H., Giannella, C., Borne, K., & Kargupta, H., “Distributed Top-K Outlier Detection from Astronomy Catalogs using the DEMAC System,” SIAM Scientific Data Mining, online publication3 (2007).
+	•	Borne, K. D., “A Machine Learning Classification Broker for Petascale Mining of Large-scale Astronomy Sky Survey Databases,” in Next Generation of Data Mining NGDM07, online publication4 (2007).
+	•	Das, K., Bhaduri, K., Arora, S, Griffin, W., Borne, K., Giannella, C., & Kargupta, H., “Scal- able Distributed Change Detection from Astronomy Data Streams using Local, Asynchronous Eigen Monitoring Algorithms,” SIAM Data Mining, 247-258 (2009).
+	•	Borne, K., Wallin, J., & Weigel, R., “The New Undergraduate Program in Computational and Data Sciences at GMU,” Lecture Notes in Computer Science, 5545, 74-83 (2009).
+	•	Dutta, H., Zhu, X., Mahule, T., Kargupta, H., Borne, K., et al., “TagLearner: A P2P Clas-  sifier Learning System from Collaboratively Tagged Text Documents,” IEEE International Conference on Data Mining - Workshop on Mining Multiple Information Sources, 495-500 (2009).
+	•	Baehr, S., Vedachalam, A., Borne, K., & Sponseller, D., “Data Mining the Galaxy Zoo Mergers,” NASA Conference on Intelligent Data Understanding, online publication5 (2010).
+	•	Mahule, T., Borne, K., Dey, S., Arora, S., & Kargupta, H., “PADMINI: A Peer-to-Peer Dis- tributed Astronomy Data Mining System and a Case Study,” NASA Conference on Intelligent Data Understanding, online publication5 (2010).
+	•	Borne, K., & Vedachalam, A., “Effective Outlier Detection in Science Datasets using K- Nearest Neighbor Data Distributions (KNN-DD),” NASA Conference on Intelligent Data Understanding, online publication5 (2010).
+
+**Note: as explained at www.cra.org (Computing Research Association), regarding evidence of accomplish- ment in the field of computer science, conference publication is preferred6. Specifically, conference publication
+1http://www.siam.org/meetings/sdm06/workproceed/Scientific%20Datasets/giannella.pdf 2http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050180456 2005177531.pdf 3https://www.siam.org/proceedings/datamining/2007/dm07 047Dutta.pdf 4http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.129.5904 5https://c3.ndc.nasa.gov/dashlink/resources/220/
+6http://www.cra.org/resources/bp-memos/
+
+
+is preferred to journal publication, and the premier conferences are generally more selective than the premier journals (Academic Careers, National Academy Press, 1994). This tradition is at variance with conventional academic publication traditions. Conference publication in the computer science field is both rigorous and prestigious.
+
+Invited Refereed Book Chapters
+
+	•	Borne, K., “Scientific Data Mining in Astronomy,” in Next Generation of Data Mining (Taylor & Francis: CRC Press), pp. 91-114 (2009). http://arxiv.org/abs/0911.0505
+	•	Jacoby, S., Borne, K., Olsen, J., Raddick, M. J., & Wolff, S., “Education and Public Out- reach,” LSST Science Book, pp. 87-96, http://www.lsst.org/files/docs/sciencebook/SB 4.pdf (2010).
+	•	Ferguson, H., et al. (including K. Borne), “Galaxies,” LSST Science Book, pp. 309-344, http://www.lsst.org/files/docs/sciencebook/SB 9.pdf (2010).
+Peer-Reviewed Public Science Papers
+
+	•	Rieke, G. H., et al. (including K. Borne), “Charting the Winds that Change the Universe: Far Infrared and Submm Astronomy,” NASA Report (1999).
+	•	Leisawitz, D., & 124 co-authors (including K.Borne), “Community Plan for Far-IR/Submillimeter Space Astronomy,” http://safir.gsfc.nasa.gov/docs/Community Plan printed.pdf (2003).
+	•	Leisawitz, D., & 28 co-authors (including K.Borne), “Probing The Invisible Universe: The Case for Far-IR/Submillimeter Interferometry,” NASA Technical Report (2004). http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040074288 2004071191.pdf
+	•	“Data-Enabled Science in the Mathematical and Physical Sciences,” report from the NSF Working Group on Data-Enabled Science to the NSF MPS Advisory Committee (2010) [K.Borne, significant contributing co-author]
+
+The remaining items listed below (in this category) were submitted to the National Academy of Sciences, as advice to the ASTRO2010 Decadal Survey of Astronomy & Astrophysics (2009). Reports at: http://sites.nationalacademies.org/BPA/BPA 049526
+
+	•	“Astroinformatics: A 21st Century Approach to Astronomy,” (K.Borne, primary and lead author of 91) http://arxiv.org/abs/0909.3892 [Ranked in Top 5 papers from physics during the week it was posted: http://www.technologyreview.com/blog/arxiv/24173]
+	•	“The Revolution in Astronomy Education: Data Science for the Masses,” (K.Borne, lead author of 24) http://arxiv.org/abs/0909.3895
+	•	“Educating the Next Generation of Leading Scientists: Turning Ideas into Action,” (K.Borne, significant contributing co-author) http://arxiv.org/abs/0903.3327
+	•	“The Astronomical Information Sciences: A Keystone for 21st-Century Astronomy,” (K.Borne, significant contributing co-author)
+	•	“Science Frontiers In Galaxy Evolution: Deep-Wide Surveys,” (K.Borne, co-author)
+
+
+	•	“Multidimensional Image Processing and Nonlinear Dimensionality Reduction for Advanced Data Mining and Visualization of Astronomical Images,” (K.Borne, co-author)
+	•	“Citizen Science: Status and Research Directions for the Coming Decade,” (K.Borne, signif- icant contributing co-author)
+	•	“Advanced Data Products for the Next Decade,” (K.Borne, co-author)
+Edited Books
+
+	•	“Groups of Galaxies,” eds. O.-G. Richter & K. Borne, ASP Conference Series, volume 70, 1995 (Astronomical Society of the Pacific: San Francisco).
+	•	Strauss, M., & 200+ co-authors (including K.Borne), “The LSST Science Book,” (2010) http://arxiv.org/abs/0912.0201
+Authorship on non-reviewed research papers
+
+	•	Borne, K. D., “The Structure and Evolution of Interacting Binary Galaxies,” Ph.D. thesis, California Institute of Technology (1983).
+	•	Borne, K. D., ‘The Path to a Merger,” in the “Galaxies” volume of the Time/Life “Voyage Through the Universe” series, 104-105 (1988).
+	•	Borne, K. D., “Probing the Tides in Interacting Galaxy Pairs,” in IAU Colloquium 124 proceedings “Paired and Interacting Galaxies,” 537-542 (1990).
+	•	Borne, K. D., “Tidal Phenomena in Interacting Galaxies,” in proceedings for Dynamics and Interactions of Galaxies (Berlin: Springer), 196-199 (1990).
+	•	Borne, K., & Whitmore, B., “Hubble Space Telescope Phase I Proposal Instructions,” NASA Technical Report (1990).
+	•	Borne, K., “Hubble Space Telescope Phase I Proposal Instructions,” NASA Technical Report (1991 and 1992).
+	•	Borne, K. (lead author and coordinator), “Hubble Space Telescope Cycle 3 Call for Propos- als,” NASA Technical Report (1992).
+	•	Borne, K. D., Colina, L., & Scott, J., “Activity in Interacting Galaxies,” in proceedings for    the MORIOND 1992 Conference on Physics of Nearby Galaxies: Nature or Nurture, 337-350 (1992).
+	•	Borne, K. D., & Colina, L., “Radio Jets in Colliding Galaxies: Testing the Interaction-Activity Connection,” in proceedings for The Evolution of Galaxies and their Environment, 249-250 (1993).
+	•	Borne, K. (initial creator and original author), “Hubble Space Telescope (HST): The AEC (Archived Exposures Catalog),” (1992 and 1993; which continued to be published annually by NASA-HST archive scientists since 1993 to the present day). http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930017234 1993017234.pdf
+	•	Borne, K., “The Hubble Space Telescope Archive Primer,” NASA Technical Report (1993).
+
+
+	•	Borne, K., “The Hubble Space Telescope Archive Manual,” NASA Technical Report (1994).
+	•	Borne, K. D., & Colina, L., “Multi-Wavelength Observations of ‘Interactive’ Galaxies,” in proceedings for Mass-Transfer Induced Activity in Galaxies (Cambridge University Press), 384-385 (1994).
+	•	Long, K. S., Baum, S., Borne, K., & Swade, D., “The Hubble Space Telescope Data Archive,” in ASP Conference Proceedings for Astronomical Data Analysis Software and Systems Con- ference (ADASS) III, 61, 151-154 (1994).
+	•	Borne, K. D., Baum, S., Fruchter, A., & Long, K., “The Hubble Space Telescope Data Archive,” in ASP Conference Proceedings for Astronomical Data Analysis Software and Sys- tems Conference (ADASS) IV, 77, 158-161 (1995).
+	•	Borne, K. D., “HST Archive Status Report,” in ”Calibrating Hubble Space Telescope: Post Servicing Mission,” 386-397 (1995).
+	•	Borne, K., & Levison, H., “Group Simulations: Looking for Compact Groups,” in ASP Conference Proceedings for Groups of Galaxies, 70, 151-153 (1995).
+	•	Borne, K. D., “Hubble Space Telescope Data Archive ST-DADS Verification Report,” NASA Technical Report (1995).
+	•	Borne, K. D., Lucas, R., Appleton, P., Struck, C., Schultz, A., & Spight, L., “WFPC2 Imaging of the Cartwheel Ring Galaxy,” in “Science with the Hubble Space Telescope - II,” pp. 239-248 (1996).
+	•	Borne, K. D., “The Interaction-Activity Connection,” NASA Technical Report (1996). http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19990042108 1999057787.pdf
+	•	Appleton, P., Struck, C., Bransford, M., Charmandaris, V., Marston, A., Borne, K., & Lucas, R., “Mapping Stellar Evolution in the Wake of Density Waves in Ring Galaxies,” in IAU Symposium 171 proceedings for New Light on Galaxy Evolution, 337 (1996).
+	•	Borne, K., & Colina, L., “The Unusual X-ray Collision Morphology of NGC 4782/4783 (3C 278),” in the proceedings for the International Conference on X-ray Astronomy and Astro- physics: Roentgenstrahlung from the Universe, 427-428 (1996).
+	•	Borne, K., Bushouse, H., Colina, L., & Lucas, R., “Early Results from an HST Imaging Survey of the Ultraluminous IR Galaxies,” in AIP Conference Proceedings for Star Formation, Near and Far, 393, 295-298 (1997).
+	•	Borne, K., Bushouse, H., Colina, L., & Lucas, R., “An HST Imaging Survey of the Ultralu- minous IR Galaxies: in Search of the Power Source,” in proceedings for the MORIOND 1997 Conference on Extragalactic Astronomy in the Infrared, 277-282 (1997).
+	•	Borne, K. D., Bushouse, H., Colina, L., & Lucas, R., “Morphological Similarities between HDF and Ultraluminous IR Galaxies,” in AIP Conference Proceedings for The Ultraviolet Universe at Low and High Redshift, 408, 423-428 (1997).
+	•	**Borne,  K. D.,  “Collision-Induced Star Formation in Ring Galaxies,”  in proceedings for  the 1st Guillermo Haro Conference on Astrophysics: Starburst Activity in Galaxies, 141-144 (1997)
+**[judged by conference participants as the “Best Poster” at the conference].
+
+
+	•	Borne,  K. D.,  “HST Observations of the Ultraluminous IR Galaxies,”  in proceedings for    the 1st Guillermo Haro Conference on Astrophysics: Starburst Activity in Galaxies, 250-251 (1997).
+	•	Borne, K. D., “Investigations of the Interaction-Activity Connection,” in proceedings for the 1st Guillermo Haro Conference on Astrophysics: Starburst Activity in Galaxies, 251-252 (1997).
+	•	Bushouse, H., Colina, L., Lucas, R., & Borne, K., “Simulations of NGST Observations of Ultraluminous IR Galaxies,” in ASP conference proceedings for Science with the Next Gen- eration Space Telescope (NGST), 233-236 (1998).
+	•	Borne, K. D., Bushouse, H., Colina, L., & Lucas, R., “Early Results from an HST Imaging Survey of the Ultraluminous IR Galaxies,” in IAU Symposium 179 proceedings for New Horizons from Multi-Wavelength Sky Surveys, 275-277 (1998).
+	•	Kargatis, V., Shaya, E., Blackwell, J., Borne, K., White, R. A., & Cheung, C., “Web-Based Tools for Exploration of ADC Data Holdings and NASA Data Archives” in ASP Conference Proceedings for Astronomical Data Analysis Software and Systems Conference (ADASS) VIII, 172, 217-220 (1999).
+	•	Shaya, E., Blackwell, J., Gass, J., Kargatis, V., Schneider, G., Borne, K., Cheung, C., &  White, R. A., “Formatting Journal Tables in XML at the ADC,” in ASP Conference Pro- ceedings for Astronomical Data Analysis Software and Systems Conference (ADASS) VIII, 172, 274-277 (1999).
+	•	Borne, K., Bushouse, H., Colina, L., Lucas, R., Baker, A., Clements, D., Lawrence, A., Oliver, S., & Rowan-Robinson, M., “NICMOS and WFPC2 Imaging of Ultraluminous Galaxies,” in ASP Conference Proceedings for Astrophysics with Infrared Surveys: A Prelude to SIRTF, 177, 167-170 (1999).
+	•	Borne, K. D., Bushouse, H., Colina, L., & Lucas, R., “Dynamics of Ultraluminous Galaxies,” in ASP Conference Proceedings for Galaxy Dynamics, 182, 461-462 (1999).
+	•	Borne, K. D., Bushouse, H., Colina, L., & Lucas, R., “Evidence for Multiple Mergers Among Ultraluminous IR Galaxies,” in AIP Conference Proceedings for After the Dark Ages, When Galaxies were Young, 470, 220-224 (1999).
+	•	Borne, K. D., Shaya, E., White, R. A., & Cheung, C., “An Archival Survey of the HDF- South,” in AIP Conference Proceedings for After the Dark Ages, When Galaxies were Young, 470, 438-442 (1999).
+	•	Borne, K. D, “Providing Web Access Tools for Astronomical Data and Metadata,” Science Information Systems Newsletter, 50, 1-3 (1999).
+	•	Borne, K. D., “ADC’s Scientific Users’ Guide and Demo Page Go On-Line,” Science Infor- mation Systems Newsletter, vol. 57 (2000).
+	•	Borne, K., “ADC Scientific User’s Guide” (2001), archived at
+http://web.archive.org/web/20020626230908/adc.gsfc.nasa.gov/adc/adc science/adc-science-guide.html
+
+
+	•	Borne, K. D., Arribas, S., Bushouse, H., Colina, L., & Lucas, R., “The Diverse Population of ULIRGs,” in FIRSED Far-Infrared and Submillimeter Spectral Energy Distributions of Active and Starburst Galaxies, New Astronomy Reviews (Elsevier) (2000) http://arxiv.org/abs/astro-ph/0009361
+	•	Colina, L., Arribas, S., & Borne, K., “Integral Field Spectroscopy of Ultraluminous Infrared Galaxies,” in ASP Conference Proceedings for Imaging the Universe in Three Dimensions, Scenarios for a VO Design Reference Mission,” 195, 220-223 (2000).
+	•	Borne, K. D., Bushouse, H., Lucas, R., & Colina, L., “The Ultra-Luminous Infrared Galaxy Population,” in ASP Conference Proceedings for Gas and Galaxy Evolution, 240, 202-203 (2001).
+	•	Borne, K. D., “Data Mining in Astronomical Databases,” in Mining the Sky (Springer-Verlag: Berlin), 671-673 (2001).
+	•	Borne, K., & Clements, D., “The Nuclear and Extended Emission from Arp 220,” in proceed- ings for the Two Years of Science with Chandra Symposium, contributed poster paper #79 (2001).
+	•	Borne, K. D., Keel, W., Appleton, P., Struck, C., Lucas, R., & Schultz, A., “HST Observations of Young Star Clusters in Interacting Galaxies,” in IAU Symposium 207 proceedings for Extragalactic Star Clusters, 474-476 (2002).
+	•	Shaya, E. J., Borne, K., Nusser, A., Peebles, P. J. E., Tonry, J., Tully, B., Vogel, S., & Zaritsky, D., “Space Interferometry Mission: Dynamical Observations of Galaxies (SIMDOG),” in Science with the Space Interferometry Mission, 27-29 (2002).
+	•	Borne, K. D., “Project AstroData: Value-Added Educational Tutorials for HST Data at NSSDC’s Astronomical Data Center,” Science Information Systems Newsletter, vol. 62 (2002).
+	•	Shaya, E. J., Tully, R. B., Peebles, P. J. E., Tonry, J. L., Borne, K., Vogel, S. N., Nusser, A., & Zaritsky, D., “Space Interferometry Mission Dynamical Observations of Galaxies (SIMDOG) Key Project,” in Proceedings SPIE, 4852, 120-130 (2003).
+	•	Borne, K. “Data Mining Resources for Space Science” (2003), archived at
+http://web.archive.org/web/20050405023752/http://nvo.gsfc.nasa.gov/nvo datamining.html
+
+	•	Borne, K. “Project AstroData: Value-Added Educational Tutorials for Hubble Space Tele- scope Data” (2003), archived at http://web.archive.org/web/20050410191718/nvo.gsfc.nasa.gov/astrodata/
+
+	•	Borne, K. D., Arribas, S., Bushouse, H., Colina, L., & Lucas, R., “A National Virtual Obser- vatory (NVO) Science Case: Properties of Very Luminous IR Galaxies (VLIRGs),” in AIP Conference Proceedings for The Emergence of Cosmic Structure, 666, 307-310 (2003).
+	•	Bazell, D., Miller, D., & Borne, K., “Novel Approaches to Semi-supervised and Unsupervised Learning,” in ASP Conference Proceedings for Astronomical Data Analysis Software and Systems Conference (ADASS) XII, 295, 427-430 (2003).
+
+
+	•	McGlynn, T., Accomazzi, A., Berriman, B., Borne, K., Eichhorn, G., Good, J., Kimball, T., Mazzarella, J., Rots, A., & Thomas, B., “Building Interoperable NASA Archives,” in Toward an International Virtual Observatory (Springer-Verlag: Berlin), 294-295 (2004).
+	•	Leisawitz, D., Armstrong, T., Benford, D., Blain, A., Borne, K., et al. , “Probing the Invisible Universe: The Case for Far-IR/Submillimeter Interferometry,” in the Proceedings of the Second Workshop on New Concepts for Far-Infrared and Submillimeter Space Astronomy, 167-177 (2004)
+	•	Borne, K., “Data Mining in Distributed Databases for Interacting Galaxies,” in ASP Confer- ence Series for Astronomical Data Analysis Software and Systems Conference (ADASS) XIV, 347, 350-354 (2005).
+	•	Lucas, R., Conselice, C., Arribas, S., Bushouse, H., Borne, K., & Colina, L., “Morphological CAS Parameters of a Sample of Very Luminous Infrared Galaxies (VLIRGs),” in Multi- wavelength Mapping of Galaxy Formation and Evolution (Springer-Verlag: Berlin), 412-413 (2005).
+	•	Borne, K., & Chang, A., “Data Mining for Extra-solar Planets,” in ASP Conference Series for Astronomical Data Analysis Software and Systems Conference (ADASS) XVI, 376, 453-456 (2007).
+	•	Schmitz, M., Andernach, H., Borde, S., Borne, K., et al. , “Division XII / Commission 5 / Working Group Designations” in Transactions of the IAU, volume 3, issue 26B, p. 217 (2007).
+	•	Appleton, P.,  Gil de Paz, A., Madore, B., Reach, W., Struck, C., ..., Borne, K., “Massive     Star Formation and Dust in Collisional Ring Galxies: From GALEX to Spitzer,” in ASP proceedings for the Second Annual Spitzer Science Center Conference: Infrared Diagnostics  of Galaxy Evolution, 391, 128-131 (2008).
+	•	Borne, K., Becla, J., Davidson, I., Szalay, A., & Tyson, J. A., “The LSST Data Mining Research Agenda”, in AIP Conference Proceedings for Classification and Discovery in Large Astronomical Surveys, 1082, 347-351 (2008)
+	•	Ivezic, Z., Axelrod, T., Becker, A., Becla, J., Borne, K., et al. , “Parametrization and Clas- sification of 20 Billion LSST Objects: Lessons from SDSS”, in AIP Conference Proceedings for Classification and Discovery in Large Astronomical Surveys, 1082, 359-365 (2008)
+	•	Ivezic, Z., & the LSST Science Collaboration, “LSST: from Science Drivers to Reference Design and Anticipated Data Products,” http://arxiv.org/abs/0805.2366 (2008).
+	•	Christian, C., Raddick, M. J., & Borne, K., “Building a Data Education Community Online” in ASP Conference Proceedings for EPO and a Changing World: Creating Linkages and Expanding Partnerships, 389, 373-374 (2008).
+	•	Borne, K., “Astroinformatics: Data-Oriented Astronomy,” in the proceedings for the Inter- national Conference on Computational Science (ICCS), contributed poster paper #18 (2009).
+	•	Wallin, J., Holincheck, A., Borne, K., Lintott, C., Smith, A., Bamford, S., & Fortson, L., “Tasking Citizen Scientists from Galaxy Zoo to Model Galaxy Collisions,” in ASP conference proceedings for Galaxy Wars: Stellar Populations and Star Formation in Interacting Galaxies, 423, 217-222 (2010).
+
+
+	•	Holincheck, A., Wallin, J., Borne, K., Lintott, C., Smith, A., Bamford, S., & Fortson, L., “Tasking Citizen Scientists from Galaxy Zoo to Model Galaxy Collisions: Preliminary Results, Interface, Analysis,” in ASP conference proceedings for Galaxy Wars: Stellar Populations and Star Formation in Interacting Galaxies, 423, 223-226 (2010).
+	•	Jacoby, S., Borne, K., Prather, E., Raddick, M. J., Ratclife, D. M., & Spuck , T. “LSST Education and Public Outreach,” in the ASP Conference Series Earth and Space Science: Education and Public Outreach (2010).
+Invited Talks: since GMU employment (summer 2003 to present)
+
+	•	December 2010 – Research Data Workforce Summit, 6th International Digital Curation Con- ference (Chicago, IL) – “Data Science: an Emerging Discipline”
+	•	November 2010 – Middle Tennessee State U. Program in Computational Science – “Data- Enabled Science and Informatics”
+	•	October 2010 – GMU and Discovery Magazine presents “Do it yourself: examining the wave of non-expert participation in science” (K.Borne is only scientist on the panel)
+	•	October 2010 – International Conference on eXtremely Large Databases (XLDB-4) – “As- troinformatics: at the Intersection of Machine Learning, Automated Information Extraction, and Astronomy”
+	•	September 2010 – U.Michigan Dept of Astronomy – “Astroinformatics and the LSST: Massive Data Research in Astronomy”
+	•	September 2010 – Wolfram Big Data Summit (Washington DC) – “Astroinformatics: Massive Data Research in Astronomy”
+	•	August 2010 – Harvard Computational Astrostatistics Workshop – “LSST: Informatics and Statistics Research Challenges” (Keynote speaker)
+	•	August 2010 – Earth and Space Science Informatics 2010 Workshop – ”Informatics in Edu- cation and An Education in Informatics”
+	•	August 2010 – Earth and Space Science Informatics 2010 Workshop – ”Surprise Detection in Science Data Streams”
+	•	August 2010 – High-End Computing - Flexible Scalable I/O (HEC-FSIO) – “Data Analysis Challenge 1: Astroinformatics” (Keynote speaker)
+	•	August 2010 – LSST Project Annual Meeting – “The LSST Informatics and Statistical Sci- ences Collaboration”
+	•	July 2010 – Los Alamos National Lab (LANL) – “Astroinformatics: Data-Oriented Astronomy Research and Education”
+	•	June 2010 – AstroInformatics-2010 Conference (Caltech) – “Machine Learning from End-user Database Annotations”
+	•	June 2010 – AstroInformatics-2010 Conference (Caltech) – “Ubiquitous Science: U-Science, Citizen Science, and the Zooniverse Project”
+
+
+151.
+May 2010 – UC Berkeley, joint Astronomy-Statistics departments’ seminar – “The New LSST
+Informatics and Statistical Sciences Research Team”
+152.
+April 2010 – Salishan High-Performance Computing Conference – “Scalable Peer-to-Peer Data Mining for Data-Intensive Astroinformatics”
+153.
+March 2010 – NASA/GSFC Information Science & Technology Colloquium – “Ubiquitous Science: U-Science, Citizen Science, and the Zooniverse Project”
+154.
+March 2010 – NSF Data-Enabled Science Working Group (only 2 scientists from each dis- cipline were invited to participate) – “Challenges in Data-Enabled Science from Petascale Astronomical Sky Surveys”
+155.
+January 2010 – AAS Conference Special Session on Astroinformatics – “Astroinformatics: A 21st Century Approach to Astronomy Research and Education”
+156.
+December 2009 – AGU Conference Session on Semantic e-Science – “X-Informatics: Practical Semantic Science - An Astronomy Implementation”
+157.
+October 2009 – International Conference on Next Generation Data Mining – “The Zooniverse: Advancing Science through User-Guided Learning in Massive Data Streams”
+158.
+August 2009 – Earth and Space Science Informatics (ESSI) Workshop  – “Astroinformatics -  A 21st Century Data-Oriented Approach to Astronomy Research and Education”
+159.
+July 2009 – Rensselaer Polytechnic Institute Dept of Web Science – “U-Science”
+160.
+July 2009 – IJCAI-09 Workshop on Machine Learning and AI Applications in Astrophysics
+– “The VO and Large Surveys: What more do we need?”
+161.
+April 2009 – US Library of Congress – “e-Science and Data Science: Preparing for the Data Avalanche”
+162.
+March 2009 – University of Vermont Computer Science Dept – “Data Science Challenges from Petascale Astronomical Sky Surveys”
+163.
+November 2008 – University of Notre Dame joint Physics & Astronomy - Computer Science departments’ seminar – “Data Science Challenges from Petascale Astronomical Sky Surveys
+- Preparing for the Data Avalanche”
+164.
+October 2008 – International Virtual Observatory Workshop – “P2P Data Mining”
+165.
+September 2008 – National Virtual Observatory Summer School – “Basic Concepts in Data Mining”
+166.
+September 2008 – National Virtual Observatory Summer School – “Scientific Data Mining in Astronomy”
+167.
+June 2008 – DOE conference on Mathematics for Analysis of Petascale Data – “Data Science Challenges from Distributed Petascale Astronomical Sky Surveys” (Keynote speaker)
+168.
+November 2007 – Caltech Center for Advanced Computing Research (CACR) – “Astroinfor- matics and Petascale Mining of Large Astronomy Sky Survey Databases”
+
+
+	•	November 2007 – University of Maryland at Eastern Shore (UMES) – “Data-Intensive Science: A New Paradigm for Research”
+	•	October 2007 – NSF Symposium on Next Generation Data Mining and Cyber-Enabled Dis- covery and Innovation – “A Machine Learning Classification Broker for Petascale Mining of Large-scale Astronomy Sky Survey Databases”
+	•	April 2007 NASA Workshop on Science Archives for the 21st Century – “LSST: Preparing  for the Data Avalanche through Partitioning, Parallelization, and Provenance”
+	•	January 2007 – AAS Conference Special Session - Education With Large Astronomical Sur- veys – “LSST Survey Data: Models for EPO Interaction”
+	•	July 2006 – NASA-GSFC Solar System Exploration Data Services Office (SSEDSO) – “Sci- entific Data Mining: Digging for Nuggets”
+	•	June 2006 – NASA-Goddard Laboratory for Solar and Space Physics (LASP) – “Recent Advances in Data Mining and Applications for Heliophysics”
+	•	October 2005 – Johns Hopkins University – “Astronomy Data, NVO, and LSST: Using Data in the Classroom”
+	•	June 2005 – NASA-GSFC Grid Computing Workshop – “Grid-Enabled Science with the National Virtual Observatory (NVO)”
+	•	May 2005 – NASA-Goddard Space Science Data Operations Office – “Research in NASAs Applied Information Systems Program (AISRP)”
+	•	April 2005 – NASA AISRP PI Workshop (NASA-Ames Research Center) – “Distributed Data Mining Research in the NASA Intelligent Systems Program”
+	•	March 2005 – University of Maryland at Eastern Shore (UMES) Mathematics & Computer Science Dept seminar – “Data Mining Research Opportunities”
+	•	March 2005 – University of Maryland at Eastern Shore (UMES) seminar for undergraduate math and computer science majors – “Data Mining in Action”
+	•	March 2004 – University of Maryland at Eastern Shore (UMES) Grants & Proposals Presen- tation for faculty – “Research Opportunities and Lessons Learned from a Lifetime of Grant Writing”
+	•	March 2004 – University of Maryland at Eastern Shore (UMES) Math & Computer Sciences Dept. Seminar – “Next Generation Data Mining”
+	•	March 2004 – University of Maryland at Eastern Shore (UMES) Math & Computer Sciences Dept. Undergraduate Data Mining course guest lecture – “Data Mining in Action”
+	•	February 2004 – NASA Intelligent Systems Program Workshop – “Distributed Data Mining Techniques for Object Discovery in the National Virtual Observatory (NVO)”
+	•	January 2004 – AAS Special Session for Graduate Students – “Growing Up as a Proposer”
+	•	December 2003 – UMBC Computer Sciences Department – “Distributed Data Mining in the NVO: a NASA/ISP2002 Project”
+
+
+	•	November 2003 – ASME Conference, Homeland Security Technologies Track (International Mechanical Engineering Congress and Exhibition) – “Data Mining and Knowledge Discovery for Homeland Security”
+Invited Talks at GMU since 2003 (invited by GMU scientists)
+
+188.
+
+
+
+189.
+April 2010 – GMU joint CDS-Astronomy-Statistics departments’009 – GMU Computational
+Statistics Seminar – “The Zooniverse: Advancing Science through User-Guided Learning in Massive Data Streams”
+April 2009 – Guest lecture in GMU CDS 101 – “Scientific Data Mining: Digging for Nuggets”
+190.
+April 2009 – Guest lecture in GMU ASTR 113 – “The Past, Present, and Future of Galaxies”
+191.
+November 2007 – GMU CSI Colloquium – “Astroinformatics and Petascale Mining of Large Astronomy Sky Survey Databases”
+192.
+November 2006 – GMU CEOSR (Center for Earth Observing and Space Research) 10th Anniversary Workshop – “Computational Techniques for Astronomical Research”
+193.
+May 2005 – GMU CEOSR (Center for Earth Observing and Space Research) Seminar – “Research in NASAs Applied Information Systems Program (AISRP)”
+194.
+April 2005 – GMU EastFIRE Conference – “Automated Wildfire Detection and Prediction through Artificial Neural Networks”
+195.
+November 2004 – Guest Lecturer in GMU CSI 654 – “Data, Data Analysis, and Information Systems in Space Science”
+196.
+September 2004 – GMU Space Sciences Seminar – “The Past, Present, and Future of Colliding Galaxies”
+197.
+March 2004 – GMU Space Sciences Seminar – “Science with the National Virtual Observatory (NVO)”
+Invited Talks: prior to GMU employment (incomplete list)
+
+198.
+July 2003 – Oklahoma Alliance for Geography Education – 3 lectures – “Hubble Space Tele-
+scope:  The Origins of this Scientific Marvel”, “Astrophysics & Analysis of HST Images”
+
+(Parts 1 and 2)
+199.
+May 2003 – FDA Office of Drug Safety – “Scientific Data Mining on a Cosmic Scale”
+200.
+April 2003 – Univ. of MD Eastern Shore (UMES) Math & Computer Sciences Dept. – Computer Science Seminar – “Distributed Data Mining in Virtual Data Systems”
+201.
+April 2003 – Univ. of MD Eastern Shore (UMES) Math & Computer Sciences Dept. – Undergraduate Data Mining lecture – “Distributed Scientific Data Mining”
+202.
+March 2003 – NASA Goddard Intelligent Systems Program Seminar – “Distributed Data Mining in the National Virtual Observatory (NVO)”
+203.
+February 2003 – Conference on Data Mining Technology for Military and Government Ap- plications – “Distributed Data Mining in the National Virtual Observatory (NVO)”
+
+
+204.
+November 2002 – Homeland Security Transition Planning Office, Executive Office of the
+President – “Distributed Data Mining in Virtual Data Systems”
+205.
+September 2002 – NASA Science Data Processing Workshop – “Virtual Data Systems”
+206.
+September 2002 – NASA HQ, Office of Space Sciences – “Distributed Data Mining in the National Virtual Observatory (NVO)”
+207.
+January 2002 – IEEE/Computer Society, Baltimore-Washington Chapter – “Distributed Data Mining in the National Virtual Observatory”
+208.
+December 2001 – NASA-Goddard Friends of Information Science Seminar – “Virtual Data Systems and the NVO”
+209.
+October 2001 – NASA-Goddard Space Sciences Tech Forum – “Science with the National Virtual Observatory (NVO)”
+210.
+October 2001 – University of Louisiana at Lafayette, Computer Sciences Department – “The National Virtual Observatory (NVO)”
+211.
+October 2001 – LSU Department of Physics and Astronomy – “The National Virtual Obser- vatory (NVO)”
+212.
+July 2001 – NASA Goddard Extragalactic Astronomy Seminar – “New Astrophysics and Cosmology with the NVO”
+213.
+June 2001 – U.S. Library of Congress – “Data Mining in the National Virtual Observatory”
+214.
+May 2001 – NASA Goddard Extragalactic Astronomy Seminar – “Interactive Galaxies: Some Assembly Required”
+215.
+May 2001 – GMU School of Computational Sciences
+216.
+February 2001 – University of Alabama, Department of Astronomy – “The National Virtual Observatory (NVO)”
+217.
+October 2000 – NASA Science Data Processing Workshop
+218.
+1999 – NASA Goddard Extragalactic Astronomy Seminar
+219.
+1999 – NASA IT2 Committee – “The Digital Sky Initiative”
+220.
+October 1998 – University of Goettingen, GERMANY
+221.
+October 1995 – University of Goettingen, GERMANY
+222.
+September 1995 – Naples Conference on Interacting Galaxies, Sant’Agata, ITALY
+223.
+May 1994 – AAS Special Session Honoring Alar Toomre
+224.
+January 1994 – Invited Keynote Speaker – “HST Observations of Interacting Galaxies” – Annual Meeting of Spanish Astronomical Society, Barcelona, SPAIN
+225.
+June 1992 – Iowa State University
+226.
+1992 – University of Toronto, CANADA
+
+
+227.
+February 1991 – University of Wisconsin
+228.
+June 1990 – Aspen Workshop on Evolution of Galaxies
+229.
+January 1990 – University of Madrid, SPAIN
+230.
+June 1987 – Aspen Workshop on Dynamics of Galaxies
+231.
+March 1985 – Space Telescope Science Institute
+232.
+February 1985 – Dartmouth University
+233.
+February 1985 – Rutgers University
+234.
+January 1985 – University of Miami
+235.
+November 1984 – Catolica University, Santiago, CHILE
+Scientific, Technical, and Education Abstracts
+
+	•	Borne, K., & the LSST Informatics and Statistics Team, “LSST Astroinformatics And As- trostatistics: Data-oriented Astronomical Research” (AAS, 2011)
+	•	Ivezic, Z., & the LSST Science Working Group (including K.Borne), “LSST Observatory and Science Opportunities” (AAS, 2011)
+	•	Jacoby, S., Borne, K., & the LSST Outreach Advisory Board, “LSST Education and Public Outreach” (AAS, 2011)
+	•	Ptak, A., & the LSST Galaxies Collaboration (including K.Borne), “Galaxy Evolution with  the LSST” (AAS, 2011)
+	•	Borne, K., & Vedachalam, A., “Effective Outlier Detection (Surprise Detection) in Science Datasets using K-Nearest Neighbor Data Distributions (KNN-DD)” (NASA CIDU, 2010)
+	•	Borne, K., Vedachalam, A., Baehr, S., & Sponseller, D. “Mining the Galaxy Zoo Database: Machine Learning Applications” (NASA CIDU, 2010)
+	•	Borne, K., GMU Conference on Innovations in Teaching and Learning, session organizer and leader: “Transformative Science Education: The Digital Revolution in your Classroom” http://cte.gmu.edu/events/in10.html (October 2010)
+	•	Borne, K., “Citizen Science: Human Computation” (Salishan High-Performance Computing Conference, April 2010)
+	•	Borne, K., “Reaching Out with Eventful Astronomy” (The Eventful Universe Conference, Tucson, AZ, March 2010)
+	•	Borne, K., “Astroinformatics for Eventful Astronomy” (The Eventful Universe Conference, Tucson, AZ, March 2010)
+	•	Borne, K., Wallin, J., Vedachalam, A., Baehr, S., Holincheck, A., & the Zooniverse team, “Mining the Galaxy Zoo Database: Machine Learning Applications” (AAS, 2010)
+
+
+247.
+Holincheck,  A.,  Wallin,  J.,  Borne,  K.,  Lintott,  C.,  & Smith A.,  “Building a Catalog of Dy-
+namical Properties of Interacting Galaxies in SDSS with the Aid of Citizen Scientists” (AAS,
+
+2010)
+248.
+Loredo, T., Babu, G. J., Borne, K., Feigelson, E., Gray, A. G., “The Spectrum of LSST Data Analysis Challenges: Kiloscale to Petascale” (AAS, 2010)
+249.
+Jacoby, S., Axelrod, T., Borne, K., Fortson, L., Olsen, J., Raddick, M. J., Ratcliffe, D. M., & Wolff, S., “LSST Education and Public Outreach” (AAS, 2010)
+250.
+Lotz, J., Ferguson, H., Armus, L., Barrientos, L., Bartlett, J., Blanton, M., Borne, K., et al. , “Galaxy Evolution with LSST” (AAS, 2010)
+251.
+Borne, K., “The Zooniverse: Advancing Science through User-Guided Learning in Massive Data Streams” (AGU, 2009)
+252.
+Borne, K., “U-Science: Putting ’U’ (You) into the Science” (AGU, 2009)
+253.
+Borne, K., “U-Science” (Earth and Space Science Informatics Workshop, 2009)
+254.
+Kargupta, H., Borne, K., et al. , “Distributed and Peer-to-Peer Data Mining for Scalable Analysis of Data from Virtual Observatories”, (NASA CIDU, 2009)
+255.
+Borne, K., “Astroinformatics: A Data-Oriented e-Science Approach to Astronomy Research and Education” (ICCS, 2009)
+256.
+Borne, K., “The New Computational and Data Sciences (CDS) Undergraduate Program at George Mason University” (ICCS, 2009)
+257.
+Borne, K., Laher, R., Ivezic, Z., & Hamam, N., “Petascale Object Classification of the LSST Event Stream” (AAS, 2009)
+258.
+Ferguson, H. C., Armus, L., Borne, K., et al. , “The LSST Galaxies Science Collaboration: Nearby Groups and Clusters” (AAS, 2009)
+259.
+D’Abrusco, R., Barentsen, G., Laurino, O., Nayak, P., Borne, K., & Longo, G., “Probing the Quasar Distribution within the Virtual Observatory” (AAS, 2009)
+260.
+Borne, K., “Scalable Scientific Data Mining in Distributed, Peer-to-Peer Environments” (AGU, 2008)
+261.
+Olmedo, O., Zhang, J., Wechsler, H., Poland, A., & Borne, K., “Automated Detection of CMEs with SOHO and STEREO Coronagraph Observations” (AGU, 2008)
+262.
+Borne, K., “The new Computational and Data Sciences (CDS) Undergraduate Program at George Mason University” (AGU Education Session, 2008)
+263.
+Borne, K., “The LSST Data Mining Research Agenda” (Classification & Discovery in Large Astronomical Surveys, Germany, 2008)
+264.
+Borne, K., “Data Science Challenges from Distributed Petabyte Astronomical Data Collec- tions: Preparing for the Data Avalanche through Persistence, Parallelization, and Prove- nance” (IEEE Workshop on Computing with Massive and Persistent Data, 2008)
+
+
+265.
+Kargupta, H., Borne, K., & Giannella, C., “Distributed and Peer-to-Peer Data Mining for
+
+Scalable Analysis of Data from Virtual Observatories” (NASA AISR PI Workshop, 2008)
+266.
+Borne, K., “A Classification Broker for Petascale Sky Surveys” (Practical Semantic Astron- omy, 2008)
+267.
+Borne, K., “Astronomical Data Mining” (LSST All Hands Meeting, 2008)
+268.
+Borne, K., “LSST Galaxies Collaboration Report: Galaxy Assembly History from Morphology in Ultra-deep Co-added Images” (LSST All Hands Meeting, 2008)
+269.
+Borne, K., “XLDB Science Requirements: One Astronomer’s Materialized View” (XLDB Workshop, 2008)
+270.
+Borne, K., & Olsen, J., “Robotic Telescopes for Engaging Students in Real Research Experi- ences” (AAPT, 2008)
+271.
+Borne, K., “Astroinformatics: The New eScience Paradigm for Astronomy Research and Education” (AAPT, 2008)
+272.
+Borne, K., Strauss, M., & Tyson, J. A., “Data Mining Research with the LSST” (AAS, 2008)
+273.
+Ferguson, H. C., Borne, K., et al. , “The LSST Galaxies Science Collaboration” (AAS, 2008)
+274.
+Olsen, J., & Borne, K., “LSST Survey Data - Models for EPO Interaction” (AGU, 2007)
+275.
+Borne, K., “Astroinformatics: The New eScience Paradigm for Astronomy Research and Education” (Microsoft e-Science Conference, 2007)
+276.
+Christian, C., Raddick, M. J., & Borne, K., “Building a Data in Education Community Online” (ASP Annual Meeting, 2007)
+277.
+Borne, K., “The LSST Transient Database for Community Science and Education / Public Outreach” (Hotwiring the Transient Universe, 2007)
+278.
+Borne, K., “LSST Survey Data - Models for EPO Interactions” (AAS, 2007)
+279.
+Olmedo, O., Zhang, J., Wechsler, H., Poland, A., & Borne, K., “The Advancement of an Automatic Solar Eruptive Event Detection System (SEEDS) to a Near Real-time System” (AAS, 2007)
+280.
+Eastman, T., & Borne, K., “Key Architecture Elements of a Great Observatory for Space Physics” (AGU, 2006)
+281.
+Olmedo, O., Zhang, J., Wechsler, H., Poland, A., & Borne, K., “Automatic detection of Coronal Mass Ejections using Computer Vision” (AGU, 2006)
+282.
+Borne, K., “Some EPO Use Cases and Data Access Pathways & Portals” (LSST, 2006)
+283.
+Borne, K., “Data-Driven Discovery through e-Science Technologies” (JPL SMC-IT, 2006)
+284.
+Olmedo, O., Zhang, J., Wechsler, H., Borne, K., & Poland, A. “The Development of an Automatic Solar Eruptive Event Detection System (SEEDS)” (AAS-SPD, 2006)
+
+
+285.
+Borne, K., “Project AstroData: Using Data in the Classroom” (DLESE [Digital Library for
+Earth System Education] Data Services Workshop, 2006)
+286.
+Borne, K., & Eastman, T., “A Paradigm for Space Science Informatics” (AGU, 2006)
+287.
+Borne, K., “Automated Wildfire Detection through Artificial Neural Networks” (NASA Data Mining Workshop, 2006)
+288.
+Borne, K., “Discovery Informatics for Large-Database Astronomy” (INTERFACE, 2006)
+289.
+Lucas, R., Arribas, S., Conselice, C., Bushouse, H., Borne, K., & Colina, L., “A Sample of VLIRG Morphologies Revisited” (AAS, 2006)
+290.
+Jacoby, S., Borne, K., et al. , “LSST EPO: Bringing the Changing Universe to the Public” (AAS, 2006)
+291.
+Borne, K., “Using NVO and LSST Data in the Classroom” (AAS, 2006)
+292.
+Olmedo, O., Zhang, J., Wechsler, H., Borne, K., & Poland, A. “Solar Eruptive Event Detec- tion System (SEEDS)” (AAS, 2006)
+293.
+Appleton, P., Armus, L., Borne, K., et al. , “UV and Mid-IR Observations of Collisional Ring Galaxies” (AAS, 2006)
+294.
+Sawyer, D., Reich, L., & Borne, K., “Developing Architectural Alternatives and Best Practices in Cooperating Registry/Repositories for Application to Space Science” (AGU, 2005)
+295.
+Borne, K., “LSST Data Products” (LSST Data Management Workshop, 2005)
+296.
+Borne, K., “Using LSST and NVO Data in the Classroom: Digging for Nuggets (Data Min- ing)” (LSST-NVO Joint Education/Public Outreach Workshop, 2005)
+297.
+Borne, K., & Wallin, J., “Mining Large Databases for Evidence of Galaxy Mass Assembly” (AAS, 2005)
+298.
+Borne, K., “Data Mining in Distributed Databases for Interacting Galaxies” (ADASS, 2004)
+299.
+Borne, K., “Data Mining in Distributed Databases for Interacting Galaxies” (Star Formation in the Cosmos Conference, 2004)
+300.
+Borne, K., “Data Mining in Distributed Databases for Interacting Galaxies” (LSST Commu- nity Access Workshop, 2004)
+301.
+Borne, K., “Distributed Data Mining for the National Virtual Observatory” (NASA Intelligent Data Understanding Workshop, 2004)
+302.
+Borne, K., & Miller, J., “Wildfire Detection and Prediction” (NASA Intelligent Data Under- standing Workshop, 2004)
+303.
+Borne, K., Huang, Z., & Luna, J. C., “Data Mining Large Astronomical Databases for Inter- acting Galaxies” (AAS, 2004)
+304.
+Bushouse, H., Arribas, S., Lucas, R., Colina, L., & Borne, K., “Optical Imaging of Nearby Very Luminous IR Galaxies” (AAS, 2004)
+
+
+305.
+Lucas, R., Conselice, C., Arribas, S., Bushouse, H., Borne, K., & Colina, L., “Morphological
+
+CAS Parameters of Some Very Luminous Infrared Galaxies (VLIRGs)” (AAS, 2004)
+306.
+Miller, J., Borne, K., Thomas, B., Huang, Z., & Rilee, M., “Wildfire Detection and Predic- tion” (NASA Computing, Information, & Communications Technology Program, 2003)
+307.
+Dowler, P., Shaya, E., Thomas, B., Borne, K., & Huang, Z., “VOQL: Virtual Observatory Query Language” (ADASS XIII, 2004)
+308.
+Shaya, E., Borne, K., & Phelps, S., “Numerical Action Methods on Beowulf Clusters” (Science Data Centers Symposium, 2003)
+309.
+Borne, K., “Distributed Data Mining in the National Virtual Observatory” (Science Data Centers Symposium, 2003)
+310.
+Borne, K., “Distributed Data Mining in the National Virtual Observatory” (SPIE Data Min- ing Conference, 2003)
+311.
+Borne, K., “The National Virtual Observatory: Scope, Issues, Challenges, and Responses” (NASA Science Data Processing Workshop, 2002)
+312.
+McDowell, J., Clements, D., Lamb, S., Borne, K., et al. , “X-rays from Arp 220 and its Surroundings” (APS & AAS HEAD, 2002)
+313.
+Borne, K. D., “A National Virtual Observatory (NVO) Science Case: Properties of Very Luminous IR Galaxies (VLIRGs)” (AAS, 2002)
+314.
+Gass, J., Borne, K., Brown, B., & Patton, D., “Project AstroData: Value-Added Educational Tutorials for HST Data at NASA’s Astronomical Data Center (ADC)” (AAS, 2002)
+315.
+Borne, K., “Data Mining with the NVO (National Virtual Observatory” (Science Data Centers Symposium, 2001)
+316.
+Liu, C., Borne, K., Stubbs, C., & Tyson, J. A., “Cosmic Cinematography with the LSSTO” (AAS, 2001)
+317.
+McDowell, J., Clements, D., Lamb, S., Arribas, S., Borne, K., Mundell, C., Backer, A., & Colina, L., “Extended X-ray Emission in Arp 220” (AAS, 2001)
+318.
+Shaya, E., Borne, K., Thomas, B., & Cheung, C., “Publishing Scientific Articles in XML” (AAS, 2001)
+319.
+Borne, K., & Cheung, C., “Science Data Mining Resources for the National Virtual Observa- tory (NVO)” (AAS, 2001)
+320.
+Borne, K., “Tools for Future Observation Planning and Target  Selection” (NASA Science  Data Processing Workshop, 2000)
+321.
+Borne, K., “Using On-Line Databases to Estimate the Galaxy Interaction Rate: Looking Forward to a National Virtual Observatory” (Mining the Sky Conference, 2000)
+322.
+Clements, D., McDowell, J., Shaked, S., Baker, A., Borne, K., Colina, L., Lamb, S., & Mundell, C., “Chandra Observations of Arp220: The Nuclear Source” (AAS, 2000)
+
+
+	•	Borne, K., Patton, D., Simard, L., Carlberg, R., Marske, R., & Pritchet, C., “HST Survey of Dynamically Close Galaxy Pairs at Moderate Redshift” (AAS, 2000)
+	•	Bushouse, H., Borne, K., Colina, L., Lucas, R., Rowan-Robinson, M., Baker, A., Clements,  D., Lawrence, A., & Oliver, S., “Near-IR HST Imaging of Ultraluminous IR Galaxies” (AAS, 2000)
+	•	Shaked, S., McDowell, J., Clements, D., Borne, K., Lamb, S., Baker, A., Mundell, C., & Colina, L., “Chandra Observations of Arp 220” (AAS, 2000)
+	•	Borne, K., & Cheung, C., “The Galaxy Interaction and Merger Rates: A Science Scenario for a National Virtual Observatory (NVO)” (AAS DDA, 2000)
+	•	Borne, K., Lucas, R., Colina, L., & Bushouse, H. “The Ultra-Luminous IR Galaxy Interaction Rate” (AAS DDA, 2000)
+	•	Borne, K., Blackwell, J., Cheung, C., & Leisawitz, D., “In Search of the IR Background using Large Astronomical Databases” (AAS, 2000)
+	•	Holmes, B., Gass, J., Shaya, E., Blackwell, J., Thomas, B., Schneider, G.,  Odegard,  N., Borne, K., Cheung, C., & Sodroski, T., “An Application of XML: Location and Retrieval of Published Data at the ADC” (AAS, 1999)
+	•	Cheung, C., Borne, K., Shaya, E., & Blackwell, J., “Using On-Line Databases to Estimate the Galaxy Interaction Rate: Looking Forward to a National Virtual Observatory” (AAS, 1999)
+	•	Lucas, R., Borne, K., Varosi, F., Bushouse, H., & Colina, L., “HST Observations of the IR-Ultraluminous QSO IRAS 13349+2438” (AAS, 1999)
+	•	Borne, K., Bushouse, H., Colina, L., & Lucas, R., “Evidence for Multiple Mergers among Ultraluminous IR Galaxies” (AAS DDA, 1999)
+	•	Borne, K., White, R. A., Cheung, C., & Shaya, E., “An Archival Data Survey Around the Hubble Deep Field-South (HDF-S) Region” (AAS DDA, 1999)
+	•	Lucas, R., Bushouse, H., Colina, L., & Borne, K., “The Archival Study of Extragalactic Tidal Tails in NGST Observations” (AAS, 1999)
+	•	Bushouse, H., Borne, K., Colina, L., & Lucas, R., “HST Reveals the Core Properties of Ultraluminous IR Galaxies” (AAS, 1998)
+	•	White, R. A., Borne, K., Cheung, C., Kargatis, V., Leisawitz, D., & Shaya, E., “An Archival Study Around the HDF-South Region” (AAS, 1998)
+	•	Shaya, E., Blackwell, J., Gass, J., Kargatis, V., Schneider, G., Weiland, J., Borne, K., White,
+R. A., & Cheung, C., “Application of XML to Journal Table Archiving” (AAS, 1998)
+	•	Borne, K., Blackwell, J., Gass, J., Kargatis, V., Schneider, G., Shaya, E., Weiland, J., Cheung, C., & White, R. A., “New and Improved Catalog Services at the ADC” (AAS, 1998)
+	•	Kargatis, V., Shaya, E., Blackwell, J., Borne, K., White, R. A., & Cheung, C., “Web-Based Tools for Exploration of ADC Data Holdings and NASA Data Archives” (AAS, 1998)
+
+
+340.
+Shaya, E., Kargatis, V., Blackwell, J., Borne, K., White, R. A., & Cheung, C., “ADF/ADC
+Web  Tools  for  Browsing  and  Visualizing  Astronomical  Catalogs  and  NASA Astrophysics
+
+Mission Metadata” (AAS, 1998)
+341.
+Shaya, E., Kargatis, V., Borne, K., & White, R. A., “IMage PeRimeters of Sky Surveys (IMPReSS): A Web Tool for Visualizing the Locations on the Sky of NASA Missions’ Data” (AAS, 1997)
+342.
+Borne, K., Bushouse, H., Colina, L., & Lucas, R.A., “Morphological Concordance among HDF and Ultraluminous IR Galaxies,” (Hubble Deep Field Symposium, 1997)
+343.
+Borne, K., Bushouse, H., Colina, L., & Lucas, R., “New Results from HST WFPC2 Images    of Ultraluminous IR Galaxies” (AAS, 1997)
+344.
+Lucas, R., Borne, K., Bushouse, H., & Colina, L., “A Hubble Space Telescope Survey of Ultraluminous IR Galaxies” (AAS, 1997)
+345.
+Appleton, P., Struck, C., Bransford, M., Borne, K., & Lucas, R., “High Resolution HST  Images and VLA HI Observations of the Peculiar ‘Empty’ Ring Galaxy IIZw28 and its Newly Discovered Companions” (AAS, 1996)
+346.
+Borne, K., Lucas, R., Appleton, P., Struck, C., Schultz, A., & Spight, L., “HST Explores the Explosively Starbursting Cartwheel Ring Galaxy“ (AAS, 1995)
+347.
+Schultz, A., Kochte, M., Spight, L., Borne, K., Disanti, M., Rodrigue, M., & Colegrove, T., “IUE Spectra of Selected Ring Galaxies” (AAS, 1995)
+348.
+Borne, K., “HST Archive Status Report,” in the proceedings for Calibrating Hubble Space Telescope - Post Servicing Mission, 386-397 (1995).
+349.
+Borne, K., Lucas, R., Appleton, P., Struck, C., Schultz, A., & Spight, L., “HST Imaging Observations of the Cartwheel Ring Galaxy” (AAS, 1994)
+350.
+Borne, K., “Collisions and Mergers Among Galaxies” (AAS, 1994)
+351.
+Borne, K., Balcells, M., Hoessel, J., & McMaster, M., “Long-Slit Kinematic Data for a Sample of Interacting Ellipticals: Searching for ‘U’ ” (AAS, 1993)
+352.
+Whitmore, B., Schweizer, F., Leitherer, C., Borne, K., & Robert, C., “HST Observations of NGC 7252” (AAS, 1993)
+353.
+Urry, M., Borne, K., & Walborn, N., “HST Cycle 2 Proposal Review” (AAS, 1991)
+354.
+Borne, K., & Scott, J., “The Density of Galaxies around the IRAS Ultraluminous Galaxies,”   in the proceedings of “Massive Stars in Starbursts” (Cambridge University Press), p. 5 (1990).
+355.
+McGlynn, T., & Borne, K., “Angular Momentum in Tidal Interactions” (AAS, 1989)
+356.
+Borne, K., & Colina, L., “Radio Source Generation: A Study of the Strongly-Interacting Pair NGC 4782/4783” (AAS, 1989)
+357.
+Borne, K., Balcells, M., & Hoessel, J., “Investigations of the Interacting Galaxy Pair NGC 2672/73” (AAS, 1987)
+
+
+358.
+Borne, K., & Balcells, M., “A Gravitational Potential for Large N-Body Calculations” (AAS,
+1986)
+359.
+Malumuth, E., Kriss, G., & Borne, K., “Velocity Dispersion Profiles of the cD Galaxies A2052 and A2589” (AAS, 1985)
+360.
+Borne, K., & Hoessel, J., “Observational Signatures of Tidal Friction in Interacting Binary Galaxies” (AAS, 1985)
+361.
+Torbett, M., Smoluchowski, R., & Borne, K., “Dynamical Influence of Molecular Cloud En- counters on the Oort Cloud of Comets” (AAS, 1984)
+362.
+Borne, K., & Hoessel, J., “NGC 4782+4783: Supermassive Binary or Unbound Colliders?” (AAS, 1984)
+363.
+Borne, K., Hoessel, J., & Schneider, D., “Dynamics of Multiple-nucleus Brightest Cluster Galaxies” (AAS, 1984)
+364.
+Borne, K., & Richstone, D., “NGC 7252: A Merger Scenario” (AAS, 1982)
+365.
+Borne, K., & Hoessel, J., “Interacting Elliptical Galaxies: Matching Models to Observations” (AAS, 1982)
+366.
+Borne, K., “Merger Times in a Multiple 3-Body Simulation of Binary Galaxies” (AAS, 1979)
+367.
+Borne, K., “Spectrophotometric Observations of the Nova-like Variable RW Trianguli” (AAS, 1977)
+Public Outreach Talks (selected list; since 2000)
+
+368.
+“The Large Synoptic Survey Telescope: Mapping the Dynamic Universe” (Northern Virginia
+
+Astronomy Club, April 2011)
+369.
+“Stars and Galaxies” (elementary school, January 2010)
+370.
+“APOD: Astronomy Picture of the Day - the good, the very good, and the really cool” (public lecture, July 2009)
+371.
+“Data Mining for Extra-Solar Planets: How to get in touch with E.T.” (public lecture, July 2009)
+372.
+“The Large Synoptic Survey Telescope: How You Can Get Involved” (Greenbelt Astronomical Society, January 2009)
+373.
+“The New U-Science: Putting You in the Science” (public lecture, July 2008)
+374.
+“A Wild Ride with Astronomy” (elementary school, January 2008)
+375.
+“Science@Home: The Search for E.T., Killer Asteroids, and the Cure for Cancer” (public lecture, July 2007)
+376.
+“The Future of Large Astronomy Telescope Projects” (public lecture, July 2006)
+377.
+“Dynamic Astronomy: Everything Keeps Moving” (elementary school, November 2006)
+
+
+378.
+“Remarkable Astronomy” (elementary school, November 2006)
+379.
+“A Brief History of Astronomy Leading up to the Hubble Space Telescope” (public lecture, July 2005)
+380.
+“Digging for Nuggets in the National Virtual Observatory (NVO)” (Astronomical Society of Harrisburg, March 2005)
+381.
+“The Past, Present, and Future of Colliding Galaxies” (public lecture, July 2004)
+382.
+“The Past, Present, and Future of Colliding Galaxies”alaxies that go Bump in the Night” (Astronomical Society of Harrisburg, January 2004)
+383.
+“The Solar System and Beyond” (elementary school, October 2003)
+384.
+“Scientific Data Mining on a Cosmic Scale: Data Mining for Fun and Profit” (public lecture, July 2003)
+385.
+“Science, Technology, Engineering, and Math: Your  Place Among the Stars” (Woodlawn  High School Science Magnet Program, Annual Dinner Keynote Speaker, June 2003)
+386.
+“Astronomy is for Stars” (Take Your Children to Work Day, April 2003)
+387.
+Several talks each year at numerous high schools in Maryland as a member of the Speakers Bureau for the Maryland Business Roundtable for Education, mbrt.org (2003-2007)
+388.
+Science-track talk on NVO at Science Fiction Convention (July 2002)
+389.
+Science-track talk on NVO at Science Fiction Convention (July 2001)
+390.
+“Scientific Data Mining with the National Virtual Observatory” (National Capital Astronomers, May 2001)
+391.
+Science-track talk on NVO at Science Fiction Convention (December 2000)
+Public Information, including Press Releases as lead author of scientific discoveries
+
+	•	Tidal Friction in Galaxies (1983 – series of radio interviews, produced by the Carnegie Insti- tution of Washington)
+	•	NGC 4782+4783: Supermassive Galaxies or Unbound Colliders? (January 1985 – AAS Con- ference Press Release)
+	•	Observational Signatures of Tidal Friction in Interacting Binary Galaxies (June 1985 – AAS Conference Press Release)
+	•	Hubble Looks at the Heart of a Galaxy Collission (May 25, 1993 – NASA Press Release, with Brad Whitmore)
+http://www.nasa.gov/home/hqnews/1993/93-097.txt
+	•	The Cartwheel Ring Galaxy: Hubble Views a Starry Ring World Born in a Head-On Collision (January 10, 1995 – NASA Press Release) http://hubblesite.org/newscenter/archive/releases/1995/1995/02/results/100/ http://apod.nasa.gov/apod/ap950702.html
+
+
+http://apod.nasa.gov/apod/ap970223.html http://apod.nasa.gov/apod/ap970224.html http://apod.nasa.gov/apod/ap981219.html
+Plus many hundreds of other websites; in addition to coverage in dozens of news articles, magazines, popular science books, textbooks, and foreign-language books.
+	•	Ultraluminous Infrared Galaxies: Multiple Galaxy Collisions Surprise Hubble Astronomers (November 22, 1999 – NASA Press Release) http://hubblesite.org/newscenter/archive/releases/1999/1999/45/results/100/
+Plus coverage in many other articles and news outlets, including an exclusive interview with Japan’s NHK-TV, aired in Japan.
+	•	GMU launches Galaxy Merger Zoo (November 2009) – ∼100 news stories covered the event: http://aurora.gmu.edu/∼jwallin/zoo coverage.html
+	•	Astronomers put together their wish lists (August 16, 2010 – K.Borne quoted in USA Today news article)
+http://www.usatoday.com/tech/science/columnist/vergano/2010-08-15-astronomy-survey N.htm
+
+	•	George Mason University partners with top-ranked telescope project to create movie of the entire sky (August 16, 2010 – GMU Press Release)
+http://news.gmu.edu/articles/3978
+http://www.physorg.com/wire-news/43416511/george-mason-university-partners-with-top-ranked-telescope-proje.html http://www.hpcwire.com/offthewire/Large-Synoptic-Survey-Telescope-Gets-Top-Ranking-105058034.html
+	•	GMU and Discover Magazine present “Citizen Science: Tapping the Wisdom of Crowds” – K.Borne was one of four nationally selected panelists, and the only scientist on the panel (October 14, 2010)
+http://www.sciencecheerleader.com/2010/10/tapping-the-wisdom-of-crowds-1014-george-mason-univ/
+
+Other Contributions & Entrepreneurial Activities
+
+	•	1987-1992: Chief software & database architect for the Hubble Space Telescope peer review proposal selection and TAC (Telescope Allocation Committee) support system
+	•	1990-1993: Organizer and host for the Hubble Space Telescope Science Institute Galaxies Journal Club
+	•	2004-2005: Organizer and host for the GMU Space Sciences Seminar
+	•	Contributor to “Assessment of the Usefulness and Availability of NASA’s Earth and Space Science Mission Data,” a report from the Space Studies Board (National Academies Press, 2002), http://books.nap.edu/openbook.php?record id=10363&page=R8
+	•	Contributed to U.S. GAO (Government Accounting Office) review of the use of Data Mining Systems in the Federal Government (2003)
+	•	Senior Scientist consultant to the NASA Intelligent Archives of the Future project, contribut- ing to “Intelligent Archive Visionary Use Case: Virtual Observatories” (2003): http://daac.gsfc.nasa.gov/IDA/presentations.shtml
+
+
+	•	Senior Scientist consultant to the NASA Living With a Star (LWS) Metadata Library Project, as an external reviewer and design consultant for the overall LWS data environment, including database design, architecture, and schema (2004):
+http://lwsde.gsfc.nasa.gov/DEWG WS Poster v05.pdf
+	•	Contributed to the NASA Sun-Earth Connection Data Centers Working Group charter and activities (2004)
+	•	Vice President, ARIES Scientific Inc. (non-profit): http://www.aries-scientific.org/
+	•	Science Systems Consultant: http://www.consultssc.com/pages/742223/
+	•	Executive Advisory Board, Bridge Dataworks LLC: http://bridgedata.biz/about.htm
+	•	Blog: http://dataineducation.blogspot.com/
+	•	Other consulting activities:
+	•	SP Systems Inc.: scientific data management, project management, space & earth science
+	•	SGT Inc.: databases, space debris tracking, space & earth science
+	•	QSS Group Inc.: data mining, scientific data management, project management, meta- data libraries, database design, space & earth science
+	•	ERT (Earth Resources Technology) Inc.: scientific data management, project manage- ment
+	•	Raytheon Information Technology Services Corp.: scientific data management, project management
+	•	Numerous federal agencies (NOAA NESDIS, NASA, NSA, FDA Office of Drug Safety, National Agricultural Library, U.S. Library of Congress, Executive Office of the Pres- ident, Homeland Security Transition Planning Office): distributed data systems, data mining, data management
+
+
+
+Sample Citation Counts (for Papers in Astronomy Journals Only; tabulated 9/1/2010)
+(excluding all self-citations; and does  not count non-astronomy  refereed  papers)
+
+Citation Counts for Selected First-author (K.Borne) Refereed Papers
+51	Borne, K. D., ApJ, 287, 503 (1984).
+15	Borne, K. D., ApJ, 330, 38 (1988).
+26	Borne, K. D., & Hoessel, J. G., ApJ, 330, 51 (1988).
+19	Borne, K. D., ApJ, 330, 61 (1988).
+30	Borne, K. D., Balcells, M., Hoessel, J. G., ApJ, 333, 567 (1988). 28	Borne, K. D., & Richstone, D. O., ApJ, 369, 111 (1991).
+11	Borne, K. D., & Colina, L., ApJ, 416, 157 (1993).
+9	Borne, K. D., Balcells, M., Hoessel, J. G., & McMaster, M., ApJ, 435, 79 (1994). 27	Borne, K. D., et al. Ap&SS, 266, 137 (1999).
+9	Borne, K. D., Colina, L., Bushouse, H., & Lucas, R.A., ApJ, 527, 554 (1999).
+73	Borne, K. D., Bushouse, H., Lucas, R.A., & Colina, L., ApJL, 529, L77 (2000).
+294	TOTAL
+
+
+
+Citation Counts for Selected Contributing-author Refereed Papers
+21	Hoessel, J. G., Borne, K. D., & Schneider, D. P., ApJ, 293, 94 (1985).
+15	Balcells, M., Borne, K. D., & Hoessel, J. G., ApJ, 336, 655 (1989). 10	McGlynn, T. A., & Borne, K. D., ApJ, 372, 31 (1991).
+258	Whitmore, B. C., et al. AJ, 106, 1354 (1993).
+31	Struck, C., Appleton, P.N., Borne, K.D., & Lucas, R.A., AJ, 112, 1868 (1996).
+26	Colina, L., Arribas, S., & Borne, K. D., ApJL, 527, L13 (1999).
+11	Colina, L., Arribas, S., Borne, K. D., & Monreal, A., ApJL, 533, L9 (2000). 13	Arribas, S., Colina, L., & Borne, K. D., ApJ, 545, 228 (2000).
+56	Farrah, D., et al. MNRAS, 326, 1333 (2001).
+36	Colina, L., Borne, K., et al. ApJ, 563, 546 (2001).
+55	Bushouse, H., Borne, K., et al. ApJS, 138, 1 (2002). 37	Clements, D., et al. ApJ, 581, 974 (2002).
+36	McDowell, J.C., et al. ApJ, 591, 154 (2003).
+15	Keel, W.C, & Borne, K.D., AJ, 126, 1257 (2003).
+22	Arribas, S., et  al.  AJ, 127, 2522 (2004).
+17	Patton, D., et  al.  AJ, 130, 2043 (2005).
+9	Olmeda, O., et al. Solar Physics, 248, 485 (2008).
+34	Strauss, M., et al. The LSST Science Book, http://arxiv.org/abs/0912.0201 (2010). 702	TOTAL
+
+
+
+1081 = Grand Total Citation Count for all Refereed Astronomy Papers
+(does not count citations to refereed computer science papers and to non-refereed papers)
+
+
+Professional Service (excludes proposal reviews, except for Panel Chair duties)
+2010–present	Member, IAU Astrostatistics Working Group
+2010–present	Member, ISI (International Statistical Institute) Executive Board for Astrostatistics 2010–present	GMU Member Representative to the LSST (Large Synoptic Survey Telescope) Board
+of Directors
+2010–present	LSST Outreach Advisory Board 2010–present	Gaia Science Alerts Working Group
+2009–present	Chairman/Coordinator, Large Synoptic Survey Telescope (LSST) Informatics & Statisics Science Collaboration Team (50+ members)
+2009–present	Educational Advisory Panel, Deep Space Adventure Gallery, Adler Planetarium 2009–present	International Virtual Observatory Alliance, Data Mining Interest Group 2007–present	NASA Science Associates Group (NSAG)
+2005–present	Lead Contributing Scientist, Science Education/Public Outreach Team, LSST Project 2001–present	Vice Chair, IAU Working Group on Publishing
+2000–present	Member, IAU Working Group on Designations
+2010	Member, NSF Data-Enabled Science Working Group (only 2 scientists from each NSF/MPS discipline were selected for this committee)
+2010	LSST Search Committee for Data Management Project Scientist
+2009	Lead author, 2 position papers submitted to the National Academies Decadal Survey    of Astronomy & Astrophysics
+2009	Co-author, 5 position papers submitted to the National Academies Decadal Survey of Astronomy & Astrophysics
+2006–2007	AAS Committee on Communications (selected by AAS President and Council) 2005–2006	Data Products Working Group, LSST Data Management Team
+2005–2006	Chair (elected by AAS Council), AAS Employment Committee 2003–2006	Member (selected by AAS Council), AAS Employment Committee
+2002–2006	Speaker, Maryland Business Roundtable for Education, Achievement Counts Program Speakers Bureau
+2004	Panel Chair, Peer Review, NASA/GALEX Guest Investigator Program 2003	Panel Chair, Peer Review, NASA/IDEAS Education Grant  Program 2003	Exhibits Co-Chair, KDD-2003 Conference, Washington, DC
+2003	Panel Member, “The Increasing Role of Data Mining”, Federal Data Mining Technolo- gies Conference, Washington, DC
+2002	Panel Chair, “XML for Science Data Systems”, NASA Science Data Processing Work- shop, Greenbelt, MD (SDPW-2002)
+2002	Panel Member, “Data Challenges of the Future”, NASA SDPW-2002 2001–2008	Senior Personnel, National Virtual Observatory Project
+2001–2003	Raytheon Science Council (co-Chair in 2002–2003)
+2000–2002	Member, NASA Astrophysics Data Centers Executive Council (ADEC) 1999–2002	Member, Publications Committee of the ASP
+1999	Contributing Author, NASA Far-IR and Submm Astronomy Working Group report “Charting the Winds that Change the Universe”
+1999	Panel Chairman, Extragalactic Panel, NASA Workshop on Submillimeter Space As- tronomy in the Next Millennium, Greenbelt, MD
+1998–2000	Committee Member (elected), AAS Division on Dynamical Astronomy 1995	Member, NASA HEASARC User Group
+1995	Deputy Editor, Publications of the ASP
+
+
+Reviewer for Journals:
+Nature
+The Astrophysical Journal (ApJ)
+The Astrophysical Journal Supplement Series (ApJS) The Astronomical Journal (AJ)
+Publications of the Astronomical Society of the Pacific (PASP) Monthly Notices of the Royal Astronomical Society (MNRAS) Astronomy & Astrophysics (A&A)
+New Astronomy
+Computing in Science and Engineering (CiSE)
+Special issue, IEEE ICDM issue on Climate Data Mining Journal of Earth Science Informatics
+Applied Optics
+
+Reviewer for Agency Programs:
+NASA Applied Information Systems Research Program (AISR) NASA Astrophysics Theory Program (ATP)
+NASA Astrophysics Data Analysis Program (ADP / ADAP) NASA MIDEX Explorer Mission Program
+NASA IDEAS Education Grant Program NASA GALEX Guest Investigator Program
+NASA Faculty Awards for Research Program (FAR)
+NASA Hubble Space Telescope Guest Observer Program (HST) NASA Hubble Space Telescope Archival Research Program (HST) NASA ROSAT Guest Investigator Program
+NSF Astronomy Program
+NSF/CISE Information and Data Management Program (IDM) NSF/OCI DataNet Program
+NSF/OCI Cyber-enabled Discovery Initiative (CDI) NSF Advances in Biological Informatics (ABI)
+NSF Scientific and Software Data Set Visualization Program DOE Exascale Co-Design Program
+AAS Small Grants Program
+AAS Research Experiences for Undergraduates Program (REU) NSERC (of Canada)
+Swedish Research Council
+French Agence Nationale de la Recherche (ANR)
+
+Editorships:
+Member of Editorial Board, ISRN Astronomy & Astrophysics journal Special Issue Editor, Journal of Earth Science Informatics,  2009 Special Issue Editor, Journal of Applied Optics, 2011
+... http://www.opticsinfobase.org/ao/journal/ao/feature announce/PDMfeature.cfm
+
+Other Reviews:
+Book reviewer for Cambridge University Press (2 book proposals reviewed) Book reviewer for Taylor & Francis (CRC Press) (2 book proposals reviewed)
+
+
+Conferences & Workshops Organized 
+
+2012
+Scientific Organizing Committee, IAU General Assembly Special Session on
+
+Data-Intensive Astronomy, Beijing, CHINA
+2011
+Science Program Committee, NASA Conference on Intelligent Data Under-
+
+standing (CIDU-2011)
+2011
+Science Program Committee, Statistical Challenges in Modern Astronomy
+
+(SCMA V), Penn State U.
+2010
+Science Program Committee and Reviewer, IEEE ICDM Workshop on
+
+Knowledge Discovery from Climate Data
+2010
+Science Program Committee and Reviewer, ACM SIGSPATIAL Interna-
+
+tional Workshop on Data Mining for Geoinformatics
+2010
+GMU Conference on Innovations in Teaching & Learning, session proposer
+
+and organizer, Transformative Science Education: The Digital Revolution
+
+in your Classroom
+2010
+Science Program Committee and Reviewer, NASA Conference on Intelligent
+
+Data Understanding (CIDU-2010)
+2010
+Science Program Committee and Reviewer, Earth and Space Science Infor-
+
+matics Workshop (GMU)
+2010
+Science Program Committee, AstroInformatics-2010, Caltech, Pasadena
+2010
+Organizing Committee Chairperson, Practical Astroinformatics Special Ses-
+
+sion (AAS Conference)
+2009
+Program Committee and Reviewer, IEEE ICDM Workshop on Knowledge
+
+Discovery from Climate Data
+2009
+Program Committee and Reviewer, Earth and Space Science Informatics
+
+Workshop (UMBC)
+2009
+Science Organizing Committee, Practical Semantic Astronomy (Glasgow,
+
+SCOTLAND)
+2007
+Co-Lead workshop organizer, Education with Large Astronomical Surveys
+2007
+Lead organizer, AAS Employment Special Session for Job Applicants: Top
+
+10 Questions You Should Ask
+2006
+Co-organizer, Project AstroData Session, DLESE Workshop, Tucson, AZ
+2006
+Co-organizer, AAS Special Session on Using Data in the Classroom
+2003
+Exhibits co-Chair, KDD-2003, at Washington, DC
+2003
+Co-Lead organizer, Raytheon Science Data Centers Symposium, at UMD
+2001
+Lead organizer, Raytheon Science Jamboree, at Landover, MD
+2000
+Co-Lead organizer, Raytheon Science Data Centers Symposium, at JPL,
+
+Pasadena, CA
+1998
+Local Organizing Committee member, Raytheon Science Data Centers Sym-
+
+posium, at NOAA, Silver Spring, MD
+1997
+Local Organizing Committee member, The Ultraviolet Universe at Low and
+
+High Redshift conference, at UMD
+1994
+Co-organizer, AAS Conference Special Session on Galaxy Dynamics: Theory
+
+and Observation
+1992
+Co-Lead organizer, Groups of Galaxies conference, at STScI
+1990
+Co-Lead organizer, The Galaxy Merger Rate conference, at STScI
+1987
+Lead organizer, Special Session on Colliding & Merging Galaxies, Aspen
+
+Summer Institute
+
+
+Conference Panels
+2010
+Panel Member, Educator Perspectives Panel, Research Data Workforce Sum-
+
+mit, International Digital Curation Conference, Chicago, IL
+2010
+Panel Member, “Do it yourself: examining the wave of non-expert partici-
+
+pation in science”, GMU and Discovery Magazine presentation at 2010 USA
+
+Science & Engineering Festival
+2010
+Panel Member, Science Perspectives on eXtremely Large Databases (Inter-
+
+national XLDB-4 Conference)
+2010
+Panel Member, “Scientific and Technical Data”, Wolfram Data Summit
+
+(www.wolframdatasummit.org)
+2010
+Panel Member, “Crowdsourcing and Citizen Science”, AstroInformatics-
+
+2010, Caltech
+2010
+Panel Member, “Developing the Next Generation of Astroinformatics-
+
+empowered Scientists”, AstroInformatics-2010, Caltech
+2010
+Panel Member, “Semantic Data Mining”, AstroInformatics-2010, Caltech
+2010
+Panel Member, “Science Applications”, Salishan High-Performance Com-
+
+puting Conference
+2010
+Panel Organizer, AAS Panel Discussion on Practical Astroinformatics
+2007
+Panel Organizer and Member, AAS Employment Committee
+2004
+Panel Organizer and Member, AAS Grants Panel
+2003
+Panel Member, “The Increasing Role of Data Mining”, Federal Data Mining
+
+Technologies Conference, Washington, DC
+2002
+Panel Chair, “XML for Science Data Systems”, NASA Science Data Pro-
+
+cessing Workshop, Greenbelt, MD
+2002
+Panel Member, “Data Challenges of the Future”, NASA Science Data Pro-
+
+cessing Workshop, Greenbelt, MD
+1999
+Chair, Extragalactic Panel, NASA Workshop on Submillimeter Space As-
+
+tronomy in the Next Millennium, Greenbelt, MD
+
+
+GMU Service
+(COS = College of Science; CDS = Dept of Computational & Data Sciences; SCS = School of Computational Sciences)
+Active assignments:
+
+	•	CDS Undergraduate Coordinator (2010-present)
+	•	CDS Committee for Academic Program Review: Assessment and Accreditation (2010-present)
+(Chair)
+	•	GMU SOSTC (Scholars of Studying Teaching Collaborative) (2010-present)
+	•	GMU PHI KAPPA PHI Scholarship Committee (2010-present) (Chair)
+	•	GMU Sigma Xi Chapter coordinator (2010-present)
+	•	GMU PHI KAPPA PHI Chartering Faculty Group (2009-present)
+	•	COS Distance Education Working Group (2009-present)
+	•	CDS Distance Education Committee (2009-present) (Chair)
+	•	CDS Curriculum Committee (2008-present) (Chair, beginning 2009)
+	•	CDS representative, numerous undergraduate and graduate student open house events (2008- present)
+Completed assignments:
+
+	•	GMU Conference on Innovations in Teaching and Learning, session organizer and leader “Transformative Science Education: The Digital Revolution in your Classroom” (2010)
+	•	Reviewer, COS Distance Education grants program (2010)
+	•	CDS Graduate Coordinator (2009-2010)
+	•	COS - USA Science Festival planning committee (2009-2010)
+	•	COS Curricular Innovation Group (2009-2010)
+	•	COS Committee on Professional Science Masters Degree Programs (2009)
+	•	GMU Commencement Marshal and COS Convocation Marshal (2009)
+	•	CDS Accreditation Committee (2008)
+	•	Reviewer, GMU Provost Office Faculty Study Leave Proposals (2008)
+	•	GMU SCS Telescope/Observatory Committee (2003-2004)
+	•	Prepared and submitted course proposals: CDS 151, CDS 302, CDS 401
+	•	Prepared and submitted Gen Ed course proposals: CDS 130 (with J.Wallin), CDS 151
+
+
+Teaching Experience – Courses Taught
+GMU CSI 710 (graduate)  Scientific  Databases:  2003*,04*,05,06*,07*,08,09,10 [* co-taught course]
+GMU CDS 101 (undergraduate) Intro to Computational & Data Sciences: 2010 GMU CDS 302 (undergraduate) Scientific Data & Databases: 2008
+GMU CDS 401 (undergraduate) Scientific Data Mining: 2008,09 GMU CDS 490 (undergraduate) Directed Research: 2009
+GMU Astro 114 (undergraduate) Introduction to Modern Astronomy  II  Lab:  2009 GMU CSI 991 (graduate) Space Sciences Seminar: 2004,05 (Spring&Fall) (3 semesters)
+UMUC CSMN 667 (graduate) Data Mining: 2003–2005 (Spring&Fall), 2006 (Fall) (7 semesters)
+
+Course Syllabi Created
+UMUC CSMN 667 (graduate): Data Mining GMU CSI 710 (graduate): Scientific Databases
+GMU Astro 401 (undergrad): Computer Simulation in Astronomy GMU CDS 130 (undergrad): Computing for Scientists (with J.Wallin) GMU CDS 151 (undergrad): Data Ethics in an Information Society GMU CDS 302 (undergrad): Scientific Data and Databases
+GMU CDS 401 (undergrad): Scientific Data Mining
+
+Student evaluations - “How well was this course taught?”
+
+Fall 2005
+CSI 710
+4.06 (out of 5)
+(18 evaluations)
+Spring 2008
+CDS 302
+3.67
+(3)
+Fall 2008
+CDS 401
+4.33
+(3)
+Fall 2008
+CSI 710
+4.46
+(13)
+Spring 2009
+Astro 114
+4.11
+(18)
+
+Comments from students on course evaluation forms and from peer evaluation
+
+“You were one of the best professors I have had in the program.”
+
+“I feel elevated to be in your Data mining class. I haven’t seen or come across a Professor in my academic career who taught like you. I appreciate your efforts in that regard.”
+
+“I really enjoyed your class. Thank you so much!”
+
+“Thank you very much. Dr. Borne. I enjoyed the class and I am going to try looking for a job in data mining.”
+
+“Thank you very much for everything. It is really nice to have you as professor for this semester. I have learned so many new and interesting things which can be applied at my work place in future. Hope our paths will cross sometime in future and I definitely look forward for that. Thank you once again for being such a wonderful professor.”
+
+“You really worked hard in our class (probably at least three times as hard as most professors), and it was definitely the best class I’ve ever taken.”
+
+“I’ve taken a lot of courses now at UMUC, 11 total, and your data mining course was the best laid out and executed by far. I enjoyed it very much and if I had to pick an area to consider specializing in, data mining looks really interesting. I’d attribute that to your course and your student interaction. Thanks again for making such a great course for us.”
+
+
+“You have been a model professor. It has been a pleasure to be your student.”
+
+“I truly enjoyed the class and can say that I learned the most compared to any other MS class so far.  I am     not sure when I will get chance to practice data mining, but definitely this class gave prospective and good idea to where to start from, what to expect and what options are available.”
+
+“Dr. Borne is an excellent professor. He is well-organized, prepared, and provides his students with chal- lenging assignments that encourage critical thinking.  He is able to convey complex ideas with clarity by  using diagrams and examples.”
+
+“Just to let you know – the response to your lecture on Tuesday was overwhelmingly positive. Students who are not always that interested said it was one of the best things they’ve ever heard.  One who had to leave  early apologized, he wanted to stay and shake your hand. These students saw something relevant in science  and they ate it up.”
+
+“It has been extremely fun and interesting to listen to your lectures. I am so happy that I am in your class. Also I am so happy that I am in this department and believe I will learn so much and equip myself in many ways.”
+
+
+Graduate Students Advised
+1. Active GMU Students:
+
+PhD advisor for:
+Pragyansmita Nayak Thomas Boggs Robert Duffin Cristina Grieg Gaphrick Jacobs John Rigsby
+
+Graduate research project advisor for: Steven Baehr
+Arvinder Sandhu Daniel Sponseller Arun Vedachalam
+
+Dissertation Committee member for: Georgios Britzolakis Mazhalai Chellathurai Lonnie Cumberland Upendra Dadi
+Debabrata Ghoshal (Chair) Clifford Hall
+Allen Harvey
+Anthony Holincheck (Chair) Sukbum Hong
+Erika Jones Bockhwa Kim Oscar Olmedo
+John Powell (Chair) Robert Reznik (Chair) Xun Wang
+
+
+2. Past Students:
+
+GMU:	Sandy Antunes (PhD thesis committee)
+Mir Mohammed Assadullah (PhD thesis committee) Meixia Deng (PhD thesis committee)
+Rafal Ladysz (Graduate Research advisor) Juan Luna (Graduate Research advisor) Gary Page (PhD thesis committee)
+Jack Scheible (Graduate Research advisor) Jiang Tang (PhD thesis committee)
+Emmanuel Tchanque (Graduate Research advisor) Chunguang Yu (PhD thesis committee)
+
+UMBC:	Haimonti Dutta (PhD thesis committee)
+UMBC:	Tushar Mahule (MS thesis committee)
+UMUC:	Brett Baker (PhD graduate advisor) Bowie State U.:	Eric Wright (summer internship advisor) Bowie State U.:	Buni Okeke (summer internship advisor)
+Brown University: Allison Chang (summer internship advisor) Spellman College: Simone Cooks (summer internship advisor) STScI	Marc Balcells (summer internship advisor)
+STScI	Matt McMaster (research assistant advisor)
+STScI	James Scott (research assistant advisor)
+
+
+Grants History for Kirk Borne
+
+NOTE: K.Borne’s research was nearly 100% supported by STScI prior to 1995.
+
+	•	Title: Computing the Galaxy Merger Rate
+Program: STScI Director’s Discretionary Research Fund PI: K.Borne
+Award: 2/22/91	$36,100	(K.Borne total)
+
+	•	Title: The Internal Dynamics of Tidally Disturbed Elliptical Galaxies Program: NATO European Collaboration/Travel Support
+PI: John Hoessel (U.Wisconsin)
+Award: 1991	$2,000 (for European collaborator travel)
+
+	•	Title: High-Resolution X-ray Imaging of Colliding Radio-Jet Galaxies Program: NASA/ROSAT Guest Investigator Program
+PI: K.Borne
+Award: 3/1/92	$32,506	(K.Borne total)
+
+	•	Title:  Shock   Morphology   in   Star-Forming   Ring   Galaxies Program: NASA/HST (Hubble Space Telescope)  Guest  Observer  Program PI: K.Borne
+Award: 3/1/94	$35,292	(K.Borne portion)
+
+	•	Title: Snapshot Survey of the Ultraluminous IRAS Galaxy Sample - Part 1 Program: NASA/HST Guest Observer Program
+PI: K.Borne
+Award: 9/1/96	$34,761	(K.Borne total)
+
+	•	Title: Archival Study of Nuclear Morphology in Interactive Galaxies Program: NASA/HST Archival Research Program
+PI: K.Borne
+Award: 4/1/97	$53,301	(K.Borne total)
+
+	•	Title: A NIR Snapshot Survey of Ultraluminous IR Galaxies Program: NASA/HST Guest Observer Program
+PI: K.Borne
+Award: 5/1/98	$108,869  (K.Borne  portion)
+
+	•	Title: Multi-Wavelength Analysis of Ultraluminous Galaxies Program: Raytheon Sabbatical Research Award Program
+PI: K.Borne	(first-ever recipient of the award)
+Award: 2/1/99	(6 months salary support at 50%)
+
+	•	Title: Do Massive Star Clusters Form in Young and Weak Galaxy Interactions? Program: NASA/HST Guest Observer Program
+PI: William Keel (U.Alabama)
+Award: 4/1/99	$13,945	(K.Borne portion)
+
+
+
+	•	Title: Value-Added Educational Tutorials for HST Data Program: NASA/HST Education/Public Outreach
+PI: K.Borne
+Award: 4/1/99	$9,982	(K.Borne total)
+
+	•	Title: Snapshot Survey of Dynamically Close Galaxy Pairs Program: NASA/HST Guest Observer Program
+PI: David Patton (Trent University)
+Award: 10/1/99	$55,985	(K.Borne total)
+
+	•	Title: Multi-band Imaging of a Moderate-Reshift Abell Cluster of Galaxies Program: NASA/HST Leonid Service Observing Program
+PI: K.Borne	(only proposal selected from over 20 submitted)
+Award: 10/21/99	(award was not issued due to program cancellation by NASA)
+
+	•	Title: The Redshift Dependence of the Interaction-Activity Connection among Ultraluminous Starbursts
+Program: NASA/ATP (Astrophysics Theory Program) PI: K.Borne
+Award: 3/1/00	$104,026 (K.Borne portion)
+
+	•	Title: CONstellation Client-server Architecture Testbed (CONCAT) Program: NASA/GSFC Director’s Discretionary Fund
+PI: C.Cheung
+Award: 3/2/00	$74,892 (project total)
+
+	•	Title: AXAF Investigation of the Archetypal ULIRG: Arp 220 Program: NASA/AXAF (Chandra X-ray Observatory)
+PI: Dave Clements (Cardiff)
+Award: 7/5/00	$12,291	(K.Borne portion)
+
+	•	Title: SIM Dynamical Observations of Galaxies Key Project Program: NASA/SIM (Space Interferometry Mission) Science Team PI: Ed Shaya (UMD)
+Award: 11/17/00	$1.5M (for full 9-member team for 10-20 years)
+
+	•	Title: Building the Framework of the National Virtual Observatory (NVO) Program: NSF/ITR
+PI: Alex Szalay (JHU)
+Award: 10/1/01	$329,236 (K.Borne total)
+
+	•	Title: Novel Approaches to Supervised and Unsupervised Data Exploration Program: NASA/AISRP (Applied Information Systems Research Program)
+PI: David Bazell (Eureka Scientific)
+Award: 6/19/02	$95,314	(K.Borne portion)
+
+
+	•	Title: Distributed Data Mining in the NVO (National Virtual Observatory) Program: NASA/ISP (Intelligent Systems Program)
+PI: K.Borne
+Award: 12/1/02	$204,000 (K.Borne total)
+
+	•	Title: Automatic Wildfire Detection Program: NASA/ISP (Intelligent Systems Program) PI: Jerry Miller (NASA)
+Award: 12/1/02	$140,000 (K.Borne portion)
+============================================================================
+***************	ITEMS LISTED BELOW WERE FUNDED  THROUGH GMU	***************
+............................................................................
+
+	•	Title: Building the Framework of the NVO -- continued Program: NSF/ITR
+PI: Alex Szalay (JHU)
+Performance Period, Total Budget: 11/21/03-9/30/06	$51,748 (GMU total)
+
+	•	Contract Title: SSDOO Support -- Year 1
+Program: NASA/SSDOO (Space Science Data Operations Office) Lead Organization: QSS Group, Inc.
+Award: 12/1/03-11/30/04	$181,090 (GMU total)
+
+	•	Title: Snapshot Survey of the Ultraluminous IRAS Galaxy Sample (continued) Program: NASA/HST
+PI:  K.Borne (GMU)
+Performance Period, Total Budget: 7/1/04-12/31/05	$63,889 (GMU total)
+
+	•	Title: Machine Learning and Data Mining for Automatic Detection and Interpretation of Solar Events
+Program: NASA/AISRP PI: Art Poland (GMU)
+Award: 10/1/04	$80,000	(GMU total)
+
+	•	Title: Spitzer Imaging and Spectroscopy of Collisional Ring Galaxies Program: NASA/Spitzer Space Telescope Guest Investigator Program
+PI: Phil Appleton (Caltech)
+Award:  6/7/05	$0 (GMU total)	($36,000 project total)
+
+	•	Contract Title: SSDOO Support -- continued
+Program: NASA/SSDOO (Space Science Data Operations Office) Lead Organization: QSS Group, Inc.
+Performance Period, Total Budget: 12/1/04-11/30/05	$83,806 (GMU total)
+
+	•	Contract Title: LSST Community Science Support Program:	NSF/LSST
+Lead Organization: LSST Corporation
+Performance Period, Total Budget: 10/1/05-9/30/07	$219,830 (GMU total)
+
+
+
+	•	Title: Developing Tools of Automatic Coronal Mass Ejection Detection and Characterization
+Program:	NASA/LWS PI: Jie Zhang (GMU)
+Award: 7/20/07-7/19/10	$254,078 (GMU total)
+
+	•	Title: CUPIDS: Curriculum for an Undergraduate Program In Data Sciences Program:	NSF/CCLI
+PI: John Wallin (GMU)
+Award: 1/01/08-12/31/09	$150,000 (GMU total)
+
+	•	Title: Presence, Personalization, and Persistence: A  New  Model for Doing Science   in a Collaborative Archive Environment
+PI: Tom McGlynn (NASA) Program:	NASA/AISR
+Award:  Jan.2008 - Dec.2008	$35,000 (GMU total)
+
+	•	Title: Distributed and Peer-to-Peer Data Mining for Scalable Analysis of Data   from Virtual Observatories
+PI: Hillol Kargupta (UMBC) Program:	NASA/AISR
+Award: 8/23/07-8/22/10	$75,000 (GMU total)
+
+	•	Title: Virtual Astronomy Observatory (VAO) PI: Ethan Schreier (AUI)
+Program:	NSF
+Award: 2009-2014	K.Borne/GMU: partner institution, funding is TBD.
+
+	•	Title: Next Generation Sky Surveys: Astronomical Opportunities and Computational Challenges
+PI:	Robert Mann (U. Ediburgh) Program:	UK e-Science Institute Award: 2009-2010
+K.Borne/GMU: Funded visits to the UK e-Science Institute for 2009-2010.
+
+	•	Title: CDS 130: Computational and Data Tools for Scientists Co-PIs:	John Wallin and K. Borne (GMU)
+Program:	GMU College of Science Pedagogy Innovation Grant Program Award: 2009-2010	K.Borne:	Course release plus stipend
+
+	•	Title: CDI-Type II: Zooniverse	Conquering the Data Flood with a Transformative Partnership between Citizen Scientists and Machines
+Co-PIs:	John Wallin and K. Borne (GMU) Program:		NSF/CDI
+Award: 1/01/2010-12/31/2013	$706,936	(GMU total)
+
+
+
+	•	Title:	Travel Support for NASA Conference on Intelligent Data  Understanding PI:	K. Borne (GMU)
+Program:	AAS Small Research Grants
+Award: 7/09/2010-12/31/2010	$5100	(GMU total)
+
+	•	Title:	LSSTC Support PI:	K. Borne (GMU)
+Program:	Large Synoptic Survey Telescope Education Program Award: 10/01/2010-05/31/2011	$20,187	(GMU total)
+
+APPROVED  Step 1 Proposals (but corresponding Step 2 proposal was unfunded):    o	Title: MyVOICE: My Virtual Observatory for Informal Collaborative
+Education in Science
+Program:	NSF Informal Science Education
+Step 1 proposal approved (2006), recommended to Step 2 by peer review panel
+
+	•	Title: Ubiquitous CyberAnalytics Expedition for Transformative Exascale Science
+Program:	NSF Expeditions
+Step 1 proposal approved (2007), recommended to Step 2 by peer review panel
+
+	•	Title: HyperSky: A Dynamical Data and Computation Research Framework Program:	NSF Cyber-Enabled Discovery & Innovation
+Step 1 proposal approved (2008), recommended to Step 2 by peer review panel
+
+	•	Title: Hypersky: A Next Generation Dynamical Data System Program:	NSF Cyber-Enabled Discovery & Innovation
+Step 1 proposal approved (2009), recommended to Step 2 by peer review panel
+
+
+Pending Research Proposals (still in review):
+
+	•	Title:	SI2-SSI: A Framework for Time-Critical Response to Astrophysical Events
+Program: NSF Software Infrastructure for Sustained Innovation - Scientific Software Integration
+Funding  requested:	$589,920	(= GMU’s portion requested)
+Period of performance:	10/1/2010-9/30/2013
+
+	•	Title:	BIG HISTORY
+Program:	Bill  and  Melinda  Gates Foundation
+Co-PI’s:	Lou Mayo (ARIES), Kirk Borne (GMU), Tim Eastman (ARIES) Funding    requested:	~$10M	(GMU’s portion requested =  TBD) Period   of   performance:	1/1/2011-12/31/2015
+
+
+
+	•	Title:	RNMS: Statistics and Informatics for Astronomical Surveys Program:	NSF Research Networks in the Mathematical Sciences
+PI:	Jogesh Babu (Penn St.)
+Funding   requested:	~$5M	(GMU’s portion requested = TBD) Period   of   performance:	6/1/2011-5/31/2016
+
+
+
+
+
+
+
+Summary of Grants
+
+Prior to GMU :
+20 grants
+$1,342,500
+Funded at GMU :
+17 grants
+$1,929,664
+GRAND TOTAL :
+37 grants
+$3,272,164
+
+VITAE – Kirk Borne Table of Contents
+Academic, Professional, and Employment Background	1
+Research Introduction	3
+Publications and Talks	4
+Refereed Journal Articles	4
+Refereed Conference Proceedings	6
+Invited Refereed Book Chapters	8
+Peer-Reviewed Public Science Papers	8
+Edited Books	9
+Authorship on non-reviewed research papers	9
+Invited Talks	14
+Scientific, Technical,  & Education Abstracts	19
+Public Outreach Talks	26
+Public Information & Press Releases	27
+Sample Citation Counts	30
+Professional Service	31
+Conferences Organized & Panels Served	33
+GMU Service	35
+Teaching Experience	36
+Students Advised	38
+Grants History	40

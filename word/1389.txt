@@ -1,0 +1,105 @@
+Name: Md Shahwaz Akhter
+Mobile: +91-9310069826
+
+
+SUMMARY:
+
+	•	1.6 + years of Information Technology experience in the field of software development, maintenance and support of web based and standalone applications developed on ASP.NET MVC platform with SQL as the back end database.
+
+	•	Has extensively worked on Workflow and Manufacturing, Transportation with core .NET, C#, Angular JS and ASP.NET MVC as the technological base.
+
+	•	Experience in working with database like MySQL and proficiency in writing the SQL query
+
+	•	Experience in different phase of SDLC including Analysis, implementation and testing during the development of software applications
+
+	•	Experience in application servers like Internet Information Services (IIS).
+
+	•	Ability to learn and adapt quickly to the emerging new technologies and paradigms
+
+
+
+
+EDUCATION QUALIFICATIONS
+Bachelor of Technology in Computer Science from IETE University, The Institution Of Electronics And Telecommunication Engineers, New Delhi,
+India (Scored 62.22%).
+
+
+
+TECHNICAL EXPERIENCE:
+
+LANGUAGES:
+C#,ASP.NET MVC ,SQL
+RDBMS:
+My SQL,MS SQL Server
+WEB & CLIENT-SERVER TECHNOLOGIES:
+ASP.NET ,ASP.NET Web API, Angular JS, ASP.NET
+MVC, JQuery
+APPLICATION/WEB SERVERS:
+Microsoft IIS with .Net Framework, IIS
+OPERATING SYSTEM:
+Windows, IOS
+
+TOOLS:
+SQL Developer, Entity Framework, LINQ
+CONFIGRATION MGMT:
+Web Configuration, Machine Configuration
+TRAINING UNDERGONE:
+.Net Framework
+
+
+
+
+PROFESSIONAL EXPERIENCE:
+
+
+Company Designation Duration
+Technology
+Magnus Softech Pvt. Ltd
+.Net Developer Mar-2016-Till date
+Web & Client/Server Applications
+Software Engineering
+Requirements Gathering, Study, Analysis, Application Design, Testing, Configuration Management
+
+
+
+MAJOR ASSIGNMENTS:
+
+April’2016– Till date
+Project:
+ERP Projects
+Client
+Universities, State Boards ,ICSE/CBSE Schools, International Schools, Institutions
+Environment:
+ASP.Net, ASP.NET MVC, My SQL ,Angular JS
+Role:
+Software Developer
+
+
+Project overview:
+We Developed a ERP Solution by Using the available latest technologies and upgrading the existing solutions on the release of new versions of technologies time to time. Our ERP solution ensuring the smooth running day to day administration of schools, Universities, Hospitals and other business organizations. Today our ERP is taking care of administration, Accounting and inventory through the customization that required by the clients. It is ensuring the implementation of solution that will exactly want.
+
+Responsible for:
+	•	Functional & UI Enhancement
+	•	Involved in Bug Fixes
+	•	UTP
+	•	Analysis of requirements and developments
+	•	Deployments and BAU
+	•	SSRS Reporting
+	•	Provide the Training to Clients about that how to operate the software.
+
+
+
+
+
+
+
+
+Personal Details:
+
+Name: MD SHAHWAZ AKHTER
+
+DOB: 05/09/1994
+
+Sex: Male
+
+Contact Number: +91-9310069826 E-mail:shahwazakhter@gmail.com Language Known: English, Hindi

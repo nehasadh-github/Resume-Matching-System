@@ -1,0 +1,165 @@
+PRAVEEN KUMAR SINGH
+59-B, Kishan Kunj, Part I, Laxmi Nagar, Delhi – 92
+E-mail id:  praveenksingh15@gmail.com			Mobile No. :   +91-9636634431
+							Passport No. : M2505802
+							Expiry Date : 14/10/2024
+
+Career Objectives:- 
+         To find an innovative and challenging position that will help me in career development and growth through employment with your company, also to develop my knowledge.
+
+Educational Qualifications:
+I Have Completed Bachelor of Engineering Degree in Electrical and Electronics Branch From Chhatrapati Shivaji Institute of Technology (C.S.I.T.), Durg under Chhattisgarh Swami Vivekanand Technical University (CSVTU) Bhilai, Durg (C.G) with C.P.I.-7.63
+
+Class
+School/College
+Board/University
+Year Of Passing
+Percentage
+B.E.
+C.S.I.T. Durg (C.G.)
+C.S.V.T.U. Bhilai
+2012
+69.10%
+S.S.C.
+
+Nirmala Convt.  Eng. Med.  Hr. Sec. school korba. (C.G.)
+C.G.B.S.E. Raipur
+2008
+63.2%
+H.S.C.
+
+Nirmala Convt. Eng. Med.  Hr. Sec. school korba. (C.G.)
+C.G.B.S.E. Raipur
+2006
+67.5%
+
+WORKING EXPRIENCE:
+Current Position:  Working as a PROJECT ENGINEER in WIPRO INFOTECH LIMITED at Gurgaon with Client CAIRN INDIA LIMITED (Oil and Gas Plant) at Barmer, Rajasthan with Partnership of ONGC from 13-Jan-2015 to till date.
+For error free service with 99.96% uptime in Operation & Maintenance (Energy & Utility)
+	•	Role & Responsibility:   
+	•	Operation & Maintenance - Commissioning of the Electrical & Telecom Equipment’s of all Well pads.
+	•	Site Acceptance Test (SAT) of Electrical & Telecom Equipment’s.
+	•	Plan and Implemented special designed maintenance strategies and procedures.
+	•	Performed routine maintenance inspections on equipment’s to respond and identify problems on breakdowns in a timely manner.
+	•	Provided solutions and escalated equipment malfunctioning, system faults and network errors – Using root-cause-failure technique, corrective actions, modifications and the replacements and/or new installation.
+	•	Worked with company’s vendors and supervised subcontractor on various maintenance project to ensure proper completion of work on customer’s facilities.
+	•	Utilized different reliability and testing strategies on site to maintain and improve operations/profitability. Managed the equipment storage and mentored the safety measures.
+	•	Permit To Work- Responsibility of doing work according to Permit to work (PTW) system and active participation in Job safety Analysis (JSA) process & review conclusions
+	•	Client Management— directly reporting to the client to meet the entire requisite within stipulated time frame.
+	•	Incident Management— Online Incident Management console, Service Request, Change Request, Work Order management, Tickets logging and records management.
+	•	Operation & Maintenance—O & M of all the UPS, CCTV, Access Control & PAGA.
+	•	Operation & Maintenance- Data Centre and all security system device
+	•	AV/VC/TP- Audio and Video conferencing system with Telepresence System                     on Polycom Devices. (Point to Point VC, Multi connectivity VC, Town hall)  
+	•	Reports—Preparation of the PPM schedules. Incident Report, Change Management Report, Problem Management Report, Release Management Report. Vendor Performance Report & all Report related to ENU.
+
+	•	Vendor Management— Day to day interaction, analyzing the performance of vendor and prepare the reports based on their performances.
+
+
+	•	Worked as a Shift Engineer in EFS Facilities Service (India) Pvt. Ltd.
+      With TATA COMMUNICATION Ltd. (VSNL) at Delhi GK-1 from 1-Jan-2014 to 31st Dec-2014.
+	•	Role & Responsibility:   
+	•	Client Management— Directly reporting to the client to meet the entire requisite within stipulated time frame.
+	•	BMS System—Monitoring of all the critical equipments through Building Management system Software.
+	•	Operation & Maintenance— Worked on 11KV/440V LT Panel, AMF Panel, TRF, DG set’s
+	•	O&M of all the H.T , L.T, Transformer, DG sets, UPS, SMPS, PAC, Split Unit, CCTV, Access Control, FM-200, Fire alarm system, and electrical panels.
+
+Operation & Maintenance in below equipment ratings:
+	•	11 KV substation with 3*2.5 MVA transformers with RTCC Panel
+	•	UPS—2*500 & 7*400 KVA (Emerson , DB Power Electronics).
+	•	DG Sets—3x1250, 1x1500 Kva (Cummins make.)
+	•	FM-200 & fire fighting system.
+	•	Precision AC’s— 35 No’s… (Emerson makes).
+	•	SMPS Power Plant- --2*600Amp (Make Tyco Electronics)
+
+O & M of ACB (Air Circuit Breaker), Transformer, Diesel Generator, UPS, PAC & Battery Bank.
+	•	O & M of Complete Building Management System (BMS).
+	•	Working in 440Volt LT Panel to maintain continue supply.
+	•	Transfer all Load in Transformer to D.G. Set When Power Failure.
+	•	 Monitoring all UPS, PAC, and HVAC System Daily.
+	•	Weekly check all D.G. Set, Batteries Banks, and all ACB in LT Panel. 
+	•	Maintain all record (check book & log sheet) Daily/Weekly to Update BMS.
+
+Working On Honeywell Automation System Equipment: 
+                  
+	•	O & M of Fire Alarm System (XLS-1000 & XLS-50E)
+	•	O & M of CCTV. (DVR’s, PTZ & Doom camera.)
+	•	O & M of Water Leak Detection System.
+	•	O & M of Access Control System.
+	•	O & M of VESDA System.
+	•	O & M of Enterprise Building Integration System.
+
+Automation Skills: -     
+	•	Well Knowledge of PLC (Allen Bradley M.L. 1000 & Siemens-S7 200, S7 300)
+	•	SCADA (Wonder ware- In-touch & R.S. View32)
+	•	Motor Starter- DOL, RDOL & Star Delta Starter
+	•	HMI, DCS, Drives and Motion Control,                   
+	•	Worked as a Electrical Engineer in G.P. KEDIA & CO.  ( Location- Korba, Chhattisgarh ) ‘A’ CLASS Electrical Contractor (From July 2012 To Dec 2013) 
+	•	Installation of Distribution line up to 11KV-  To install a 11KV  line in different rular or urban area where is required (Whole Chhattisgarh), this company is to take work from CSPDCL( Chhattisgarh state power distribution company limited )
+
+COMPUTER PROFICIENCY:
+Basic Packages Known:  MS Office (Word, Excel, and PowerPoint), Internet
+Operating Systems	:  Windows XP, Windows Vista, Windows 7
+
+
+Project Work:
+ Title:	RF Based Substation/feeder Monitoring System- From Aug 2011 To May 2012.
+This project is detects different fault conditions (over voltage, under voltage & over current) of feeder lines & monitors the feeder lines continuously and sends the information about the abnormal conditions to substation through Radio Frequency signal.
+This project is very useful in rural area and those areas which are far from the substations and the communication system is poor or not available.
+
+Training Experiences:
+Organization
+Training Type
+                          Descriptions
+ Duration
+Sofcon India Pvt Ltd.
+Industrial Automation Training
+ PLC(Allen Bradley- M.L. 1000, Siemens-S7 200 & S7 300)
+12 Weeks
+
+
+ SCADA( Wonderware-intouch, R.S.view32)
+
+
+
+Distributed Control System (Hollysys SM 202)
+
+
+
+Panel Designing and AutoCAD, H.M.I.
+
+
+
+Drives and Motion Control, Industrial networking
+
+Godawari Power & Ispat Ltd. Raipur (C.G.)
+Integrated Steel Plant With Captive Power Generation Plant 53MW
+The main section of steel plant is SMS (steel melting shop) in this section steel is melted in very high temp and made in different shape. Before melting of steel, ferro alloy & raw material  is mixed in proper quantity & get heated in Blast furnance 
+4 Weeks
+Chhattisgarh State Power Generation Company Limited (C.S.P.G.C.L.) Korba East (C.G.)
+440MW Thermal Power Plant
+C.S.P.G.C.L. is totally coal based Thermal Power Plant. Here power generated from steam. First water is converted in super heated steam in high pressure & temp. in the boiler, now this steam is goes to turbine to rotates the turbine which is coupled with gen. shaft to generate power. 
+4 Weeks
+
+Extracurricular & Co-curricular Activities:
+	•	Runner-up in TECHNOZION 2009 at NIT Warangal in A.P.
+	•	Worked as VICE PRESIDENT in SAEEE (Student Association Of Elect. & Elex Engg. in C.S.I.T., Durg).
+	•	A proud member of Indian Society for Technical Education. (Inst. Code: MP022, Memb. No.: 0581)
+	•	Successfully coordinated “Inter branch badminton champion ship” as “Event Manager” conducted in C.S.I.T., Durg.
+	•	Successfully coordinated ‘XCCELERATE’ as ‘Event-Manager’ in “LAQSHYA-11” a national level techno-management event conducted in C.S.I.T., Durg.
+	•	Conduct “Inter branch Football champion ship” as “Event Manager” conducted in C.S.I.T., Durg.
+	•	Active participation in Blood Donation.
+	•	Participated in Lakshya 09.
+	•	Active participation in organizing and managing various events and functions at department and college level.
+
+Personal Detail:
+Date of Birth                    : 15th Oct 1989
+           Gender      		     :  Male
+           Father’s Name                :  Shri. Kedar Singh
+           Mother’s Name               :  Smt. Rajmani Devi
+           Permanent Address        : Plot No.-55, ICR Complex, T.P. Nagar, Korba. (C.G.)                
+
+Declaration:
+I hereby declare that the above mentioned information furnished is correct up to my knowledge and belief.
+
+Date:									(Signature)
+Place: 	                                                      PRAVEEN KUMAR SINGH

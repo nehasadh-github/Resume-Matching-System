@@ -1,0 +1,301 @@
+ARTICLES 
+Structural Significance of L Tectonites in the Eastern-Central Laramie Mountains, Wyoming
+
+
+Walter  A. Sullivan
+
+Department of Geology and Geophysics, Department 3006, 1000 East University Avenue, University of Wyoming, Laramie, Wyoming 82071, U.S.A.
+(e-mail: wasulliv@wyo.edu)
+
+
+
+ABSTRACT 
+∼
+
+
+Introduction
+Plastically deformed rocks with a pure or nearly pure penetrative linear fabric indicating a prolate finite strain ellipsoid, or L tectonites (Flinn 1965), occur in metamorphic terranes that range in age from Archean to Tertiary and in transcurrent, con- tractional, and extensional tectonic regimes (e.g., Cloos 1946; Twiss and Moores 1992; Moores and Twiss 1995). Formation of L  tectonites  can  occur in a variety of local geologic settings, such as the hinge zone of a fold (Holst and Fossen 1987; Allard 2003), a deformed dike (Allard 2003; Resor and Snoke 2005), the margin of a forcefully emplaced pluton and/or the surrounding host rocks (Balk 1937; Compton 1955; Brun and Pons 1981), a my- lonitic shear zone (either contractional or exten- sional; e.g., Hossack 1968; Fossen 1993; Fletcher and Bartley 1994; Wells 2001), metamorphic soles
+
+Manuscript received September 22, 2005; accepted March 29,
+2006.
+ 
+associated with emplacement of ophiolitic alloch- thons (Harper et al. 1990; Flinn 1992; Hacker and Mosenfelder 1996), or glacial ice (Hudleston 1983). Extensive domains of constrictional strain are also predicted by numerical simulations of transtension zones (e.g., Dewey et al. 1998; Fossen and Tikoff 1998; Jiang and Williams 1998) and are considered to be a common feature of transtension in the lower crust (Dewey 2002). Furthermore, rocks of a variety of bulk compositions ranging from ultramafic to mafic to felsic and even to pure quartzite can form spectacular L tectonites.
+Ramsay and Graham (1970) pointed out that plane strain is needed to prevent gaps or disconti- nuities in displacement between a straight-sided deformation zone and its wall rocks. L tectonites within high-strain zones, traditionally interpreted as straight-sided, relatively planar features, then present a strain conundrum. Also, L tectonites are
+
+
+[The Journal of Geology, 2006, volume 114, p. 513–531] © 2006 by The University of Chicago. All rights reserved. 0022-1376/2006/11405-0001$15.00
+
+513
+
+
+
+typically found in close spatial association with more common L-S tectonites (strong planar and lin- ear fabric indicating approximate plane strain) and S tectonites (pure planar fabric indicating approx- imate flattening strain), and they commonly occur in structural settings indicative of large compo- nents of simple shear where the adjacent L-S tec- tonites display abundant asymmetric kinematic in- dicators (Hanmer and Passchier 1991). This arrangement presents another strain conundrum because historically, L tectonites have frequently been interpreted to be a result of constrictional pure shear (Flinn 1962, 1994). It is likely that these spa- tial variations between L, L-S, and S tectonites are providing us significant information about the way strain is accommodated in the middle and lower crust. Unfortunately, this strain phenomenon has often been overlooked in the literature (Solar and Valentino 2003). This lack of knowledge of the na- ture and significance of L tectonites exists, in part, because the domains of L tectonites are often of limited extent compared  to adjacent domains of L- S and S tectonites. Additionally, understanding the formation of L tectonites is a difficult problem re- quiring detailed mapping and structural analyses of areas that have commonly undergone a compli- cated polyphase deformation history. Finally, with the exception of a large body of work on transten- sion zones, the existing framework of knowledge concerning the formation of L tectonites is very limited.
+The goal of this article, therefore, is to begin to attack this lack of knowledge concerning the na- ture and significance of L tectonites. To do this, I present a case study of a kilometer-wide domain of
+ the Colorado province, a series of Paleoproterozoic accreted terranes, to the south (fig. 1). This suture zone, known as the Cheyenne belt, is well exposed to the west of the  Laramie  Mountains as a  series  of plastic shear zones in the Medicine Bow and Si- erra Madre Mountains but is intruded by the 1.43- Ga Laramie Anorthosite Complex in the Laramie Mountains (fig. 1; Houston et al. 1979; Karlstrom and Houston 1984; Frost et al. 1993; Scoates and Chamberlain 1995). The timing of deformation as- sociated with the initial accretion of juvenile crust onto the southern margin of  the Wyoming craton, or the Medicine Bow orogeny,  is  well constrained to 1.78–1.74 Ga by crosscutting relationships with numerous intrusive bodies in the Sierra Madre and Medicine Bow Mountains (Duebendorfer and Hous- ton 1987; Premo and Van Schmus 1989).
+∼
+
+L and L 1 S tectonites that have formed in the Pa- leoproterozoic Boy Scout Camp Granodiorite
+ 1714 ± 1.5
+2002).
+ Ma (Krugh 1997; Chamberlain et al.
+
+∼
+
+Geologic Setting
+Plate-Tectonic Setting. The Laramie  Mountains are part of a large basement-involved Laramide up- lift that includes the Front Range of Colorado and the Laramie Mountains of Wyoming. The central Laramie Mountains contain the boundary between the Archean Wyoming province to the north and
+ The Palmer Canyon Block. The 2051 ± 9-Ma (U- Pb, zircon) BSCG lies along the eastern flank of the Laramie Mountains in the amphibolite facies gneissic rocks of the Palmer Canyon block (fig. 1; Snyder et al. 1995; Bauer et al. 1996). The Palmer Canyon block is primarily composed of variably foliated and lineated Archean granite and ortho- gneiss with local inclusions of supracrustal rocks that probably represent the wall rocks of a large Archean batholith (Snyder et al. 1995; Bauer et al. 1996; Patel et al. 1999). Both the BSCG and the Archean banded orthogneiss have been pervasively intruded by a swarm of diabase dikes dated at 2.01 Ga (U-Pb, zircon; Cox et al. 2000). These dikes lo- cally constitute up to 30% of the bedrock and can be used to differentiate Paleoproterozoic and Ar- chean deformation fabrics (Snyder et al. 1995; Al- lard 2003; Resor and Snoke 2005). To the north, the
+
+
+
+
+
+Figure 1. Map of Precambrian rocks in southeastern Wyoming, including the Laramie, Medicine Bow, and Sierra Madre Mountains (modified from Resor and Snoke 2005). The Palmer Canyon block is the large area of Archean gneissic rocks in the central Laramie Mountains. Archean greenstone belts discussed in the text include Johnson Mountain (JM), Brandel Creek (BC), and Elmers Rock (ER). H p Hartville uplift.
+
+
+
+∼
+The high-grade rocks of the Palmer Canyon block have experienced multiple episodes of penetrative deformation in both the Archean and the Paleo- proterozoic. Because this article is concerned with Paleoproterozoic deformation fabrics, the Archean fabric elements are grouped together as D1. This deformational phase is manifested by the devel- opment of compositional banding in the ortho- gneiss and subsequent ptygmatic folding of this banding as well as leucosome-rich layers that de- veloped during migmatization (Snyder et al. 1995; Bauer et al. 1998; Allard 2003; Resor and Snoke 2005). Multiple Paleoproterozoic deformation events have been recognized within the diabase dikes, Archean banded orthogneiss, and Late Ar-
+ zones of F2 folds and locally forms pure L tectonites (Edson 1995; Snyder et al. 1995; Pratt 1999; Tomlin
+2001).
+Just to the west of the BSCG in the Brandel Creek greenstone belt (fig. 1), Allard (2003) recognized only one episode of Paleoproterozoic penetrative fabric development, which he correlated  with the D3 fabrics recognized in the Elmers Rock and John- son  Mountain  greenstone  belts.   Local   domains of L tectonites also occur in the hinge zones of outcrop-scale F3 folds in this area (Allard 2003). Gresham (1994) and Bauer et al. (1996) recognized a strong linear fabric within the BSCG, which they related to F2 folding that Bauer et al. (1996) attrib- uted to Black Hills (Trans-Hudson) deformation based on the orientation of structural features. However, the structural data collected for this ar- ticle indicate that the style of deformation in and around the BSCG (pervasive lineation development and folding of preexisting fabrics with hinges par- allel with the lineation) is similar to that described for D3 deformation related to the Medicine Bow orogeny in both the Brandel Creek and Johnson Mountain greenstone belts by Tomlin (2001) and Allard (2003). As in the Brandel Creek greenstone belt to the west, there is only one pervasive Paleo- proterozoic penetrative deformation fabric within the BSCG and its host rocks. In addition to D2  and  D3 deformation, the eastern side of the Palmer Canyon block has also undergone a late “open-fold event” that has variably reoriented D2 and D3 fabric elements but did not produce a significant pene- trative deformation fabric (Gresham 1994; Edson 1995; Snyder et al. 1995; Bauer et al. 1996; Pratt 1999; Tomlin 2001; Allard 2003). This late-stage folding makes distinguishing tectonic events based on structural orientation difficult.
+
+Rock Units
+Archean Migmatitic Banded Gneiss and Gneissic Granite. This unit forms the  host  rock  of  the  BSCG (fig. 2; Snyder et al. 1995) and is the oldest map unit in the area. A similar unit in the northern Laramie Mountains yielded Rb-Sr whole-rock ages
+
+chean supracrustal rocks exposed in the central Lar-
+ of 2759 ± 152
+ Ma for the granitic gneiss and
+
+amie Mountains (Gresham 1994; Edson 1995; Bauer et al. 1996; Bauer and Zeman 1997; Curtis and Bauer 1999, 2000; Pratt 1999; Tomlin 2001). Two generations of Paleoproterozoic folds (referred to as F2 and F3) have been recognized in the supracrustal rocks of the Elmers Rock and Johnson Mountain greenstone belts (fig. 1; Gresham 1994; Bauer et al. 1996; Bauer and Zeman 1997; Tomlin 2001). A strong linear fabric (L2) is developed within hinge
+ 2776 ± 35 Ma for leucogranite layers (Johnson and Hills 1976). The migmatitic banded gneiss is char- acterized by compositional banding defined by var- iations in biotite content. Where Paleoproterozoic strain is absent, the foliation in this unit is parallel with compositional banding, and the banding has been ptygmatically folded during multiple Archean deformations (D1). Pods of leucogranite, interpreted to be a result of anatexic melting of the banded
+
+Journal of Geology	L T E C T O N I T E S I N W Y O M I N G	517
+
+
+gneiss (Allard 2003), variably cut the banding. The leucogranite pods are composed of about equal parts plagioclase, alkali feldspar, and quartz (Resor and Snoke 2005), whereas the banded gneiss is ton- alitic, with an approximate composition of 60% plagioclase, 30% quartz, 2% alkali feldspar, and 8% biotite (Snyder et al. 1995; Resor and Snoke 2005). Hornblende is a minor phase in this unit. Inter- spersed within the migmatitic banded gneiss are pods of deformed pink to white homogenous gran- ite that range in extent from a few centimeters to hundreds of meters. These granite pods typically have equal parts plagioclase and alkali feldspars, with quartz making up 25%–40% of the rock (Sny- der et al. 1995; Resor and Snoke 2005). Biotite is the primary mafic phase in these granite pods.
+Where the banded gneiss has experienced high Paleoproterozoic strains (as in most of the map area of this study), the banding is generally reoriented into parallelism with the Paleoproterozoic folia- tion, where a Paleoproterozoic foliation exists. Depending on the style of Paleoproterozoic defor- mation, the Archean ptygmatic folds may be com- pletely obliterated, reoriented so that their hinge lines are subparallel with the Paleoproterozoic elongation lineation, or a combination of the above. Within portions of this unit that have experienced strong constrictional strains, quartz and feldspar grains are elongated; however, the compositional banding is still preserved, giving the superficial ap- pearance of an L-S tectonite. In these rocks, pla- gioclase exhibits undulose extinction and local dy- namic recrystallization by subgrain rotation. Alkali feldspar exhibits undulose extinction, subgrain ro- tation dynamic recrystallization, and local replace- ment by myrmekite at grain boundaries and around neoblasts. Quartz has undergone regime 3 dynamic recrystallization (Hirth and Tullis 1992), and re- crystallized quartz grains locally exhibit a semi- polygonal texture, indicating a high rate of recovery of intracrystalline strain.
+Boy Scout Camp Granodiorite. The BSCG was first recognized as a distinct unit by Snyder et al. (1995), who obtained a U-Pb zircon age of 2051 ±
+9 Ma and described the body as a plagioclase- quartz-microcline-hornblende-biotite granodiorite with local monzogranite and tonalite. It has an elongate boomerang-shaped map pattern and con- tains numerous screens and inclusions of the older gneissic rocks (fig. 2). In outcrop, the BSCG is typ- ically reddish gray in color and can readily be dis- tinguished from other granitic rocks in the area by its relatively low quartz content and the fact that hornblende is the primary mafic  mineral.  The BSCG is typically deformed and often forms a spec-
+ 
+tacular L tectonite (fig. 3A). The deformation fabric within L-S tectonites of the BSCG is defined by an alignment of sword-shaped aggregates of feldspar and quartz grains as well as an alignment of biotite and prismatic hornblende. The L tectonites of the BSCG are distinctly homogeneous, with lineations defined by spindle-shaped aggregates of feldspar and quartz variably separated by biotite and horn- blende. In these L tectonites, the 001 cleavage in biotite is subparallel with the elongation direction but randomly oriented within the plane normal to the lineation. Examinations of cut faces and thin sections from oriented samples that were cut par- allel and perpendicular to the three principal finite strain axes show no evidence for multiple defor- mation fabrics within L tectonites of the BSCG. Plagioclase and alkali feldspars within the BSCG both exhibit undulose extinction and subgrain ro- tation dynamic recrystallization, but alkali feld- spars are more recrystallized. Quartz has undergone regime 3 dynamic recrystallization (Hirth and Tul- lis 1992) but does not exhibit the semipolygonal texture observed in portions of the migmatitic banded gneiss. This is probably because the BSCG has significantly less quartz than the banded ortho- gneiss and gneissic granite, causing more strain to be partitioned into each quartz grain, resulting in a higher effective strain rate in quartz within this unit.
+∼
+
+
+
+
+
+
+Figure 2. Geologic map of the area around the Boy Scout Camp Granodiorite (BSCG). The two halves of the map overlap by one-half inch (complete map in one image is available in the online edition or from the Journal of Geology office). The domain of L 1 S tectonites is delineated by the bold line. The domain of L tectonites is delineated by the distribution of field stations for which only a lineation measurement is plotted on the map. Note the folding of diabase dikes in the area around line B-Bt and the folded geometry of the western BSCG contact along the North Laramie River. Inset map delineates shape fabric domains discussed in the text.
+
+
+518
+
+
+
+
+
+
+
+Figure 2 (Continued)
+
+
+
+
+
+
+519
+
+
+
+
+
+
+Figure 3. A, L tectonite of the Boy Scout Camp Granodiorite in float. Note pencil parallel to lineation for scale. B, Minor fold with hinge parallel to the lineation in the Archean banded gneiss. The trend and plunge of the fold hinge line is 218°/54°. Note hand lens for scale. C, Outcrop-scale fold in the Archean banded gneiss. The hinge zone of fold is the light area in the center of the field of view and is a pure L tectonite, while the limbs are L-S tectonites. Lineation is parallel to the fold hinge, and the trend and plunge of the fold hinge is 182°/34°. Note field book for scale. Locations and directions of view are given in figure 2.
+
+
+
+in detail for metamorphosed diabase dikes to the west and northwest of the map area by Allard (2003) and Resor and Snoke (2005).
+Cenozoic Sedimentary Deposits. The eastern side of the Laramie Mountains is onlapped by relatively flat-lying unconsolidated coble conglomerate and sandstone of Miocene age. These deposits obscure much of the BSCG and limit the area that can be mapped to the north, south, and east of the outcrop belt of the BSCG (fig. 2; see also Snyder et al. 1995). While mapping, I grouped these deposits together with local Quaternary stream terrace deposits.
+
+Geologic Structures
+Distribution of L Tectonites. I mapped the area around the domain of L tectonite formation at a scale of 1 : 12,000 during August 2003 and June 2004 (fig. 2). Cenozoic sedimentary deposits bound the map area to the south, east, and northeast (Sny- der et al. 1995). Wherever possible, contacts were walked out. During mapping, the shape of the finite strain ellipsoid was estimated at each field station from the deformation fabric (Flinn 1965). Each field station was assigned a number from 1 to 7, with 1 representing a pure S tectonite or apparent flatten- ing strain, 4 representing an L-S tectonite or ap- parent plane strain, and 7 representing a pure L tectonite or apparent constrictional strain. Because of the extreme mobility of quartz grain boundaries during deformation, I was not able to quantitatively measure strain by measuring the shape of quartz domains in the deformed granitic rocks as has been done elsewhere (e.g., Bailey et al. 1994; Fletcher and Bartley 1994; Bailey and Ester 2003).
+A single contour separating strain symmetry val- ues of 6 or greater from those of 5 or less has been drawn in figure 2. This line roughly outlines the domain of L 1 S tectonites within the  map  area.  The outcrop belt of L k S and pure L tectonites is defined by the distribution of field stations for which only a lineation measurement is plotted on the map (fig. 2). No measurable foliation was ob- served at these localities, despite the presence of a strong linear fabric (cf. fig. 3A). The domain of L tectonites forms an approximately 1-km-wide north-northeast-trending lozenge-shaped zone cen- tered around the North Laramie River in the south- ern part  of the map area (fig. 2). A narrow band of  L tectonites extends northeast from the North Lar- amie River to the northern part of the map  area (fig. 2). The domain of L tectonites is generally sur- rounded by L-S tectonites that include local areas  of S 1 L and L 1 S tectonites. Just south of the North Laramie River, there is a small domain of L-S tec-
+ tonites within the lozenge-shaped L tectonite do- main, and there is a small domain of L tectonites just to the west of the narrow band extending northeast across Spring Creek (fig. 2).
+Orientation of Structural Elements. I have divided shape fabric orientation data from the map area into two structural domains, henceforth referred to as the North Laramie River domain and the Spring Creek domain (fig. 2, inset). These two domains roughly follow the North Laramie River and Spring Creek, respectively. The variation in shape fabric orienta- tion between the two domains is attributed to the late-stage open folding discussed in “Geologic Set- ting.” The Paleoproterozoic diabase dikes and the BSCG can be used to distinguish Paleoproterozoic and Archean deformation fabrics. Within areas that have experienced strong Paleoproterozoic strains, Archean D1 folds and deformation fabrics have been almost completely reoriented and/or overprinted during Paleoproterozoic deformation and folds, and fabric elements in the Archean rocks are parallel with fabric elements in the Paleoproterozoic rocks. The lineation and fold axis orientation data pre- sented below closely match the observations of Gresham (1994) and Bauer et al. (1996), who attrib- uted these fabric elements to regional D2 folding. These workers did not, however, separate the per- vasive northeast-striking, southeast-dipping folia- tion found within L-S tectonites of the BSCG and metamorphosed diabase dikes from foliations mea- sured in the compositionally heterogeneous Ar- chean rocks.
+Elongation lineations within the North Laramie River domain, including the L tectonites, trend south and plunge moderately (fig. 4). Poles to com- positional banding and foliation measured in the Archean migmatitic banded gneiss and gneissic granite lie along a great circle, and the fold axis defined by the great circle lies at 182°/39° (fig. 4A). There is a greater concentration of poles to com- positional banding and foliation from the Archean rocks in the northwest quadrant, and the poles to foliation from the BSCG and metamorphosed dia- base dikes also plot in the northwest quadrant (fig. 4A–4C). Presumably, this concentration of poles to foliation and compositional banding roughly de- fines the axial surface of the regional folds, which would then strike roughly northeast and dip mod- erately to steeply to the southeast. Hinge lines of minor folds in this area are invariably subparallel with the elongation lineation and cluster  around the plot of elongation lineations from all three dif- ferent rock types (fig. 3B, 3C; fig.  4D).  Moreover, the fold axis defined by the poles to compositional banding and foliation from the migmatitic banded
+
+
+
+
+
+
+Figure 4. Shape fabric and fold orientation data from the North Laramie River domain as outlined in figure 2. A, Data from the Archean banded gneiss and gneissic granite, including the fold axis defined by the great-circle best fit to the compositional banding and foliations. B, Data from the Boy Scout Camp Granodiorite. C, Data from the metamorphosed diabase dikes. D, Contours of all the lineation data from A–C; minor fold hinges; and the fold axis from A. Plots are equal-area lower-hemisphere projections.
+
+
+gneiss and gneissic granite plots in the exact center of the contour plot of all of the elongation lineation data from this domain (fig. 4D). These data show that the elongation lineations within this domain, including the L tectonites, have formed parallel with the axes of kilometer-scale folds and local fold hinges. Asymmetric minor and outcrop-scale folds in this area yield east and west vergence. I exam- ined faces perpendicular to the foliation and par- allel with the lineation and faces perpendicular to both foliation and lineation in outcrop, on sawed
+ blocks, and in thin section, and no consistent sense of fabric asymmetry (sense of shear) was observed. Elongation lineations within the Spring Creek domain, including the local L tectonites, trend south-southwest to southwest and plunge moder- ately to steeply (fig. 5). Poles to compositional banding and foliation measured from the Archean migmatitic banded gneiss and  gneissic granite lie in a great circle, and the fold axis defined by the great circle lies at 211°/54° (fig. 5A). There is a greater concentration of poles to compositional
+
+
+
+
+
+
+Figure 5. Shape fabric and fold orientation data from the Spring Creek domain as outlined in figure 2. A, Data from the Archean banded gneiss and gneissic granite, including the fold axis defined by the great-circle best fit to the compositional banding and foliations. B, Data from the Boy Scout Camp Granodiorite. C, Data from the metamor- phosed diabase dikes. D, Contours of all the lineation data from A–C; minor fold hinges; and the fold axis from A. Plots are equal-area lower-hemisphere projections.
+
+
+banding and foliation in Archean rocks in the northwest quadrant, and the poles to foliation from the BSCG and metamorphosed diabase dikes also plot in the northwest quadrant (fig. 5A–5C). As in the North Laramie River domain, this concentra- tion of poles to foliation and compositional banding within the northwest quadrant presumably defines the axial surface of the regional folds, which would then strike to the east-northeast and dip moder- ately to steeply to the southeast. Hinge lines of minor folds in this area are also subparallel with
+ the elongation lineation and cluster around the plot of elongation lineations from all three different rock types (fig. 5D). The fold axis defined by the poles to compositional banding and foliation mea- sured in the migmatitic banded gneiss and gneissic granite plots in the exact center of the contour plot of the combined elongation lineation data from this domain (fig. 5D). These data show that the elon- gation lineations within the Spring Creek domain, including the L tectonites, have formed parallel with the regional fold axis and the local fold hinges.
+
+
+
+
+
+
+Figure 6. A, Cross section through the domain of  L  tectonites  in  and  around  the  Boy  Scout  Camp  Granodiorite along line A-At (fig. 2). B, Cross section through folded diabase dikes along line B-Bt (fig. 2). The orientation of contacts was reconstructed from the map patterns in figure 2, as discussed in the text.
+
+
+∼
+ method show that the eastern contact dips  at  about 45°, whereas the western contact is much more gently dipping (fig. 6A). Also, the western contact is visibly folded along the  north  side  of  the gorge formed by the North Laramie River (figs. 2, 6A), and these folds indicate that the large-scale structure must be west-northwest to northwest vergent. Using these data and the orientations of other contacts along the North Laramie River, I have constructed a cross section through the do- main of L and L k S tectonites within and around the BSCG along line A-At (figs. 2, 6A). In this in- terpretation, the BSCG lies in the core of a west- northwest-vergent kilometer-scale synform. This structure appears  somewhat  vertically  stretched in the vertical cross section because in reality it represents an oblique cut through a fold with an axis that  plunges  40° to  the  south,  as  indicated by the orientation data discussed above. To the  west of the BSCG, some rather spectacular map- scale folds can be reconstructed from the outcrop pattern of deformed diabase dikes cut by a steep gully on the north side of the North Laramie River (fig. 2). I have also constructed a cross section through this structure along line B-Bt, and this exercise indicates  that  these  folded  dikes  define  a map-scale west-northwest-vergent antiform- synform-antiform set, or m-fold (figs. 2, 6B). From
+
+
+
+the map patterns along Spring Creek, it is obvious that the intense folding also took place in the northern part of the map area (fig. 2). Unfortu- nately, the topography in this area is fairly sub- dued, making it difficult to reconstruct the ori- entations of lithologic contacts.
+Of course, it may be that the orientation of con- tacts used to construct these cross sections is, in part, a result of the original shape and orientation  of the intrusive bodies. However, the large strains imposed on the original intrusive bodies (cf. fig. 3A) would have reoriented the original contacts signif- icantly, moving them toward parallelism with the axes of the finite strain ellipsoid (Flinn 1962). Nearly complete reorientation of original intrusive contacts is also indicated by the fact that Paleo- proterozoic deformation has almost completely transposed Archean foliations and compositional banding and reoriented and/or refolded Archean ptygmatic folds such that their hinges are ubiqui- tously subparallel with the Paleoproterozoic elon- gation lineation.
+
+Conceptual Model for L Tectonite Formation
+Structural  Setting  of  L Tectonite Formation.	The data presented above clearly show that the elon- gation lineations within the map area,  including the L tectonites, formed parallel with the axis of local and regional folding. Map-scale folds in this area verge to the west-northwest to northwest, in- dicating top-to-the-northwest transport during northwest-directed contraction. Interestingly, the maximum finite stretching direction in  this  area, as defined by the elongation lineations, is oblique to the regional transport direction and plunges at about 47°, indicating that material was being ex- truded obliquely toward the earth’s surface during contractional deformation, a somewhat unusual and counterintuitive arrangement. Some of the present-day plunge of the elongation lineations within the map area could be accounted for by re- orientation during later folding and faulting, such as the late-stage open folding discussed above. However, the 16° difference in the average plunge of lineations between the North Laramie River and Spring Creek domains indicates that the open fold- ing alone cannot account for anywhere near 45° of rotation of the elongation lineations within  the map area from either the horizontal or the vertical, and other structures that could account for signif- icant local reorientation have not been recognized. Based on their estimates of minimum peak pres- sures  reached  during  Paleoproterozoic  metamor-
+phism, Patel et al. (1999) estimated ∼5 km of dif-
+ ferential exhumation between the northern and southern ends of the Palmer Canyon block caused by a small amount of rotation during uplift along the Laramie Peak shear system. Such a difference   in exhumation can account for 11° of down-to- the-south rotation about an axis trending toward 70°–80°. Based on the peak pressures obtained by Allard (2003) for rocks from the Brandel Creek greenstone belt, the amount of down-to-the-south rotation could be as much as 26°. However, the highly consistent estimates of Paleoproterozoic peak metamorphic temperatures across the Palmer Canyon block (Patel et al. 1999; Allard 2003), cou- pled with the complete absence of magmatism younger than 2.01 Ga, argue in favor of the more conservative estimate of differential exhumation resulting from rotation of the Palmer  Canyon  block. Therefore, I feel that the Paleoproterozoic deformation fabrics in and around the BSCG have probably been rotated no more than 11° down to the south from their original orientation. Correc- tion for such a rotation using a horizontal rotation axis trending 75° would make the average trend and plunge of all of my lineation data 190°/36° and the average orientation of foliation in the Proterozoic rocks 61°/46° southeast. Thus, it seems that the apparent oblique extrusion of material parallel with the axis of folding, as defined by the orientation of elongation lineations, is a real phenomenon rather than a result of later rotation of the deformation fabrics.
+∼
+∼
+∼
+∼
+∼
+∼
+∼
+
+
+
+
+
+
+Figure 7. Block diagram cartoon showing  the  geometry of the Boy Scout Camp Granodiorite (BSCG) as developed  from the map in figure 2, the  fabric  and  fold  orientation data  in figures 4  and 5,  and the cross sections in figure 6.  The  axial surface and elongation direction/fold axis are shown. The pattern used to represent the BSCG is intended       to show the relative shape of the finite strain ellipsoid. The foliation patterns and fold patterns in the Archean gneissic rocks and diabase dikes are generalized and intended to represent the character of deformation in this complex zone.
+
+
+Constrictional strains within fold hinge zones are predicted by various three-dimensional modeling studies of folding. For instance, Gairola (1977) found that local constrictional strains in the outer fold arc complemented by flattening strains in the
+ inner fold arc can develop under bulk plane strain in buckle folds wherein the layering is oriented par- allel with the minimum finite strain axis and oblique to the intermediate finite strain axis. These strain patterns do not provide a good fit for the
+
+
+
+observed strain patterns in and around the folded BSCG. Grujic and Mancktelow (1995) examined folding of layers wherein the  maximum  finite strain axis is parallel with the layering. They found that strong linear fabrics can develop in weak layers around fold hinge zones if there is an extremely large viscosity contrast (1400 : 1) between the lay- ers. This model could help to explain local zones     of L tectonite formation within the granitic units around folded metamorphosed diabase dikes. How- ever, the viscosity contrast between the composi- tionally similar BSCG and Archean migmatitic banded gneiss and gneissic granite is much too small for this model to explain the large domain of  L tectonites centered around the BSCG. Kobberger and Zulauf (1995) examined the folding of layers subjected to pure constrictional strain. They found that pure linear fabrics formed parallel with fold axes throughout the folded layers and that viscosity contrasts large enough to initiate folding also re- sulted in boudinage of the competent layer. There  is no evidence for boudinage of the  BSCG  within the map area, and the limbs of the large-scale syn- form are characterized by L-S tectonites. In spite of these differences, the constrictional-strain folding model seems to provide the best available fit with the pervasive linear fabric oriented parallel with the local fold hinges and fold axes in and around the BSCG. The presence of L-S  tectonites within limbs of the large-scale synform and within limbs of outcrop-scale folds indicates that the bulk defor- mation was constrictional but not purely so. This deviation from pure constriction may also account for the initiation of folding between layers with a relatively low viscosity contrast without boudinage of the slightly more competent BSCG.  Therefore, the pervasive hinge line–parallel elongation linea- tions and the absence of apparent flattening strains in the limbs of the large-scale synform centered around the BSCG indicate that it did not form un- der bulk plane strain conditions. Instead, the per- vasive south-southwest-plunging elongation linea- tions indicate a large component of constrictional strain and extrusion of material from the defor- mation zone parallel with the axis of folding (fig.   7).
+Czeck and Hudleston (2003) have proposed that obliquely plunging elongation lineations may de- velop to accommodate deformation and bulk ver- tical extrusion of material around relatively rigid domains within a large heterogeneously deforming zone. Detailed mapping and structural analyses by Allard (2003) and Resor and Snoke (2005) show that Paleoproterozoic deformation within the Palmer Canyon block is indeed quite heterogeneous at the
+ regional scale, with deformation commonly parti- tioned into discrete zones separated by relatively rigid blocks. These workers have also shown that the style of Paleoproterozoic deformation within the Palmer Canyon block is quite variable and in- cludes distributed folding, localized zones of pure shear, and localized zones of simple shear. This style of deformation is also recorded at the outcrop scale by the extremely heterogeneous deformation within the diabase dikes. Paleoproterozoic strain appears to die out within the limited exposures along the eastern edge of the map area, and the western edge of the map area is defined by an al- most complete lack of Paleoproterozoic deforma- tion fabrics (fig. 2). Thus, it seems likely that the unusual orientation of elongation lineations and fold axes within and around  the  BSCG  developed in response to partitioning of deformation into the area around the BSCG. This means that the domain of L tectonites probably represents some form of localized channel flow between relatively ridged blocks of Archean rocks in the middle crust.
+Plate-Tectonic Setting.	Previous workers have re- ported similar penetrative fabric elements and fab- ric distributions within and around the BSCG (Gresham 1994; Bauer et al. 1996). I agree with their observations in that the penetrative linear fabric parallel with the axis of folding does indeed rep- resent the first and by far the most significant Pa- leoproterozoic deformation event in the area. Bauer et al. (1996) have attributed the earliest Paleopro- terozoic deformation fabric in and around the BSCG, including the domain of L tectonites,  to Black Hills (Trans-Hudson) deformation on the ba- sis of the orientation of linear elements and fold axes and on local overprinting of these features by northeast-striking structures. I do not agree with this assertion. More detailed analyses conducted for this study reveal that the axial surfaces of the Paleoproterozoic folds in and around the BSCG strike northeast to east-northeast and that the south-southwest-plunging elongation  lineations are probably a function of localized channel flow. Moreover, the style of deformation (pervasive lin- eation development and folding of preexisting fab- rics with hinge lines parallel with the lineation) within and around the BSCG is similar to defor- mation observed to the west of the BSCG in the Brandel Creek greenstone belt by Allard (2003) and south of the BSCG in the Elmers Rock greenstone belt by Tomlin (2001). Both Allard (2003) and Tom- lin (2001) have attributed deformation of this style to the Medicine Bow orogeny. Just north of the El- mers Rock greenstone belt, Edson (1995) reported a Paleoproterozoic west-southwest-trending linear
+
+
+
+fabric that is overprinted by later north-northeast- striking structures and related this early linear fab- ric to the Medicine Bow orogeny. Finally, recent geochronologic data indicate that the Black Hills (Trans-Hudson) orogeny either is coeval with or postdates the Medicine Bow orogeny at this lati- tude (Krugh 1997; Dahl et  al.  1999;  Chamberlain et al. 2002). This negates the argument that the earliest Paleoproterozoic deformation in this area must be due to the Black Hills (Trans-Hudson) oro- gen. Therefore, the domain of south-southwest- trending L tectonites in and around the BSCG developed in response to northwest-directed con- traction associated with the 1.78–1.74-Ga Medicine Bow orogeny. This assertion could be tested by iso- topic dating of syntectonic minerals  (cf.  Resor  et al. 1996).
+Incorporation into the Regional Geologic Frame- work. The data presented above show that the domain of L tectonites in and around the BSCG probably developed in response to northwest- directed contraction manifested by folding coupled with extrusion of material out of the deforming zone oblique to orogenic strike at an angle of about 35° from horizontal (fig. 7). Interestingly, elongation lineations attributed to the Medicine Bow orogeny in much of the eastern and northern Palmer  Canyon block trend toward the southwest and plunge moderately to steeply (Gresham 1994; Pratt 1999; Allard 2003; Resor and Snoke 2005). This lin- eation orientation has been widely recorded in dis- crete zones of simple shear–dominated deforma- tion (Resor and Snoke 2005), in discrete zones of pure shear–dominated deformation (Allard 2003; Resor and Snoke 2005), and within areas that have undergone distributed folding (Gresham 1994; Pratt 1999; Allard 2003; this study).
+Within discrete zones of both simple shear–
+dominated and pure shear–dominated deformation, Archean compositional banding and foliations have been completely transposed or overprinted, and the foliation now strikes east-northeast to northeast and dips steeply to both the east and the west (Al- lard 2003; Resor and Snoke 2005). Within domains of distributed folding, the Archean compositional banding and foliations lie in a great circle (Gresham 1994; Pratt 1999; Allard 2003; this study), while poles to foliation within the Proterozoic rocks gen- erally plot in the northwest quadrant.
+These data indicate that the bulk finite strain ellipsoid for deformation related to the Medicine Bow orogeny within the eastern and northern Pal- mer Canyon block is oriented such that its  long  axis trends toward the southwest and plunges mod- erately to steeply, its short axis trends toward the
+ northwest and plunges shallowly to moderately, and its intermediate axis trends toward the north- east and plunges shallowly to moderately.  Thus,  the unusual oblique extrusion of material in and around the BSCG is probably an extreme example  of heterogeneous deformation and localized oblique extrusion of an entire crustal block during con- tractional deformation. Perhaps this bulk defor- mation geometry developed to accommodate strain around the apparent bend in the strike of the Med- icine Bow orogenic belt in this area from east- northeast to northeast, as recorded by both a change in orientation of structural features within the El- mers Rock greenstone belt (Tomlin 2001) and the change in strike of the Laramie Peak shear system (fig. 1; Resor and Snoke 2005). Alternatively, if the Medicine Bow and Black Hills (Trans-Hudson) orogenies are nearly contemporaneous at this lat- itude, this bulk strain geometry may have devel- oped in response to synchronous coupled north- northwest-directed and west-northwest-directed contractional deformation.
+
+Summary
+∼
+These data show that the pervasive elongation lineations in and around the BSCG developed par- allel with the local hinge lines and regional axes of folds with axial surfaces that strike east-northeast and dip moderately to the southeast. Map-scale folds in this area verge toward the northwest. In- corporation of (1) the constraints imposed by the shape fabric orientation data, (2) the constraints im- posed by the orientation of the local and regional
+
+
+
+fold axes, and (3) the constraints developed from map patterns and observations, such as the geometry and vergence of the map-scale folds, shows that the domain of L tectonites in and around the BSCG de- veloped in the hinge zone of a large northwest- vergent synform during bulk constrictional defor- mation. Regional Paleoproterozoic strain within this area is quite heterogeneous (Allard 2003; Resor and Snoke 2005), and strain dies out to the east and west of the BSCG. Also, constraints from metamorphic petrology show that the moderate plunge of linea- tions in this area is not a result of rotation of fabrics after deformation (Patel et al. 1999). The pervasive linear fabric in and around the BSCG must then have developed in response to oblique extrusion of ma- terial parallel with the axis of folding between two relatively rigid crustal  blocks.  Correlation  with other deformation fabrics in the central Laramie Mountains indicates that this structure is probably
+ coeval with northwest-directed contractional defor- mation during the 1.78–1.74-Ga Medicine Bow orog- eny. In conclusion, the domain of L tectonites in and around the BSCG appears to represent folding cou- pled with oblique extrusion of material from the de- forming zone between two relatively rigid blocks during regional contractional deformation.
+
+
+ACKNOWLEDGMENTS 
+Fieldwork for this study was supported by a grant from the J. David Love Foundation. Jerry and Julie Milheim graciously allowed me to stay in their bunkhouse while I was in the field. A. W. Snoke introduced me to the area and provided a helpful informal review of an early version of this manu- script. Two anonymous reviewers provided helpful and insightful comments.
+
+
+
+
+REFERENCES CITED 
+
+Allard, S. T. 2003. Geologic evolution of Archean and Paleoproterozoic rocks in the northern Palmer Canyon block, central Laramie Mountains, Albany County, Wyoming. PhD thesis, University of Wyo- ming, Laramie.
+Bailey, C. M., and Ester, E. L. 2003. General shear de- formation  in  the  Pinalen˜ o  Mountains  metamorphic core complex, Arizona. J. Struct. Geol. 525:1883– 1892.
+Bailey, C. M.; Simpson, C.; and De Paor, D. G. 1994. Volume loss and tectonic flattening strain in granitic mylonites from the Blue Ridge province, central Ap- palachians. J. Struct. Geol. 16:1403–1416.
+Balk, R. 1937. Structural behavior of igneous rocks. Geol.
+Soc. Am. Mem. 5, 177 p.
+Bauer, R. L.; Chamberlain, K. R.; Snoke, A. W.; Frost,
+B. R.; Resor, P. G.; and Gresham, A. D. 1996. Ductile deformation of mid-crustal Archean rocks in the fore- land of Early Proterozoic orogenies, central Laramie Mountains,  Wyoming.  In  Thompson, R. A.; Hudson,
+M. R.; and Pillmore, C. L., eds. Rocky Mountains and beyond: guide book for the 1996 annual meeting of the Geological Society of America. Colo. Geol. Surv. Bauer, R. L.; Gresham, D. A.; Edson, J. D.; Hogan, J. P.; and Gilbert, M. C. 1998. Early Proterozoic ductile re- working of Archean basement in the central Laramie Range: a complex response to Cheyenne belt, Trans- Hudson and central plains orogens. Dordrecht, Kluwer
+Academic.
+Bauer, R. L., and Zeman, T. 1997. Evidence for Paleopro- terozoic deformation and metamorphism of the south- eastern margin of the Archean Wyoming province dur- ing the Cheyenne belt collision and Trans-Hudson orogeny. Geol. Soc. Am. Abstr. Program 29:A-408.
+Brun, J. P., and Pons, J. 1981. Strain patterns of pluton
+ emplacement in a crust undergoing non-coaxial de- formation, Sierra Morena, southern Spain. J. Struct. Geol. 3:219–229.
+Chamberlain, K. R.; Bauer, R. L.; and Frost, B. R. 2002. Dakotan orogen: continuation of Trans-Hudson oro- gen or younger separate suturing of the Wyoming and Superior cratons. Geological Association of Canada– Mineralogical Association of Canada Abstr. 27:18–19. Chamberlain, K. R.; Patel, S. C.; Frost, B. R.; and Snyder,
+G. L. 1993. Thick-skinned deformation of the Archean Wyoming province during Proterozoic arc-continent collision. Geology 21:995–998.
+Cloos, E. 1946. Lineation: a critical review and annotated bibliography. Geol. Soc. Am. Mem. 18, 122 p.
+Compton, R. R. 1955. Trondhjemite batholith near Bid- well Bar, California. Geol. Soc. Am. Bull. 66:9–44.
+Cox, D. M.; Frost, C. D.; and Chamberlain, K. R. 2000. 2.01-Ga Kennedy dike swarm, southeastern Wyo- ming: record of a rifted margin along the southern Wyoming province. Rocky Mt. Geol. 35:7–30.
+Curtis, D. J., and Bauer, R. L. 1999. Variations in nappe- related fabric orientations during Paleoproterozoic ductile reworking of Archean basement, central Lar- amie Mountains, southeastern Wyoming. Geol. Soc. Am. Abstr. Program 31:A-177.
+———. 2000. Progressive variations in nappe-related fold- hinges formed during the Paleoproterozoic Trans- Hudson orogeny, central Laramie Mountains, south- eastern Wyoming. Geol. Soc. Am. Abstr. Program 32: A-7.
+Czeck, D. M, and Hudleston, P. J. 2003. Testing models for obliquely plunging lineations in transpression: a natural example and theoretical discussion. J. Struct. Geol. 25:959–982.
+Dahl, P. S.; Holm, D. K.; Gardner, E. T.; Hubacher, F. A.;
+
+
+
+and Foland, K. A. 1999. New constraints on the timing of Early Proterozoic tectonism in the Black Hills (South Dakota), with implications for the docking of the Wyoming province with Laurentia. Geol. Soc. Am. Bull. 111:1335–1349.
+Dewey, J. F. 2002. Transtension in arcs and orogens. Int.
+Geol. Rev. 44:402–439.
+Dewey, J. F.; Holdsworth, R. E.; and Strachran, R. A. 1998. Transpression and transtension zones. In Holdsworth,
+R. E.; Strachran, R. A.; and Dewey, J. F., eds. Conti- nental transpressional and transtensional tectonics. Geol. Soc. Lond. Spec. Publ. 135:1–14.
+Duebendorfer, E. F., and Houston, R. S. 1987. Proterozoic accretionary tectonics at the southern margin of the Archean Wyoming craton. Geol. Soc. Am. Bull. 98: 554–568.
+Edson, J. D. 1995. Early Proterozoic ductile deformation along the southeastern margin of the Wyoming prov- ince in the central Laramie Range, Wyoming. MS the- sis, University of Missouri, Columbia.
+Fletcher, J. M., and Bartley, J. M. 1994. Constrictional strain in a non-coaxial shear zone: implications for fold and rock fabric development, central Mojave metamorphic core complex, California. J. Struct. Geol. 16:555–570.
+Flinn, D. 1962. On folding during three-dimensional pro- gressive deformation. Geol. Soc. Lond. Q. J. 118:385– 433.
+———. 1965. On the symmetry principle and the defor- mation ellipsoid. Geol. Mag. 102:36–45.
+———. 1992. Comment on “Ophiolitic mylonites in the Lizard complex: ductile extension in the lower oce- anic crust.” Geology 19:954.
+———. 1994. Essay review: kinematic analysis—pure nonsense or simple nonsense? Geol. J. 29:281–284.
+Fossen, H. 1993. Linear fabrics in the Bergsdalen Nappes, southwest Norway: implications for deformation his- tory and fold development. Nor. Geol. Tidsskr. 73:95– 108.
+Fossen, H., and Tikoff, B. 1998. Extended models of trans- pression and transtension, and application to tectonic settings. In Holdsworth, R. E.; Strachran, R. A.; and Dewey, J. F., eds. Continental transpressional and transtensional tectonics. Geol. Soc. Lond. Spec. Publ. 135:15–33.
+Frost, B. R.; Frost, C. D.; Lindsley, D. H.; Scoates, J. S.; and Mitchell, J. N. 1993. The Laramie Anorthosite Complex and Sherman batholith: geology, evolution, and theories of origin. In Snoke, A. W.; Steidtmann,
+J. R.; and Roberts, S. M., eds. Geology of Wyoming. Geol. Surv. Wyo. Mem. 5:118–161.
+Gairola, V. K. 1977. Three-dimensional strains in fold hinge zones. Tectonophysics 41:291–319.
+Gresham, A. 1994. Early Proterozoic multiple deforma- tion in the Archean gneiss of the east-central Laramie Range, Wyoming. MS thesis, University of Missouri, Columbia.
+Grujic, D., and Mancktelow, N. S. 1995. Folds with axes
+ parallel to the extension direction: an experimental study. J. Struct. Geol. 17:279–291.
+Hacker, B. R., and Mosenfelder, J. L. 1996. Metamor- phism and deformation along the emplacement thrust of the Samail ophiolite, Oman. Earth Planet. Sci. Lett. 144:435–451.
+Hanmer, S., and Passchier, C. 1991. Shear-sense indica- tors: a review. Geol. Surv. Can. Pap. 90-17, 72 p.
+Harper, G.  D.;  Grady,  K.;  and  Wakabayashi,  J.  1990. A structural study of a metamorphic sole beneath the Josephine ophiolite, western Klamath terrane, California-Oregon. In Harwood, D. S., and Miller, M. M., eds. Paleozoic and early Mesozoic geographic re- lations: Sierra Nevada, Klamath Mountains and re- lated terranes. Geol. Soc. Am. Spec. Pap. 255:279–396.
+Hirth, G., and Tullis, J. 1992. Dislocation creep regimes in quartz aggregates. J. Struct. Geol. 14:145–160.
+Hoffman, P. F. 1988. United plates of America, the birth of a craton: Early Proterozoic assembly and growth of Laurentia. Annu. Rev. Earth Planet. Sci. 16:543–603. Holst, T. B., and Fossen, H. 1987. Strain distribution in a fold in the West Norwegian Caledonides. J. Struct.
+Geol. 9:915–924.
+Hossack, J. R. 1968. Pebble deformation and thrusting in the Bygdin area (southern Norway). Tectonophysics 5: 315–339.
+Houston, R. S.; Karlstrom, K. E.; Hills, F. A.; and Smith- son, S. B. 1979. The Cheyenne belt: a major Precam- brian crustal boundary in the western United States. Geol. Soc. Am. Abstr. Program 11:446.
+Hudleston, P. J. 1983. Strain patterns in an ice cap and implications for strain variation in shear zones. J. Struct. Geol. 5:455–463.
+Jiang, D., and Williams, P. F. 1998. High-strain zones: a unified model. J. Struct. Geol. 20:1105–1120.
+Johnson, R. C., and Hills, F. A. 1976. Precambrian geo- chronology and geology of the Box Elder Canyon area, northern Laramie Range, Wyoming. Geol. Soc. Am. Bull. 87:809–817.
+Karlstrom, K. E., and Houston, R. S. 1984. The Cheyenne belt: analysis of Proterozoic suture in southeastern Wyoming. Precambrian Res. 25:415–446.
+Kobberger, G., and Zulauf, G. 1995. Experimental folding and boudinage under pure constrictional conditions. J. Struct. Geol. 17:1055–1063.
+Krugh, K. A. 1997. U-Pb thermochronologic constraints on the Early Proterozoic tectonic evolution of the Hartville uplift, southeast Wyoming. MS thesis, Uni- versity of Wyoming, Laramie.
+Moores, E. M., and Twiss, R. J. 1995. Tectonics. New York, W. H. Freeman, 415 p.
+Patel, S. C.; Frost, B. R.; Chamberlain, K. R.; and Snyder,
+G. L. 1999. Proterozoic metamorphism and uplift his- tory of the north-central Laramie Mountains, Wyo- ming, USA. J. Metamorph. Geol. 17:243–258.
+Pratt, M. L. 1999. Structural analysis of deep-seated Pa- leoproterozoic oroclinal bending in the Archean base- ment rocks along the eastern margin of the central
+
+
+
+Laramie Mountains, southeastern Wyoming. MS the- sis, University of Missouri, Columbia.
+Premo, W. R., and Van Schmus, W. R. 1989. Zircon geo- chronology of Precambrian rocks in southeastern Wy- oming and northern Colorado. In Grambling, J. A., and Tewksbury, B. J., eds. Proterozoic geology of the south- ern Rocky Mountains. Geol. Soc. Am. Spec. Pap. 235: 13–32.
+Ramsay, J. G., and Graham, R. H. 1970. Strain variation in shear belts. Can. J. Earth Sci. 7:786–813.
+Resor, P. G.; Chamberlain, K. R.; Frost, C. D.; Snoke,
+A. W.; and Frost, B. R. 1996. Direct dating of defor- mation: U-Pb age of syndeformational sphene growth in the Proterozoic Laramie Peak shear zone. Geology 24:623–626.
+Resor, P. G., and Snoke, A. W. 2005. Laramie Peak shear system, central Laramie Mountains, Wyoming, USA: regeneration of the Archean Wyoming province during Paleoproterozoic accretion. In Bruhn, D., and Burlini, L., eds. High-strain zones: structure and physical prop- erties. Geol. Soc. Lond. Spec. Publ. 245:81–107.
+Scoates, J. S., and Chamberlain, K. R. 1995. Baddeleyite (ZrO2) and zircon (ZrSiO4) from anorthositic rocks of
+ the Laramie Anorthosite Complex, Wyoming: petro- logic consequences and U-Pb ages. Am. Mineral. 80: 1317–1327.
+Snyder, G. L.; Siems, D. F.; Grossman, J. N.; Ludwig,
+K. R.; Frost, B. R.; and Chamberlain, K. R. 1995. Geo- logic map, petrochemistry, and geochronology of the Precambrian rocks of the Fletcher Park–Johnson Mountain area, Albany and Platte Counties, Wyo- ming. U.S. Geol. Surv. Misc. Investig. I-2233.
+Solar, G. S., and Valentino, D. W. 2003. L-tectonites: what do they tell us about deformation history? Geol. Soc. Am. Abstr. Program 35:181.
+Tomlin, K. P. 2001. Multiphase Proterozoic deformation along the southeastern margin of the Archean Wyo- ming province: a structural analysis of the northeast- ern Elmers Rock greenstone belt, central Laramie Mountains, SE Wyoming. MS thesis, University of Missouri, Columbia.
+Twiss, R. J., and Moores, E. M. 1992. Structural geology.
+New York, W. H. Freeman, 532 p.
+Wells, M. L. 2001. Rheological control on the initial ge- ometry of the Raft River detachment fault and shear zone, western United States. Tectonics 20:435–457.

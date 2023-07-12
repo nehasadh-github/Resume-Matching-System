@@ -1,0 +1,97 @@
+Mohana Sekar
+Plot No:2/5, 4th main Road, Thillai Ganga nagar, Nanganallur, Chennai – 600061.
+Mob: +91 9940267094
+Email ID: mohana2592@gmail.com
+Core Competence
+
+⌘ An Engineering Graduate in computer science with preference more than 3 years of diversified experience as a Software Test engineer in Web based Applications using card payment testing which includes ISO 8583 with emphasis on Functional & System Testing.
+
+Wipro Technologies: 9th Dec 2013- 17th Feb 2017
+
+Job Summary:
+
+	•	Working as Project Implementation Specialist on Mastercard Implementation projects.
+
+	•	Possess good knowledge on the Credit/Debit card domain with more visibility on the transaction process from authorization till settlement.
+
+	•	Manual tester in Banking Domain-cards and payment industry with extensive domain experience of 3 Years for MasterCard with an exceptional record of delivering cost effective, high performance technology solutions to meet challenging business demands.
+
+	•	Solid knowledge in Payment Industry/Banking and financial services domain which includes Credit/Debit card domain Cirrus, Maestro & MasterCard implementations. High visibility on the transaction process from authorization till settlement.
+
+	•	Good Experience in card testing which includes the ISO 8583 message details of all types of transactions including Paypass and chip cards.
+
+	•	Preparing test setups and performing Online testing [Connectivity testing, Comfort testing, Release testing, etc.] with the member bank.
+
+	•	Provide testing support (like Offline – Online Testing, End to End Demonstration, Comfort Testing, Release Testing, etc.,) for technical interfaces of financial institutions and their transaction processors and service providers (Banks and MSPs).
+
+PROJECT PROFILE / Work Experience:
+
+Project Name : BAU: - Business As Usual Project Type : Business Consulting Industry	: Banking
+Client	: MasterCard Worldwide
+Customers	: Key and non-key Account Banks across US, Asia Pacific, SAMEA & Europe
+
+
+Testing Tools Used at MasterCard Worldwide:
+MAS, MDFS, MCPS, Mainframe, MPS (Banknet), NICS (MDS), MHE, SAM, GFT-MTF, MCBS,
+Putty, Pre-edit, MasterCard My Provider.
+
+Professional Experience:
+
+S.No
+Designation
+Duration
+Employer
+
+
+1
+
+
+Project Engineer
+
+
+9th Dec 2013- 17th Feb 2017
+
+
+Wipro Technologies
+
+Project Summary - Project Management 9th Dec 2013- 17th Feb 2017.
+
+MasterCard is the payment technology company where worked as an implementation manager for documenting and communicating the detailed business requirements for development projects. Managing the requirements process to ensure that the feature scope maps to the original requirements. In addition, analyzing requested changes and details the change requirements and seeking necessary approvals.Coordinate between customers, Regional Office and the Project Manager. Ensure the communication between the Project managers and the customers take place.
+
+Responsibilities:-
+
+	•	Work with the business resources, Onsite PM and On Site Leads to understand the product vision and direction.
+	•	Understand business requirements to convert them into product/system specifications that fully represent the client requirements and the project requirements.
+	•	Responsible for ICA and Bin Addition/Deletion and Parameters changes in Stand In.
+	•	Implementation of the Interface processor in the Banknet network, where the task include allotting VPN, Endpoint and testing the connectivity of the Interface processor before enrolling to the Production.
+	•	Blocking the cards in Stand In, Monitoring the Transaction logs & blocking whenever necessary.
+	•	Enabling Acquirer Processor level service like (Pin management, ATM balance, Cirrus and Maestro Participation).
+	•	Setting up the card limits to the member bank based of card brand product to the country level.
+	•	Adding the processor and set up multi-currency settlement in NICS ( MDS )
+	•	Installing & Upgrading MIP and IP address in to Mainframe server.
+
+	•	Working with MDES project (Apple Pay Applications).
+	•	Act as a resource throughout the life of a project to the Development Team to clarify the requirements, and manage any requirement changes resulting from development issues or business issues.
+	•	Review and sign off on the plans that will be used for quality and acceptance testing and be available for questions throughout the process.
+
+Special Achievements:
+
+	•	Received appreciations from client and customer for handling many projects in a timely manner.
+
+BE in Computer Science from Agni College of technology.
+
+
+Name	:	Mohana Sekar
+Father’s Name	:	Sekar
+Date of Birth	:	25th September 1992 Linguistic Proficiency		:	English and Tamil
+
+
+Declaration
+
+The information provided above is true to the best of my knowledge and belief.
+
+
+
+
+
+(Mohana Sekar)

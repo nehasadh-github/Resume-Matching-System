@@ -1,0 +1,220 @@
+ARUN KUMAR J
+Current Location	: Qarn Alam – Sultanaet Of  Oman
+Contact			: +968 71017351, +91 9566726411
+E-mail			: jarunkumar7@gmail.com 
+
+
+
+Lead Testing and Commissioning  Engineer – 6 Years
+
+Snapshot: Solutions focused, meticulous and results-oriented B.E (Electronics & Instrumentation Engineering) Professional offering 6 years of successful career distinguished by commended performance and proven results
+
+Proactive decision maker, targeting challenging assignments with a well established and globally reputed organization, bringing the following transferable strengths:
+
+Planning & Analysis
+Testing & Commissioning
+Troubleshooting & Servicing
+Designing & Programing
+Operations & Maintenance
+Relationship Management
+
+	•	
+	•	Extended expertise in understanding the process, understand operations sequences, process parameters required to achieve quality characteristics 
+	•	Recognized as a hands-on, proactive professional who can rapidly identify problems, formulate tactical plans, initiate change and implement effective programs in challenging and diverse environments
+	•	Strong analytical and problem-solving skills, effective written and verbal communication skills, interpersonal skills, organizational and multi-tasking skills 
+
+Competency Matrix_____________________________________________
+
+	•	Testing of:
+	•	Numerical Relays (Alstom, Siemens, Schneider, SEL, & GE)
+	•	Gas Insulated Switch Gears (Siemens, Alstom, & Hyosung)
+	•	Circuit Breakers (Tamco, Siemens, Schneider, L&T, ABB, & GE)
+	•	CT’s, VT’s and Meters
+	•	Operation of Control & Protection Panels (Hyosung, Siemens, Alstom, ABB, & Schneider)
+
+	•	Retrofitting of:
+	•	Distance Protection Relays (ABB REL 670, Alstom P444, P442, GE D60) 
+	•	Generator Protection Relays (Alstom MiCOM P343)
+	•	Differential Protection Relays (Alstom 643, P645, Siprotech 7UT613)
+	•	Motor, Over Current & E/F Protection Relays (Alstom P141, P441 etc.) 
+
+	•	Commissioning of:
+	•	GIS substation 220/132/66/11kV, 132/66/11kV, 66/11kV voltage levels
+	•	Switch gears (SIEMENS & TAMCO) & Transformers (ABB, ALSTOM etc.) 11kV/415V voltage level
+	•	Local Control Panels of SIEMENS, HYO SUNG, ABB & ALSTOM
+	•	Protection Panels of SIEMENS, ABB, SCHNEIDER & ALSTOM
+
+	•	Programming of:
+	•	ALSTOM & SCHNEIDER Numerical Relays by Using MiCOM S1 Studio & Agile software tool
+	•	SIEMENS Numerical Relays by Using DIGSI software tool
+	•	SEL Numerical Relays by Using AcSELerator software tool
+	•	GE Numerical Relays by Using EnerVista software tool
+	•	ABB Numerical Relays by Using PCM600 software tool
+
+	•	Designing & Modifying of:
+	•	 ABB, ALSTOM, SCHNEIDER&SIEMENS Schematic Drawings by using AUTOCAD 2010 & 2007
+
+	•	Troubleshooting & Servicing of:
+	•	Electromechanical Relays – Disk & Armature type (English Electric Make)
+	•	Static Relays (GEC ALSTOM & ABB)
+	•	Numerical Relays (Alstom, Schneider)
+
+	•	Handling activities which involves Firmware & Software up gradation of the relays, refurbishment of old electromechanical relays by new numerical relays. 
+Professional Experience_________________________________________
+
+
+Role
+Organization
+Duration
+Lead T & C Engineer
+Arabian Gulf Power Gain Technical Services LLC, Dubai
+Feb’16 - Present
+Lead T & C Engineer
+Digital Energy Engineering Services Wll,  Qatar
+Apr ‘13 – Feb ‘16
+Field Service Engineer
+M/s Electromek Engineers, New Delhi
+May ‘11 – Apr ‘13
+Maintenance Supervisor
+Armstrong Spinning Mills P Ltd
+May ‘07 – July ‘08
+
+Key Deliverables:
+	•	Vital role in identifying areas of obstruction/breakdowns and implement effective steps to rectify the equipment through application of troubleshooting tools
+	•	Accountable for implementing the corrective action plan improvements projects
+	•	Spearhead, mentor & oversee the performance of team members to ensure efficiency in process operations and meeting of production targets
+	•	Strategize and sustain a dynamic environment that fosters development opportunities and motivates high performance amongst team members
+	•	Plan and formulate predictive & preventive maintenance schedules for various equipment to increase machine uptime & equipment reliability
+	•	Implement maintenance schedules and carrying out periodic checks to ensure performance & maintaining requisite documents for the same 
+	•	Anchoring testing & commissioning activities for ensuring completion of work within time & cost parameters and utilizing resources to maximize output
+
+Noteworthy Credits:
+	•	LOA Permit (Limitation Of Access) holder in EWA – Baharain, ID 717
+	•	Approved by ESB International, Mott Mac Donald, Energo project &Lahmeyer Consultants for all the testing activities up to 220kV voltage level in Kahrama Phase 10, and Phase 11 projects
+	•	Effectively handled more than hundred retrofitting in a year for Power Grid Corporation of India Limited
+	•	Acknowledged with the sponsorship for engineering project from Tamilnadu Science Council in the year 2011   
+
+Credentials___________________________________________________
+
+Professional:
+	•	B.E (Electronics & Instrumentation Engineering) from Bharath Niketan Engineering College in 2011 with 72%
+	•	Diploma (Electrical & Electronics) from Latha Madhavan Polytechnic College in 2007 with 84%
+
+Software Tools Proficiency:
+	•	Alstom MiCOM S1 Studio &Agile
+	•	Siemens DIGSI
+	•	SEL AcSELerator & GE Enervista
+	•	Omicron’s Test Universe, Primary Test Manager &Relay SIM test manager.
+	•	AutoCAD 2007 & 2010
+
+Test Kits Exposure:
+	•	ZFP & CFP
+	•	Omicron CMC 156, 256, 356,
+	•	Omicron CT Analyser and CPC 100
+	•	Ponovo Power Test-PW636i-R
+	•	MEGGER FREJA 300, 306
+	•	1ph Secondary injection kit - Sverker 
+	•	Primary Current Injection unit - ODENA
+	•	3pole & 4 pole multifunction CB Analyser - Scope & EGLE 
+	•	Advanced 3pole & 4 pole multifunction CB Analyser - Omicron Cibano500 
+	•	Advanced VT Analyser kit - Omicron Votano 100
+
+Personal Minutiae_____________________________________________
+
+Date of Birth:			16th January, 1989
+Languages Known:		Tamil English, and Hindi 
+Mailing Address:		10B/A1 Mela Ponnagaram 10th Street, Madurai – 625 016
+Passport No:			J8813710 (Date of Expiry: 03/10/2021)
+GCC Driving License: 		28935617229 Valid Upto: 23-06-2020
+
+
+ANNEXURE --- Project Handled
+
+Title:		SNGP Project – PDO – Qarn Alam, Sultanate of Oman
+Period:		July’16 to Present
+Details:		        Testing and commissioning of distribution Substations of Gas Plant.
+
+Title:		66kV/11kV Sub Stations, EWA – Kingdom of Bahrain
+Period:		Feb’16 to July’16
+Details:		        Retrofitting of 11kV Load Sheeding Under Freq & Under Volt Protection Relays (Alstom alais GE).
+
+Title:		66kV/11kV AL Kheesha South Sub Station, Qatar
+Period:		Jan’15 to Feb 16
+Details:		        Testing & commissioning of 132kV GIS, 11kV Switch gear,  and LV Boards.
+
+Title:		66kV/11kV Doha Festival City Sub Station, Qatar
+Period:		Sep’15 to Jan 16
+Details:		        Testing & commissioning of 66kV GIS, 11kV Switch gear and LV Boards.
+
+Title:		33/11kV Substations -QSTEC, Razlafan - Qatar
+Period:		June’15 to August 15
+Details:	        Testing & commissioning of 33/11kV transformers, 33kV & 11kV Switch gears, Protection Relays and    
+        LV Boards.
+
+Title:		132kV/11kV Umm Salal Central Sub Station, Qatar
+Period:		Feb’15 to June’15
+Details:		Testing & commissioning of 132kV GIS, 11kV Switch gear and LV Boards.
+
+Title:		33kV Sub Station Occidental of Oman Inc, Muhazina-Oman
+Period:		Dec’14 to Jan’15
+Details:		Retrofitting and Testing of CT’s and Feeder Protection Relays
+
+Title:		11kV/415V Sub Station Qatar Petroleum, Qatar
+Period:		Oct’14 to Nov, 14
+Details:		Testing & commissioning of L&T LV Panels and SEL Numeric relays
+
+Title:		11kV/415V Sub Station Lusil City Development, Qatar
+Period:		Sep’14 to Oct 14
+Details:		Testing & commissioning of Schneider Electric make LV panels
+
+Title:		66/11kV Kahrama Sub Station Mesaimeer west, Qatar
+Period:		July’14 to Sep 14
+Details:		Testing & commissioning of Alstom makes Relay panels and Hyosung GIS Local Control Panels & GIS
+
+Title:		33kV PFC Sub Stations Qatar Petroleum, Dukhan, Qatar
+Period:		May’14 to June’ 14
+Details:		Testing & commissioning of Capacitors, Reactors and C&R panels.
+
+Title:		220/66/11kV Kahrama Sub Station Duhail, Doha, Qatar
+Period:		Feb’14 to Apr’14
+Details:		Testing & commissioning of Siemens makes Relay panels and Hyosung GIS Local Control Panels & GIS
+
+Title:		66/11kV Kahrama Sub Station Doha Industrial-F – Doha, Qatar
+Period:		Aug’13 to Jan’14
+Details:			Testing & commissioning of Siemens makes Relay panels and GIS Local Control Panels, 66kV GIS and 11kV Switch Gear
+
+Title:		66/11kV Kahrama Vegetable Market Sub Station, Doha, Qatar
+Period:		Apr’13 to Jul’13
+Details:			Testing & commissioning of Siemens Numerical relays, Components, Circuit Breaker, Switch gears, and Transformers
+
+Title:		Delhi Transco Ltd., Delhi 
+Period:		Feb’13 – Apr’13
+Details:		Erection, testing & commissioning of thirty numbers, of Load Shedding panels in various Delhi Transco Ltd s/s and ten 400kv grid/ NTPC/PPCL
+
+Title:		400kV Power Grid Corporation of India Ltd., Wagora, Kashmir
+Period:		Jan’13 to Feb’14
+Details:		Retrofitting of Six nos. of old ABB-RAJZEE distance protection relays by new MiCOM P444 distance protection relays 
+
+Title:		765kV Power Grid Corporation of India Ltd., Moga, Punjab 
+Period:		Dec’12 to Jan’13
+Details:		Retrofitting five nos. of old CDG31 directional over current protection relays by new MiCOM P143 relays & Retrofitting of three nos. of old ALSTOM-MICROMHO relays by new MiCOM P444 relays.
+
+Title:		400kV Power Grid Corporation of India Ltd., Allahabad, UP
+Period:		Sep’12 to Nov’12
+Details:		Retrofitting of Twelve nos. of old ABB-REL 521 distance protection relays by new MiCOM P444 distance protection relays. And, Test & Commissioned the 150MVAR reactor protection panels (Include MiCOM P643, REF-MiCOMP143, LBB- P143 relays)
+
+Title:		400kV Power Grid Corporation of India Ltd., Kanpur, UP
+Period:		Jul’12 to Aug’12
+Details:		Retrofitting eight nos of old ABB-LZ96 distance protection relays by new MiCOM P444 distance protection relays.
+
+Title:		400kV Power Grid Corporation of India Ltd., Jalandar, Punjab
+Period:		Apr’12 to May’12
+Details:		Retrofitting eleven nos. of old ABB-LZ96 distance protection relays by new MiCOM P444 distance protection relays
+
+Title:		400kV-Power Grid Corporation of India Ltd., Hissar, Haryana
+Period:		Feb’12 to Mar’12
+Details:		Retrofitting of four nos of old distance ABB-RAZFEE relays by new MiCOM P444 distance protection relays and two old backup imp YTGM relay by new MiCOM P442 reactor protection relays
+
+Title:		1867 MW-Panipat Thermal Power Plant, Haryana
+Period:		Jan’12 to Feb’12
+Details:			Testing of electromechanical relays (CDG, VDG, CTNM, CAG, YTGM, ZTO and etc.) in generator units 5& 6 protection panels

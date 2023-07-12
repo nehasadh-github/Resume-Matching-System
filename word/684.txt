@@ -1,0 +1,19 @@
+BIO DATA              
+NAME                                                       :  Arvind Kumar Yadav
+FATHER’S NAME                                    : Late Sh. Balwant Yadav
+PERMANENT                                          : Vill. Badahara Post. Rudrapur-274204
+                                                                  Disst. Deoria (Uttar Pradesh)
+                                                                  Mobile: +91 9873161426
+                                                                  E-mail : arvindpintuyadav@gmail.com
+GENDER                                                 : Male
+MARITAL STATUS                                  : Married 
+DATE OF BIRTH                                     : 10/05/1990
+NATIONALTY                                          : India
+RELIGION                                               : Hindu
+EDUCATIONAL QUALIFICATION          : Intermediate (10+2) UP Board
+TECHNICAL QUALIFICATION               : (Jetking) Computer Hardware& Networking
+LANGUAGE KNOWN                              : Hindi & English
+Declaration
+I hereby declare that the above mentioned statement are true and correct to the best of my knowledge 
+Place : Deoria                                                                            Arvind Kumar Yadav
+Date     :

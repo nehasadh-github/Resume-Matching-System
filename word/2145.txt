@@ -1,0 +1,174 @@
+                                                                                                                                  
+	•	Saranya Sivarajan
+
+
+Mobile:919526979691	              		      Email: saranyasvrjn@gmail.com
+         								   
+Address: Vettukattil (h), Adooparambu, Muvattupuzha P.O
+Career Objective 
+Career Objective 
+
+To develop the potentials in professional career and to grow to a higher level of responsibility where I can make a significant contribution to the success of the organization
+
+Professional Experience
+Professional Experience
+
+Presently working as Systems Engineer in Infosys Technologies Limited. Has overall 2.1 years of  experience in Software development. 
+Education Qualification
+Education Qualification
+
+SI 
+NO
+PERIOD OF STUDY
+COURSE
+INSTITUTION
+BOARD/ UNIVERSITY
+PERCENTAGE
+1
+2008-2012
+B.TECH
+(ECE)
+Viswajyothi College of Engineering & Technology
+Vazhakulam
+M.G University, Kottayam
+72.06
+2
+2006-2008
+HSC (Maths-computer)
+Mar Basil H.S.S 
+Kothamangalam
+Higher Secondary Board,Kerala State
+89.50
+3
+2005-2006
+SSLC
+Sobhana E.M.H.S, Kothamangalam
+Kerala State Board
+90.50
+
+Key Strengths
+Key Strengths
+
+
+	•	Good expertise in PL/SQL Programming
+	•	Has worked on web application development and maintenance using ASP.NET
+	•	Sound knowledge in Java, C, C++ programming
+	•	Effectively handled client interactions and client meetings
+	•	Anchored Knowledge Management, Configuration Control and Defect Prevention activities
+	•	Excellent communication skills and good team player
+	•	Quick learner
+
+Technical Skills 
+Technical Skills 
+
+
+	•	Operating Systems	           : Windows, Unix
+	•	Database Tool		           : Teradata, Oracle , SQL Server 2008 
+	•	IDEs              		 : Microsoft Visual Studio, Eclipse
+
+	•	Technical Exposure              :  C, C++, JAVA, ASP.NET, C#, ADO.NET,CSS3    
+
+
+Projects Worked 
+Projects Worked 
+
+
+Project 1
+Client			: Nordstrom
+Technology		: Teradata, Oracle
+Tools   		: Teradata SQL Assistant, Wherescape RED, Wherescape 3D 
+                                  Toad, CONTROL-M, Microsoft Visio        
+Role			: Team Member
+          Team Size		: 3
+Duration		:  March 2014  Till date
+
+
+Responsibilities 
+	•	Development and maintenance of various database objects.
+	•	Job Scheduling
+	•	Data model designing
+	•	Preparing  job flow diagrams
+	•	Provide support for system testing 
+
+
+Description of the Project
+	•	Nordstrom is an American upscale fashion retailer
+	•	This project involves  the marketing campaigning processes in Nordstrom
+	•	This deals with all the customer related information needed for the marketing purposes.
+
+
+Project 2
+
+Client			: Internal project for the unit
+Technology		: ASP.NET, ADO.NET, CSS, SQL SERVER
+IDEs   		: Microsoft Visual Studio, SQL SEVER 2008 R2 Management 
+                                 Studio       
+Role			: Team Member
+          Team Size		: 2
+Duration		: August 2013 - March 2014
+
+
+
+Responsibilities 
+	•	Maintenance of the existing system
+	•	Adding functionalities based on the requirements
+
+
+Description of the Project
+	•	This project involves the development and enhancement of a web application which is used for the internal purposes of the company.
+    
+Certifications
+Certifications
+
+
+Domain:
+	•	Infosys Store Management
+	•	Infosys Basics of CPG Retailing
+Technical:
+
+
+
+Technical:
+
+
+
+
+	•	Done ASP.NET and J2SE course in G-TECH Computer center.
+
+
+Trainings Undergone
+Trainings Undergone
+
+
+	•	 Basics of Java Programming
+	•	ASP.NET, ADO.NET , CSS
+	•	XML, Jquery in .NET application
+	•	Web application development using PHP and MYSQL
+	•	Introduction to XML and XML Schema
+	•	Introduction to Unix Shell Scripting
+	•	Fundamentals of Oracle
+
+
+
+Personal Information
+Personal Information
+
+Name			                    :  Saranya Sivarajan	
+Fathers name 				:  T R Sivarajan	
+Date of Birth 				:  25th October 1989	
+Nationality			          :   Indian
+Marital status 			          :   Married	
+Permanent Address 			:   Vettukattil (H)
+                                                          Adooparambu,
+                                                          Muvattupuzha P.O
+                                                          Ernakulam
+ Languages Known 		          :   English, Malayalam
+             Email		 		          :   saranyasvrjn@gmail.com
+Declaration
+Declaration
+
+I declare that the particulars given above are true to the best of my knowledge and belief. I will produce all my certificates as and when required.
+
+Place: Muvattupuzha							
+Date: 27/04/2015	                                      	(Saranya Sivarajan)
+

@@ -1,0 +1,95 @@
+	•	Md. Asfak 
+F- 120 khanpur Village New Delhi
+Contact: 9810720595   Email: asfak.anjum@gmail.com
+
+
+Seeking assignments in Network Infrastructure/ System Administration/ Technical Support/ IT Security with a technology driven organisation of repute.
+
+PROFESSIONAL PROFILE
+
+	•	Result-driven professional with over 6 years of qualitative experience in Windows/Networking Systems Administration and Technical Support. 
+	•	Working as Technical Support Engineer with PC Solution Pvt. Ltd. Client side at Engineers India Limited (E.I.L.) R&D Complex   Sec-16 Gurgaon. 
+	•	Insightful knowledge in Desktop/server management, network planning & implementation (LAN, WAN), configuration of Servers, maintenance of hardware, User account administration. 
+	•	Possess knowledge about transparent bridging involving the Ethernet, 802. 11b & 11a Wireless Networking. 
+	•	Knowledge of routing protocols including RIP (1 & 2), IGRP, OSPF, EIGRP.
+	•	An effective communicator with strong team management, analytical and problem-solving skills.
+
+COMPETENCIES OVERVIEW
+
+Network Profile
+	•	Designing, implementing and supporting networks.
+	•	IP addressing and sub netting, Routing concepts.
+	•	V LAN configuration, switching etc.
+	•	Knowledge of Network Cabling.
+	•	Leading the team of technical professionals during the development stages.
+	•	Maintaining, updating the redundant LAN Design for achieving no downtime.
+	•	TCP/ IP Engineering DHCP, I P polices, source based routing. Access lists.
+
+System Administration
+	•	Installing and configuring the Windows 2003/2008/2012 servers for optimal performance.
+	•	User administration, Adding/deleting/creating/modifying user account.
+	•	Maintain & Troubleshoot Desktop PC’s, Network Devices and other equipment (peripherals) that connect to computers.
+	•	Installation & maintenance of Desktop, Thin Client workstations, servers, backup devices and peripherals.
+	•	Installation & Basic Troubleshooting   of Network printers like HP 1022, HP 2800, HP 5550, and HP 9040 MFP
+	•	Mail Client support to users for MS Outlook
+	•	Designing the Backup Strategy for the sites for backups as well as restoration. Ensuring scheduled/unscheduled Backups as per backup plan. 
+	•	Installing and Configure AD DS, DNS, DHCP, IIS.7 etc.
+	•	Creating Reservations for DHCP client machines,
+	•	Managing User Security and Disk Space to file server.
+
+EDP/Facilities Management
+	•	Interacting with various vendors for sourcing products and solutions and for closure of calls of certain machines, which are supported by them. 
+	•	Maintaining an Asset database for the customers and update at regular intervals.
+	•	Tracking asset movements and ensuring software and hardware assets are within control.
+	•	
+	•	Technical Support
+	•	Oversee Helpdesk Management, involving attending to and addressing technical queries put forth by internal customers and ensuring satisfactory resolution of the same.
+	•	Ensuring that the met with the vendors as well as customers.
+
+CAREER HIGHLIGHTS
+
+      Since August 2009 with Pc Solution Pvt. Ltd, New Delhi to Till Now
+
+	•	Handling different teams from different vendors, in the phase of migration, installation.
+	•	Configuration and Administration of Multi-Video-conferencing on MCU devices over MPLS and Internet.
+	•	Provide troubleshooting support to maintain all network systems and monitor them proactively to ensure that production downtime is minimized
+	•	Communicate effectively with all members of the IT support team, projects team, vendors and internal customers from the business processes
+	•	Leading the team of technical professionals during the development stages.
+	•	Maintaining, updating the LAN at site.
+	•	Maintenance  of HP ,Cisco Switch Configurations
+	•	Managing TCP/ IP allocation and ensuring minimal downtime of IT Resources.
+	•	Installing and configuring the Windows 2003/Windows 2008/Windows 2012 servers for optimal performance.
+	•	Configuring Redundancy in the servers for fault tolerance with User Security and Disk Space management to optimize the server utilization.
+
+
+EDUCATIONAL CREDENTIALS
+
+Graduation from B.R.A. Bihar University MUZAFFARPUR.  (2003-2007).
+CERTIFICATIONS 
+
+14 Months Diploma in computer hardware and networking (JCHNP) from Jet king Info train Ltd. South Extension, Delhi.
+HP Certified- HP2-H08 (HP Desktops, Laptops and Workstations).
+
+TECHNICAL PURVIEW 
+	•	
+	•	Familiarity with Transparent Bridging, Switching, Static/Dynamic Routing, Multicasts TCP/IP, RIP (V1 & V2), IGRP, EIGRP, VLANs, ISDN (BRI, PRI), PPP.
+	•	Installation, Configuration and management of Active Directory Service, WDS, DHCP. 
+	•	Familiarity with Cisco, HP, Dell and Aruba Products.
+
+			
+
+Personal Details:
+Name:                                                  	MD. ASFAK
+Date of birth:  			          13th JAN 1986
+Marital status:                                     	Married
+Nationality:                                          	Indian
+Language knowledge:                          	English, Hindi,
+Gender:                                                  Male
+My hobbies:		                                Listening music, Watching Cricket& Surfing internet
+
+
+Declaration:
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Place:  New Delhi                                                                                                (Md. Asfak)

@@ -1,0 +1,58 @@
+ 					Email: sreekanthreddyduggireddy@gmail.com
+SREEKANTH REDDY D						  	    Mob: +919494689689
+PROFESSIONAL SUMMARY
+Technically-savvy electrical design engineer expertized in planning, design, and testing of the electrical components and electromechanical systems. Qualifications include Master’s degree from VIT University, Vellore specialized in Power Electronics and Drives, Experienced in commercial software’s like MATLAB, ANSYS, PSIM etc.
+EXPERIENCE 
+Worked as a Intern (Electrical Engineer) in SCM DATA, Hyderabad   8 Jun 2016 to 22 Dec 2017
+	•	Design of EV (Electric Vehicle) Motor 
+Description: Electric vehicle motors are the most popular motors and upcoming generation is totally related with the EV motors to reduce emissions from vehicles. EV motors are operated through the Power electronic devices and batteries. The AC motors are most popular due to the VFD (Variable frequency drives). AC motors are most efficient and economical for medium and high loads.
+	Design of Induction motors 70kW and 120kW for electric vehicles. Particularly involvement in this project is design and development of electric motor parts based on theoretical calculations done by hand after implemented in excel and numerical solutions implemented in FEA software. Design of new product development and reverse engineering done for electric vehicle applications.
+Roles and Responsibilities:
+Responsible for providing Theoretical and numerical simulations using Ansys Electromagnetic suite and MATLAB. Involved in product and process design of electromechanical systems and vehicle dynamics and pre- requirements of motors.
+Duties include,
+	•	Design of 70kW and 120kW motors based on the vehicle requirement.
+	•	Design of new product development for different electrical parts.
+	•	Research and develop ideas for new product and production systems.
+	•	Deliver product based theoretical calculations.
+	•	Provide design support at all stages of design process to internal members and external clients.
+	•	Improve the design, performance, and optimization of existing products.
+	•	Enhance cost efficiency of products with set quality standards of the company.
+Software’s: ANSYS Electromagnetic suite (RMxPRT, Mawell2D/3D, Simplorer) and MATLAB
+
+Worked as a Summer Intern BHEL, Hyderabad     15 Dec to 29 Dec 2014
+	•	Study of manufacturing of Turbo Generator
+
+
+
+EDUCATIONAL QUALIFICATION
+	•	Masters in Power Electronics & Devices from VIT University, (Vellore, TamilNadu),2016 – 8.22 
+	•	Bachelor of Technology (Electrical & Electronics) from KMM Institute of Technology & Science, (Affiliated to JNTU Ananthapuramu, Andhra Pradesh),2014 – 74.77 %
+	•	Intermediate (MPC) from Sri Chaithanya Jr. College, (Vijayawada, Andhra Pradesh) ,2010- 85.9 %
+	•	SSC from Teja High School, (Vempalli, Andhra Pradesh),2008 - 80.33 %
+
+TECHNICAL SKILLS
+	•	Technical Languages		: MATLAB, PSIM, OrCARD, KEIL & ANSYS Electromagnetic suite
+	•	IT Languages			: C
+
+PUBLICATIONS
+	•	D.Sreekanth reddy, “Control of two-phase induction and synchronous motor drives using direct torque control”, International Journal of Engineering Research online, Volume No.3, Issue No 6, Year 2015.
+	•	D.Sreekanth reddy,Kasina v cs Srikanth,V.Ramaraju,D.Elangovan “Interleaved Dual Switch Isolated DC to DC Converter with Voltage Tripler for Fuel cell Applications”, In IOSR-JEEE e-ISSN: 2278-1676, p-ISSN: 2320-3331, Volume 11, Issue 5 Ver. IV (Sep - Oct 2016), PP 61-69.
+ACADEMIC PROJECTS
+M.Tech Project
+	•	Voltage balancing techniques for modular multilevel converters.    (Aug 2015 to May2016)
+(Supervisor: Prof: Sreejith.S, VIT University, Vellore)
+Mini Projects In M.Tech
+	•	Automatic capacitor voltage balancing for nested neutral point clamped inverter. (Jan2015 to May2015)	(SET Conference, VIT University Supervisor: Prof: Sreejith.S)
+	•	Interleaved dual switch Isolated DC to DC Converter with voltage Tripler for fuel cell applications. (July14toDec2014)	(SET Conference, VIT University Supervisor: Prof: Elangovan.D)
+B.Tech Project 
+	•	DTC Scheme for a four-switch inverter fed induction motor emulating the six-switch inverter operation. (Jan14 to May14)	(Supervisor: Gopinath.T, KMMITS, Tirupathi)
+PERSONAL INFORMATION
+DOB	: June 1, 1993
+Gender                                 	:  Male
+Father Name	:  D.Ramanjul Reddy
+Linguistic 	:  Telugu & English
+Permanent Address            	:  H-No: 1-13, Kurnoothala Agraharam 
+ 	    LakkireddyPalli (M), Kadapa (Dist.), Andhra Pradesh, PINcode: 516257.                                            
+DECLARATION
+I hereby declare that the above written particulars are true and correct to the best of my knowledge and belief. 
+Date:												(Sreekanth Reddy D)

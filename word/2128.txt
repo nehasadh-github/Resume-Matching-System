@@ -1,0 +1,149 @@
+
+NOUFAL.S
+ Noufal Manzil ,MNRA-89 Thiruvallam P.O Thiruvananthapuram
+Pin-695027, Kerala, India Phone: 968 98177501
+	•	ail: noufalnow@gmail.com
+
+
+
+		 	PERSONAL SUMMARY	
+
+A highly innovative and competent software developer with more than 10 years of experience in various specialities in IT industry, including five years of core experience in developing web applications using PHP (PHP, PHP with Zend Framework), SQL (MySQL, PostgreSQL, Oracle), JavaScript ( JQuery, JQuery UI, AJAX), HTML, CSS, XML and SVN. In addition to being a software developer, proven expertise including Software quality control and testing, Application software deployment and support, Web hosting administration, Windows domain administration, Network administration, Hardware-Software installation and troubleshooting. I am sure I could make good contribution to the progress of any ambitious and exciting prestigious company.
+ 	DEVELOPER EXPERTISE	
+
+	•	PHP
+	•	MySQL
+	•	Zend Studio
+	•	Zend Framework
+	•	XML
+	•	SVN
+	•	SQL Server,Oracle
+	•	CSS
+	•	C-panel
+	•	Regular Expressions
+	•	AJAX
+	•	WHM
+	•	HTML
+	•	JSON
+	•	CMS
+	•	JQuery, JQuery UI
+	•	PostgreSQL
+	•	OOP
+ 	EXPERIENCE DETAILS	
+
+	•	Riyam Computer Services (Omzest Group ), Muscat, Sulthanate of Oman
+Period: 2016 March to Present Designation: Web Developer Job Summary
+	•	PHP Migration and Development of various in house applications using PHP, Js, CSS, jQuery, Ajax and HTML, Oracle, Mysql was used as the DB. Projects includes :
+	•	LCIS : Legal Case Information System Migration.
+	•	Admin Portal: Employee information, service management system.
+	•	MFRS: Monthly flash reporting system Migration.
+	•	Customer service modules, Auto Mail Routine Schedulers.
+	•	Customization of various software used for in house operations.
+
+	•	Origami Technologies , Trivandrum, India
+
+Period: 2012 April to 2015 December Designation: Developer
+Job Summary
+	•	Developing ERP applications using PHP, Zend Framework, HTML, CSS, jQuery, Ajax, HTML Editor (CKEditor). PostgreSQL was used as the DB. Projects includes :
+
+	•	JIMS: Project Monitoring and Information System for Jalanidhi- A World Bank funded project.
+	•	STEPS: Short term project monitoring and fund control system for Kerala water authority.
+	•	CMS: The custom CMS built to be used as the backbone for developing the corporate website for HLL Lifecare Ltd.
+	•	ERP: A web-based application for educational institution management.
+	•	Online Customer response and Alert System for Kerala water authority.
+
+	•	Installation administration and maintenance of Windows server 2008 Domain controllers on software development Environment.
+	•	Administration of Web servers hosting both online and offline business websites.
+	•	Administration of Apache and IIS Hosting technologies.
+
+	•	Vilureef Beach and Spa resort, Sun Investments, Male’ Republic of Maldives
+
+Period: 2010 November to 2012 March Designation: IT Administrator
+Job Summery
+
+	•	Installation administration and maintenance of Windows server 2003 Domain controllers and above 60 client machines
+	•	SQL server 2005 infrastructure with Andromeda Hotel management Solution
+	•	Alt-N MDaemon e-mail Server
+	•	Virtualization - VMware Server
+	•	Antlabs WIFI equipments and Zhone Routers
+	•	Symantec backup exec backup solutions
+	•	NOVA network backup solutions, NTBACKUP
+	•	Internal Web customization and archives using PHP and MySQL
+
+	•	Enterprise antivirus solutions
+	•	Dell PowerEdge2800, T110 Class servers,
+	•	Dell Power connect 2724 routers,
+	•	Sonicwall pro 3060 Firewall,
+	•	LAN extenders etc
+
+Duties and responsibilities:
+	•	Responsible for the provision of IT infrastructure services including desktop applications, Local and / or Wide area networks, IT security and telecommunications.
+	•	Working with senior management to propose, agree and deliver IT service to defined Service Level Agreements.
+	•	Responsible for IT hardware, software and maintenance procurement.
+	•	To develop and control the IT security policy.
+	•	To maintain and develop the company website.
+	•	Provide a monthly written report to the General Manager/ Operations Manager on all aspects of the IT Department.
+	•	Direct exchange of information with other departments, such as, Front Office, Maintenance, Security, Finance, Human Resources, Housekeeping and Food & Beverage.
+	•	Conducts such functions as interviewing, orientation, performance appraisal, coaching, counseling, and training to ensure appropriate staffing and productivity, whenever required.
+	•	Monitors and controls the inventories for operating equipment and supplies.
+	•	Monitors and controls the IT Operation in the areas of revenue, expenditure, profitability and performance against budget.
+	•	Check inventories/ stock to ensure adequate supplies.
+	•	Examine information system to determine need for repairs or replacement of machinery, hardware and makes recommendations to management.
+	•	Investigate and resolve complaints with regards information system.
+
+	•		Suntech Computers Pvt Ltd (N-tronix), Male’ Republic of Maldives
+Period: 2006 October to 2010 January Designation: IT Technician
+Job Summery
+	•	Administration of Customer Service and Support (CSS) division.
+	•	Configuration and administration of Windows based Domain environment with LAN, WAN, Wireless LAN equipments.
+	•	Providing technical support to various clients.
+
+	•	PC assembling, troubleshooting, installation of PCs and its accessories and customer training.
+	•	Routine job involves call logging, vulnerability watch, antivirus update, applications and software patches, data backup, system log check, root cause analysis of OS/Application/Network problems and guidance to team, troubleshooting of OS and application related issues from clients.
+	•	Study of various new technologies and product comparison for clients.
+
+	•	Information	Kerala	Mission	(a	flagship	e-governance	project	for	the Government of Kerala, India)
+Period: 2005 May to 2006 September Designation: Technical Assistant
+Job Summery
+Given support to 58 Local Self Government Institutions in Kerala including five Corporations during the implementation of ‘Sthapana’-The application for salary establishment:
+
+	•	Application testing, Development of testing and monitoring tools.
+	•	Provided help desk for Software, Hardware, Domain related queries.
+	•	Analyzed system performance, identified problems and established probable origin before taking appropriate action.
+	•	Logged   errors  for  software,	hardware  and	practice	issues,	referred	on to either programmers or engineers as appropriate.
+	•	Back –up data records and transferred to off-site storage.
+	•	Training of establishment staff.
+	•	Technical support in Mission Headquarters (Windows Server and SQL Server administration, upkeep, maintenance, administration of internal infrastructure).
+
+	•	C-Net Institute of Engineering and Computer Technology
+
+Period: 2004 April to 2005 April Designation: Instructor
+
+	•	As an Instructor in Programming and Hardware and Networking.
+
+		 	EDUCATION AND TRAINING	
+
+
+	•	Three year Diploma in Computer Engineering (2004) (Department of Technical Education Govt .of Kerala)
+	•	Microsoft Certifications
+	•	Certificate of Higher Secondary Education(2001)
+	•	SSLC (1999)
+
+		 	PROFESSIONAL TRAINING	
+
+Microsoft Certification Status: (ID: 7691505)
+
+	•	Microsoft Certified System Administrator (MCSA)
+	•	Systems Administrator: Messaging
+	•	Microsoft Certified Technology Specialist (MCTS)
+	•	Microsoft Certified Professional (MCP)
+	https://mcp.microsoft.com/authenticate/validatemcp.aspx Transcript ID: 917878	Access Code: noufalnow
+
+		 	PERSONAL DETAILS	
+
+Name of Father	: Sainulabdeen M
+Gender, Marital Status	: Male, Married
+Nationality	: Indian
+Date of Birth	: 30/04/1983
+Reference	: Available on request
+Passport No	: M5296861

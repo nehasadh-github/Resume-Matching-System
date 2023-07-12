@@ -1,0 +1,173 @@
+SURESHKUMAR MARIMUTHU CAD/CFD ENGINEER (B.E AERONAUTICAL)
+
+
+Email Id: Sureshmsk2@gmail.com
+Mobile : +918903547271
+
+
+
+
+CAREER OBJECTIVE
+
+Seeking a challenging career in a leading and progressive research organization offering opportunities for utilizing my skills towards the growth of the organization.
+
+
+PROFESSIONAL BACKGROUND (Total Experience – 3Years 2months.)
+
+	•	Analyst (CAE), Ford Technology Services India (Satven-Chennai). March2016-Present (1 year 4months)
+	•	CFD Application Engineer, FlowXplore Pvt Ltd, Coimbatore, India. May2014-March2016 (1 year 10months)
+
+ROLES & RESPONSIBILITY
+
+	•	Prepare the geometry (fluid domain) for the given control model by using CATIA V5.
+	•	CAD repair and Fluid domain extraction in ANSA.
+	•	Design a Die for the given component
+	•	2D & 3D mesh generation for CFD and Structural problems.
+	•	Interact with the clients about the task related queries to resolve the issues.
+	•	Knowledge in solving External aerodynamics, Steady/Un-steady, Single/Multi phase flow, Conjugate Heat transfer, Modeling MRF in ANSYS-Fluent.
+	•	Prepare project reports, proposals, requirements documentation, and presentations. (Handled an end to end execution on projects).
+
+
+CAE TOOL KNOWLEDGE
+
+	•	CAE ANSA
+	•	CATIA V5
+	•	ANSYS – T-GRID
+	•	ANSYS - FLUENT 15
+	•	ANSYS – WORKBENCH
+	•	Star CCM+
+	•	AutoCAD
+	•	Teamcenter-Vismockup (PLM-Software)
+	•	MS-Office (Word, Excel, PowerPoint)
+
+INDUSTRIAL PROJECTS
+	•	Project Title	: HEV-Battery with Exhaust Environment- Thermal study
+Role	: CAE Engineer
+Tools	: CATIA, ANSA, Fluent
+Scope	: To study battery thermal management for the different types of coolant domain designs.
+	•	Project title	: Hybrid Car Cabin-air-environment -Thermal study
+Role	: CAD Engineer
+Tools	: CATIA, ANSA
+Scope	: To build a fluid domain for the given car control model with Battery Compartment and generate the mesh for the entire domain
+
+	•	Project title	: Simulation of Cavitation on Hydrofoil
+Role	: CFD Engineer
+Tools	: ANSA, T-Grid, Fluent
+Scope	:	Cavitation	on	hydrofoils	causing	erosion	over	the	surface	due to separation. This project is intended to reduce the cavitation bubble.
+
+	•	Project Title	: Simulation of Flow and Heat transfer in the CTP container
+Role	: CFD Engineer-trainee,
+Tools	: ANSA, T-Grid, Fluent
+Scope	: CTP container consists of electronic panels. We need to reduce the temperature of the panels which emits heat by passing the cold air via A/C duct.
+	•	Project title	: External Aerodynamics study over a car
+Role	: CFD Engineer
+Tools	: ANSA, T-Grid, Fluent
+Scope	: To carry out external flow over a car to find Co-efficient of drag (CD), Flow behavior and pressure distribution on and around the vehicle.
+
+	•	Project title	: Die design of Battery components for blow moulding
+Role	: CAD Engineer
+Tools	: CATIA V5, ANSA
+Scope	: Model the die design as per the client requirement
+
+ACADEMIC PROJECT
+Title	: Power Generation by using Blade-tip Magnetization of Jet Engine
+
+Description: This project was dealing with the generation of electric current using magnetic material at the tip of compressor blades and fan blades, coil in the engine cowling and walls of compressor. By this project the size of engine can be get reduced. The generator weight will be reduced in turn increase the efficiency of flight. This reduction in size will  reduce the drag produced by profile of engine. Obtained power was quite equals to present generator assembly.
+
+ACADEMIC PROFILE
+
+Name of the course
+Discipline/ Specialization
+Univ./board of the examination
+Name of the institution
+Year of passing
+
+Percentage
+
+B.E
+
+Aeronautical Engineering
+Anna university Chennai
+Hindusthan College Engineering and Technology, Coimbatore, India.
+
+2014
+CGPA : 7
+70%
+
+HSC
+Computer Science + Maths Stream
+
+State Board.
+Dalmia Hr.sec school, Dalmiapuram,
+Trichy, India.
+
+2010
+
+87.58%
+
+Matric
+
+NA
+
+State Board.
+Dalmia Hr.sec school, Dalmiapuram,
+Trichy, India.
+
+2008
+
+93%
+
+
+
+
+CERTIFICATIONS
+	•	Got FUNTIONAL EXCELLANCE reward from Ford technology services india
+	•	Undergone a course on CATIA V5 Premier by EDS Technologies Pvt Ltd.
+	•	Done a course on AUTO-CAD by Autodesk.
+	•	Participated paper presentation in ICETET’2014 organized by NEHRU INSTITUTE OF ENGINEERING & TECHNOLOGY, Coimbatore.
+	•	Undergone Business English Course(Executive Intermediate) at British Council
+
+
+
+
+
+INDUSTRIAL EXPOSURE
+	•	Attended Industrial visit in Cochin Naval Base.
+	•	Attended Industrial visit in TANEJA Aerospace Aviation limited, Hosur.
+
+PERSONAL PROFILE
+
+	•	Name	: SURESHKUMAR M
+	•	Father’s Name	:MARIMUTHU R
+	•	Mother’s Name	:RANI M
+	•	Date of birth	: 30.03.1993
+	•	Marital status	: Single
+	•	Languages Known	: Tamil, English and Telugu
+	•	Nationality	: Indian
+	•	Passport Number	: L9835028
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DECLARATION
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+
+
+
+
+
+SURESHKUMAR M
+Place : Chennai, India. Date:

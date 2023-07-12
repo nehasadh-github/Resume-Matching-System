@@ -1,0 +1,79 @@
+Ian  D.  Allen
+
+
+22 Oak Street Ottawa, Ontario, Canada. K1R 6S9
+ Telephone: +1 (613) 235-6216
+E-Mail: idallen@idallen.ca
+WWW: www.idallen.com
+
+
+Summary
+	•	Professor of Information and Communications Technologies − 1996 to present Preparation, delivery, and assessment of community college Computer Science courses.
+	•	UNIX/GNU/Linux® Computer Systems Administrator − 1980 to present
+Operating system set-up, networking, security, programming, and friendly support.
+
+Education and Certification
+	•	Linux Professional Institute LPIC-1 2009 (code ve2pwfp22v at www.lpi.org)
+	•	Master of Mathematics (MMath), Computer Science, University of Waterloo 1985. Emphasis on software engineering, debugging, and human/computer interaction.
+	•	Honours Bachelor of Arts (Dean’s List), Psychology, University of Waterloo, 1980. Specialized in counselling and social psychology.
+
+Selected Work Experience
+Community College Professor (1996 to present)	teaching.idallen.com
+Developing curriculum and teaching students at the Algonquin College of Applied Arts and Technology. Current topics at teaching.idallen.com include: introduction to UNIX/GNU/Linux system administration, UNIX/GNU/Linux script programming. Prior topics: UNIX/GNU/Linux for programmers, Web HTML and CSS, Web CGI programming, TCP/IP network programming, computer architecture, intermediate C programming (compiler writing), Windows 9x, Visual Basic, IBM OS/390 MVS JCL.
+
+Network Technical Director (3 years, to 1996)	www.ncf.ca
+Responsible for technical management, design, and programming at the 60,000-member National Capital FreeNet (NCF), Canada’s largest community network. Supervised NCF’s adoption of WWW and PPP technology under UNIX (SunOS/Solaris).
+
+Research Systems Manager (5 years, to 1993)	www.cgl.uwaterloo.ca
+Responsible for a network of 50 UNIX/Ultrix computers in the Computer Graphics Laboratory at the University of Waterloo. Configured, upgraded, and modified most areas of the UNIX/Ultrix system environment to support academic research. Some real-time message-passing programming experience under the NRC Harmony operating system.
+
+Head of Math User Services (3 years, to 1988)	www.math.uwaterloo.ca
+Supervised a staff of seven student consultants in the Mathematics Faculty Computing Facility at the University of Waterloo. Solved faculty, staff, and student problems on computers ranging from Honeywell DPS-8 main-frames to networked UNIX/BSD/Ultrix super-mini’s and Sun workstations.
+
+-2-	Resume: Ian D. Allen
+
+Academic Standings and Scholarships
+	•	MMath: Master of Mathematics, Computer Science, University of Waterloo, 1985.
+	•	BA: Honours Bachelor of Arts, Psychology, University of Waterloo, 1980.
+	•	Canadian Natural Sciences and Engineering Research Council (NSERC) Graduate Scholarship 1981.
+	•	Province of Ontario Graduate Scholarship (OGS) 1982.
+	•	Faculty of Arts Dean’s List, University of Waterloo, 1980.
+	•	Faculty of Arts Scholarships, University of Waterloo, 1974 − 1978.
+Operating Systems and Languages
+Current Unix/Linux Experience
+	•	Decades of experience (1976 to present) with several variants of UNIX/GNU/Linux operating systems on various hardware platforms and virtually under VMware. This includes:
+
+	•	Unix/Linux systems administration
+	•	X-Windows installation (xdm, xrdb, etc.)
+	•	 system and network security; ssh, NAT, firewalls
+	•	network and communications programming, iptables
+
+	•	Protocols: HTTP, NNTP, SMTP, POP3, etc. − Unix/Linux kernel configuration and installation
+
+	•	Samba, Apache, News, sendmail, postfix, DNS/bind, Shorewall, troff/groff, etc.
+	•	 Perl, PHP, CGI, HTML, CSS, C programming, rsync, bash/sh/csh/awk/sed scripting, etc.
+
+
+Non-Unix Experience
+	•	Some Windows 9x, XP networking and customization
+	•	Windows Cygwin UNIX toolkit; Win4Lin; VMware
+	•	Minor Apple OSX (Darwin BSD UNIX) installation and customization
+	•	My past experience, mostly academic, also includes the following:
+
+	•	assembler: PDP-11, GCOS, IBM-PC
+	•	real-time O/S: RT-11, Harmony [NRC]
+	•	IBM mainframe: VM/CMS, TSO, JES3, JCL
+	•	 Macintosh System 6/7 (MPW C, Hypercard)
+	•	legacy languages: COBOL, FORTRAN, PL-1, Pascal, ALGOL, SNOBOL, MODULA2, etc.
+
+
+Miscellaneous
+	•	Family: Married to retired midwife Jan Teevan; step-father to three young adults aged 33 − 38.
+	•	Languages: English, Conversational French, very little German and even less Esperanto.
+	•	Leadership training: Context Associated Excellence Series, Mastery graduate.
+	•	Theatre: amateur actor, improviser, director, writer, producer.
+	•	Arts: Contact improv dance, calligraphic lettering, posters, layout, digital photography.
+	•	Electronics Hobbyist, X10 (BSR) home automation.
+	•	Music: Piano, guitar, flute, recorder.
+Links to this Document
+	•	www.idallen.com/resume/
